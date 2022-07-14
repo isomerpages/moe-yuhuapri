@@ -2,4 +2,5 @@ collections:
   general-information:
     output: true
     order:
+      - Usage of Photographs and Videos.md
       - Useful Links.md
