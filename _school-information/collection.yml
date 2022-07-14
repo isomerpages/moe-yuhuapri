@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Parent's Support Group.md
       - Principal's Message.md
       - Mission, Vision & Values.md
       - School History.md
@@ -10,9 +9,10 @@ collections:
       - School Crest.md
       - School Rules.md
       - House System.md
+      - Staff/.keep
       - Staff/Management Team.md
       - Staff/2022 Form Teachers.md
       - Staff/School Administration Team.md
       - Staff/Support Staff.md
-      - Staff/.keep
       - School Advisory Committee.md
+      - Parent's Support Group.md
