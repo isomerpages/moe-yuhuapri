@@ -94,4 +94,40 @@ For **Higher Mother Tongue**, the grades and mark range are as follows:
 | 30 – 49 | G4 | Has an elementary grasp of the subject at the foundation level |
 | Below 30 | GU | Has not met the requirements at the foundation level for the minimum grade |
 
+The grade descriptions for other subjects for P3 to P6 are listed below:
 
+| Subject | Grade A | Grade B | Grade C |
+|:---:|:---:|:---:|:---:|
+| Art and Craft (AC) | Is able to respond very well to artwork and express ideas very confidently.<br><br>Is able to create good artwork independently.<br>  | Is able to respond well to artwork and express ideas confidently.<br><br>Is able to create good artwork with some guidance. | Is able to respond fairly well to artwork and express ideas with some encouragement.<br><br>Is able to create good artwork with close guidance. |
+| Music (MU) | Is able to perform and create music independently.<br><br>Is able to respond very well to music and confidently show appreciation of music.<br>Has very good understanding of musical elements and concepts.<br>  | Is able to perform and create music with some guidance.<br><br>Is able to respond well to music and show appreciation of music.<br>Has good understanding of musical elements and concepts.<br>  | Is able to perform and create music with close guidance.<br><br>Is able to respond fairly well to music and show appreciation of music with some encouragement.<br>Has put in effort to understand musical elements and concepts.<br>  |
+| Physical Education (PE) | Is physically very fit and good in a variety of PE activities; participates actively and enjoys team activities. | Is physically fit and competent in PE activities; participates and enjoys team activities. | Is able to cope with PE activities; participates with some interest. |
+| Social Studies (SS) | Has very good knowledge and skills in the subject and consistently demonstrates positive attitudes towards self, community and nation. | Has adequate knowledge and skills in the subject and often demonstrates positive attitudes towards self, community and nation. | Has some knowledge and skills in the subject and sometimes demonstrates positive attitudes towards self, community and nation. |
+
+#### Rules and Regulations for Examinations
+
+The following rules and regulations will apply for all school-based examinations (including all holistic assessments) conducted for pupils.
+
+##### Personal Grooming
+
+1.  Candidates must be properly attired in school uniform during the conduct of the examination.
+
+##### Stationery and Equipment
+
+2.  Bring all **necessary materials** for the examinations which include pens, 2B pencils, erasers, rulers, sharpeners and mathematical instruments required for the examination. No borrowing of stationery is allowed during the examination.
+3.  Only **approved** dictionaries and calculators (P5 & P6 only) can be brought into the examination rooms specified for the respective papers. The approved dictionary or calculator must bear the school stamp.
+4.  Mobile phones and other electronic devices that are capable of **storing and displaying visual/audio information** are strictly **not** allowed in the examination room.
+
+##### Late-coming
+
+5.  Latecomers will report to the **General Office** before they are taken to the examination rooms. **No extra time** will be given. Special consideration for pupils will be considered on a case-by-case basis.
+
+##### Cheating
+
+6.  Any form of verbal or non-verbal communication with other candidates in the examination rooms will be deemed as cheating. Candidates should not bring in unauthorised materials or gadgets into the rooms. If they are found to have them in the examination rooms, it will be considered as an offence.
+7.  Cheating is a serious offence and candidates will be **penalised** if they are caught cheating or attempting to cheat.
+
+##### Absenteeism
+
+8.  **Only Medical Certificates** are accepted for absence from examination.
+9.  There will be **no** make-up examination for absentees for all school-based examinations.
+10.  Marks will **not** be awarded for absentees without valid documents.
