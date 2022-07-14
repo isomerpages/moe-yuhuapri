@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Staff/House System.md
       - Staff/Management Team.md
       - Staff/2022 Form Teachers.md
       - Staff/School Administration Team.md
