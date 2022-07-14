@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/yuhuagifupdated.gif
       key_highlights:
-        - title: Principal's Message
+        - title: School's Achievements
           description: ""
           url: /highlights/principals-message
         - title: E-Open House 2022
@@ -25,6 +25,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
