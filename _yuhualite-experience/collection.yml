@@ -2,6 +2,7 @@ collections:
   yuhualite-experience:
     output: true
     order:
+      - Aesthetics/Singapore Youth Festival (SYF) Songwriting Achievements.md
       - Aesthetics/.keep
       - Physical & Health Education.md
       - Social Studies.md
