@@ -2,6 +2,7 @@ collections:
   yuhualite-experience:
     output: true
     order:
+      - Co Curricular Activities/Choir.md
       - Co Curricular Activities/Cub Scouts.md
       - Co Curricular Activities/Indian Dance.md
       - Co Curricular Activities/Infocomm Technology (Media Production).md
