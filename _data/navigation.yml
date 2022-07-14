@@ -2,5 +2,31 @@ logo: /images/isomer-logo.svg
 links:
   - title: School Information
     url: /school-information/principals-message
-  - title: Example Page
-    url: /example-page/
+    sublinks:
+      - title: Mission, Vision, Values
+        url: /school-information/mission-vision-values
+      - title: School History
+        url: /school-information/school-history
+      - title: School Song
+        url: /school-information/school-song
+      - title: School Crest
+        url: /school-information/school-crest
+      - title: School Rules
+        url: /school-information/school-rules
+      - title: House System
+        url: /school-information/house-system
+      - title: Staff
+        url: /school-information/staff
+      - title: School Advisory Committee
+        url: /school-information/school-advisory-committee
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Contact
+    url: /contact
