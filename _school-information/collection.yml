@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Staff/School Administration Team.md
       - Staff/Support Staff.md
       - Staff/.keep
       - School Advisory Committee.md
