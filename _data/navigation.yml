@@ -19,14 +19,70 @@ links:
         url: /school-information/staff
       - title: School Advisory Committee
         url: /school-information/school-advisory-committee
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: General Information
+    url: /general-information/school-operating-hours
+    sublinks:
+      - title: School Operating Hours
+        url: /general-information/school-operating-hours
+      - title: School Services
+        url: /general-information/school-services
+      - title: Student Learning Space (SLS)
+        url: /general-information/student-learning-space
+      - title: Calendar of Events
+        url: /general-information/calendar-of-events
+      - title: Road Safety
+        url: /general-information/road-safety
+      - title: Information on Assessment
+        url: /general-information/information-on-assessment
+      - title: Canteen Food List
+        url: /general-information/canteen-food-list
+      - title: GPA Insurance Policy(Students)
+        url: /general-information/GPA-Insurance-policy
+      - title: Usage of Photographs & Videoss
+        url: /general-information/usage-of-photographs-and-videos
+      - title: Useful Links
+        url: /general-information/useful-links
+  - title: Yuhualite Experience
+    url: /Yuhualite-Experience/english-language
+    sublinks:
+      - title: English Langauge
+        url: /Yuhualite-Experience/english-language
+      - title: Mathematics
+        url: /Yuhualite-Experience/mathematics
+      - title: Science
+        url: /Yuhualite-Experience/Science
+      - title: Mother Tongue
+        url: /Yuhualite-Experience/mother-tongue
+      - title: InfoComm Technology
+        url: /Yuhualite-Experience/infocomm-technology
+      - title: Cyber Wellness
+        url: /Yuhualite-Experience/cyber-wellness
+      - title: "Programme for Active Learning "
+        url: /Yuhualite-Experience/Programme-for-active-learning
+      - title: Aesthetics
+        url: /Yuhualite-Experience/aesthetic
+      - title: Physical & Health Education
+        url: /Yuhualite-Experience/physical-and-health-education
+      - title: Social Studies
+        url: /Yuhualite-Experience/social-studies
+      - title: "Character Education "
+        url: /Yuhualite-Experience/character-education
+      - title: Co-Curricular Activities
+        url: /Yuhualite-Experience/co-curricular-activities
+      - title: Pupil Leadership Development
+        url: /Yuhualite-Experience/pupil-leadership-development
+  - title: Parents Engagement Information
+    url: /parents-engagement-information/overviewoverview
+    sublinks:
+      - title: Overview of Parents Engagement
+        url: /parents-engagement-information/overview
+      - title: Direct School Admission 2022
+        url: /parents-engagement-information/Direct-school-admission-2022
+      - title: Sec School Open House 2022
+        url: /parents-engagement-information/sec-school-open-house-2022
+      - title: Useful Links for Parents
+        url: /parents-engagement-information/useful-links-for-parents
+      - title: Forms and Letters
+        url: /parents-engagement-information/forms-and-letters
   - title: Contact
     url: /contact
