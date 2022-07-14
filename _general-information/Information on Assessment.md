@@ -36,5 +36,62 @@ Information about the assessments and weightage are as shown in the table below:
 |:---:|:---:|:---:|:---:|:---:|
 | P6 | 10% | 20% | 70% | NIL |
 
+*RT – Review Test, MYE – Mid-Year Examination, EYE – End of Year Examination, PRELIM – Preliminary Examination*
+
+**(For P3 and P4)**
+
+The mark range and description for each achievement band in English Language, Mother Tongue, Mathematics and Science are given below.
+
+| Mark Range | Achievement Band | Brief Description |
+|:---:|:---:|:---:|
+| 85 and above | 1 | Is very good in the subject |
+| 70 – 84 | 2 | Is good in the subject |
+| 50 – 69 | 3 | Has adequate grasp of the subject |
+| Below 50 | 4 | Has not met the minimum requirements for the subject |
+
+**(For P5)**
+
+In line with the PSLE new scoring system, students with similar scores will be grouped into the same Achievement Level (AL). There will be 8 ALs and each AL will span a range of raw marks, as given in the table below. Starting from the 2020 P5 cohort, schools will present school-based examination results of P5 and P6 students in ALs. This will help familiarise students and parents with the new AL scoring system.
+
+| Achievement Level (AL) | Mark range |
+|:---:|:---:|
+| 1 | ≥ 90 |
+| 2 | 85 – 89 |
+| 3 | 80 – 84 |
+| 4 | 75 – 79 |
+| 5 | 65 – 74 |
+| 6 | 45 – 64 |
+| 7 | 20 – 44 |
+| 8 | < 20 |
+
+**(For P6)**
+
+The mark range and description for each grade in English Language, Mother Tongue, Mathematics and Science at Standard and Foundation levels are given below.
+
+ **(For Standard subjects)**
+ 
+ | Mark Range | Grade | Brief Description |
+|:---:|:---:|:---:|
+| 91 and above | A* | Has very good understanding of the subject |
+| 75 – 90 | A | Has good understanding of the subject |
+| 60 – 74 | B | Has good understanding of the subject |
+| 50 – 59 | C | Has adequate understanding of the subject |
+| 35 – 49 | D | Has fair understanding of the subject |
+| 20 – 34 | E | Has elementary understanding of the subject |
+| Below 20 | U (Ungraded) | Has not met the requirement of the minimum grade |
+
+For **Higher Mother Tongue**, the grades and mark range are as follows:
+
+*Distinction (more than 80), Merit (65-79), Pass (50-64), Ungraded (less than 50)*
+
+**(For Foundation subjects)**
+
+| Mark Range | Grade | Brief Description |
+|:---:|:---:|:---:|
+| 85 – 100 | G1 | Is very good in the subject at the foundation level |
+| 70 – 84 | G2 | Is good in the subject at the foundation level |
+| 50 – 69 | G3 | Has an adequate grasp of the subject at the foundation level |
+| 30 – 49 | G4 | Has an elementary grasp of the subject at the foundation level |
+| Below 30 | GU | Has not met the requirements at the foundation level for the minimum grade |
 
 
