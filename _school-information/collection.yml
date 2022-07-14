@@ -2,4 +2,5 @@ collections:
   school-information:
     output: true
     order:
+      - Staff/.keep
       - School Advisory Committee.md
