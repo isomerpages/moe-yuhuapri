@@ -2,6 +2,7 @@ collections:
   yuhualite-experience:
     output: true
     order:
+      - Character Education (CCE)/Sexuality.md
       - Character Education (CCE)/.keep
       - Co Curricular Activities/Angklung, Kulintang Ensemble.md
       - Co Curricular Activities/Art & Crafts.md
