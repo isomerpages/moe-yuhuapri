@@ -1,4 +1,5 @@
 collections:
   workspace:
     output: true
-    order: []
+    order:
+      - eOpen House.md
