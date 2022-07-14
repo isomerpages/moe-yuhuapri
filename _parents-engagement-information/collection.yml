@@ -2,6 +2,7 @@ collections:
   parents-engagement-information:
     output: true
     order:
+      - Direct School Admission (DSA) 2022.md
       - Sec School Open House Day 2022.md
       - Useful Links for Parents.md
       - Forms and Letters.md
