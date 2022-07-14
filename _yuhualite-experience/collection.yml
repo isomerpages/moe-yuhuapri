@@ -2,6 +2,7 @@ collections:
   yuhualite-experience:
     output: true
     order:
+      - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
       - Mother Tongue/.keep
       - Infocomm Technology/Overview.md
