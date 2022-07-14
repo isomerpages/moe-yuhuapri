@@ -2,6 +2,7 @@ collections:
   yuhualite-experience:
     output: true
     order:
+      - Aesthetics/.keep
       - Physical & Health Education.md
       - Social Studies.md
       - Character Education (CCE)/Overview.md
