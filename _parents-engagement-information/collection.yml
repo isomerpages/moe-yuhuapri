@@ -2,7 +2,7 @@ collections:
   parents-engagement-information:
     output: true
     order:
-      - P1 to P6 Parents Engagement/P6 Parents Engagement.md
+      - P1 to P6 Parents Engagement/For P6 Parents.md
       - P1 to P6 Parents Engagement/.keep
       - Direct School Admission (DSA) 2022.md
       - Sec School Open House Day 2022.md
