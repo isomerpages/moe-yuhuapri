@@ -3,6 +3,8 @@ links:
   - title: School Information
     url: /school-information/principals-message
     sublinks:
+      - title: Principal's Message
+        url: /school-information/principals-message
       - title: Mission, Vision, Values
         url: /school-information/mission-vision-values
       - title: School History
@@ -19,6 +21,8 @@ links:
         url: /school-information/staff
       - title: School Advisory Committee
         url: /school-information/school-advisory-committee
+      - title: Parent's Support Group
+        url: /school-information/parents-support-group
   - title: General Information
     url: /general-information/school-operating-hours
     sublinks:
