@@ -2,6 +2,7 @@ collections:
   yuhualite-experience:
     output: true
     order:
+      - Co Curricular Activities/Sepak Takraw.md
       - Co Curricular Activities/Soccer.md
       - Co Curricular Activities/Track and Field.md
       - Co Curricular Activities/Volleyball.md
