@@ -2,5 +2,6 @@ collections:
   parents-engagement-information:
     output: true
     order:
+      - Sec School Open House Day 2022.md
       - Useful Links for Parents.md
       - Forms and Letters.md
