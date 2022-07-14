@@ -2,6 +2,7 @@ collections:
   yuhualite-experience:
     output: true
     order:
+      - Co Curricular Activities/Badminton.md
       - Co Curricular Activities/Basketball.md
       - Co Curricular Activities/Brass Band.md
       - Co Curricular Activities/Chinese Dance.md
