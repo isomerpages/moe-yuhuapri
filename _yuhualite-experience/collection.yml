@@ -2,6 +2,7 @@ collections:
   yuhualite-experience:
     output: true
     order:
+      - Mathematics.md
       - Science.md
       - Mother Tongue/Overview.md
       - Mother Tongue/Chinese Language.md
