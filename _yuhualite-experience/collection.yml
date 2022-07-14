@@ -2,7 +2,6 @@ collections:
   yuhualite-experience:
     output: true
     order:
-      - Aesthetics/InfoComm Technology.md
       - Aesthetics/Cyber Wellness.md
       - Aesthetics/Programme for Active Learning (PAL).md
       - Aesthetics/Overview.md
