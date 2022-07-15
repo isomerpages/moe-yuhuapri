@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Highlights for 2019.md
       - Highlights for 2018.md
