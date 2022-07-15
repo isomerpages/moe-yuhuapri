@@ -3,6 +3,8 @@ title: eOpen House 2022
 permalink: /highlights/e-open-house-2022
 description: ""
 ---
+![](/images/openhousebanner.png)
+
 ### E-Open House 2022
 
 Dear Parents/Guardians,
