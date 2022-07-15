@@ -3,3 +3,90 @@ title: Highlights for 2020
 permalink: /highlights/2020
 description: ""
 ---
+### Highlights for 2020
+
+**President’s Visit @ Yuhua 2020**
+
+We are very honoured to share that our President, Mdm Halimah Yacob, visited Yuhua Primary School on 11 November 2020. During her visit, Mdm President had the opportunity to observe the P2 and P6 recess activities which emphasize positive relationships. Mdm President also visited our P2 pupils Coding lesson with Awbie and Cyberwellness and P5 Form Teacher Guidance Period (FTGP) on developing peer support skills.
+
+Mdm President’s visit ended with an interaction session with some of our peer supporters who shared with Mdm President their experiences. Mdm President was presented with a Cyber Wellness advocacy poster, designed by our Cyber Wellness Safety Ambassadors (CWSAs). The visit was featured in the news on Channel NewsAsia and in the newspapers such as Lianhe Zaobao and Berita Harian.
+
+_Check out the videos below of her visit._
+
+**Part 1 – Visiting our Peer Support Programme**
+
+*Insert video here.*
+
+**Part 2 – Understanding More of our School’s Programmes**
+
+*Insert video here.*
+
+**Part 3 – Dialogue with Yuhualites**
+
+*Insert video here.*
+
+**Part 4 – Fixing the Cyber Wellness**
+
+*Insert video here.*
+
+**Part 5 – Featured on CNA**
+
+*Insert video here.*
+
+Thank you Mdm President for visiting Yuhua Primary School.
+
+#### Vertical Farming
+
+The second floor walkway  above the Science Garden has now been repurposed into an area to support learning and literally bring new life and experiences for our Yuhualites. The area now houses two sets of Vertical Farms, able to grow and support vegetable crops that would usually need many more times the land space in traditional farms.  In the future, Yuhualites would have the opportunity to experience this for themselves – to be responsible and resilient in taking care of their crops and enjoying the harvest of their labour, using a technology that has zero wastage, zero pesticides and pollutants, using minimal energy and water.
+
+![](/images/garden1.png)
+
+### Yuhualites in the Community
+
+On 1 February, our Yuhualite Chinese Dance group performed at the Yuhua CC Chinese New Year Mega Toss dinner event attended by Guest-of-Honour, Ms Grace Fu, MP for Yuhua SMC.
+
+Our school’s Aesthetic Team teachers and Yuhualites from Primary 3 and 4 handmade  
+over 400 Chinese New Year – themed get-well-soon cards for patients at Ng Teng Fong and Jurong Community Hospital.
+
+Our Primary Two and Upper Primary Yuhualites spent time and effort to fold origami cranes and hearts which symbolise well wishes and good luck. These were made into art pieces that were presented to Medico Clinic and the Wu Clinic on 30 June 2020.  
+This gesture represented our Yuhualites’ heartfelt gratitude to the healthcare workers for fighting against COVID-19 in the frontlines.
+
+![](/images/highlight5.png)
+
+#### Photo Journalism
+
+Learning took a different slant when the 2019 cohort of Primary 6 Yuhualites underwent a photojournalism workshop. The objective was to equip pupils with basic photography skills so as to capture pictures of places and objects around the school that carried special memories for them. Some of their best work have been compiled into photobooks and these are available in the Media Resources Library for fellow Yuhualites to browse.
+
+![](/images/highligh6.png)
+
+#### Home Base Learning
+
+The month-long full Home-Based Learning (fHBL) period which started on 8 April posed a steep learning curve for everyone. While the practice day in the week of 1 April gave us an idea of what to expect, FHBL came with its own set of challenges. Nevertheless, it was a time of learning for pupils and teachers alike. Stay home, stay  
+safe, stay curious – How did we do that?
+
+![](/images/hightlight7.png)
+
+#### Deepavali
+
+The Deepavali celebration at Yuhua was held on 29 October 2019, a day after our Hindu friends celebrated their special day.
+
+![](/images/highlight8.png)
+
+#### Chinese New Year
+
+Excitement filled the air as we celebrated Chinese New Year together on 24 February 2020. Pupils learn how traditional practices take on a modern twist with the use of technology.
+
+![](/images/highlight9.png)
+
+#### Hari Raya
+
+This year’s Hari Raya Aidilfitri was truly one to remember, falling right in the midst of the Circuit Breaker period. Even with safe distancing measures and restrictions put in place,  
+everyone’s festive spirits were not dampened. Our Muslim friends made good use of technology, by ordering festive supplies online to prepare for the festivities, as well as keeping in touch with family and friends through video calls. Through mutual understanding, respect and resilience, everyone was able to celebrate Hari Raya safely while observing safe distancing measures.
+
+![](/images/highlight10.png)
+
+#### Racial Harmony Day
+
+On 14th July 2020, Yuhualites commemorated Racial Harmony Day. The theme for this year was Multiculturalism. Yuhualites were encouraged to embrace the diversity of our various ethnic cultures that together make us Singaporean.
+
+![](/images/highlight11.png)
