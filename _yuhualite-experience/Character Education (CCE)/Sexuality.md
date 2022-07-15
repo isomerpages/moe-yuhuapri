@@ -42,3 +42,22 @@ third_nav_title: Character Education (CCE)
 7.  The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
 **At YUHUA Primary School, the following Sexuality Education lessons will be taught in 2022:**
+
+<img src="/images/growing1.png" 
+     style="width:80%">
+<img src="/images/growing2.png" 
+     style="width:80%">
+<img src="/images/growing3.png" 
+     style="width:80%">
+<img src="/images/growing4.png" 
+     style="width:80%">
+
+**Information for Parents**
+
+8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here ([Opt Out Form A](/files/Opy-Out-FormA.pdf)). The completed opt-out form is to be submitted by 18/02/2022.
+
+10.  Parents can contact the school at 6560 5062 or email : yuhua_ps@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+
+11.  Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
