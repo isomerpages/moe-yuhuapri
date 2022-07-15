@@ -2,5 +2,6 @@ collections:
   highlights:
     output: true
     order:
+      - Highlights/Highlights for 2019.md
       - Highlights/Highlights for 2018.md
       - Highlights/.keep
