@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: School's Achievements
           description: ""
-          url: /highlights/principals-message
+          url: /highlights/schools-achievements
         - title: E-Open House 2022
           description: ""
           url: /highlights/e-open-house-2022
