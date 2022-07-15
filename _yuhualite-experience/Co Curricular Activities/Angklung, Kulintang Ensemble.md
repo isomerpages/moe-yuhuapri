@@ -28,6 +28,3 @@ Tuesdays, 7.30am to 9am, Angklung room (Level 1)
 
 <img src="/images/angklung1.png" 
      style="width:80%">
-
-
-
