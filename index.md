@@ -36,4 +36,12 @@ sections:
       url: /inspiring-teacher-of-english-award-2021
       image: /images/infopic2.png
       alt: Inspiring Teacher
+  - infopic:
+      title: President’s Visit @ Yuhua 2020
+      description: "We are very honoured to share that our President, Mdm Halimah
+        Yacob, visited Yuhua Primary School on 11 November 2020. "
+      button: Find out more
+      url: /presidents-visit-yuhua-2020
+      image: /images/infopic3.png
+      alt: Image alt text
 ---
