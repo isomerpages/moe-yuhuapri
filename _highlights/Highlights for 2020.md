@@ -90,3 +90,32 @@ everyone’s festive spirits were not dampened. Our Muslim friends made good us
 On 14th July 2020, Yuhualites commemorated Racial Harmony Day. The theme for this year was Multiculturalism. Yuhualites were encouraged to embrace the diversity of our various ethnic cultures that together make us Singaporean.
 
 ![](/images/highlight11.png)
+
+#### National Day
+
+On 7 August, Yuhualites commemorated National Day.  As part of the celebrations, our Yuhualites were encouraged to contribute food which was then packed as gifts to be  
+distributed to families who needed support. The response was overwhelming and the school managed to prepare over 100 gift packs. These packs were then given to our partner, Yuhua Senior Activity Centre and Loving Heart (Social Service Agency in Yuhua Constituency) for distribution to the families who needed support.
+
+![](/images/highlight12.png)
+
+#### TDD Complete / International Friendship Day
+
+Due to the ongoing Covid-19 pandemic, TDD was celebrated differently this year. Our  
+Yuhualites were introduced to the Soaper 5 and the Wipe-Down routine.
+
+For the very first time, a joint celebration of the Arts Festival and International Friendship Day was held virtually during the Circuit Breaker period. The theme for this year’s celebration was “Beyond Borders”. The importance of maintaining friendly relations among ASEAN countries was emphasized through videos, sing along sessions  
+and even an art competition.
+
+![](/images/highlight13.png)
+
+#### Annual Prize Giving
+
+Our 37th Annual Prize-Giving Day (APGD) was held on 17 July this year. The theme ‘Dare to Dream’ clearly resonated with our pupils. Pupils from P4 to P6 joined in the Prize-Giving Day by tuning in to the live broadcast from their classrooms. As the pupils watched their friends receive their awards, rapturous applause echoed from the classrooms.
+
+![](/images/highlight14.png)
+
+#### Graduation Day (2019)
+
+15 November 2019. Graduation. A day that represents the culmination of efforts of our Yuhualites over six primary school years.
+
+![](/images/highlight15.png)
