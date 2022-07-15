@@ -34,5 +34,9 @@ Milestone Programme: Cohort Leadership Workshop
 
 <img src="/images/pupil3.png" 
      style="width:70%">
+Enhance Leadership Programme: Workshop through Zoom and School Project
 
-
+<img src="/images/pupil4.png" 
+     style="width:70%">
+		 
+Active Confident Leaders: Service Learning
