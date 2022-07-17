@@ -65,3 +65,46 @@ Experiential Experiences (Experiences that provide hands-on opportunities in and
 From Amazing Toy Car to Amazing Toys. Look at how our P6 Final Year Project has evolved. With the same objective in mind where pupils learn about how toys work and upcycle unwanted materials at the same time!
 
 *Insert video here.*
+
+<img src="/images/sci7.png" 
+     style="width:70%">
+
+**Pupils with the creations after the final race** 
+
+Enriched Experiences (Experiences that leverage on ICT and expand pupils’ viewpoints for Science)
+
+*   ICT adding value to learning experiences: Various ICT platforms are utilised to aid and enrich the teaching and learning of Science. These include hardware tools such as Data-Loggers (An electronic device with multiple sensors for the recording of experimental data) and software such as web-based resources and online lesson platforms such as Nearpod and SLS. (Student Learning Space). These platforms facilitate collaboration and communication in and out of the classroom, and connect Science with existing technologies.
+
+<img src="/images/sci9.png" 
+     style="width:70%">
+
+**Nearpod lesson in class** 
+
+*   Science Centre Lessons: Lessons are scheduled for pupils at the Science Centre termly. Providing an alternative classroom where familiar, and not-so-familiar, Science topics are taught.
+
+ScienceBuzz Lectures: A series of lectures aimed at promoting interest and awareness in Science for every Yuhualite. Conducted by Science Teachers in the school, lecture topics in the past have covered a wide range of topics outside of the normal Science syllabus. Armed with the objective to “Intrigue and Inform”, teachers have lectured on topics such as the intriguing Newtonian fluid ‘OObleck’, the science involved in ‘Pokemon Go’ and even the science involved in Cooking.
+
+<img src="/images/sci10.png" 
+     style="width:70%">
+
+**ScienceBuzz lecture topics over the years**
+
+*   Termly Showcase Events: A series of showcases held termly to bring Science concepts to life. Collaborating with Parent Volunteers (PVs), pupils get to experience and learn about Science related phenomenon beyond what they may encounter in the classroom. Past showcases include activities related to optical illusions and lava-lamps.
+
+<img src="/images/sci11.png" 
+     style="width:70%">
+
+**Pupils participating in recess Showcases** 
+
+*   Green areas @Yuhua: The school grounds have been designed to support biodiversity and to promote an appreciation of nature in its pupils. Urban green solutions such as vertical greenery (Green Walls) and Planting plots serve to bring nature closer to the pupils and educate them in environmental and sustainability issues.
+*   In 2019: The school was awarded the highest award category “Vanda Miss Joaquim” for the School Green Awards (SGA) organised by the Singapore Environment Council & Starhub.
+
+<img src="/images/sci12.png" 
+     style="width:70%">
+
+**Green areas around the school: The Butterfly Garden, Green Wall and School Garden**
+
+Collaboration with Parents: The department engages parents yearly with workshops designed to give them an insight to Science lessons in the school. These workshops also serve to empower parents with practical strategies to engage their children at home with Science related activities.
+
+<img src="/images/sci13.png" 
+     style="width:70%">
