@@ -15,10 +15,10 @@ Since the year 2017, our students have taken part in the SYF Songwriting competi
 | Achievement: Top 10 Finalists |
 
 <img src="/images/syf1.png" 
-     style="width:40%">
+     style="width:45%">
 
 <img src="/images/syf2.png" 
-     style="width:40%">
+     style="width:45%">
 
 Let’s enjoy the song once again!
 
@@ -31,10 +31,10 @@ Let’s enjoy the song once again!
 | Achievement: Top 15 Finalists (Commendation Award) |
 
 <img src="/images/syf3.png" 
-     style="width:40%">
+     style="width:45%">
 
 <img src="/images/syf4.png" 
-     style="width:40%">
+     style="width:45%">
 
 Let’s enjoy the song once again!
 
@@ -47,10 +47,10 @@ Let’s enjoy the song once again!
 | Achievement: Top 15 Finalists |
 
 <img src="/images/syf5.png" 
-     style="width:40%">
+     style="width:45%">
 
 <img src="/images/syf6.png" 
-     style="width:40%">
+     style="width:45%">
 
 Let’s enjoy the song once again!
 
@@ -66,7 +66,7 @@ Let’s enjoy the song once again!
 | Achievement: Top 28 Finalists |
 
 <img src="/images/syf7.png" 
-     style="width:30%">
+     style="width:35%">
 
 The song is currently under production. Catch it here once it is ready!
 
