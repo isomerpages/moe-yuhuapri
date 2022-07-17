@@ -42,10 +42,10 @@ MOE uses the CW framework to develop the child’s instincts, in order to empowe
      style="width:70%">
 
 <img src="/images/cw12.png" 
-     style="width:70%">
+     style="width:50%">
 
 <img src="/images/cw13.png" 
-     style="width:70%">
+     style="width:60%">
 
 **Support at home (Sense Think Act at home)**
 
