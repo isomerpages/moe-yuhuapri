@@ -64,4 +64,24 @@ Level TWO:
      style="width:50%">
 		 
 <img src="/images/cl7.png" 
-     style="width:50%"> 
+     style="width:50%">
+
+**Conversational Chinese Language Module**
+
+The Conversational Chinese language module is introduced as an enrichment programme for non-Chinese pupils who are interested in learning Chinese   language and culture. Pupils will be able to converse in simple everyday Chinese Language. This programme will also help pupils to enhance their rapport with Chinese-speaking friends. Topics covered include self-introduction, exchange of greetings and other commonly used phrases.
+
+<img src="/images/cl8.png" 
+     style="width:70%">
+
+**Internal and External Competitions**
+
+Internal competitions are conducted during the Mother Tongue Fortnight Week. Pupils, who are keen to participate, will be able to showcase their abilities and competencies in the Chinese Language. These competitions also provide additional opportunities for all pupils to further strengthen their language abilities
+
+Aside from the school based competition, pupils are also encouraged to participate in external competitions. This will help pupils to build up their confidence and contribute to their repertoire of experiences.
+
+<img src="/images/cl9.png" 
+     style="width:70%"> International Chinese Language Competition – Gold
+
+
+<img src="/images/cl10.png" 
+     style="width:70%"> Story book created and printed by the pupils
