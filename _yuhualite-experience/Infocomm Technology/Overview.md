@@ -75,3 +75,10 @@ TechPlay 1,2,3! is the enrichment arm of the F.L.I.G.H.T. programme, aimed at en
 
 <img src="/images/ict7.png" 
      style="width:70%">
+
+**Code for Fun (CFF) Programme**
+
+This is an enrichment programme, jointly offered by IMDA and MOE, that aims to increase primary and secondary pupils’ exposure to computational thinking and making. It has been introduced to all Primary 5 pupils in our school from 2020 through a 10-hour programme that aims to develop an appreciation and interest in the core computational thinking and coding concepts.
+
+<img src="/images/ict8.png" 
+     style="width:70%">
