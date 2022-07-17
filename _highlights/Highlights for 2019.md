@@ -11,24 +11,30 @@ description: ""
 
 #### Joy Of Learning
 
-![](/images/hl6.png)
+<img src="/images/hl6.png" 
+     style="width:70%">
 
 **Zoo**
 
-![](/images/highl7.png)
+<img src="/images/highl7.png" 
+     style="width:70%">
 
 **Science Centre**
 
-![](/images/hl8.png)
-![](/images/hl9.png)
+<img src="/images/hl8.png" 
+     style="width:70%">
+<img src="/images/hl9.png" 
+     style="width:70%">
 
 **P5 Camp**
 
-![](/images/hl10.png)
+<img src="/images/hl10.png" 
+     style="width:70%">
 
 **Jurong Regional Library**
 
-![](/images/hl11.png)
+<img src="/images/hl11.png" 
+     style="width:70%">
 
 **Road Safety Park**
 
@@ -36,28 +42,47 @@ description: ""
 
 **Marina South Pier**
 
-![](/images/hl13.png)
-![](/images/hl14.png)
+<img src="/images/hl13.png" 
+     style="width:70%">
+<img src="/images/hl14.png" 
+     style="width:70%">
 
 **P4/P5 Leadership Training**
 
-![](/images/hl15.png)
-![](/images/hl16.png)
-![](/images/hl17.png)
-![](/images/hl18.png)
-![](/images/hl19.png)
-![](/images/hl20.png)
-![](/images/hl21.png)
+<img src="/images/hl15.png" 
+     style="width:70%">
+<img src="/images/hl16.png" 
+     style="width:70%">
+<img src="/images/hl17.png" 
+     style="width:70%">
+<img src="/images/hl18.png" 
+     style="width:70%">
+<img src="/images/hl19.png" 
+     style="width:70%">
+<img src="/images/hl20.png" 
+     style="width:70%">
+<img src="/images/hl21.png" 
+     style="width:70%">
 
 #### Artwork 
 
-![](/images/hl22.png)
-![](/images/hl23.png)
-![](/images/hl24.png)
-![](/images/hl25.png)
-![](/images/hl26.png)
-![](/images/hll27.png)
-![](/images/hl28.png)
-![](/images/hl29.png)
-![](/images/hl30.png)
-![](/images/hl31.png)
+<img src="/images/hl22.png" 
+     style="width:70%">
+<img src="/images/hl23.png" 
+     style="width:70%">
+<img src="/images/hl24.png" 
+     style="width:70%">
+<img src="/images/hl25.png" 
+     style="width:70%">
+<img src="/images/hl26.png" 
+     style="width:70%">
+<img src="/images/hl27.png" 
+     style="width:70%">
+<img src="/images/hl28.png" 
+     style="width:70%">
+<img src="/images/hl29.png" 
+     style="width:70%">
+<img src="/images/hl30.png" 
+     style="width:70%">
+<img src="/images/hl31.png" 
+     style="width:70%">
