@@ -23,10 +23,14 @@ Information about the assessments and weightage are as shown in the table below:
 |:---:|:---:|
 | P1 and P2 | No weighted assessment |
 
+<br> <br>
+
 
 | Level | NIL | T2 Review Test | T3 Review Test | End of Year Exam (EYE) |
 |:---:|:---:|:---:|:---:|:---:|
 | P3 | NIL | 15% | 15% | 70% |
+
+<br><br>
 
 | Level | T1 Review Test | Mid-Year Exam (MYE) | T3 Review Test | End of Year Exam (EYE) |
 |:---:|:---:|:---:|:---:|:---:|
