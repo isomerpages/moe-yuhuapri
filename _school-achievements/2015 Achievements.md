@@ -68,3 +68,44 @@ description: ""
 | 1st Prize – 3E Nithiasree 	|
 | 3rd Prize – 4B Srishyla 	|
 | Consolation Prize – 1E Vithiasree 	|
+
+| Jurong Green CC Drawing and Colouring Competition 	|
+|---	|
+| 2nd Prize – 4B Srishyla 	|
+
+| Oratorial Competition 	|
+|---	|
+| 4th Prize – 5G Swathy 	|
+| 4th Prize – 6G Rini Xavier 	|
+
+#### CCA / Aesthetic
+
+| Singapore Youth Festival 2015 Art Exhibition<br>(Artwork selected for on-site exhibition) 	|
+|---	|
+| 3E Jayden Quak Jun En 	|
+| 4B Ng Xin Yue 	|
+| 4F Tian Xi Ran 	|
+| 4F Swaminathan Naren 	|
+
+| Scouts Unit – Frank Cooper Sands Award 	|
+|---	|
+| Silver Award 	|
+
+#### Others
+
+| Staff Awards – EXSA-STAR Award 	|
+|---	|
+| Mr Musa Bin Abdul Kadir 	|
+| Mrs Isa Tan 	|
+| Ms Tham Lai Juan 	|
+
+| Staff Awards – EXSA-SILVER Award 	|
+|---	|
+| Mr Bayrse 	|
+| Mdm Nachammai 	|
+
+| Staff Awards – EXSA-MOE 	|
+|---	|
+| Mr Hamdan 	|
+
+
