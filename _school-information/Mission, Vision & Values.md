@@ -21,26 +21,11 @@ The school wants to give Yuhualites a broad range of experiences and help them m
 
 _R3ICH – _**R**espect,_ **R**esponsibility, _**R**esilience,_ **I**ntegrity, **C**are and **H**armony_
 
-Respect
-
-A respectful Yuhualite believes in his own self-worth and the intrinsic worth of all people.
-
-Responsibility
-
-A responsible Yuhualite recognises that he has a duty to himself, his family, community, nation and the world, and fulfils his responsibilities with love and commitment.
-
-Resilience
-
-A resilient Yuhualite has emotional strength and perseveres in the face of challenges. He manifests courage, optimism, adaptability and resourcefulness.
-
-Integrity
-
-An Yuhualite is a person of integrity if he upholds ethical principles and has the moral courage to stand up for what is right.
-
-Care
-
-A caring Yuhualite acts with kindness and compassion, and contributes to the betterment of the community and the world.
-
-Harmony
-
-A harmonious Yuhualite seeks inner happiness and promotes social cohesion. He appreciates the unity and diversity of a multicultural society.
+|  	|  	|
+|---	|---	|
+| **Respect** 	| A respectful Yuhualite believes in his own self-worth and the intrinsic worth of all people. 	|
+| **Responsibility** 	| A responsible Yuhualite recognises that he has a duty to himself, his family, community, nation and the world, and fulfils his responsibilities with love and commitment. 	|
+| **Resilience** 	| A resilient Yuhualite has emotional strength and perseveres in the face of challenges. He manifests courage, optimism, adaptability and resourcefulness. 	|
+| **Integrity** 	| An Yuhualite is a person of integrity if he upholds ethical principles and has the moral courage to stand up for what is right. 	|
+| **Care** 	| A caring Yuhualite acts with kindness and compassion, and contributes to the betterment of the community and the world. 	|
+| **Harmony** 	| A harmonious Yuhualite seeks inner happiness and promotes social cohesion. He appreciates the unity and diversity of a multicultural society. 	|
