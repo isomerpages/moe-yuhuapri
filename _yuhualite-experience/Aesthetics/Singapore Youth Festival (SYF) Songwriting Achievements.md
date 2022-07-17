@@ -16,3 +16,26 @@ Since the year 2017, our students have taken part in the SYF Songwriting competi
 
 <img src="/images/syf1.png" 
      style="width:70%">
+
+<img src="/images/syf2.png" 
+     style="width:70%">
+
+Let’s enjoy the song once again!
+
+*Insert video here.*
+
+| 2018 |
+|---|
+| Song Title: I’ll Be There For You |
+| Performed and Written by: Nabila Amani & Nur Hessa Ariana |
+| Achievement: Top 15 Finalists (Commendation Award) |
+
+<img src="/images/syf3.png" 
+     style="width:70%">
+
+<img src="/images/syf4.png" 
+     style="width:70%">
+
+Let’s enjoy the song once again!
+
+*Insert video here.*
