@@ -57,3 +57,23 @@ Aside from the school-based competition, pupils are also encouraged to participa
 **Leveraging on ICT to Promote Joy of Learning**
 
 Pupils are exposed to application tools such as ‘ChatterPix’ and ‘Flipgrid’ to record their experiences and responses based on topics assigned to them. Pupils explore their creativity as they personalise and design their submissions through these application tools. ICT-based lessons such as this allows pupils to build their confidence and interest to converse in Malay Language.
+
+<img src="/images/mtl9.png" 
+     style="width:70%"> Pupil recording his responses using ChatterPix, an application which allows users to animate pictures.
+
+<img src="/images/mtl10.png" 
+     style="width:70%"> Pupil recording his responses using Flipgrid, a video recording tool which allows users to add emoji, text and background.
+
+**Effective Questioning to Develop Critical Thinking Skills**
+
+To promote critical thinking, teachers incorporate Elements of Thought (EOT) in their lessons. Through meaningful conversations and quality questioning, pupils’ critical thinking skills are deepened. This approach also allows students to build their vocabulary and confidence to converse in Malay Language.
+
+<img src="/images/mtl11.png" 
+     style="width:70%"> Elements of Thought (translated in Malay Language)
+
+<img src="/images/mtl12.png" 
+     style="width:70%"> Teacher engaging in quality questioning during Malay Language lesson.
+
+<img src="/images/mtl13.png" 
+     style="width:70%"> Pupils participating actively in classroom discussions.
+
