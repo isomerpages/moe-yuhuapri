@@ -5,8 +5,7 @@ description: ""
 ---
 ### Physical Education & Health Education (PE/HE)
 
-Overview
---------
+#### Overview
 
 The PE Programme develops pupils’ psychomotor and games skills, equips them with the knowledge and attitudes to pursue and enjoy a physically active and healthy lifestyle.
 
