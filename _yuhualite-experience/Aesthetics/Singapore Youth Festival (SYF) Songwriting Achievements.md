@@ -55,3 +55,23 @@ Let’s enjoy the song once again!
 Let’s enjoy the song once again!
 
 *Insert video here.*
+
+| 2020 |
+|---|
+| Song Title: Courage Is All I Need |
+| Performed and Written by: Heng Yu Qing Jernelle & Ephea Tay Yu Xuan |
+| Achievement: Top 28 Finalists |
+| Song Title: A New Chapter |
+| Performed and Written by: Lyqa Medina & Miaa Nur Deanna |
+| Achievement: Top 28 Finalists |
+
+<img src="/images/syf7.png" 
+     style="width:70%">
+
+The song is currently under production. Catch it here once it is ready!
+
+**Singapore Youth Festival (SYF) Goes Online**
+
+In the year 2020, due to the COVID-19 pandemic, SYF was conducted online instead. Although SYF could not take place physically this year, it was still a meaningful and enriching experience for all the participants. Our pupil, Meilsa, took part in the competition with her father and performed to the song “We Will Get There” to encourage everyone to press on during this trying period. The school is proud to announce that the performance by Meilsa and her father clinched the Top 10 position. Well done Meilsa! Recapture the moment below!
+
+*Insert video here.*
