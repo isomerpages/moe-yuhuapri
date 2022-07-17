@@ -3,8 +3,10 @@ title: WESTories 2021
 permalink: /WESTories-2021
 description: ""
 ---
-
 ### WESTories 2021
+
+<img src="/images/westories.png" 
+     style="width:60%">
 
 WE STories is a collection of stories from all the secondary schools in the West Zone. Just as  
 our lives are made up of stories and the stories we share with one another, every school has a  
