@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Yu Hua Primary School
+title: Yuhua Primary School
 description: An Isomer site of the Singapore Government
 image: /images/yuhualogo.png
 permalink: /
@@ -45,3 +45,4 @@ sections:
       image: /images/infopic3.png
       alt: Image alt text
 ---
+
