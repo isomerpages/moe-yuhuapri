@@ -14,15 +14,15 @@ Centred on the mission to grow the hearts and minds of every Yuhualite, the scho
 
 CCE(FTGP) are taught by all form teachers.  There is emphasis on explicit teaching on social-emotional competencies in CCE(FTGP) as the foundation for more complex conversations and discussions at Secondary levels and beyond.  Topics for developing citizenship dispositions are also taught in CCE(FTGP) to foster inter-ethnic understanding and appreciation for one another’s culture in a multicultural classroom setting.
 
-<img src="/images/cce1.png" style="width:70%">
+<img src="/images/cce1.png" style="width:50%">
 
 **Awesome Character-building time (ACE)**
 
 Form teachers play a central role in shaping the development of Yuhualites.  In addition to CCE(FTGP), the school’s in-house Awesome character-building timE (ACE) provide time within the curriculum to provide form teachers to engage in quality interactions with their students.  There are planned interactive activities between the form teachers and students to enhance bonding as well as the teaching of social and emotional learning skills.
 
-<img src="/images/cce2.png" style="width:70%">
+<img src="/images/cce2.png" style="width:50%">
 
-<img src="/images/cce3.png" style="width:70%">
+<img src="/images/cce3.png" style="width:50%">
 
 
 **CCE Mother Tongue Languages CCE(MTL)**
@@ -40,18 +40,18 @@ Yuhualites commemorate the four NE Commemorative Days every year:
 
 Through the NE commemorative days, Yuhulites learn about the important milestones of Singapore’s history and how they can play their part to keep Singapore a diverse, unified and resilient country.  These provide opportunities for Yuhualites to deepen their appreciation of our shared past and Singapore’s current realities.
 
-<img src="/images/cce4.png" style="width:70%">
+<img src="/images/cce4.png" style="width:50%">
 
-<img src="/images/cce5.png" style="width:70%">
+<img src="/images/cce5.png" style="width:50%">
 
-<img src="/images/cce6.png" style="width:70%">
+<img src="/images/cce6.png" style="width:50%">
 
 **Values in Action (VIA)**
 
 Values in Action (VIA) are learning experiences that support pupils’ development as socially responsible citizens.  Through VIA, Yuhualites have opportunities to learn and care about Singapore, demonstrate active citizenship, learn skills and values relating to working in groups and interacting with others in the public sphere.  As part of Everyday Responsibilities, Yuhualites develop a sense of responsibility and care for their own shared spaces through daily cleaning and adopting sustainable practices in school and at home.  They reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully.
 
-<img src="/images/cce7.png" style="width:70%">
+<img src="/images/cce7.png" style="width:50%">
 
-<img src="/images/cce8.png" style="width:70%">
+<img src="/images/cce8.png" style="width:50%">
 
-<img src="/images/cce9.png" style="width:60%">
+<img src="/images/cce9.png" style="width:50%">
