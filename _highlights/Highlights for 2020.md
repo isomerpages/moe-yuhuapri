@@ -39,7 +39,8 @@ Thank you Mdm President for visiting Yuhua Primary School.
 
 The second floor walkway  above the Science Garden has now been repurposed into an area to support learning and literally bring new life and experiences for our Yuhualites. The area now houses two sets of Vertical Farms, able to grow and support vegetable crops that would usually need many more times the land space in traditional farms.  In the future, Yuhualites would have the opportunity to experience this for themselves – to be responsible and resilient in taking care of their crops and enjoying the harvest of their labour, using a technology that has zero wastage, zero pesticides and pollutants, using minimal energy and water.
 
-![](/images/garden1.png)
+<img src="/images/garden1.png" 
+     style="width:70%">
 
 ### Yuhualites in the Community
 
