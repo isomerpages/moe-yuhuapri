@@ -15,3 +15,8 @@ Need to link WESTories isomer page https://yuhuapri.moe.edu.sg/westories-2021/
 | [Term 3 Letter to Parents P1-P5](/files/Term-3-Letter-to-Parents-P1-P5-2-4.pdf)<br>2021-06-28 	|
 |---	|
 |  	|
+
+| End of Term 2 Letter to Parents<br>2021-05-18 	|
+|---	|
+| Missing page on school web 	|
+
