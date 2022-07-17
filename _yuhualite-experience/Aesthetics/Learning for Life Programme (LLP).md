@@ -38,3 +38,24 @@ In customising the Music and Performing Arts programme to inspire Yuhualites to 
      style="width:50%">
 <img src="/images/llp4.png" 
      style="width:50%">
+
+**P3 Violin Enrichment**
+
+<img src="/images/llp5.png" 
+     style="width:50%"> <br>
+<img src="/images/llp6.png" 
+     style="width:50%">
+		 
+**Songwriting Enrichment**
+
+<img src="/images/llp7.png" 
+     style="width:50%"> <br>
+<img src="/images/llp8.png" 
+     style="width:50%">
+
+**P4 Guitar Enrichment**
+
+<img src="/images/llp9.png" 
+     style="width:50%"> <br>
+<img src="/images/llp10.png" 
+     style="width:50%">
