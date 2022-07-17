@@ -3,8 +3,6 @@ title: Useful Links for Parents
 permalink: /parents-engagement-information/useful-links-for-parents
 description: ""
 ---
-Please link to isomer after creating this page [WESTories 2021](https://yuhuapri.moe.edu.sg/westories-2021/)
-
 ### Useful Links for Parents
 
 *   ##### [Cyber Wellness](http://ict.moe.edu.sg/ict/slot/u151/baseline/index.html)
@@ -34,4 +32,4 @@ Please link to isomer after creating this page [WESTories 2021](https://yuhuapri
 *   ##### [“Welcome to Secondary School” video](https://go.gov.sg/welcome-to-secondary-school)  
       
     
-*   ##### [WESTories 2021](https://yuhuapri.moe.edu.sg/westories-2021/)
+*   ##### [WESTories 2021](https://moe-yuhuapri-staging.netlify.app/WESTories-2021)
