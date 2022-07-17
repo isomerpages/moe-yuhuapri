@@ -35,14 +35,14 @@ Modified Language Experience Approach (MLEA) provides pupils with a shared exper
 Our Primary 1 and 2 Yuhualites go on Learning Journeys to the Singapore Zoo and Singapore Science Centre as an extension to their learning of the themes covered in the Stellar curriculum. These learning journeys encourage experiential learning as the outdoors become their classroom for the day.
 
 <img src="/images/eng2.png" 
-     style="width:50%">
+     style="width:70%">
 		 
 Learning Centres help to reinforce the language skills that pupils learn during SBA and MLEA lessons. Differentiated activities are planned for the pupils in the different learning centres where they have the opportunity to relearn, revisit or extend what they have learnt at their own pace.
 
 UPPER PRIMARY STELLAR
 
 <img src="/images/eng3.png" 
-     style="width:50%">
+     style="width:60%">
 
 The Upper Primary STELLAR Pedagogical Model consists of the following strategies:
 
@@ -86,7 +86,7 @@ We adopt a whole school approach to reading in order to inculcate the love of re
 Storytime is a pre-assembly programme that exposes our Yuhualites to a myriad of stories covering a variety of genres and themes. Different teachers read these stories to them weekly. Confident Yuhualites are invited to join in the weekly sharing sessions.
 
 <img src="/images/eng4.png" 
-     style="width:50%">
+     style="width:70%">
 
 **READ period**
 
@@ -95,7 +95,7 @@ We have weekly READ periods where Yuhualites get to delve deeper into a variety 
 Not only do they learn about the unique characteristics of different story genres, but they also get to form an appreciation for stories from those genres. During the READ Period, Yuhualites get to engage in and respond to different genre-based stories that have been selected for these lessons. To add to the rich reading culture, Yuhualites also get to complete interesting reader-response activities. They can complete simpler tasks like book cover designs or more creative ones like crafting an email to the author to recommend a new element to the story.
 
 <img src="/images/eng5.png" 
-     style="width:50%">
+     style="width:70%">
 
 Monthly Current Affairs
 
@@ -139,4 +139,4 @@ Friendly level competitions are held every year to get Yuhualites to put their l
 Every year, workshop materials are specially designed to empower parents to guide their children in the learning of the English Language. These workshops provide parents with ideas to hold enriching discussion and conversations with their children.
 
 <img src="/images/eng8.png" 
-     style="width:50%">
+     style="width:70%">
