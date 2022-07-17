@@ -15,7 +15,7 @@ ICT is an integral part of teaching and learning in YHPS.  Across subjects, tea
 The standards has its focus on the acquisition and application of technical skills to support the creation of digital content and various modes of interaction. It details the skills, knowledge, attitude and values (SKAV) that pupils should apply and demonstrate when harnessing ICT for learning and interacting; curating digital content; connecting and communicating digitally; and creating digital multimodal products.
 
 <img src="/images/ict1.png" 
-     style="width:50%">
+     style="width:30%">
 		 
 New Media Literacies have been defined as the abilities to curate, create and connect with others in the digital networked environment. Curate, Create and Connect are ways of interacting in the digital networked environment. Regular engagement in these interactions will enable pupils to develop an understanding of the social practices governing the digital networked environment.
 
@@ -60,7 +60,7 @@ At the end of their six-year education in Yuhua Primary School, a pupil would ha
 A pupil working on the Google Doc where students collaborate using the online tool to create their own ending to the STELLAR Unit “There’s A Boy Under The Bed”.
 
 <img src="/images/ict5.png" 
-     style="width:50%">
+     style="width:30%">
 
 The students here are working remotely to access shared documents and give individual inputs, with their teacher’s assistance, to value-add to a group task.
 
@@ -81,7 +81,7 @@ TechPlay 1,2,3! is the enrichment arm of the F.L.I.G.H.T. programme, aimed at en
 This is an enrichment programme, jointly offered by IMDA and MOE, that aims to increase primary and secondary pupils’ exposure to computational thinking and making. It has been introduced to all Primary 5 pupils in our school from 2020 through a 10-hour programme that aims to develop an appreciation and interest in the core computational thinking and coding concepts.
 
 <img src="/images/ict8.png" 
-     style="width:50%">
+     style="width:30%">
 
 These Primary 5 pupils are using the iPads to code their Sphero units to execute various commands, that even includes a disco-dance function.
 
