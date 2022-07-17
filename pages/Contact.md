@@ -5,6 +5,8 @@ description: ""
 ---
 ### Contact Information and Location
 
+<img src="/images/googlemap.png" style="width:250px;height:240px;margin-right:15px;" align = "left">
+
 | School Address 	|
 |---	|
 | 158 Jurong East Street 24 Singapore 609558 	|
@@ -38,5 +40,3 @@ description: ""
 | Lion Building C, Singapore 409959 	|
 | Tel: 64640111 	|
 | Fax: 64640110 	|
-
-<img src="/images/googlemap.png" style="width:250px;height:240px;margin-right:15px;" align = "left"> 
