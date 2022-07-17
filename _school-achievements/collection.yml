@@ -2,5 +2,6 @@ collections:
   school-achievements:
     output: true
     order:
+      - 2017 Achievements.md
       - 2016 Achievements.md
       - 2015 Achievements.md
