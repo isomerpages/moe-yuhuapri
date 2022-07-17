@@ -13,3 +13,6 @@ Since the year 2017, our students have taken part in the SYF Songwriting competi
 | Song Title: Stay Strong |
 | Performed and Written by: Nur Aqilah Binte Jumadi |
 | Achievement: Top 10 Finalists |
+
+<img src="/images/syf1.png" 
+     style="width:70%">
