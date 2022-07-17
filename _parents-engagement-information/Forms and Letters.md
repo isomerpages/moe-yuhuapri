@@ -3,8 +3,6 @@ title: Forms and Letters
 permalink: /parents-engagement-information/forms-and-letters
 description: ""
 ---
-Need to link WESTories isomer page https://yuhuapri.moe.edu.sg/westories-2021/
-
 ### Forms and Letters
 
 | [WESTories 2021](https://moe-yuhuapri-staging.netlify.app/westories-2021)<br>2022-01-05 	|  	|
@@ -19,4 +17,3 @@ Need to link WESTories isomer page https://yuhuapri.moe.edu.sg/westories-2021/
 | End of Term 2 Letter to Parents<br>2021-05-18 	|
 |---	|
 | Missing page on school web 	|
-
