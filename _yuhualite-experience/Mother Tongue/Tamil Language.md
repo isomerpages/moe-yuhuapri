@@ -28,4 +28,4 @@ We expose our pupils to various cultural programmes and literature workshops for
 Our Mother Tongue fortnight activities are conducted annually to commemorate the beginning of the Tamil New Year in April. In these 2 weeks, all the levels from primary one to primary 6 pupils will be educated on Tamil Language, Indian Traditions and culture. Our lessons and programmes for these 2 weeks will be planned ahead and twigged to embed and include the teachings of the Indian culture and the rationale behind our tradition. Examples of our activities include, making of Indian sweets and savouries, Fancy Dress Competitions on famous literature characters, introduction to cultural games.
 
 <img src="/images/tml1.png" 
-     style="width:80%"> 
+     style="width:50%">
