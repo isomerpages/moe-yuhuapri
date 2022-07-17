@@ -25,7 +25,7 @@ The aim of the ECP News and Views programme is to develop pupils’ communicatio
 The aim of the structured reading programme is to develop pupils’ interests and reading habits as well as to increase student awareness and appreciation of their own culture. Through extensive reading, the pupils will be able to master the language and also broaden their vocabulary. Suitable reading materials and activities are selected to enhance their learning of the language.
 
 <img src="/images/cl1.png" 
-     style="width:70%">
+     style="width:50%">
 		 
 **The Elements of Thought (EOT)** \-T**hinking** **routines used in teaching and learning of Chinese language**
 
@@ -43,7 +43,7 @@ Level TWO:
 
 **Mother Tongue Languages (MTL) Fortnight**
 
-<img src="/images/cl3.png" style="width:240px;height:200px;margin-left:15px;" align = "right"> MTL Fortnight held each year aims to create a learning environment where pupils learn more in depth about their culture. During the two-week programme, pupils will have the opportunity to experience the Chinese Language as a living language through the various hands-on activities.
+<img src="/images/cl3.png" style="width:270px;height:200px;margin-left:15px;" align = "right"> MTL Fortnight held each year aims to create a learning environment where pupils learn more in depth about their culture. During the two-week programme, pupils will have the opportunity to experience the Chinese Language as a living language through the various hands-on activities.
 
 | Level | Themes |
 |---|---|
@@ -55,13 +55,13 @@ Level TWO:
 | P6 | Fun with Languages |
 
 <img src="/images/cl4.png" 
-     style="width:50%"> 
+     style="width:40%"> 
 
 <img src="/images/cl5.png" 
-     style="width:50%">
+     style="width:40%">
 
 <img src="/images/cl6.png" 
-     style="width:50%">
+     style="width:40%">
 		 
 <img src="/images/cl7.png" 
      style="width:50%">
@@ -80,8 +80,8 @@ Internal competitions are conducted during the Mother Tongue Fortnight Week. Pup
 Aside from the school based competition, pupils are also encouraged to participate in external competitions. This will help pupils to build up their confidence and contribute to their repertoire of experiences.
 
 <img src="/images/cl9.png" 
-     style="width:70%"> International Chinese Language Competition – Gold
+     style="width:50%"> International Chinese Language Competition – Gold
 
 
 <img src="/images/cl10.png" 
-     style="width:70%"> Story book created and printed by the pupils
+     style="width:50%"> Story book created and printed by the pupils
