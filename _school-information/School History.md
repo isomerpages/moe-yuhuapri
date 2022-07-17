@@ -5,7 +5,10 @@ description: ""
 ---
 ### School History
 
-### Brief School History and Background
+<img src="/images/hist1.png" 
+     style="width:70%">
+
+#### Brief School History and Background
 
 Yuhua Primary School, first known as _Joo Hwa Public School_ (公立裕华学校), was built in 1930, with the financial help and support of community leaders, businessmen and the residents in old Jurong. About 100 pupils first enrolled in the school. The school provided primary education using Chinese Language as the medium of instructions for the children of the farming community living on and around the old Jurong Road.
 
