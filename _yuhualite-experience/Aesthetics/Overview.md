@@ -57,4 +57,4 @@ At all the levels, the Visual Art Programme aims to achieve the key learning out
 <img src="/images/aes5.png" 
      style="width:80%"> <br>
 <img src="/images/aes6.png" 
-     style="width:60%">
+     style="width:50%">
