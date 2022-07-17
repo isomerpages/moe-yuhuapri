@@ -82,3 +82,22 @@ This is an enrichment programme, jointly offered by IMDA and MOE, that aims to i
 
 <img src="/images/ict8.png" 
      style="width:70%">
+
+These Primary 5 pupils are using the iPads to code their Sphero units to execute various commands, that even includes a disco-dance function.
+
+<img src="/images/ict9.png" 
+     style="width:70%">
+
+The pupils have coded these Sphero units to display icons that help them to play the ‘Scissors, Paper, Stone’ traditional game in innovative ways.
+
+**Forging Ahead with Design Thinking @ InnoWizz**
+
+InnoWizz is another signature programme in our school that enables a select group of pupils to partake in Design Thinking and understand more about effective yet affective problem-solving. This programme offers our students the opportunities to delve deep into a designer’s mindset through exploring and enabling the Design Thinking Framework and allows for the honing of creative and critical thinking that are grounded by empathy. They learn to be impactful contributors to tackle real-world issues.
+
+<img src="/images/ict10.png" 
+     style="width:70%">
+
+<img src="/images/ict11.png" 
+     style="width:70%">
+
+With these varied and whole-school approach, a strong culture of innovation and technological-readiness prevail among the students in the school.
