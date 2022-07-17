@@ -60,3 +60,33 @@ The Mathematics Department organised a Games Day in collaboration with the PE De
 The Maths Olympiad Programme is offered to pupils who has shown potential and aptitude in the subject. The programme stretches across 10 sessions to stretch our pupils’ potential in Mathematics.
 
 Selected pupils are being sent for national level Mathematics competitions and we are proud to present their 2019 achievements below:
+
+##### Raffles Institution Primary Mathematics World Contest (RIPMWC)
+
+**2022 Results**
+
+| Name | Class | Award |
+|:---:|:---:|:---:|
+| CAO YUANHENG | 5Gra | Distinction |
+| LIN MIAOMIAO | 5Gra | Distinction |
+| WEI SHIPENG | 5Gra | Distinction |
+| MUHAMMAD ADAM RAYYAN BIN ABDULLAH | 5Gra | Merit |
+| NURIYAH @ SU PYAE KYAW | 5Gra | Merit |
+| HARIJAI V.R | 6Kin | Distinction |
+| SOH YEE JIE | 6Kin | Merit |
+
+##### National Mathematical Olympiad of Singapore  
+
+**2021 Results**
+
+| Name | Class | Award |
+|:---:|:---:|:---:|
+| LIM CHEE HANN | 3Gra | Gold |
+| ZHANG JINGCHENG | 5Kin | Silver |
+| LIEW SAN YOU | 5Kin | Bronze |
+| STEPHANIE CHUE LE LE | 5Kin | Honourable Mention |
+| KEVIN PHYO | 6Dil | Honourable Mention |
+| NAY WUN THANT | 6Dil | Honourable Mention |
+| RAHMAN MASHRAFI | 6Dil | Honourable Mention |
+| SHIRIN ANGELINE | 6Dil | Honourable Mention |
+| XIE ZIHAN | 6Dil | Honourable Mention |
