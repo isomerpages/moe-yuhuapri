@@ -5,5 +5,38 @@ description: ""
 ---
 ### Contact Information and Location
 
-<img src="/images/googlemap.png" style="width:250px;height:240px;margin-right:15px;" align = "left"> Address: 158 Jurong East Street 24, 609558 <br> Contact No.: 65605062 <br>
-Fax: 65648278 <br> Email Address: [yuhua\_ps@moe.edu.sg](mailto:yuhua_ps@moe.edu.sg) <br> Operating Hours: 7am to 6pm <br> Nearest MRT Station: Jurong East MRT <br> Buses: 187,98M, 98, 333, 502
+| School Address 	|
+|---	|
+| 158 Jurong East Street 24 Singapore 609558 	|
+
+| School Telephone Numbers 	|
+|---	|
+| General Office: 6560 5062 	|
+| Fax: 6564 8278 	|
+| Email: yuhua_ps@moe.edu.sg 	|
+
+| School Bus Services 	|
+|---	|
+| Chitson Transport (Mr Yap) 	|
+| Tel: 6765 0262 	|
+| HP: 9666 5436 	|
+
+| School Bookshop 	|
+|---	|
+| Pacific Bookstores Pte Ltd 	|
+| Tel: 68975927 	|
+| Bookshop Operating Hours (during school term) as follow: 	|
+| Monday, Tuesday, Thursday and Friday : 9 am to 4.00 p.m. 	|
+| Wednesday: 9 am to 3.30 p.m. 	|
+| Lunch Hours: 12 pm to 1 pm 	|
+
+| Additional information: 	|
+|---	|
+| Pacific Bookstores Pte Ltd (Main Office) 	|
+| 14, Arumugam Road 	|
+| #08-01 	|
+| Lion Building C, Singapore 409959 	|
+| Tel: 64640111 	|
+| Fax: 64640110 	|
+
+<img src="/images/googlemap.png" style="width:250px;height:240px;margin-right:15px;" align = "left"> 
