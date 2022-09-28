@@ -1,6 +1,6 @@
 ---
 title: eOpen House 2022
-permalink: /highlights/e-open-house-2022
+permalink: /highlights/e-open-house-2022/
 description: ""
 ---
 ![](/images/openhousebanner.png)
@@ -19,23 +19,23 @@ Thank you for joining Yuhua Primary School’s E-Open House 2022.
 
 **_Knowing Yuhua Primary School_**
 
-*Insert video here.*
+*<iframe width="699" height="393" src="https://www.youtube.com/embed/Tp7vfVKXml0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*
 
 **_E-tour around our school facilities_**
 
-*Insert video here.*
+*<iframe width="699" height="393" src="https://www.youtube.com/embed/VXpKiHgAmDc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*
 
 **_Key Programmes 1_**
 
-*Insert video here.*
+*<iframe width="699" height="393" src="https://www.youtube.com/embed/SUQQUJjkuD4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*
 
 **_Key Programmes 2_**
 
-*Insert video here.*
+*<iframe width="699" height="393" src="https://www.youtube.com/embed/DOliC1ThHoU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*
 
 **_Voices of our P1 Yuhualites_**
 
-*Insert video here.*
+*<iframe width="699" height="393" src="https://www.youtube.com/embed/TkGYGrhWY-8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*
 
 Thank you for joining us on our 2022 E-Open House.
 
