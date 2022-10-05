@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /school-information/Staff/Overview
+permalink: /school-information/Staff/Overview/
 description: ""
 third_nav_title: Staff
 ---
@@ -10,7 +10,6 @@ Link to 2022 teacher PLEASE
 
 | Name | Email |
 |:---:|:---:|
-| Abdul Haqim Bin Mohd Nasruddin (MR) | abdul_haqim_mohd_nasruddin@moe.edu.sg |
 | Afzal-En-Nisa Binte Mohamad Nasir (MDM) | afzal-en-nisa_mohamad_na@moe.edu.sg |
 | Ang Si Ting Cheryl (MRS NG) | ang_si_ting_cheryl@moe.edu.sg |
 | Ang Ying Ying (MISS) | ang_ying_ying@moe.edu.sg |
