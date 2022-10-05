@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space (SLS)
-permalink: /general-information/student-learning-space
+permalink: /general-information/student-learning-space/
 description: ""
 ---
 ### Student Learning Space (SLS)
@@ -15,7 +15,7 @@ The SLS is collectively shaped by teachers and students. Taking into considerati
 
 The SLS can be accessed from [**here**](https://learning.moe.edu.sg/) .
 
-*Insert missing video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/xryKipQKsSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Activation of SLS Accounts**
 
