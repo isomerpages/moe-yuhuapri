@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /school-information/principals-message
+permalink: /school-information/principals-message/
 description: ""
 ---
 ### Principal's Message
