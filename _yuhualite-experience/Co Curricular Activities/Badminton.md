@@ -1,6 +1,6 @@
 ---
 title: Badminton
-permalink: /yuhualite-experience/Co-Curricular-Activities/badminton
+permalink: /yuhualite-experience/Co-Curricular-Activities/badminton/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
@@ -27,5 +27,4 @@ Members who display potential and have demonstrated competence and skills are se
 Tuesdays, 7.30pm to 9am, Hall
 
 <img src="/images/cca2.png" 
-     style="width:80%">
-
+     style="width:200%">
