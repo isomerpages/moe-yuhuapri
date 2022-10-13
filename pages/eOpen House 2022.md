@@ -23,19 +23,18 @@ Thank you for joining Yuhua Primary School’s E-Open House 2022.
 
 **_E-tour around our school facilities_**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/VXpKiHgAmDc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="699" height="393" src="https://www.youtube.com/embed/VXpKiHgAmDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **_Key Programmes 1_**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/SUQQUJjkuD4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/SUQQUJjkuD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **_Key Programmes 2_**
 
-*<iframe width="699" height="393" src="https://www.youtube.com/embed/DOliC1ThHoU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/DOliC1ThHoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **_Voices of our P1 Yuhualites_**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/TkGYGrhWY-8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/TkGYGrhWY-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Thank you for joining us on our 2022 E-Open House.
 
