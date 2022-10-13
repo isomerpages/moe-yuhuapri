@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /yuhualite-experience/Aesthetics/overview
+permalink: /yuhualite-experience/Aesthetics/overview/
 description: ""
 third_nav_title: Aesthetics
 ---
@@ -26,13 +26,13 @@ The objectives of the school’s Music programme are to:
 In customising the Music programme to inspire Yuhualites to explore their talents in music and encourage them to express themselves confidently through music, the school has put in place unique school-based programmes, namely:
 
 <img src="/images/aes1.png" 
-     style="width:80%"> <br>
+     style="width:200%"> <br>
 <img src="/images/aes2.png" 
-     style="width:80%">
+     style="width:200%">
 <img src="/images/aes3.png" 
-     style="width:80%"> <br>
+     style="width:200%"> <br>
 <img src="/images/aes4.png" 
-     style="width:80%">
+     style="width:200%">
 
 **Visual Art**
 
@@ -55,6 +55,6 @@ At all the levels, the Visual Art Programme aims to achieve the key learning out
 *   Final Year Art Project (Primary 6)
 
 <img src="/images/aes5.png" 
-     style="width:80%"> <br>
+     style="width:250%"> <br>
 <img src="/images/aes6.png" 
-     style="width:50%">
+     style="width:250%">
