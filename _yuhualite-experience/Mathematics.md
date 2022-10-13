@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /yuhualite-experience/mathematics
+permalink: /yuhualite-experience/mathematics/
 description: ""
 ---
 ### Mathematics
@@ -20,13 +20,13 @@ We believe that every child is unique and we use a repertoire of problem solving
 FAME corner stands for Free Access Math Experience corner! Affectionately known as FAME, this corner provides logic games for playing during recess time. New games are introduced monthly During the post-exam period, competitions like Kahoot!, rubix cubes and Sudoku are available for pupils to experience maths in a fun and engaging way. Pupils can also participate in quizzes during the festive seasons, e.g. Hari Raya quiz.
 
 <img src="/images/math1.png" 
-     style="width:50%">
+     style="width:100%">
 
 <img src="/images/math2.png" 
-     style="width:50%"> Kahoot! Competition
+     style="width:100%"> Kahoot! Competition
 
 <img src="/images/math2.png" 
-     style="width:50%"> Fame recess activities
+     style="width:100%"> Fame recess activities
 
 **Outdoor learning experience (OLE)**
 
@@ -39,19 +39,19 @@ Primary 3 (Topic: Area and Perimeter)
 Pupils find out the area of a badminton court using their 1-metre squares made out of newspapers.
 
 <img src="/images/math3.png" 
-     style="width:50%"> Primary 6 (Topic: Rate/ Speed)
+     style="width:100%"> Primary 6 (Topic: Rate/ Speed)
 
 Pupils investigate if there is a difference in the speeds of the lift when going up and going down.
 
 <img src="/images/math4.png" 
-     style="width:50%"> 
+     style="width:100%"> 
 
 **Lower Primary Games Day**
 
 The Mathematics Department organised a Games Day in collaboration with the PE Department. Many game stations were set up where pupils could participate and solve problems through physical activities which required the use of mathematical concepts.  Pupils had lots of fun and at the same time, apply their mathematical knowledge to solve authentic problem.
 
 <img src="/images/math5.png" 
-     style="width:50%">
+     style="width:100%">
 
 **Programmes to enrich learning of Mathematics**
 
