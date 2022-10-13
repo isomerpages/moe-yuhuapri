@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /yuhualite-experience/science
+permalink: /yuhualite-experience/science/
 description: ""
 ---
 ### Science
@@ -64,7 +64,7 @@ Experiential Experiences (Experiences that provide hands-on opportunities in and
 
 From Amazing Toy Car to Amazing Toys. Look at how our P6 Final Year Project has evolved. With the same objective in mind where pupils learn about how toys work and upcycle unwanted materials at the same time!
 
-*Insert video here.*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRpG1Lncq6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="/images/sci7.png" 
      style="width:70%">
