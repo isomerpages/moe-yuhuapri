@@ -1,10 +1,9 @@
 ---
 title: Overview
-permalink: /yuhualite-experience/Mother-Tongue
+permalink: /yuhualite-experience/Mother-Tongue/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
 ### Mother Tongue
 
 #### Goals
@@ -16,4 +15,4 @@ To be able to:
 *   Appreciate the language and the Mother Tongue culture
 
 <img src="/images/mtl0.png" 
-     style="width:70%">
+     style="width:140%">
