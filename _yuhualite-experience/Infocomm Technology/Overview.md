@@ -15,7 +15,7 @@ ICT is an integral part of teaching and learning in YHPS.  Across subjects, tea
 The standards has its focus on the acquisition and application of technical skills to support the creation of digital content and various modes of interaction. It details the skills, knowledge, attitude and values (SKAV) that pupils should apply and demonstrate when harnessing ICT for learning and interacting; curating digital content; connecting and communicating digitally; and creating digital multimodal products.
 
 <img src="/images/ict1.png" 
-     style="width:200%">
+     style="width:80%">
 		 
 New Media Literacies have been defined as the abilities to curate, create and connect with others in the digital networked environment. Curate, Create and Connect are ways of interacting in the digital networked environment. Regular engagement in these interactions will enable pupils to develop an understanding of the social practices governing the digital networked environment.
 
