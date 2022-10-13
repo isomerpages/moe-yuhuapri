@@ -1,6 +1,6 @@
 ---
 title: Programme for Active Learning
-permalink: /yuhualite-experience/programme-for-active-learning
+permalink: /yuhualite-experience/programme-for-active-learning/
 description: ""
 ---
 ### Programme for Active Learning (PAL)
@@ -16,7 +16,7 @@ The programme aims to:
 *   provide a myriad of opportunities for pupils to develop social emotional competencies.
 
 <img src="/images/pal0.png" 
-     style="width:70%"> 
+     style="width:200%"> 
 
 #### **PAL Performing Arts (P1 & 2)**
 
@@ -27,7 +27,7 @@ The PAL Dance Programme for Primary 1 allows pupils to physically explore and ga
 The PAL Music Programme for Primary 2 allows pupils to embark on a musical adventure as they try out different musical instruments like kompang, xylophones, hand bells among others.
 		 
 <img src="/images/pal1.png" 
-     style="width:60%">
+     style="width:200%">
 		 
 **PAL Visual Arts (P1)**
 
@@ -36,7 +36,7 @@ During the PAL Art Programme, our pupils develop their creativity and imaginatio
 PAL Art Programme for Primary 1 focuses on cartooning and doodling. The theme, Animals@Play, aims to heighten an awareness of the environment and the importance of wildlife conservation in our pupils. They also create craftwork from recycled materials and work in teams on a mini group project.
 
 <img src="/images/pal2.png" 
-     style="width:50%">
+     style="width:200%">
 		 
 #### **PAL Sports & Games Programme (P2)**
 
