@@ -1,6 +1,6 @@
 ---
 title: Indian Dance
-permalink: /yuhualite-experience/Co-Curricular-Activities/indian-dance
+permalink: /yuhualite-experience/Co-Curricular-Activities/indian-dance/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
@@ -24,5 +24,4 @@ Our aspiring dancers showcase their talents and skills during school events like
 Tuesdays, 7.30am to 9am, CCA Room 1
 
 <img src="/images/cca8.png" 
-     style="width:90%">
-
+     style="width:200%">
