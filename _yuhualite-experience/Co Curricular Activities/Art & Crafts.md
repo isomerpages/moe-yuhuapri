@@ -1,6 +1,6 @@
 ---
 title: Art & Crafts
-permalink: /yuhualite-experience/Co-Curricular-Activities/art-and-crafts
+permalink: /yuhualite-experience/Co-Curricular-Activities/art-and-crafts/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
@@ -24,4 +24,4 @@ During the process of art-making, not only do members learn the various art-maki
 Tuesdays, 7.30am – 9am, Art Room
 
 <img src="/images/cca1.png" 
-     style="width:80%">
+     style="width:200%">
