@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /yuhualite-experience/Aesthetics/Learning-for-life-programme
+permalink: /yuhualite-experience/Aesthetics/Learning-for-life-programme/
 description: ""
 third_nav_title: Aesthetics
 ---
@@ -31,31 +31,31 @@ Music and Performing Arts Programmes
 In customising the Music and Performing Arts programme to inspire Yuhualites to explore their talents in music and encourage them to express themselves confidently through music, the school has put in place unique school-based programmes which adopts a 3-tier approach of Engage, Enrich and Excel.
 
 <img src="/images/llp1.png" 
-     style="width:40%">
+     style="width:200%">
 <img src="/images/llp2.png" 
-     style="width:40%">
+     style="width:200%">
 <img src="/images/llp3.png" 
-     style="width:35%">
+     style="width:200%">
 <img src="/images/llp4.png" 
-     style="width:35%">
+     style="width:200%">
 
 **P3 Violin Enrichment**
 
 <img src="/images/llp5.png" 
-     style="width:30%"> <br>
+     style="width:200%"> <br>
 <img src="/images/llp6.png" 
-     style="width:35%">
+     style="width:200%">
 		 
 **Songwriting Enrichment**
 
 <img src="/images/llp7.png" 
-     style="width:35%"> <br>
+     style="width:200%"> <br>
 <img src="/images/llp8.png" 
-     style="width:40%">
+     style="width:200%">
 
 **P4 Guitar Enrichment**
 
 <img src="/images/llp9.png" 
-     style="width:40%"> <br>
+     style="width:200%"> <br>
 <img src="/images/llp10.png" 
-     style="width:40%">
+     style="width:200%">
