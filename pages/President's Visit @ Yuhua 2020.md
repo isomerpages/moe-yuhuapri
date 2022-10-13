@@ -29,6 +29,6 @@ _Check out the videos below of her visit._
 
 **Part 5 – Featured on CNA**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/JndqQy-Hxog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Thank you Mdm President for visiting Yuhua Primary School.
