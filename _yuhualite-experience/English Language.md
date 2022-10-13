@@ -35,7 +35,7 @@ Modified Language Experience Approach (MLEA) provides pupils with a shared exper
 Our Primary 1 and 2 Yuhualites go on Learning Journeys to the Singapore Zoo and Singapore Science Centre as an extension to their learning of the themes covered in the Stellar curriculum. These learning journeys encourage experiential learning as the outdoors become their classroom for the day.
 
 <img src="/images/eng2.png" 
-     style="width:70%">
+     style="width:100%">
 		 
 Learning Centres help to reinforce the language skills that pupils learn during SBA and MLEA lessons. Differentiated activities are planned for the pupils in the different learning centres where they have the opportunity to relearn, revisit or extend what they have learnt at their own pace.
 
