@@ -1,6 +1,6 @@
 ---
 title: Chinese Dance
-permalink: /yuhualite-experience/Co-Curricular-Activities/chinese-dance
+permalink: /yuhualite-experience/Co-Curricular-Activities/chinese-dance/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
@@ -23,4 +23,4 @@ Our Chinese dancers have achieved outstanding accomplishments in Singapore Youth
 Tuesdays, 7.30am to 9am, PAL room
 
 <img src="/images/cca5.png" 
-     style="width:80%">
+     style="width:250%">
