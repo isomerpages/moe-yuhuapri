@@ -1,6 +1,6 @@
 ---
 title: Brass Band
-permalink: /yuhualite-experience/Co-Curricular-Activities/brass-band
+permalink: /yuhualite-experience/Co-Curricular-Activities/brass-band/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
@@ -26,5 +26,4 @@ Tuesdays, 7.30am to 9am, Band Room
 Wednesdays, 2.15pm to 4.15pm, Band Room
 
 <img src="/images/cca3.png" 
-     style="width:80%">
-
+     style="width:200%">
