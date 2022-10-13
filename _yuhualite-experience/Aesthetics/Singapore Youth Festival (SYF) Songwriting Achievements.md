@@ -1,6 +1,6 @@
 ---
 title: Singapore Youth Festival (SYF) Songwriting Achievements
-permalink: /yuhualite-experience/Aesthetics/SYF-songwriting-achievements
+permalink: /yuhualite-experience/Aesthetics/SYF-songwriting-achievements/
 description: ""
 third_nav_title: Aesthetics
 ---
@@ -15,10 +15,10 @@ Since the year 2017, our students have taken part in the SYF Songwriting competi
 | Achievement: Top 10 Finalists |
 
 <img src="/images/syf1.png" 
-     style="width:45%">
+     style="width:250%">
 
 <img src="/images/syf2.png" 
-     style="width:45%">
+     style="width:250%">
 
 Let’s enjoy the song once again!
 
@@ -31,10 +31,10 @@ Let’s enjoy the song once again!
 | Achievement: Top 15 Finalists (Commendation Award) |
 
 <img src="/images/syf3.png" 
-     style="width:45%">
+     style="width:250%">
 
 <img src="/images/syf4.png" 
-     style="width:45%">
+     style="width:250%">
 
 Let’s enjoy the song once again!
 
@@ -47,10 +47,10 @@ Let’s enjoy the song once again!
 | Achievement: Top 15 Finalists |
 
 <img src="/images/syf5.png" 
-     style="width:45%">
+     style="width:250%">
 
 <img src="/images/syf6.png" 
-     style="width:45%">
+     style="width:250%">
 
 Let’s enjoy the song once again!
 
@@ -66,7 +66,7 @@ Let’s enjoy the song once again!
 | Achievement: Top 28 Finalists |
 
 <img src="/images/syf7.png" 
-     style="width:35%">
+     style="width:250%">
 
 The song is currently under production. Catch it here once it is ready!
 
