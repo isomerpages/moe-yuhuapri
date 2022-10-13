@@ -28,7 +28,7 @@ MOE uses the CW framework to develop the child’s instincts, in order to empowe
 
 **1\. CW advocacy efforts by our CW Ambassadors (CWAs):**
 
-*<iframe width="560" height="315" src="https://www.youtube.com/embed/DdhvMUi047Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DdhvMUi047Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="/images/cw8.png" 
      style="width:70%">
