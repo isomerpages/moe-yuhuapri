@@ -107,5 +107,4 @@ ScienceBuzz Lectures: A series of lectures aimed at promoting interest and aware
 Collaboration with Parents: The department engages parents yearly with workshops designed to give them an insight to Science lessons in the school. These workshops also serve to empower parents with practical strategies to engage their children at home with Science related activities.
 
 <img src="/images/sci13.png" 
-     style="width:12
-						0%"> **Parents participating in the annual Science workshop**
+     style="width:120%"> **Parents participating in the annual Science workshop**
