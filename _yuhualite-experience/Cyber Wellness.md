@@ -7,22 +7,22 @@ description: ""
 
 
 <img src="/images/cw1.png" 
-     style="width:70%">
+     style="width:100%">
 
 **What is Cyber Wellness (CW)?**
 
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviours and awareness of how to protect oneself in cyberspace. The focus of CW is on helping Yuhualites to become responsible digital learners. It is important for Yuhualites to be equipped with the knowledge, skills, values and attitudes to demonstrate respect for self and others, and to practise safe and responsible use. Yuhualites should also be a positive peer influence and harness the power of technology for the good of the community.
 
 <img src="/images/cw2.png" 
-     style="width:70%">
+     style="width:100%">
 
 <img src="/images/cw3.png" 
-     style="width:70%">
+     style="width:100%">
 
 MOE uses the CW framework to develop the child’s instincts, in order to empower him to take responsibility for his own wellbeing in cyberspace. The three CW principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ will enable a child to develop the instincts for making careful and well-considered decisions. When adhered to, these three principles will serve as a solid anchor for his online well-being.
 
 <img src="/images/cw4.png" 
-     style="width:70%">
+     style="width:120%">
 
 **CW @Yuhua**
 
@@ -31,21 +31,21 @@ MOE uses the CW framework to develop the child’s instincts, in order to empowe
 <iframe width="699" height="393" src="https://www.youtube.com/embed/DdhvMUi047Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="/images/cw8.png" 
-     style="width:70%">
+     style="width:200%">
 
 *Insert video here.*
 
 <img src="/images/cw10.png" 
-     style="width:70%">
+     style="width:100%">
 
 <img src="/images/cw11.png" 
-     style="width:70%">
+     style="width:200%">
 
 <img src="/images/cw12.png" 
-     style="width:50%">
+     style="width:100%">
 
 <img src="/images/cw13.png" 
-     style="width:60%">
+     style="width:100%">
 
 **Support at home (Sense Think Act at home)**
 
