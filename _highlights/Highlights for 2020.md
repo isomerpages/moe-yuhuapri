@@ -1,6 +1,6 @@
 ---
 title: Highlights for 2020
-permalink: /highlights/2020
+permalink: /highlights/2020/
 description: ""
 ---
 ### Highlights for 2020
@@ -15,23 +15,24 @@ _Check out the videos below of her visit._
 
 **Part 1 – Visiting our Peer Support Programme**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/pQF_qvFfQEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Part 2 – Understanding More of our School’s Programmes**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/y_2tdNdri2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Part 3 – Dialogue with Yuhualites**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/WCzSTpb-jXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Part 4 – Fixing the Cyber Wellness**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/fHcsJ7ZpI-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Part 5 – Featured on CNA**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/JndqQy-Hxog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Thank you Mdm President for visiting Yuhua Primary School.
 
