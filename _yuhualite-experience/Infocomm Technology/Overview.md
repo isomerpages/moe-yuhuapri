@@ -47,7 +47,7 @@ At the end of their six-year education in Yuhua Primary School, a pupil would ha
 **F.L.I.G.H.T.@1656** is a signature two-pronged programme that engages, enhances and extend students’ learning experiences. Students get to synthesise their knowledge and create digital learning artefacts that value-add to their learning. Customised tasks are curated to bring forth level-appropriate New Media Literacies (Baseline ICT Standards), Project Work Skills as well as English Language literacy application.
 
 <img src="/images/ict2.png" 
-     style="width:200%">
+     style="width:80%">
 		 
 **F.L.I.G.H.T. 1,2,3!** is the foundation of the whole-school F.L.I.G.H.T.@1656 programme to drive ICT skills and innovative learning experiences for the pupils. As this component targets the younger learners in our school, we gave them a less abstract setting to work on and tap on their learning content from their English Language curriculum as a springboard to challenge them to more innovative learning experiences and outcomes.
 
