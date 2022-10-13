@@ -1,6 +1,6 @@
 ---
 title: Sexuality
-permalink: /yuhualite-experience/Character-Education/sexuality
+permalink: /yuhualite-experience/Character-Education/sexuality/
 description: ""
 third_nav_title: Character Education (CCE)
 ---
@@ -44,13 +44,13 @@ third_nav_title: Character Education (CCE)
 **At YUHUA Primary School, the following Sexuality Education lessons will be taught in 2022:**
 
 <img src="/images/growing1.png" 
-     style="width:80%">
+     style="width:200%">
 <img src="/images/growing2.png" 
-     style="width:80%">
+     style="width:200%">
 <img src="/images/growing3.png" 
-     style="width:80%">
+     style="width:200%">
 <img src="/images/growing4.png" 
-     style="width:80%">
+     style="width:200%">
 
 **Information for Parents**
 
