@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /yuhualite-experience/english-language
+permalink: /yuhualite-experience/english-language/
 description: ""
 ---
 ### English Language
@@ -20,7 +20,7 @@ STELLAR aims to build in children a love for reading and a strong foundation in 
 LOWER PRIMARY STELLAR
 
 <img src="/images/eng1.png" 
-     style="width:50%">
+     style="width:100%">
 
 The Lower Primary STELLAR Pedagogical Model comprises the following strategies:
 
@@ -42,7 +42,7 @@ Learning Centres help to reinforce the language skills that pupils learn during 
 UPPER PRIMARY STELLAR
 
 <img src="/images/eng3.png" 
-     style="width:60%">
+     style="width:100%">
 
 The Upper Primary STELLAR Pedagogical Model consists of the following strategies:
 
@@ -86,7 +86,7 @@ We adopt a whole school approach to reading in order to inculcate the love of re
 Storytime is a pre-assembly programme that exposes our Yuhualites to a myriad of stories covering a variety of genres and themes. Different teachers read these stories to them weekly. Confident Yuhualites are invited to join in the weekly sharing sessions.
 
 <img src="/images/eng4.png" 
-     style="width:70%">
+     style="width:100%">
 
 **READ period**
 
@@ -95,7 +95,7 @@ We have weekly READ periods where Yuhualites get to delve deeper into a variety 
 Not only do they learn about the unique characteristics of different story genres, but they also get to form an appreciation for stories from those genres. During the READ Period, Yuhualites get to engage in and respond to different genre-based stories that have been selected for these lessons. To add to the rich reading culture, Yuhualites also get to complete interesting reader-response activities. They can complete simpler tasks like book cover designs or more creative ones like crafting an email to the author to recommend a new element to the story.
 
 <img src="/images/eng5.png" 
-     style="width:70%">
+     style="width:100%">
 
 Monthly Current Affairs
 
@@ -106,7 +106,7 @@ Supplementary Materials : ACE & WHIZ Magazines
 The ACE and WHIZ magazines are supplementary materials used to further enrich Yuhualites’ knowledge on global and local issues around us. These magazines are used as part of English Language lessons to encourage Yuhualites to read and think critically.
 
 <img src="/images/eng6.png" 
-     style="width:50%">
+     style="width:100%">
 
 **SPEAK@Yuhua**
 
@@ -129,7 +129,7 @@ Games@Recess
 These monthly recess games aim to provide a multitude of opportunities for Yuhualites to use the English Language to communicate and at the same time, have fun.
 
 <img src="/images/eng7.png" 
-     style="width:70%">
+     style="width:100%">
 **Language Level Competitions**
 
 Friendly level competitions are held every year to get Yuhualites to put their language skills to the test.
@@ -139,4 +139,4 @@ Friendly level competitions are held every year to get Yuhualites to put their l
 Every year, workshop materials are specially designed to empower parents to guide their children in the learning of the English Language. These workshops provide parents with ideas to hold enriching discussion and conversations with their children.
 
 <img src="/images/eng8.png" 
-     style="width:70%">
+     style="width:100%">
