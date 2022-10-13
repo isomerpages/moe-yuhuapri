@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /yuhualite-experience/Co-Curricular-Activities/choir
+permalink: /yuhualite-experience/Co-Curricular-Activities/choir/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
@@ -23,4 +23,4 @@ Opportunities are plenty for the choir to participate in performances, internal 
 Tuesdays, 7.30am to 9am, Music Room (Level 1)
 
 <img src="/images/cca6.png" 
-     style="width:80%">
+     style="width:200%">
