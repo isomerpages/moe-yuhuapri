@@ -21,7 +21,7 @@ _Check out the videos below of her visit._
 
 **Part 3 – Dialogue with Yuhualites**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/WCzSTpb-jXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Part 4 – Fixing the Cyber Wellness**
 
