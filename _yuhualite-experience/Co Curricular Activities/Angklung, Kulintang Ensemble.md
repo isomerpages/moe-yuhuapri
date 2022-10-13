@@ -1,6 +1,6 @@
 ---
 title: Angklung, Kulintang Ensemble
-permalink: /yuhualite-experience/Co-Curricular-Activities/angklung-kulintang-ensemble
+permalink: /yuhualite-experience/Co-Curricular-Activities/angklung-kulintang-ensemble/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
@@ -27,4 +27,4 @@ Our young musicians have achieved outstanding achievements in Singapore Youth Fe
 Tuesdays, 7.30am to 9am, Angklung room (Level 1)
 
 <img src="/images/angklung2.png" 
-     style="width:80%">
+     style="width:200%">
