@@ -1,6 +1,6 @@
 ---
 title: President's Visit @ Yuhua 2020
-permalink: /presidents-visit-yuhua-2020
+permalink: /presidents-visit-yuhua-2020/
 description: ""
 ---
 ### President’s Visit @ Yuhua 2020
@@ -13,7 +13,7 @@ _Check out the videos below of her visit._
 
 **Part 1 – Visiting our Peer Support Programme**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/pQF_qvFfQEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Part 2 – Understanding More of our School’s Programmes**
 
