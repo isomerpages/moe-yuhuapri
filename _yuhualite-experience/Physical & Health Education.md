@@ -1,6 +1,6 @@
 ---
 title: Physical & Health Education
-permalink: /yuhualite-experience/physical-and-health-education
+permalink: /yuhualite-experience/physical-and-health-education/
 description: ""
 ---
 ### Physical Education & Health Education (PE/HE)
@@ -12,7 +12,7 @@ The PE Programme develops pupils’ psychomotor and games skills, equips them wi
 Pupils develop and maintain physical health and fitness through regular participation in physical activities and acquire safe practices during physical activities. They also demonstrate the spirit of fair play, teamwork and sportsmanship.
 
 <img src="/images/pe1.png" 
-     style="width:55%">
+     style="width:200%">
 
 #### Programmes
 
