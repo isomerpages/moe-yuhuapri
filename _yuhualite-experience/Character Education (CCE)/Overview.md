@@ -40,9 +40,9 @@ Yuhualites commemorate the four NE Commemorative Days every year:
 
 Through the NE commemorative days, Yuhulites learn about the important milestones of Singapore’s history and how they can play their part to keep Singapore a diverse, unified and resilient country.  These provide opportunities for Yuhualites to deepen their appreciation of our shared past and Singapore’s current realities.
 
-<img src="/images/cce4.png" style="width:250%">
+<img src="/images/cce4.png" style="width:100%">
 
-<img src="/images/cce5.png" style="width:250%">
+<img src="/images/cce5.png" style="width:100%">
 
 <img src="/images/cce6.png" style="width:100%">
 
