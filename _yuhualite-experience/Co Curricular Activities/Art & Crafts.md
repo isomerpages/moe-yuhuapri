@@ -24,4 +24,4 @@ During the process of art-making, not only do members learn the various art-maki
 Tuesdays, 7.30am – 9am, Art Room
 
 <img src="/images/cca1.png" 
-     style="width:200%">
+     style="width:100%">
