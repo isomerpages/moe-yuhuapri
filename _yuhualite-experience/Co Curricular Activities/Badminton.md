@@ -27,4 +27,4 @@ Members who display potential and have demonstrated competence and skills are se
 Tuesdays, 7.30pm to 9am, Hall
 
 <img src="/images/cca2.png" 
-     style="width:200%">
+     style="width:100%">
