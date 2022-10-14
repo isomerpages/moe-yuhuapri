@@ -27,4 +27,4 @@ Our young musicians have achieved outstanding achievements in Singapore Youth Fe
 Tuesdays, 7.30am to 9am, Angklung room (Level 1)
 
 <img src="/images/angklung2.png" 
-     style="width:200%">
+     style="width:100%">
