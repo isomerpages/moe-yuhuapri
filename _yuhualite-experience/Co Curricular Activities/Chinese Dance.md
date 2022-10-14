@@ -23,4 +23,4 @@ Our Chinese dancers have achieved outstanding accomplishments in Singapore Youth
 Tuesdays, 7.30am to 9am, PAL room
 
 <img src="/images/cca5.png" 
-     style="width:250%">
+     style="width:100%">
