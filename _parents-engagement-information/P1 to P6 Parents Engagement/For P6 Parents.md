@@ -13,11 +13,11 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 **P6 Parents Engagement – English**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/NbNr0EeYux4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **P6 Parents Engagement – Mathematics**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/69ghIvU0X6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **P6 Parents Engagement – Science**
 
