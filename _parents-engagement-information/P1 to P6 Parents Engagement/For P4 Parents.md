@@ -28,16 +28,16 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 **P4 Parents Engagement – Mother Tongue (ML)**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/PyEqeQ2LwP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **P4 Parents Engagement – Mother Tongue (TL)**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/-IjSrAM_OeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Students Well-being Strategies for Parents**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/0zd3yn63fgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **P4 Subject-Based Banding and PSLE Scoring Systems**
 
-*Insert video here.*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/VRFQnhN7lM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
