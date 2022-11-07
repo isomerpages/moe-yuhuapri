@@ -20,20 +20,20 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 **P5 Parents Engagement – Science**
 
-*Insert Video here*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/rhwCn3iWLS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **P5 Parents Engagement – Mother Tongue (CL)**
 
-*Insert Video here*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/cHoUIfExOh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **P5 Compo Parents Engagement (CL)**
 
-*Insert Video here*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/vjzSBZtaQpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **P5 Parents Engagement – Mother Tongue (ML)**
 
-*Insert Video here*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/nanjVMwQzSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **P5 Parents Engagement – Mother Tongue (TL)**
 
-*Insert Video here*
+<iframe width="699" height="393" src="https://www.youtube.com/embed/D8jc76oNuig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
