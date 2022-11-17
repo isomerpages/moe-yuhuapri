@@ -2,6 +2,7 @@ collections:
   parents-engagement-information:
     output: true
     order:
+      - Example TitTerm 4(Year End 2022) Letter to Parents.md
       - P1 to P6 Parents Engagement/Overview.md
       - P1 to P6 Parents Engagement/For P1 Parents.md
       - P1 to P6 Parents Engagement/For P2 Parents.md
