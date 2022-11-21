@@ -1,6 +1,6 @@
 ---
 title: Road Safety
-permalink: /general-information/road-safety
+permalink: /general-information/road-safety/
 description: ""
 ---
 ### Road Safety

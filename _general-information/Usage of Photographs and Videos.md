@@ -1,6 +1,6 @@
 ---
 title: Usage of Photographs and Videos
-permalink: /general-information/usage-of-photographs-and-videos
+permalink: /general-information/usage-of-photographs-and-videos/
 description: ""
 ---
 ### Usage of photographs and Videos

@@ -1,6 +1,6 @@
 ---
 title: School Song
-permalink: /school-information/school-song
+permalink: /school-information/school-song/
 description: ""
 ---
 ### School Song

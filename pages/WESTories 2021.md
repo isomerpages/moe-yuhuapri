@@ -1,6 +1,6 @@
 ---
 title: WESTories 2021
-permalink: /WESTories-2021
+permalink: /WESTories-2021/
 description: ""
 ---
 ### WESTories 2021

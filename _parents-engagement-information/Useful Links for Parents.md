@@ -1,6 +1,6 @@
 ---
 title: Useful Links for Parents
-permalink: /parents-engagement-information/useful-links-for-parents
+permalink: /parents-engagement-information/useful-links-for-parents/
 description: ""
 ---
 ### Useful Links for Parents

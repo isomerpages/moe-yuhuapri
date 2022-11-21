@@ -1,6 +1,6 @@
 ---
 title: House System
-permalink: /school-information/house-system
+permalink: /school-information/house-system/
 description: ""
 ---
 ### House System
