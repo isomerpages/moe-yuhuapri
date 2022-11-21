@@ -1,5 +1,5 @@
 ---
 title: eOpen House
-permalink: /workspace/permalink
+permalink: /workspace/permalink/
 description: ""
 ---

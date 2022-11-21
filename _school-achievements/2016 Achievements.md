@@ -1,6 +1,6 @@
 ---
 title: 2016 Achievements
-permalink: /school-achievements/2016
+permalink: /school-achievements/2016/
 description: ""
 ---
 ### 2016 Achievements

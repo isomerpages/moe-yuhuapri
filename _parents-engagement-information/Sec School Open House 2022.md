@@ -1,6 +1,6 @@
 ---
 title: Sec School Open House 2022
-permalink: /parents-engagement-information/secondary-school-open-house-2022
+permalink: /parents-engagement-information/secondary-school-open-house-2022/
 description: ""
 ---
 ### Secondary School Open House 2022

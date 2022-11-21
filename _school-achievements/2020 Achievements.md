@@ -1,6 +1,6 @@
 ---
 title: 2020 Achievements
-permalink: /school-achievements/2020
+permalink: /school-achievements/2020/
 description: ""
 ---
 ### 2020 Achievements

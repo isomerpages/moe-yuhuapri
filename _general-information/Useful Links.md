@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /general-information/useful-links
+permalink: /general-information/useful-links/
 description: ""
 ---
 ### Links
