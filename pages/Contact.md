@@ -32,11 +32,4 @@ description: ""
 | Wednesday: 9 am to 3.30 p.m. 	|
 | Lunch Hours: 12 pm to 1 pm 	|
 
-| Additional information: 	|
-|---	|
-| Pacific Bookstores Pte Ltd (Main Office) 	|
-| 14, Arumugam Road 	|
-| #08-01 	|
-| Lion Building C, Singapore 409959 	|
-| Tel: 64640111 	|
-| Fax: 64640110 	|
+|
