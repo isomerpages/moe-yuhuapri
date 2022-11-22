@@ -10,7 +10,7 @@ locations:
       - Singapore 609558
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 7.00 am - 6.00pm
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
@@ -19,8 +19,8 @@ locations:
     title: Yuhua Primary School
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - phone: +65 6560 5062
+      - email: yuhua_ps@moe.edu.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
   - content:
