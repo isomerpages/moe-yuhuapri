@@ -21,11 +21,6 @@ contacts:
   - content:
       - phone: +65 6560 5062
       - email: yuhua_ps@moe.edu.sg
-      - other: Any text here <i>including HTML</i>
+      - other: We will contact you within 3 working days for any enquiry.  <i></i>
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
