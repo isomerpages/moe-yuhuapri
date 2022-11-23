@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-yuhuapri-staging.netlify.app
-prod: https://moe-yuhuapri-prod.netlify.app
+staging: https://staging.d208etn7e5emwj.amplifyapp.com
+prod: https://master.d208etn7e5emwj.amplifyapp.com
 shareicon: /images/yuhualogo.png
 is_government: false
 facebook-pixel: ""
