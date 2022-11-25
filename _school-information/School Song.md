@@ -5,7 +5,6 @@ description: ""
 ---
 ### School Song
 
-*Audio clip to be inserted here*
 
 Here is where we grow and serve
 
