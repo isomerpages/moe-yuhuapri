@@ -39,6 +39,7 @@ description: ""
 | Egg Sandwich/Tuna Sandwich | 60 cents |
 | Healthy Meals in Schools Programme<br>Set A – Curry Chicken Rice  <br>Set B – Ayam Kicap Rice<br>Set C – Chicken Rice<br>(All sets includes fruit & vegetables) | $1.70 |
 
+
 #### Stall No. 6 (Noodles Stall)
 
 | Type of Food/Drinks | Prices |
