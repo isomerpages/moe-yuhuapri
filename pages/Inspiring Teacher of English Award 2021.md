@@ -22,5 +22,4 @@ Our heartiest congratulations to Ms Vicky for being conferred with this prestigi
 You may wish to click on the following links to find out more:  
 1. [https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/2021](https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/2021)  
 2. [https://www.straitstimes.com/singapore/parenting-education/7-teachers-recognised-for-inspiring-students-to-love-the-english](https://www.straitstimes.com/singapore/parenting-education/7-teachers-recognised-for-inspiring-students-to-love-the-english)
-
 3. [https://www.moe.gov.sg/news/speeches/20211007-speech-by-dr-mohamad-maliki-bin-osman-second-minister-for-education-at-the-inspiring-teacher-of-english-awards-ceremony](https://www.moe.gov.sg/news/speeches/20211007-speech-by-dr-mohamad-maliki-bin-osman-second-minister-for-education-at-the-inspiring-teacher-of-english-awards-ceremony)
