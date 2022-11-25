@@ -18,6 +18,9 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/2021
+  - resources:
+      subtitle: Announcement
+      button: Announcement
   - infopic:
       title: Annual Prize-Giving Day 2022
       description: Our Annual Prize Giving Day (APGD) 2022 was conducted “live” via
@@ -44,7 +47,4 @@ sections:
       url: /presidents-visit-yuhua-2020
       image: /images/infopic3.png
       alt: Image alt text
-  - resources:
-      subtitle: Announcement
-      button: Announcement
 ---
