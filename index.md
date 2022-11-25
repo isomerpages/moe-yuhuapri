@@ -44,4 +44,7 @@ sections:
       url: /presidents-visit-yuhua-2020
       image: /images/infopic3.png
       alt: Image alt text
+  - resources:
+      subtitle: Announcement
+      button: Announcement
 ---
