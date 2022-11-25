@@ -1,12 +1,12 @@
 title: Yuhua Primary School
-url: ""
+url: https://www.yuhuapri.moe.edu.sg
 favicon: /images/yuhualogo.png
 colors:
   primary-color: "#062855"
-  secondary-color: "#000000"
+  secondary-color: "#d0021b"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#063d7e"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
