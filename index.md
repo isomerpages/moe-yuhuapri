@@ -19,7 +19,7 @@ sections:
           description: ""
           url: /highlights/2021
   - resources:
-      subtitle: Announcement
+      subtitle: Announcements
       button: Announcement
   - infopic:
       title: Annual Prize-Giving Day 2022
