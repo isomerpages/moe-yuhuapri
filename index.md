@@ -45,4 +45,3 @@ sections:
       image: /images/infopic3.png
       alt: Image alt text
 ---
-
