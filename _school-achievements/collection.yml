@@ -1,0 +1,7 @@
+collections:
+  school-achievements:
+    output: true
+    order:
+      - 2021 Achievements.md
+      - 2020 Achievements.md
+      - 2019 Achievements.md

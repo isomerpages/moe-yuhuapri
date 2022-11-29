@@ -1,13 +1,84 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/yuhualogo.png
 links:
-  - title: Contact Us
+  - title: About Us
+    url: /school-information/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /school-information/principals-message
+      - title: Mission, Vision, Values
+        url: /school-information/mission-vision-and-values
+      - title: School History
+        url: /school-information/school-history
+      - title: School Song
+        url: /school-information/school-song
+      - title: School Crest
+        url: /school-information/school-crest
+      - title: Staff
+        url: /school-information/Staff/Overview
+      - title: School Advisory Committee
+        url: /school-information/school-advisory-committee
+      - title: Parent's Support Group
+        url: /school-information/parents-support-group
+  - title: General Information
+    url: /general-information/school-operating-hours
+    sublinks:
+      - title: School Operating Hours
+        url: /general-information/school-operating-hours
+      - title: School Services
+        url: /general-information/school-services
+      - title: Student Learning Space (SLS)
+        url: /general-information/student-learning-space
+      - title: Calendar of Events
+        url: /general-information/calendar-of-events
+      - title: Canteen Food List
+        url: /general-information/canteen-food-list
+      - title: GPA Insurance Policy(Students)
+        url: /general-information/gpa-insurance-policy-for-students
+      - title: Usage of Photographs & Videoss
+        url: /general-information/usage-of-photographs-and-videos
+      - title: Useful Links
+        url: /general-information/useful-links
+  - title: Yuhualite Experience
+    url: /Yuhualite-Experience/english-language
+    sublinks:
+      - title: English Langauge
+        url: /Yuhualite-Experience/english-language
+      - title: Mathematics
+        url: /Yuhualite-Experience/mathematics
+      - title: Science
+        url: /Yuhualite-Experience/Science
+      - title: Mother Tongue
+        url: /Yuhualite-Experience/mother-tongue
+      - title: InfoComm Technology
+        url: /Yuhualite-Experience/infocomm-technology
+      - title: Cyber Wellness
+        url: /Yuhualite-Experience/cyber-wellness
+      - title: "Programme for Active Learning "
+        url: /Yuhualite-Experience/Programme-for-active-learning
+      - title: Aesthetics
+        url: /yuhualite-experience/Aesthetics/overview
+      - title: Physical & Health Education
+        url: /Yuhualite-Experience/physical-and-health-education
+      - title: Social Studies
+        url: /Yuhualite-Experience/social-studies
+      - title: "Character Education "
+        url: /yuhualite-experience/character-education/overview
+      - title: Co-Curricular Activities
+        url: /yuhualite-experience/Co-Curricular-Activities/overview
+      - title: Pupil Leadership Development
+        url: /Yuhualite-Experience/pupil-leadership-development
+  - title: Parents Engagement Information
+    url: /parents-engagement-information/p1-to-p6
+    sublinks:
+      - title: P1 to P6 Parents Engagement
+        url: /parents-engagement-information/P1-to-P6
+      - title: Direct School Admission 2022
+        url: /parents-engagement-information/direct-school-admission-2022/
+      - title: Sec School Open House 2022
+        url: /parents-engagement-information/secondary-school-open-house-2022
+      - title: Useful Links for Parents
+        url: /parents-engagement-information/useful-links-for-parents
+      - title: Forms and Letters
+        url: /parents-engagement-information/forms-and-letters
+  - title: Contact
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
