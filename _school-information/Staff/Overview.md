@@ -58,8 +58,10 @@ Link to [2022 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Musa B Abdul Kadir (MR) | musa_b_abdul_kadir@moe.edu.sg |
 | Nadira Bte Omar (MDM) | nadira_omar@moe.edu.sg |
 | Nizam Nurrahim B Abdul Shukor (MR) | nizam_nurrahim_abdul_shukor@moe.edu.sg |
+| Nur Qurratuaini Binte Mohd Zuhri (MDM) | nur_qurratuaini_mohd_zuhri@moe.edu.sg|
 | Nurfadlin Fazirah Binte Abdul Manaf | nurfadlin_fazirah_abdul_manaf@moe.edu.sg |
 | Purushothaman Padmini (MDM) | purushothaman_padmini@moe.edu.sg |
+| Rita Binte Salleh (MDM) | rita_salleh@moe.edu.sg |
 | Rohaidah Bte Abdul Wahid (MISS) | rohaidah_abdul_wahid@moe.edu.sg |
 | Sadiah Bte Ahmad (MDM) | sadiah_ahmad@moe.edu.sg |
 | Shaheen Aman Khan (MRS) | shaheen_aman_malik_aman@moe.edu.sg |
@@ -72,6 +74,7 @@ Link to [2022 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Suhana Bte Puhari (MDM) | suhana_puhari@moe.edu.sg |
 | Tan Chien Yuin Caroline (MISS) | tan_chien_yuin@moe.edu.sg |
 | Tan Chuan Lim (MDM) | tan_chuan_lim@moe.edu.sg |
+| Tan Heng Kwee (MR) | tan_heng_kwee@moe.edu.sg |
 | Tan Siew Keng Patricia (MDM) | tan_siew_keng_patricia@moe.edu.sg |
 | Tan Sok Lan Corrine (MDM) | tan_sok_lan_corrine@moe.edu.sg |
 | Tan Suan Kheng (MDM) | tan_suan_kheng@moe.edu.sg |
