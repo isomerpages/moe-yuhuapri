@@ -86,5 +86,6 @@ Link to [2022 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Wu Chiou Pyng (MISS) | wu_chiou_pyng@moe.edu.sg |
 | Yap Heong Wee (MR) | yap_heong_wee@moe.edu.sg |
 | Yim May May Janice (MISS) | yim_may_may_janice@moe.edu.sg |
+| Yip Lai Mun (MDM) | yip_lai_mun@moe.edu.sg |
 | Yuliana Bte Mohamed (MDM) | yuliana_mohamed@moe.edu.sg |
 | Zhuang Xiling (MISS) | zhuang_xiling@moe.edu.sg |
