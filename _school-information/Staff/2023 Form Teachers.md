@@ -25,9 +25,7 @@ third_nav_title: Staff
 | 1 UNITY | MR DANIEL ABDUL MANAP | muhammad_daniel_abdul_manap@moe.edu.sg |
 |  | MS CELESTE CHEN WEI  | celeste_chen_wei@moe.edu.sglin_renfang@moe.edu.sg |
 | 1 HONESTY | MRS NG – ANG SI TING CHERYL | ang_si_ting_cheryl@moe.edu.sg |
-|  | MS MARZIATI MUSTAFA | marziati_mustafa@moe.edu.sg |
-| 1 LOVE | MS GERMAINE LIM JIA YING | germaine_lim_jia_ying@moe.edu.sg |
-|  | MDM SADIAH AHMAD | sadiah_ahmad@moe.edu.sg |
+|  | MRS HO - YIP LAI MUN | yip_lai_mun@moe.edu.sg |
 
 #### Primary 2
 
@@ -45,13 +43,6 @@ third_nav_title: Staff
 |  |  MR GOH HAN SERM | goh_han_serm@moe.edu.sg |
 | 2 UNITY | MR NIZAM NURRAHIM ABDUL SHUKOR | nizam_nurrahim_abdul_shukor@moe.edu.sg|
 |  | MDM SUHANA PUHARI | suhana_puhari@moe.edu.sg |
-| 2 HONESTY | MS LIM ZUO ER JOEY | lim_zuo_er_joey@moe.edu.sg |
-
-| 2 LOVE | MR NIZAM NURRAHIM ABDUL SHUKOR |  |
-|  | MRS SHARON OW | mah_li_feng@moe.edu.sg |
-|  | MDM SADIAH AHMAD | sadiah_ahmad@moe.edu.sg || 1 UNITY | MS LIN RENFANG | lin_renfang@moe.edu.sg |
-
-|  | MR ABDUL HAQIM BIN MOHD NASRUDDIN | abdul_haqim_mohd_nasruddin@moe.edu.sg |
 | 2 HONESTY | MDM HANIS BTE RAHMAT| hanis_rahmat@moe.edu.sg  |
 |  | MS MARZIATI MUSTAFA | marziati_mustafa@moe.edu.sg |
 | 2 LOVE | MS GERMAINE LIM JIA YING | germaine_lim_jia_ying@moe.edu.sg |
@@ -77,7 +68,21 @@ third_nav_title: Staff
 |  | MDM RITA SALLEH | rita_salleh@moe.edu.sg |
 
 #### Primary 4
-
+| Class | Teachers | Email |
+|---|---|---|
+| 4 JOY | MR ANDY LOW | low_kok_jun@moe.edu.sg |
+| | MDM MARIA NORASHIKEN | maria_norashiken_hayak@moe.edu.sg |
+| | MDM NADIRA OMAR | nadira_omar@moe.edu.sg |
+| 4  COURAGE | MR MOHAMED NAZRA MOHAMED SAID | mohamed_nazra_mohamed_said@moe.edu.sg |
+|  | MR LIU HUNG | liu_hung@moe.edu.sg |
+| 3 KINDNESS | MS KATIE GOH | goh_k_thing@moe.edu.sg |
+|  | MR TSENG CHAO CHENG | tseng_chao-cheng@moe.edu.sg |
+| 3 GRATITUDE | MS WU CHIOU PYNG | wu_chiou_pyng@moe.edu.sg |
+| 3 DILIGENCE | MS TIEY HUAY YONG | tiey_huay_yong@moe.edu.sg |
+|  | MDM SITI FATIMAH BTE ABDUL LATIFF | siti_fatimah_abdul_latiff@moe.edu.sg |
+|  | MDM PURUSHOTHAMAN PADMINI | purushothaman_padmini@moe.edu.sg |
+| 3 UNITY | MS LIN RENFANG | lin_renfang@moe.edu.sg |
+|  | MDM RITA SALLEH | rita_salleh@moe.edu.sg |
 | Class | Teachers | Email |
 |---|---|---|
 | 4  JOY | MR DANIEL ABDUL MANAP | muhammad_daniel_abdul_manap@moe.edu.sg |
