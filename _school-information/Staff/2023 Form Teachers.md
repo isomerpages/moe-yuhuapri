@@ -82,15 +82,6 @@ third_nav_title: Staff
 | 4 DILIGENCE | MS TIEY HUAY YONG | tiey_huay_yong@moe.edu.sg |
 |  | MDM PURUSHOTHAMAN PADMINI | purushothaman_padmini@moe.edu.sg |
 
-| Class | Teachers | Email |
-|---|---|---|
-| 4  JOY | MR DANIEL ABDUL MANAP | muhammad_daniel_abdul_manap@moe.edu.sg |
-|  | MR KELVIN LIM | lim_xiang_wei_kelvin@moe.edu.sg |
-| 4  COURAGE | MDM LILY LIM | lim_lily@moe.edu.sg |
-
-|  | MRS LIU – KANG HAN YING IVORIE | kang_han_ying_ivorie@moe.edu.sg |
-
-
 
 #### Primary 5
 
@@ -101,10 +92,11 @@ third_nav_title: Staff
 | 5  COURAGE | MS LIM BEE LIAN | lim_bee_lian_a@moe.edu.sg |
 |  | MRS SHARON OW - MAH LI FENG | mah_li_feng@moe.edu.sg |
 |  | MDM WONG JING JING JEAN | wong_jing_jing@moe.edu.sg |
-|  | 
 |5 KINDNESS | MR AZMAN YAHYA | azman_yahya@moe.edu.sg |
 |  | MS ANG YING YING | ang_ying_ying@moe.edu.sg |
-|  | 
+| 5 GRATITUDE | MRS LIU – KANG HAN YING IVORIE | kang_han_ying_ivorie@moe.edu.sg |
+|5 DILIGENCE | MR TAN HENG KWEE | tan_heng_kwee@moe.edu.sg |
+| |MS TAY YULING | tay_yuling@moe.edu.sg |
 
 
 #### Primary 6
