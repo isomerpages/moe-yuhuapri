@@ -6,7 +6,7 @@ third_nav_title: Staff
 ---
 ### School Staff
 
-Link to [2023 Form Teachers]((https://moe-yuhuapri-staging.netlify.app/school-information/Staff/2023-Form-Teachers/)
+Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-information/Staff/2023-Form-Teachers/)
 
 | Name | Email |
 |:---:|:---:|
