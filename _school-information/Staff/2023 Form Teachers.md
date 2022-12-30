@@ -12,19 +12,18 @@ third_nav_title: Staff
 |---|---|---|
 | 1 JOY | MS YIM MAY MAY JANICE | yim_may_may_janice@moe.edu.sg |
 |  | MS NURFADLIN FAZIRAH | nurfadlin_fazirah_abdul_manaf@moe.edu.sg |
-| 1 COURAGE | MRS GEE-YAP CHENG LIANG | |
-|  | MDM SITI FATIMAH BTE ABDUL LATIFF | siti_fatimah_abdul_latiff@moe.edu.sg |
+| 1 COURAGE | MRS XIAO - CHUA SUI LING, CHRISTINE|chua_sui_ling_christine@moe.edu.sg|
+|  | MRS GEE - YAP CHENG LIANG |gee_yap_cheng_liang@moe.edu.sg |
+|  | MS SITI KAMIRAH MOHAMED NOR | siti_kamirah_mohamed_nor@moe.edu.sg |
 | 1 KINDNESS | MDM SITI FARAH DEVA OMAR | siti_farah_deva_omar@moe.edu.sg |
-|  | MS LOONG SIEW HWEE JESSLIN | loong_siew_hwee@moe.edu.sg |
-|  | MDM AFZAL EN-NISA | afzal-en-nisa_mohamad_na@moe.edu.sg |
+|  | MRS YANG - GAY BEE HONG | gay_bee_hong@moe.edu.sg |
 | 1GRATITUDE | MRS CHAN – TAN SOK LAN CORRINE| tan_sok_lan_corrine@moe.edu.sg |
-|  | MRS LEE- GUAN MEIXIA | guan_meixia@moe.edu.sg |
+|  | MRS LEE - GUAN MEIXIA | guan_meixia@moe.edu.sg |
 |  | MDM MUMTAJ BIVI | mumtaj_bivi@moe.edu.sg |
 | 1 DILIGENCE | MDM YULIANA MOHAMED | yuliana_mohamed@moe.edu.sg |
-|  | MDM GOH BEE KERMS TAY YULING | goh_bee_ker@moe.edu.sgtay_yuling@moe.edu.sg |
-| 1 UNITY | MS CELESTE CHEN WEI  | celeste_chen_wei@moe.edu.sglin_renfang@moe.edu.sg |
-|  | MDM SUHANA PUHARI | suhana_puhari@moe.edu.sg |
-|  | MR ABDUL HAQIM BIN MOHD NASRUDDIN | abdul_haqim_mohd_nasruddin@moe.edu.sg |
+|  | MDM GOH BEE KER | goh_bee_ker@moe.edu.sg|
+| 1 UNITY | MR DANIEL ABDUL MANAP | muhammad_daniel_abdul_manap@moe.edu.sg |
+|  | MS CELESTE CHEN WEI  | celeste_chen_wei@moe.edu.sglin_renfang@moe.edu.sg |
 | 1 HONESTY | MRS NG – ANG SI TING CHERYL | ang_si_ting_cheryl@moe.edu.sg |
 |  | MS MARZIATI MUSTAFA | marziati_mustafa@moe.edu.sg |
 | 1 LOVE | MS GERMAINE LIM JIA YING | germaine_lim_jia_ying@moe.edu.sg |
@@ -45,13 +44,13 @@ third_nav_title: Staff
 | 2 DILIGENCE | MS ROHAIDAH ABDUL WAHID | rohaidah_abdul_wahid@moe.edu.sg |
 |  |  MR GOH HAN SERM | goh_han_serm@moe.edu.sg |
 | 2 UNITY | MR NIZAM NURRAHIM ABDUL SHUKOR | nizam_nurrahim_abdul_shukor@moe.edu.sg|
-|  | MDM MUMTAJ BIVI | mumtaj_bivi@moe.edu.sg |
+|  | MDM SUHANA PUHARI | suhana_puhari@moe.edu.sg |
 | 2 HONESTY | MS LIM ZUO ER JOEY | lim_zuo_er_joey@moe.edu.sg |
-|  | MS SITI KAMIRAH MOHAMED NOR | siti_kamirah_mohamed_nor@moe.edu.sg |
+
 | 2 LOVE | MR NIZAM NURRAHIM ABDUL SHUKOR |  |
 |  | MRS SHARON OW | mah_li_feng@moe.edu.sg |
 |  | MDM SADIAH AHMAD | sadiah_ahmad@moe.edu.sg || 1 UNITY | MS LIN RENFANG | lin_renfang@moe.edu.sg |
-|  | MDM SUHANA PUHARI | suhana_puhari@moe.edu.sg |
+
 |  | MR ABDUL HAQIM BIN MOHD NASRUDDIN | abdul_haqim_mohd_nasruddin@moe.edu.sg |
 | 2 HONESTY | MDM HANIS BTE RAHMAT| hanis_rahmat@moe.edu.sg  |
 |  | MS MARZIATI MUSTAFA | marziati_mustafa@moe.edu.sg |
@@ -65,12 +64,14 @@ third_nav_title: Staff
 |---|---|---|
 | 3  JOY | MDM NADIRA OMAR | nadira_omar@moe.edu.sg |
 |  | MDM KOH AI HUA ISA | koh_ai_hua_isa@moe.edu.sg |
+| 2 HONESTY | MS LIM ZUO ER JOEY | lim_zuo_er_joey@moe.edu.sg |
 | 3  COURAGE | MR MOHAMED NAZRA MOHAMED SAID | mohamed_nazra_mohamed_said@moe.edu.sg |
 |  | MR LIU HUNG | liu_hung@moe.edu.sg |
 | 3 KINDNESS | MS KATIE GOH | goh_k_thing@moe.edu.sg |
 |  | MR TSENG CHAO CHENG | tseng_chao-cheng@moe.edu.sg |
 | 3 GRATITUDE | MS WU CHIOU PYNG | wu_chiou_pyng@moe.edu.sg |
 | 3 DILIGENCE | MS TIEY HUAY YONG | tiey_huay_yong@moe.edu.sg |
+|  | MDM SITI FATIMAH BTE ABDUL LATIFF | siti_fatimah_abdul_latiff@moe.edu.sg |
 |  | MDM PURUSHOTHAMAN PADMINI | purushothaman_padmini@moe.edu.sg |
 | 3 UNITY | MS LIN RENFANG | lin_renfang@moe.edu.sg |
 |  | MDM RITA SALLEH | rita_salleh@moe.edu.sg |
