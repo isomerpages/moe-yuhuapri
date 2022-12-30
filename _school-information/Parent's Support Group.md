@@ -5,13 +5,15 @@ description: ""
 ---
 ### Parent's Support Group
 
-![](/images/PSG1.png)
 
-#### Parents Support Group 2019
+
+#### Parents Support Group 2023
 
 #### **Be a part of our Yuhua Family as a Parents’ Support Group (PSG) Volunteer**
 
 The aim of the Parents’ Support Group (PSG) is to foster positive relationship between school and home.
+
+![](/images/psgnew.jpg)
 
 As a PSG volunteer, you will:
 
