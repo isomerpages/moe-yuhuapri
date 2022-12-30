@@ -12,7 +12,7 @@ third_nav_title: Staff
 |---|---|---|
 | 1 JOY | MS YIM MAY MAY JANICE | yim_may_may_janice@moe.edu.sg |
 |  | MS NURFADLIN FAZIRAH | nurfadlin_fazirah_abdul_manaf@moe.edu.sg |
-| 1 COURAGE | MRS GEE-YAP CHENG LIANG | loke_lye_kit@moe.edu.sg |
+| 1 COURAGE | MRS GEE-YAP CHENG LIANG | |
 |  | MDM SITI FATIMAH BTE ABDUL LATIFF | siti_fatimah_abdul_latiff@moe.edu.sg |
 | 1 KINDNESS | MDM SITI FARAH DEVA OMAR | siti_farah_deva_omar@moe.edu.sg |
 |  | MS LOONG SIEW HWEE JESSLIN | loong_siew_hwee@moe.edu.sg |
@@ -21,7 +21,7 @@ third_nav_title: Staff
 |  | MRS LEE- GUAN MEIXIA | guan_meixia@moe.edu.sg |
 |  | MDM MUMTAJ BIVI | mumtaj_bivi@moe.edu.sg |
 | 1 DILIGENCE | MDM YULIANA MOHAMED | yuliana_mohamed@moe.edu.sg |
-|  | MDM GOH BEE KERMS TAY YULING | tay_yuling@moe.edu.sg |
+|  | MDM GOH BEE KERMS TAY YULING | goh_bee_ker@moe.edu.sgtay_yuling@moe.edu.sg |
 | 1 UNITY | MS CELESTE CHEN WEI  | celeste_chen_wei@moe.edu.sglin_renfang@moe.edu.sg |
 |  | MDM SUHANA PUHARI | suhana_puhari@moe.edu.sg |
 |  | MR ABDUL HAQIM BIN MOHD NASRUDDIN | abdul_haqim_mohd_nasruddin@moe.edu.sg |
@@ -36,15 +36,14 @@ third_nav_title: Staff
 |---|---|---|
 | 2 JOY |MS KIRANDEEP KOUR SANDU  |kirandeep_kour_sandu@moe.edu.sg  |
 |  | MS SHAMMINI D/O PADMANABAN | shammini_padmanaban@moe.edu.sg |
-| 2 COURAGE | MS LIEW MUN YEE | liew_mun_yee@moe.edu.sg |
-|  | MR LOKE LYE KIT | goh_bee_ker@moe.edu.sg |
-| 2 KINDNESS | MS CELESTE CHEN WEI | celeste_chen_wei@moe.edu.sg |
-|  | MS LIEW ZHI JUN | liew_zhi_jun@moe.edu.sg |
+|2 COURAGE  | MR LOKE LYE KIT | loke_lye_kit@moe.edu.sg  |
+|  | MS LIEW MUN YEE | liew_mun_yee@moe.edu.sg |
+| 2KINDNESS | MS LIEW ZHI JUN | liew_zhi_jun@moe.edu.sg |
+|  | MS LOONG SIEW HWEE JESSLIN | loong_siew_hwee@moe.edu.sg |
 | 2 GRATITUDE | MR DAVID WEE YONG ZHI | david_wee_yong_zhi@moe.edu.sg |
 |  | MDM CHIA HWEE CHIN | chia_hwee_chin@moe.edu.sg |
 | 2 DILIGENCE | MS ROHAIDAH ABDUL WAHID | rohaidah_abdul_wahid@moe.edu.sg |
-|  | MRS YANG – GAY BEE HONG | gay_bee_hong@moe.edu.sg |
-| 
+|  |  MR GOH HAN SERM | goh_han_serm@moe.edu.sg |
 | 2 UNITY | MR NIZAM NURRAHIM ABDUL SHUKOR | nizam_nurrahim_abdul_shukor@moe.edu.sg|
 |  | MDM MUMTAJ BIVI | mumtaj_bivi@moe.edu.sg |
 | 2 HONESTY | MS LIM ZUO ER JOEY | lim_zuo_er_joey@moe.edu.sg |
