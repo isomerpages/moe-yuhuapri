@@ -16,6 +16,7 @@ Link to [2022 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Celeste Chen Wei (MISS) | celeste_chen_wei@moe.edu.sg |
 | Charlotte Lee-Tan Hwee Fang (MRS) | tan_hwee_fang@moe.edu.sg |
 | Chia Hwee Chin (MDM) | chia_hwee_chin@moe.edu.sg |
+| Chua Sui Ling, Christine (MDM) | chua_sui_ling_christine@moe.edu.sg |
 | David Wee Yong Zhi (MR) | david_wee_yong_zhi@moe.edu.sg |
 | Gay Bee Hong (MRS YANG) | gay_bee_hong@moe.edu.sg |
 | Gee Yap Cheng Liang (MRS) | gee_yap_cheng_liang@moe.edu.sg |
@@ -30,6 +31,7 @@ Link to [2022 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Kavitha D/O Govindasamy (MISS) | kavitha_govindasamy@moe.edu.sg |
 | Kirandeep Kour Sandu (MISS) | kirandeep_kour_sandu@moe.edu.sg |
 | Koh Ai Hua Isa (MDM) | koh_ai_hua_isa@moe.edu.sg |
+| Kwan Wai Yee (MDM) | kwan_wai_yee@moe.edu.sg |
 | Lau-Ng Li Ping (Huang Liping) (MRS) | ng_li_ping@moe.edu.sg |
 | Liew Mun Yee (MISS) | liew_mun_yee@moe.edu.sg |
 | Liew Zhi Jun (MISS) | liew_zhi_jun@moe.edu.sg |
