@@ -10,15 +10,12 @@ Link to [2022 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 
 | Name | Email |
 |:---:|:---:|
-| Afzal-En-Nisa Binte Mohamad Nasir (MDM) | afzal-en-nisa_mohamad_na@moe.edu.sg |
 | Ang Si Ting Cheryl (MRS NG) | ang_si_ting_cheryl@moe.edu.sg |
 | Ang Ying Ying (MISS) | ang_ying_ying@moe.edu.sg |
-| Anthony Tay Poh Hua (MR) | anthony_tay_poh_hua@moe.edu.sg |
 | Azman B Yahya (MR) | azman_yahya@moe.edu.sg |
 | Celeste Chen Wei (MISS) | celeste_chen_wei@moe.edu.sg |
 | Charlotte Lee-Tan Hwee Fang (MRS) | tan_hwee_fang@moe.edu.sg |
 | Chia Hwee Chin (MDM) | chia_hwee_chin@moe.edu.sg |
-| Choy Jia Ying Florence (MRS MAO) | choy_jia_ying_florence@moe.edu.sg |
 | David Wee Yong Zhi (MR) | david_wee_yong_zhi@moe.edu.sg |
 | Gay Bee Hong (MRS YANG) | gay_bee_hong@moe.edu.sg |
 | Gee Yap Cheng Liang (MRS) | gee_yap_cheng_liang@moe.edu.sg |
@@ -42,7 +39,6 @@ Link to [2022 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Lim Xiang Wei Kelvin (MR) | Lim_Xiang_Wei_Kelvin@moe.edu.sg |
 | Lim Zuo Er Joey (MISS) | lim_zuo_er_joey@moe.edu.sg |
 | Lin Renfang (MISS) | lin_renfang@moe.edu.sg |
-| Liu Hung (MR) | liu_hung@moe.edu.sg |
 | Loke Lye Kit (MR) | loke_lye_kit@moe.edu.sg |
 | Loong Siew Hwee (MISS) | loong_siew_hwee@moe.edu.sg |
 | Low Kok Jun (MR) | low_kok_jun@moe.edu.sg |
@@ -81,7 +77,6 @@ Link to [2022 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Teoh Chong Yoog (MDM) | teoh_chong_yoog@moe.edu.sg |
 | Tiey Huay Yong (MISS) | tiey_huay_yong@moe.edu.sg |
 | Tseng Chao-Cheng (MR) | tseng_chao-cheng@moe.edu.sg |
-| Vikneswari D/O Sukumaran (MISS) | vikneswari_sukumaran@moe.edu.sg |
 | Wong Jing Jing (MISS) | wong_jing_jing@moe.edu.sg |
 | Wu Chiou Pyng (MISS) | wu_chiou_pyng@moe.edu.sg |
 | Yap Heong Wee (MR) | yap_heong_wee@moe.edu.sg |
