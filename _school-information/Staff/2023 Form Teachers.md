@@ -27,6 +27,7 @@ third_nav_title: Staff
 | 1 HONESTY | MRS NG – ANG SI TING CHERYL | ang_si_ting_cheryl@moe.edu.sg |
 |  | MRS HO - YIP LAI MUN | yip_lai_mun@moe.edu.sg |
 
+
 #### Primary 2
 
 | Class | Teachers | Email |
@@ -66,7 +67,9 @@ third_nav_title: Staff
 | 3 UNITY | MS LIN RENFANG | lin_renfang@moe.edu.sg |
 |  | MDM RITA SALLEH | rita_salleh@moe.edu.sg |
 
+
 #### Primary 4
+
 | Class | Teachers | Email |
 |---|---|---|
 | 4 JOY | MR ANDY LOW | low_kok_jun@moe.edu.sg |
