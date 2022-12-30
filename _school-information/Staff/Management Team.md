@@ -13,14 +13,15 @@ third_nav_title: Staff
 | Vice-Principal | Mrs Zoey So | yuhua_ps@moe.edu.sg |
 | School Staff Developer (SSD) | Mdm Marrissa Binte Mohamed Taib | marrissa_mohamed_taib@moe.edu.sg |
 | HOD / English Language | Ms Kavitha Govindasamy | kavitha_govindasamy@moe.edu.sg |
-| HOD/ Mathematics | Mrs Charlotte Lee | tan_hwee_fang@moe.edu.sg |
+| HOD / Mathematics | Mrs Charlotte Lee | tan_hwee_fang@moe.edu.sg |
 | HOD / Mother Tongue Language (MTL) | Ms Loong Siew Hwee Jesslin | loong_siew_hwee@moe.edu.sg |
-| HOD/ Character and Citizenship Education | Mdm Chia Hwee Chin | chia_hwee_chin@moe.edu.sg |
-| HOD/ Discipline | Mr Musa B Abdul Kadir | musa_b_abdul_kadir@moe.edu.sg |
-| HOD/Information, Communication and Technology (ICT) | Mrs Lau – Ng Li Ping | ng_li_ping@moe.edu.sg |
+| HOD / Character and Citizenship Education | Mdm Chia Hwee Chin | chia_hwee_chin@moe.edu.sg |
+| HOD / Discipline | Mr Musa B Abdul Kadir | musa_b_abdul_kadir@moe.edu.sg |
+| HOD / Information, Communication and Technology (ICT) | Mrs Lau – Ng Li Ping | ng_li_ping@moe.edu.sg |
+| HOD / PE & CCA |Mr Shum Wai Hoh |shum_wai_hoh@moe.edu.sg
 |
 | Year Head | Mdm Hia Soo Ling | hia_soo_ling@moe.edu.sg |
-| Year Head |Mr Shum Wai Hoh |shum_wai_hoh@moe.edu.sg
+|
 | Year Head | Mdm Tan Sok Lan Corrine | tan_sok_lan_corrine@moe.edu.sg |
 |  |
 | Level Head/ Mathematics | Mrs Lee – Guan Meixia | guan_meixia@moe.edu.sg |
