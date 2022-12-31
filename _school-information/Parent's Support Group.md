@@ -13,7 +13,7 @@ description: ""
 
 The aim of the Parents’ Support Group (PSG) is to foster positive relationship between school and home.
 
-![](/images/psgnew.jpg)
+![](/images/latest%20psg.jpeg)
 
 As a PSG volunteer, you will:
 
