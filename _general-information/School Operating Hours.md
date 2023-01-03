@@ -7,7 +7,7 @@ description: ""
 
 | School Curriculum  Hours |
 |:---:|
-| Mondays to Fridays: 7.30 a.m. to 1.30 p.m<br>***P4 to P6 ends at 2:30 p.m. on Thursday***<br> <br>Morning assembly starts at 7:30a.m. <br>Silent reading is conducted daily at the assembly area before the start of the morning assembly. Pupils are expected to bring a story book to read during the silent reading session. |
+| Mondays to Fridays: 7.30 a.m. to 1.30 p.m<br>***P4 to P6 ends at 2:30 p.m. on Thursdays***<br> <br>Morning assembly starts at 7:30 a.m. <br>Silent reading is conducted daily at the assembly area before the start of the morning assembly. Pupils are expected to bring a story book to read during the silent reading session. |
 
 | Dismissal |
 |:---:|
@@ -19,7 +19,7 @@ description: ""
 |:---:|:---:|
 | 1 &2 <br>(Main gate) | 6.30 a.m. – 5.30 p.m. |
 | 4  <br>(Near zebra crossing)| 6.45 a.m. – 7.30 a.m. |
-| 5 <br>(Side Gate / Near Block 250) | 6.45 a.m. – 7.30 a.m.<br>1.30 p.m. – 1.50 p.m. <br> 4.00 p.m - 4:30 p.m.<br>***2:30 p.m -2:50 p.m** (Thursdays only)
+| 5 <br>(Side Gate / Near Block 250) | 6.45 a.m. – 7.30 a.m.<br>1.30 p.m. – 1.50 p.m. <br> 4.00 p.m - 4:30 p.m.<br>***2:30 p.m -2:50 p.m*** ***(Thursdays only)***
 | 8 <br>(Indoor Sports Hall) | 6.40 a.m. – 7.30 a.m.<br>1.30 p.m. – 1.50 p.m. |
 
 
