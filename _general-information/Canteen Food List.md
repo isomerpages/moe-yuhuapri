@@ -39,6 +39,19 @@ description: ""
 | Egg Sandwich/Tuna Sandwich | 60 cents |
 | Healthy Meals in Schools Programme<br>Set A – Curry Chicken Rice  <br>Set B – Ayam Kicap Rice<br>Set C – Chicken Rice<br>(All sets includes fruit & vegetables) | $1.70 |
 
+#### Stall No. 4 (Chinese Noodles and Rice Stall)
+
+| Type of Food/Drinks | Prices |
+|---|---|
+| Soup (with meat and vegeatbles) | $1.50 |
+| Fried Rice | $1.00 |
+| Chicken Porridge | $1.50   |
+| Fried Bihun | $1.00 |
+| Egg  | 50 cents |
+| Omelette | 80 cents |
+| Roasted Chicken
+| Healthy Meals in Schools Programme<br>Set A – Fried Bee Hoon / Noodles with meat<br>(All sets includes fruit & vegetables) |  <br>$1.70 |
+
 
 #### Stall No. 6 (Noodles Stall)
 
