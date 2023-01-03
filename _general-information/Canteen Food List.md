@@ -43,15 +43,20 @@ description: ""
 
 | Type of Food/Drinks | Prices |
 |---|---|
-| Soup (with meat and vegeatbles) | $1.50 |
+| Soup (with meat and vegetables) | $1.50 |
 | Fried Rice | $1.00 |
 | Chicken Porridge | $1.50   |
-| Fried Bihun | $1.00 |
+| Fried Bee Hoon | $1.00 |
 | Egg  | 50 cents |
 | Omelette | 80 cents |
-| Roasted Chicken
-| Healthy Meals in Schools Programme<br>Set A – Fried Bee Hoon / Noodles with meat<br>(All sets includes fruit & vegetables) |  <br>$1.70 |
-
+| Roasted Chicken | 70 cents|
+| Steam Corn| 70 cents |
+|Air Fried Chicken Cutlet| 80 cents|
+|Air Fried Wanton| 20 cents|
+|Homemade Chicken Luncheon| 50 cents|
+|Homemade Chicken Nugget| 50 cents|
+|Homemade dumplings| 50 cents|
+| Healthy Meals set (rice,meat,vegetables and fruits)| $1.70/$2.00 |
 
 #### Stall No. 6 (Noodles Stall)
 
