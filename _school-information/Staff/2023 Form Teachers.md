@@ -60,7 +60,7 @@ third_nav_title: Staff
 |  | MDM NUR QURRATUAINI BTE MOHD ZUHRI | nur_qurratuaini_mohd_zuhri@moe.edu.sg |
 | 3 KINDNESS | MDM KWAN WAI YEE | kwan_wai_yee@moe.edu.sg |
 |  | MDM TEOH CHONG YOOG | teoh_chong_yoog@moe.edu.sg |
-| 3 GRATITUDE | MDM LIM SHIAU CHEN| @moe.edu.sg |
+| 3 GRATITUDE | MDM LIM SHIAU CHEN| lim_shiau_chen@moe.edu.sg |
 |  | MDM MAHA DEVI | maha_devi_palaniappan@moe.edu.sg |
 | 3 DILIGENCE | MDM SITI FATIMAH BTE ABDUL LATIFF | siti_fatimah_abdul_latiff@moe.edu.sg |
 |  | MRS KEE - YEO SULYN DENISE | yeo_sulyn_denise@moe.edu.sg |

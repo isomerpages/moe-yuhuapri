@@ -16,7 +16,7 @@ Creative in our thoughts
 
 Innovative in our ways
 
-Yuhua is where we grow our heart and mind
+Yuhua is where we grow our hearts and minds
 
 Rise above all
 
@@ -28,7 +28,7 @@ With love and light to lead us
 
 Rise above all
 
-Yuhua is where we grow our heart and mind
+Yuhua is where we grow our hearts and minds
 
 Yuhua our home it’s here that we belong
 
@@ -42,6 +42,6 @@ Together we will strive
 
 Forever do our best!
 
-Yuhua is where we grow our heart and mind
+Yuhua is where we grow our hearts and minds
 
 Yuhua our home it’s here that we belong

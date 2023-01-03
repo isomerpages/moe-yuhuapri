@@ -38,6 +38,7 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Lim Bee Lian (MISS) | lim_bee_lian_a@moe.edu.sg |
 | Lim Ching Lian Jess (MISS) | jess_lim_ching_lian@moe.edu.sg |
 | Lim Lily (MDM) | lim_lily@moe.edu.sg |
+| Lim Shiau Chen Samantha (MDM) | lim_shiau_chen@moe.edu.sg |
 | Lim Xiang Wei Kelvin (MR) | Lim_Xiang_Wei_Kelvin@moe.edu.sg |
 | Lim Zuo Er Joey (MISS) | lim_zuo_er_joey@moe.edu.sg |
 | Lin Renfang (MISS) | lin_renfang@moe.edu.sg |

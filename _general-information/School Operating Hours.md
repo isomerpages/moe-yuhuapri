@@ -5,22 +5,24 @@ description: ""
 ---
 ### School Operating Hours
 
-| School Hours |
+| School Curriculum  Hours |
 |:---:|
-| Mondays to Fridays: 7.30 a.m. to 1.30 p.m<br><br>Silent reading is conducted daily at the assembly area before the start of the morning assembly. Pupils are expected to bring a story book to read during the silent reading session. |
+| Mondays to Fridays: 7.30 a.m. to 1.30 p.m<br>***P4 to P6 ends at 2:30 p.m. on Thursdays***<br> <br>Morning assembly starts at 7:30 a.m. <br>Silent reading is conducted daily at the assembly area before the start of the morning assembly. Pupils are expected to bring a story book to read during the silent reading session. |
 
 | Dismissal |
 |:---:|
-| Pupils will be dismissed from school only after the bell is rung for dismissal which is at 1.30pm. Should there be a change in the dismissal time, parents/guardians will be notified via a letter.<br><br>During dismissal, the teachers will lead the pupils to the designated dismissal point. Parents/guardians are advised to give specific instructions to their child/ward regarding the preferred pick-up arrangements.<br><br>Parents/guardians are to wait for their child/ward at the designated parent waiting areas near Gate 1 and Gate 5. |
+| Pupils will be dismissed from school only after the bell is rung for dismissal which is at 1.30pm. Should there be a change in the dismissal time, parents/guardians will be notified via a letter.<br><br>During dismissal, the teachers will lead the pupils to the designated dismissal point. Parents/guardians are advised to give specific instructions to their child/ward regarding the preferred pick-up arrangements.<br><br>Parents/guardians are to wait for their child/ward at the designated parent waiting areas near Gate 1, Gate 5 and Gate 8. |
 
 *   The pedestrian gates daily opening hours are as follows:
 
 | Gate | Mondays to Fridays (School Term) |
 |:---:|:---:|
-| 1 | 6.30 a.m. – 5.30 p.m. |
-| 4 | 6.40 a.m. – 7.30 a.m. |
-| 5 (Side Gate) | 6.50 a.m. – 7.30 a.m.<br>1.15 p.m. – 1.50 p.m. |
-| 8 (ISH Gate) | 6.50 a.m. – 7.30 a.m.<br>1.15 p.m. – 1.50 p.m. |
+| 1 &2 <br>(Main gate) | 6.30 a.m. – 5.30 p.m. |
+| 4  <br>(Near zebra crossing)| 6.45 a.m. – 7.30 a.m. |
+| 5 <br>(Side Gate / Near Block 250) | 6.45 a.m. – 7.30 a.m.<br>1.30 p.m. – 1.50 p.m. <br> 4.00 p.m - 4:30 p.m.<br>***2:30 p.m -2:50 p.m*** ***(Thursdays only)***
+| 8 <br>(Indoor Sports Hall) | 6.40 a.m. – 7.30 a.m.<br>1.30 p.m. – 1.50 p.m. |
+
+
 
 | Dropping Off / Picking Up |
 |:---:|
