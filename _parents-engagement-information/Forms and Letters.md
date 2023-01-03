@@ -5,4 +5,4 @@ description: ""
 ---
 ### Forms and Letters
 
-**Work in progress.**
+[Application for NEU PC PLUS (Click here)](https://www.imda.gov.sg/neupc)
