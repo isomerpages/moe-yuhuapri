@@ -21,3 +21,5 @@ third_nav_title: P1 to P6 Parents Engagement
 [P1 Parents Engagement Slides- ICT](/files/p1ict.pdf)
 
 [P1 Parents Engagement Slides- PAL](/files/p1pal.pdf)
+
+[P1 First Day of School - Principal's Address]()
