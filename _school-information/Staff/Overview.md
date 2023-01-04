@@ -13,6 +13,7 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Ang Si Ting Cheryl (MRS NG) | ang_si_ting_cheryl@moe.edu.sg |
 | Ang Ying Ying (MISS) | ang_ying_ying@moe.edu.sg |
 | Azman B Yahya (MR) | azman_yahya@moe.edu.sg |
+| Cao Lei Lei (MISS) | cao_lei_lei@moe.edu.sg |
 | Celeste Chen Wei (MISS) | celeste_chen_wei@moe.edu.sg |
 | Charlotte Lee-Tan Hwee Fang (MRS) | tan_hwee_fang@moe.edu.sg |
 | Chia Hwee Chin (MDM) | chia_hwee_chin@moe.edu.sg |
@@ -65,7 +66,7 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Nadira Bte Omar (MDM) | nadira_omar@moe.edu.sg |
 | Nizam Nurrahim B Abdul Shukor (MR) | nizam_nurrahim_abdul_shukor@moe.edu.sg |
 | Norparissah (MDM) | norparissah@moe.edu.sg |
-| Nur Aini Binte Rosli (MS) | nur_aini_rosli@moe.edu.sg |
+| Nur Aini Binte Rosli (MISS) | nur_aini_rosli@moe.edu.sg |
 | Nur Qurratuaini Binte Mohd Zuhri (MDM) | nur_qurratuaini_mohd_zuhri@moe.edu.sg|
 | Nurfadlin Fazirah Binte Abdul Manaf | nurfadlin_fazirah_abdul_manaf@moe.edu.sg |
 | Purushothaman Padmini (MDM) | purushothaman_padmini@moe.edu.sg |
