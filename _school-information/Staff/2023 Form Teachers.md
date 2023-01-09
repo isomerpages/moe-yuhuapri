@@ -91,7 +91,7 @@ third_nav_title: Staff
 | Class | Teachers | Email |
 |---|---|---|
 | 5 JOY | MRS KAREN LEONG - TAN SUAN KHENG | tan_suan_kheng@moe.edu.sg |
-|  | MS TAN CHIEN YUN CAROLINE | tan_chien_yun@moe.edu.sg |
+|  | MS TAN CHIEN YUN CAROLINE | tan_chien_yuin@moe.edu.sg |
 | 5  COURAGE | MS LIM BEE LIAN | lim_bee_lian_a@moe.edu.sg |
 |  | MRS SHARON OW - MAH LI FENG | mah_li_feng@moe.edu.sg |
 |  | MDM WONG JING JING JEAN | wong_jing_jing@moe.edu.sg |
