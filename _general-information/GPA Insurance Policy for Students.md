@@ -6,7 +6,7 @@ description: ""
 ### GPA Insurance Policy for Students
 
 **Group Personal Accident (GPA)**  
-**Insurance Plan for Students 2022**
+**Insurance Plan for Students 2023**
 
 **Introduction**  
 A Master Contract for GPA has been established by MOE HQ since 2018. The purpose is to reduce admin workload for schools and leverage on economies of scale to obtain better coverage.  
@@ -55,4 +55,4 @@ Mon-Fri
 
 Sat & Sun  (Closed)
 
-Click [here](/files/GPA-Insurance-Policy-for-Students.pdf) to view the policy.
+Click [here](/files/Product%20Fact%20Sheet%20Year%202023.pdf) to view the policy.
