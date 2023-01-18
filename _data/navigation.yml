@@ -39,10 +39,10 @@ links:
       - title: Useful Links
         url: /general-information/useful-links
   - title: Yuhualite Experience
-    url: /yuhualite-experience/English-language/
+    url: /yuhualite-experience/
     sublinks:
       - title: English Language
-        url: /yuhualite-experience/English-language/
+        url: /yuhualite-experience/english-language/
       - title: Mathematics
         url: /yuhualite-experience/mathematics/
       - title: Science
