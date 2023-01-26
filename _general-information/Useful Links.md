@@ -33,6 +33,8 @@ description: ""
 
 [Parents Gateway Release 3.1 Features](https://youtu.be/PCM5o8jAncc)
 
+[Student Details Form](https://pg.moe.edu.sg/forms/sdf)
+
 #### For Teachers
 
 [iCONnect](https://icon.moe.edu.sg/)
