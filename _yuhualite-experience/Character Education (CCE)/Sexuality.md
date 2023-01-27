@@ -53,16 +53,22 @@ b.       Character and Citizenship Education (CCE)
 
 **At YUHUA Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
+![](/images/sexual%20ed%20part1.jpg)
+![](/images/sexual%20ed%20part%202.jpg)
+![](/images/Sexual%20ed%20part3.jpg)
+![](/images/sexual%20ed%20part%204.jpg)
+
+
 
 
 
 
 **Information for Parents**
 
-8.  Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+8.       Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here ([Opt Out Form A](/files/Opy-Out-FormA.pdf)). The completed opt-out form is to be submitted by 18/02/2022.
+9.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here] . The completed opt-out form is to be submitted by 10/02/2023.
 
-10.  Parents can contact the school at 6560 5062 or email : yuhua_ps@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+10.      Parents can contact the school at 6560 5062 or email: yuhua\_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
 
-11.  Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
+school to make the necessary arrangements.
