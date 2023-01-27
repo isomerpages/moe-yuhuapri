@@ -1,8 +1,9 @@
 ---
-title: Pupil Leadership Development
+title: Student Leadership Development
 permalink: /yuhualite-experience/pupil-leadership-development/
 description: ""
 ---
+
 ### Pupil Leadership Development
 
 In Yuhua Primary School, we believe that all Yuhualites can lead. We have in place a rigourous Pupil Leadership Development programme that seeks to inculcate in every yuhualite the knowledge, skills and values of a leader. Through our programme, we hope that all Yuhualites will develop into self-directed leaders who will seek constant improvement.
