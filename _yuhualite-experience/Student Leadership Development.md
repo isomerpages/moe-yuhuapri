@@ -24,9 +24,9 @@ In Yuhua Primary School, we believe that all Yuhualites can lead. We have in pla
 
 The Enhanced leadership programme is designed for Prefects, CCA Leaders and School Peer Supporters. Yuhualites are taught specific skills that are essential for them to carry out their leadership roles in school. Through the programme, they will also develop the habits of good leaders.
 
-Additional programme and opportunities are also given to pupil leaders who demonstrates exceptional leadership to develop themselves into active confident leaders.
+Additional programme and opportunities are also given to student leaders who demonstrates exceptional leadership to develop themselves into active confident leaders.
 
-The school aspires to help develop all Yuhualite to become pupil leaders who can lead with a humble heart and an open mind.
+The school aspires to help develop all Yuhualite to become student leaders who can lead with a humble heart and an open mind.
 
 <img src="/images/pupil2.png" 
      style="width:200%">
