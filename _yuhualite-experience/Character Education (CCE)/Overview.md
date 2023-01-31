@@ -8,7 +8,7 @@ third_nav_title: Character Education (CCE)
 
 **Overview**
 
-Centred on the mission to grow the hearts and minds of every Yuhualite, the school adopts a multi-faceted approach to engage pupils so that they learn to be responsible to family and community, and understand their roles in shaping the future of our nation.  Anchored on school values of Respect, Responsibility, Resilience, Integrity, Care and harmony, the school creates learning opportunity that draw out and develop our pupils’ personal character strengths, as well as nurture in them our shared values.  In line with developing the character strengths of our pupils, our classes naming system follows the character strengths of Joy, Courage, Kindness, Gratitude, Diligence, Unity, Honesty and Love.
+Centred on the mission to grow the hearts and minds of every Yuhualite, the school adopts a multi-faceted approach to engage pupils so that they learn to be responsible to family and community, and understand their roles in shaping the future of our nation.  Anchored on school values of Respect, Responsibility, Resilience, Integrity, Care and harmony, the school creates learning opportunity that draw out and develop our students’ personal character strengths, as well as nurture in them our shared values.  In line with developing the character strengths of our students, our classes naming system follows the character strengths of Joy, Courage, Kindness, Gratitude, Diligence, Unity, Honesty and Love.
 
 **CCE Form Teachers Guidance Period (FTGP)**
 
@@ -27,7 +27,7 @@ Form teachers play a central role in shaping the development of Yuhualites.  In
 
 **CCE Mother Tongue Languages CCE(MTL)**
 
-CCE has been taught in the MTLs as they hold a rich source of knowledge for the transmission of values.  In addition, cultural stories unique to each MTL are selected to support the teaching and learning of values.  The teaching of CCE in MTL also provides additional exposure time so as to improve pupil’s competency in Chinese, Malay and Tamil.  CCE is important to all pupils, therefore those pupils who are exempted from MTL, will have CCE lessons in the English medium during the CCE(MTL) periods.
+CCE has been taught in the MTLs as they hold a rich source of knowledge for the transmission of values.  In addition, cultural stories unique to each MTL are selected to support the teaching and learning of values.  The teaching of CCE in MTL also provides additional exposure time so as to improve student’s competency in Chinese, Malay and Tamil.  CCE is important to all students, therefore those students who are exempted from MTL, will have CCE lessons in the English medium during the CCE(MTL) periods.
 
 **National Education (NE) Commemorative Days**
 
@@ -48,7 +48,7 @@ Through the NE commemorative days, Yuhulites learn about the important milestone
 
 **Values in Action (VIA)**
 
-Values in Action (VIA) are learning experiences that support pupils’ development as socially responsible citizens.  Through VIA, Yuhualites have opportunities to learn and care about Singapore, demonstrate active citizenship, learn skills and values relating to working in groups and interacting with others in the public sphere.  As part of Everyday Responsibilities, Yuhualites develop a sense of responsibility and care for their own shared spaces through daily cleaning and adopting sustainable practices in school and at home.  They reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully.
+Values in Action (VIA) are learning experiences that support students’ development as socially responsible citizens.  Through VIA, Yuhualites have opportunities to learn and care about Singapore, demonstrate active citizenship, learn skills and values relating to working in groups and interacting with others in the public sphere.  As part of Everyday Responsibilities, Yuhualites develop a sense of responsibility and care for their own shared spaces through daily cleaning and adopting sustainable practices in school and at home.  They reflect on their experience, the values they have put into practice, and how they can continue to contribute meaningfully.
 
 <img src="/images/cce7.png" style="width:100%">
 
