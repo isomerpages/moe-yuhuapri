@@ -33,7 +33,7 @@ The PAL Music Programme for Primary 2 allows students to embark on a musical adv
 
 During the PAL Art Programme, our students develop their creativity and imagination through constructive imaginative activities and express themselves through art.
 
-PAL Art Programme for Primary 1 focuses on cartooning and doodling. The theme, Animals@Play, aims to heighten an awareness of the environment and the importance of wildlife conservation in our pupils. They also create craftwork from recycled materials and work in teams on a mini group project.
+PAL Art Programme for Primary 1 focuses on cartooning and doodling. The theme, Animals@Play, aims to heighten an awareness of the environment and the importance of wildlife conservation in our students. They also create craftwork from recycled materials and work in teams on a mini group project.
 
 <img src="/images/pal2.png" 
      style="width:200%">
