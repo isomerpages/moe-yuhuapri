@@ -8,13 +8,13 @@ third_nav_title: Aesthetics
 
 Our Aesthetics programme aims to provide opportunities for Yuhualites to understand and appreciate the various genres of Music and Visual Art, and for them to express themselves creatively. Through the Aesthetics programme, Yuhualites are able to develop their interests and nurture their talents in the performing and visual arts.
 
-The school recognises the potential of Arts education in building good character and nurturing 21st century competencies in our pupils. To achieve this, the Aesthetics programme has in place practices that leverages on strong pupil-centric orientation and provides opportunities for greater pupil ownership in making creative decisions as they express themselves through music-composition and art-making.
+The school recognises the potential of Arts education in building good character and nurturing 21st century competencies in our students. To achieve this, the Aesthetics programme has in place practices that leverage on strong student-centric orientation and provide opportunities for greater student ownership in making creative decisions as they express themselves through music-composition and art-making.
 
 To deliver our Aesthetics programme, the school adopts a 3-tier approach of Engage, Enrich and Excel.
 
 **Music**
 
-The school recognises the importance of music in nurturing a well-rounded individual and the opportunities that Music curriculum can provide in preparing Yuhualites for life. The school’s strong Music programme has provided the foundation for our Brass Band to attain our PSE status since 2011. Over the years, our other Performing Arts CCAs which include Chinese Dance, Malay Dance, Indian Dance, Choir and Angklung Ensemble also provided strong platforms for pupils to develop their interests and showcase their talents in these areas. In 2014, our Music and Performing Arts programme was awarded the recognition by MOE as a Distinctive Programme under the Learning for Life Programme (LLP).
+The school recognises the importance of music in nurturing a well-rounded individual and the opportunities that Music curriculum can provide in preparing Yuhualites for life. The school’s strong Music programme has provided the foundation for our Brass Band to attain our PSE status since 2011. Over the years, our other Performing Arts CCAs which include Chinese Dance, Malay Dance, Indian Dance, Choir and Angklung Ensemble have also provided strong platforms for students to develop their interests and showcase their talents in these areas. In 2014, our Music and Performing Arts programme was awarded the recognition by MOE as a Distinctive Programme under the Learning for Life Programme (LLP).
 
 The objectives of the school’s Music programme are to:
 
@@ -39,11 +39,11 @@ In customising the Music programme to inspire Yuhualites to explore their talent
 The objectives of the school’s Visual Art programmes are to:
 
 *   Develop sensory awareness and imagination
-*   Acquire skills that enable pupils to describe and interpret artworks
+*   Acquire skills that enable students to describe and interpret artworks
 *   Create artworks to share their ideas, thoughts and feelings
 *   Understand and value the art from variety of cultures and contexts
 
-For Primary 1 and Primary 2, the Visual Art Programme focuses on the fundamentals of art techniques (drawing lines and shapes, and exploring colours). Yuhualites are provided with hands-on, experiential aspects of art where they get to ‘play’ and ‘explore’ different art media and art elements. For Primary 3 and Primary 4, pupils are ready to progress deeper in various art forms and media. Pupils are introduced to paper mache as well as using ICT as a platform to create artwork, for example. At the Primary 5 and Primary 6, pupils are able to consolidate the art knowledge, skills and values and are provided with more opportunities to develop skills like visual inquiry, research and processing as well as communication during Art lessons.
+For Primary 1 and Primary 2, the Visual Art Programme focuses on the fundamentals of art techniques (drawing lines and shapes, and exploring colours). Yuhualites are provided with hands-on, experiential aspects of art where they get to ‘play’ and ‘explore’ different art media and art elements. For Primary 3 and Primary 4, students are ready to progress deeper in various art forms and media. Students are introduced to paper mache as well as using ICT as a platform to create artwork, for example. At Primary 5 and Primary 6, students are able to consolidate the art knowledge, skills and values and are provided with more opportunities to develop skills like visual inquiry, research and processing as well as communication during Art lessons.
 
 At all the levels, the Visual Art Programme aims to achieve the key learning outcomes through the framework of “Seeing”, “Expressing” and “Appreciating”. Through the Visual Art Programme, the school hopes to nurture Yuhualites who are visually literate and are able to appreciate art in the various forms.
 
