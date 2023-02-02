@@ -20,9 +20,6 @@ Since the year 2017, our students have taken part in the SYF Songwriting competi
 <img src="/images/syf2.png" 
      style="width:250%">
 
-Let’s enjoy the song once again!
-
-*Insert video here.*
 
 | 2018 |
 |---|
@@ -36,9 +33,6 @@ Let’s enjoy the song once again!
 <img src="/images/syf4.png" 
      style="width:250%">
 
-Let’s enjoy the song once again!
-
-*Insert video here.*
 
 | 2019 |
 |---|
@@ -52,9 +46,6 @@ Let’s enjoy the song once again!
 <img src="/images/syf6.png" 
      style="width:250%">
 
-Let’s enjoy the song once again!
-
-*Insert video here.*
 
 | 2020 |
 |---|
@@ -68,10 +59,7 @@ Let’s enjoy the song once again!
 <img src="/images/syf7.png" 
      style="width:250%">
 
-The song is currently under production. Catch it here once it is ready!
 
 **Singapore Youth Festival (SYF) Goes Online**
 
-In the year 2020, due to the COVID-19 pandemic, SYF was conducted online instead. Although SYF could not take place physically this year, it was still a meaningful and enriching experience for all the participants. Our student, Meilsa, took part in the competition with her father and performed to the song “We Will Get There” to encourage everyone to press on during this trying period. The school is proud to announce that the performance by Meilsa and her father clinched the Top 10 position. Well done Meilsa! Recapture the moment below!
-
-*Insert video here.*
+In the year 2020, due to the COVID-19 pandemic, SYF was conducted online instead. Although SYF could not take place physically this year, it was still a meaningful and enriching experience for all the participants. Our student, Meilsa, took part in the competition with her father and performed to the song “We Will Get There” to encourage everyone to press on during this trying period. The school is proud to announce that the performance by Meilsa and her father clinched the Top 10 position. Well done Meilsa!
