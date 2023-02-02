@@ -7,11 +7,11 @@ description: ""
 
 | School Curriculum  Hours |
 |:---:|
-| Mondays to Fridays: 7.30 a.m. to 1.30 p.m<br>***P4 to P6 ends at 2:30 p.m. on Thursdays***<br> <br>Morning assembly starts at 7:30 a.m. <br>Silent reading is conducted daily at the assembly area before the start of the morning assembly. Pupils are expected to bring a story book to read during the silent reading session. |
+| Mondays to Fridays: 7.30 a.m. to 1.30 p.m<br>***P4 to P6 ends at 2:30 p.m. on Thursdays***<br> <br>Morning assembly starts at 7:30 a.m. <br>Silent reading is conducted daily at the assembly area before the start of the morning assembly. Students are expected to bring a story book to read during the silent reading session. |
 
 | Dismissal |
 |:---:|
-| Pupils will be dismissed from school only after the bell is rung for dismissal which is at 1.30pm. Should there be a change in the dismissal time, parents/guardians will be notified via a letter.<br><br>During dismissal, the teachers will lead the pupils to the designated dismissal point. Parents/guardians are advised to give specific instructions to their child/ward regarding the preferred pick-up arrangements.<br><br>Parents/guardians are to wait for their child/ward at the designated parent waiting areas near Gate 1, Gate 5 and Gate 8. |
+| Students will be dismissed from school only after the bell is rung for dismissal which is at 1.30pm. Should there be a change in the dismissal time, parents/guardians will be notified via a letter.<br><br>During dismissal, the teachers will lead the students to the designated dismissal point. Parents/guardians are advised to give specific instructions to their child/ward regarding the preferred pick-up arrangements.<br><br>Parents/guardians are to wait for their child/ward at the designated parent waiting areas near Gate 1, Gate 5 and Gate 8. |
 
 *   The pedestrian gates daily opening hours are as follows:
 
@@ -30,7 +30,7 @@ description: ""
 
 | Leaving School Early |
 |:---:|
-| In an emergency or when a pupil is unwell, the teacher will give his/her parents/guardians a call. It is important that parents/guardians provide the school with their updated contact details. Parents/guardians who need to contact the school or any teacher urgently are to call the General Office at 65605062.<br><br>Pupils must seek the permission of the Principal, Vice-Principal or Discipline Master if there is a need to leave the school before dismissal. If permission is given, the pupils must be accompanied home by a parent, guardian or an authorised adult. |
+| In an emergency or when a student is unwell, the teacher will give his/her parents/guardians a call. It is important that parents/guardians provide the school with their updated contact details. Parents/guardians who need to contact the school or any teacher urgently are to call the General Office at 65605062.<br><br>Students must seek the permission of the Principal, Vice-Principal or Discipline Master if there is a need to leave the school before dismissal. If permission is given, the students must be accompanied home by a parent, guardian or an authorised adult. |
 
 | Visitors |
 |:---:|
