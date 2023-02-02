@@ -24,7 +24,7 @@ In the Performing Arts modules, our students get to explore and engage in differ
 
 The PAL Dance Programme for Primary 1 allows students to physically explore and gain insights to various forms of dances around the world.
 
-The PAL Music Programme for Primary 2 allows pupils to embark on a musical adventure as they try out different musical instruments like kompang, xylophones, hand bells among others.
+The PAL Music Programme for Primary 2 allows students to embark on a musical adventure as they try out different musical instruments like kompang, xylophones, hand bells among others.
 		 
 <img src="/images/pal1.png" 
      style="width:200%">
