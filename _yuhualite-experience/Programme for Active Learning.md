@@ -12,17 +12,17 @@ description: ""
 The programme aims to:
 
 *   provide broad exposure through fun and varied activities in the 4 modules of Sports & Games, Outdoor Education, Performing Arts and Visual Arts,
-*   facilitate well-rounded development of pupils in the 5 learning domains – cognitive, moral, social, aesthetics, physical,
-*   provide a myriad of opportunities for pupils to develop social emotional competencies.
+*   facilitate well-rounded development of students in the 5 learning domains – cognitive, moral, social, aesthetics, physical,
+*   provide a myriad of opportunities for students to develop social emotional competencies.
 
 <img src="/images/pal0.png" 
      style="width:200%"> 
 
 #### **PAL Performing Arts (P1 & 2)**
 
-In the Performing Arts modules, our pupils get to explore and engage in different types of music and dance activities and experience the joy of listening, performing and creating music and dance.
+In the Performing Arts modules, our students get to explore and engage in different types of music and dance activities and experience the joy of listening, performing and creating music and dance.
 
-The PAL Dance Programme for Primary 1 allows pupils to physically explore and gain insights to various forms of dances around the world.
+The PAL Dance Programme for Primary 1 allows students to physically explore and gain insights to various forms of dances around the world.
 
 The PAL Music Programme for Primary 2 allows pupils to embark on a musical adventure as they try out different musical instruments like kompang, xylophones, hand bells among others.
 		 
