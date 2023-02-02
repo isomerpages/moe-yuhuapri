@@ -3,7 +3,6 @@ title: Contact
 permalink: /contact/
 description: ""
 ---
-
 ### Contact Information and Location
 
 <img src="/images/googlemap.png" style="width:250px;height:240px;margin-right:15px;" align = "left">
@@ -33,4 +32,3 @@ description: ""
 | Wednesday: 9 am to 3.30 p.m. 	|
 | Lunch Hours: 12 pm to 1 pm 	|
 
-|
