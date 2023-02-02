@@ -8,7 +8,7 @@ third_nav_title: Infocomm Technology
 
 **Overview**
 
-During Code For Fun (CFF), students learnt about Computational thinking and how it can be applied to other aspects of their life. Basic programming skills and concepts such as events, loops, variables and functions were taught to the students.
+During Code For Fun (CFF), students learnt about Computational thinking and how it could be applied to other aspects of their life. Basic programming skills and concepts such as events, loops, variables and functions were taught to the students.
 
 <img src="/images/cff1.png" 
      style="width:200%">
