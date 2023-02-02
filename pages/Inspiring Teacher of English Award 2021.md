@@ -10,11 +10,11 @@ description: ""
 		 
 We are proud to announce that our Level Head for English Language (EL), Ms Vikneswari D/O Sukumaran, is accorded the Inspiring Teacher of English Award 2021 (Leadership Category). This award recognises teachers who have been instrumental in igniting a love for English and are effective in teaching their students to communicate better.  
   
-The journey to implement a school-wide, genre-based reading programme started with the aim to inculcate a love of reading among pupils since 2017. Ms Vicky led a team of teachers to plan and introduce a reading programme comprising of mini-lessons for teachers to use in the classrooms during the READ periods. These mini-lessons include introducing and sharing of features of different genres and discussions of book titles.  
+The journey to implement a school-wide, genre-based reading programme started with the aim to inculcate a love of reading among students since 2017. Ms Vicky led a team of teachers to plan and introduce a reading programme comprising of mini-lessons for teachers to use in the classrooms during the READ periods. These mini-lessons include introducing and sharing of features of different genres and discussions of book titles.  
   
-With the implementation of the 2020 EL Syllabus, the reading programme was reviewed to better develop our pupils to be discerning and critical readers.  Current affairs were integrated into the existing reading programme which was also expanded to include non-fiction genres, such as journalism and information texts.  
+With the implementation of the 2020 EL Syllabus, the reading programme was reviewed to better develop our students to be discerning and critical readers.  Current affairs were integrated into the existing reading programme which was also expanded to include non-fiction genres, such as journalism and information texts.  
   
-Through the programmes spearheaded by Ms Vicky, pupils developed the love for reading and shown keen interest in current affairs.  
+Through the programmes spearheaded by Ms Vicky, students developed the love for reading and shown keen interest in current affairs.  
   
 Our heartiest congratulations to Ms Vicky for being conferred with this prestigious award!  
   
