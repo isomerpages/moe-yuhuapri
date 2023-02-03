@@ -6,7 +6,7 @@ third_nav_title: Mother Tongue
 ---
 ### Tamil Language
 
-In Yuhua Primary School, The Tamil Departments aims to provide a holistic learning environment for our pupils, working towards moulding our students' hearts and mind through various pedagogies and activities. Yuhualites learn and experience speaking and writing Tamil Language in fun and interactive ways, enabling our students to learn the language beyond the curriculum.
+In Yuhua Primary School, The Tamil Departments aims to provide a holistic learning environment for our students, working towards moulding our students' hearts and mind through various pedagogies and activities. Yuhualites learn and experience speaking and writing Tamil Language in fun and interactive ways, enabling our students to learn the language beyond the curriculum.
 
 1.  ICT – we use extensive ICT tools and approaches enabling our students to enjoy the language beyond textbooks. Usage of Ipads for lower primary students, use of social learning wall to encourage written and the typing of Tamil Language, Mconline Oral Buddy and etamil portal and Ipad typing for lower primary are examples of ICT tools we use to bring Tamil Language beyond classroom and textbooks.
 2.  Language and Culture – enables students to go see and experience the Tamil Language and culture beyond the school and curriculum. Students are exposed to our culture, tradition and history and are able to learn more about Tamil Language. Our Mother tongue fortnight activities and learning Journeys are aimed to instil a sense of belonging to our students and love for the language.
