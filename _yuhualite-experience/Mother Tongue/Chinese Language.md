@@ -75,9 +75,9 @@ The Conversational Chinese language module is introduced as an enrichment progra
 
 **Internal and External Competitions**
 
-Internal competitions are conducted during the Mother Tongue Fortnight Week. Pupils, who are keen to participate, will be able to showcase their abilities and competencies in the Chinese Language. These competitions also provide additional opportunities for all pupils to further strengthen their language abilities
+Internal competitions are conducted during the Mother Tongue Fortnight Week. Pupils, who are keen to participate, will be able to showcase their abilities and competencies in the Chinese Language. These competitions also provide additional opportunities for all students to further strengthen their language abilities
 
-Aside from the school based competition, pupils are also encouraged to participate in external competitions. This will help pupils to build up their confidence and contribute to their repertoire of experiences.
+Aside from the school based competition, students are also encouraged to participate in external competitions. This will help students to build up their confidence and contribute to their repertoire of experiences.
 
 <img src="/images/cl9.png" 
      style="width:100%"> International Chinese Language Competition – Gold
