@@ -40,10 +40,9 @@ PAL Art Programme for Primary 1 focuses on cartooning and doodling. The theme, A
 		 
 #### **PAL Sports & Games Programme (P2)**
 
-Primary 2 pupils are engaged in a variety of fundamental motor skills and movements that are relevant to the different sports by exploring and playing with balloons, hoops, ribbons and a variety of balls for fun and enjoyment. Through the activities, pupils get to learn how to work in teams and support one another positively.
+Primary 2 students are engaged in a variety of fundamental motor skills and movements that are relevant to the different sports by exploring and playing with balloons, hoops, ribbons and a variety of balls for fun and enjoyment. Through the activities, students get to learn how to work in teams and support one another positively.
 
 #### **PAL Outdoor Education Programme (P1 and P2)**
 
 The “Kids for Nature” programme is designed to equip children with relevant skills and knowledge to be safe and comfortable in the outdoors; and to cultivate a sense of ownership and care for the environment.
 
-The highlight of the programme is an outing where the pupils will get to have a picnic and a scavenger hunt in the outdoors. The Primary 1 pupils will get to explore Jacob Ballas Children’s Garden while the Primary 2 pupils will get to explore Singapore Botanic Gardens.
