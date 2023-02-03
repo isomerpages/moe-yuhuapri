@@ -45,4 +45,3 @@ Primary 2 students are engaged in a variety of fundamental motor skills and move
 #### **PAL Outdoor Education Programme (P1 and P2)**
 
 The “Kids for Nature” programme is designed to equip children with relevant skills and knowledge to be safe and comfortable in the outdoors; and to cultivate a sense of ownership and care for the environment.
-
