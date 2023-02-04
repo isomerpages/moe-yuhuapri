@@ -40,24 +40,23 @@ To achieve this, we have 4 categories of CCAs for the pupils to choose from:
 
 **Participation in CCA**
 
-CCA is an integral part of our education system. Every pupil from P3 to P6 will get to participate in one CCA.
+CCA is an integral part of our education system. Every student from P3 to P6 will get to participate in one CCA.
 
-Pupils are strongly encouraged to participate actively in their CCA to develop their interests and talents. Pupils who display talents in their CCA may be selected to represent the school for competitions.
+Students are strongly encouraged to participate actively in their CCA to develop their interests and talents. Students who display talents in their CCA may be selected to represent the school for competitions.
 
 **CCA Practices and Meetings**
 
-Pupils have CCA Practice/Meeting once a week, for about one and a half hours, on Tuesday mornings during curriculum hours between 8am to 9.30am (subject to changes).
+Students have CCA Practice/Meeting once a week, for about one and a half hours, on Tuesday mornings during curriculum hours between 8am to 9.30am (subject to changes).
 
-For some CCAs which require more practices to develop competency in skills or to prepare for competitions, pupils have to attend practices twice a week. The second practice is on either a Wednesday or Friday afternoon between 2pm to 4pm (subject to changes). CCAs are conducted in the school.
+For some CCAs which require more practices to develop competency in skills or to prepare for competitions, students have to attend practices twice a week. The second practice is on either a Wednesday or Friday afternoon between 2pm to 4pm (subject to changes). CCAs are conducted in the school.
 
 CCA practices/meetings will stand down 2 weeks before the examinations and resume after the examinations.
 
 **CCA Recruitment**
 
-At the end of Primary Two, pupils will get to find out more about the various CCAs. They will then be given a form to select their choices. The pupils are encouraged to discuss their choices of CCA with their parents before the parents submit their CCA choices online.
+At the end of Primary Two, students will get to find out more about the various CCAs. They will then be given a form to select their choices. The students are encouraged to discuss their choices of CCA with their parents before the parents submit their CCA choices online.
 
-The school will try to assign the CCAs according to pupils’ preference. However, there may be instances when pupils may not be assigned their first choice CCA if it is over-subscribed. In such cases, they will be assigned to one of their remaining choices of CCA.
+The school will try to assign the CCAs according to pupils’ preference. However, there may be instances when students may not be assigned their first choice CCA if it is over-subscribed. In such cases, they will be assigned to one of their remaining choices of CCA.
 
 #### CCA Photos
 ![](/images/ccaoverview.png)
-

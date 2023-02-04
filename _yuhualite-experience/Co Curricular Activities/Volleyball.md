@@ -8,9 +8,9 @@ third_nav_title: Co Curricular Activities
 
 The Volleyball Club seeks to develop good character through sports and build members’ physical fitness and inspire passion for the game.
 
-We have a systematic and differentiated training programme to cater to pupils of different abilities so that all will acquire skills in volleyball at their own pace and enjoy the game.
+We have a systematic and differentiated training programme to cater to students of different abilities so that all will acquire skills in volleyball at their own pace and enjoy the game.
 
-Pupils who have progressed sufficiently are selected to participate in volleyball competitions such as games carnivals and the Inter-Primary Schools Volleyball Championships.
+Students who have progressed sufficiently are selected to participate in volleyball competitions such as games carnivals and the Inter-Primary Schools Volleyball Championships.
 
 **Teachers-in-charge**
 

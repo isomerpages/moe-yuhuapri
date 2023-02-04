@@ -10,7 +10,7 @@ third_nav_title: Co Curricular Activities
 
 The objective of the Badminton Club is to develop members’ skills in badminton and instil in pupils the passion for the game. Building good character is also a key area that the CCA focuses on. The programme builds in the scope for its members to strengthen their mental and physical abilities.
 
-Pupils learn the fundamentals of badminton, such as footwork, service forehand and backhand strokes, and build stamina. They play friendly games to improve their skills.
+Students learn the fundamentals of badminton, such as footwork, service forehand and backhand strokes, and build stamina. They play friendly games to improve their skills.
 
 Members who display potential and have demonstrated competence and skills are selected to represent the school in the Inter-Primary Schools Badminton Championships.
 

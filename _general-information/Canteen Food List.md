@@ -37,7 +37,7 @@ description: ""
 | Mee Laksa with fruit | $1.50 |
 | Hotdog Bread | 60 cents |
 | Egg Sandwich/Tuna Sandwich | 60 cents |
-| Healthy Meals in Schools Programme<br>Set A – Curry Chicken Rice  <br>Set B – Ayam Kicap Rice<br>Set C – Chicken Rice<br>(All sets includes fruit & vegetables) | $1.70 |
+| Healthy Meals in Schools Programme<br>Set A – Curry Chicken Rice  <br>Set B – Ayam Kicap Rice<br>Set C – Chicken Rice<br>(All sets includes fruit & vegetables) | $2.00 |
 
 #### Stall No. 4 (Chinese Noodles and Rice Stall)
 
@@ -56,7 +56,7 @@ description: ""
 |Homemade Chicken Luncheon| 50 cents|
 |Homemade Chicken Nugget| 50 cents|
 |Homemade dumplings| 50 cents|
-| Healthy Meals set (rice,meat,vegetables and fruits)| $1.70/$2.00 |
+| Healthy Meals set (rice,meat,vegetables and fruits)| $2.00 |
 
 #### Stall No. 6 (Noodles Stall)
 
@@ -68,7 +68,7 @@ description: ""
 | Hard Boiled Egg (half) | 50 cents |
 | Seafood Stick | 30 cents |
 | Boiled Fish Ball | 30 cents |
-| Healthy Meals in Schools Programme<br>Set A – Fried Bee Hoon / Noodles with meat<br>(All sets includes fruit & vegetables) |  <br>$1.70 |
+| Healthy Meals in Schools Programme<br>Set A – Fried Bee Hoon / Noodles with meat<br>(All sets includes fruit & vegetables) |  <br>$2.00 |
 
 #### Stall No. 7 (Noodles & Rice Stall - Halal)
 
@@ -85,7 +85,7 @@ description: ""
 | Crab Stick / Fish ball | 30 cents |
 | Steam Pau – Red bean | 60 cents |
 | Steam Pau – Chicken / Curry / BBQ | 70 cents |
-| Healthy Meals in Schools Programme<br>Set A – Spaghetti<br>Set B – Black Pepper Chicken Rice<br>Set C – Fried Mee /Kuay Teow /Bee Hoon /<br>             Macaroni / Maggie with meat<br>(All sets includes fruit & vegetables) |                     <br> <br>                     $1.70<br>  |
+| Healthy Meals in Schools Programme<br>Set A – Spaghetti<br>Set B – Black Pepper Chicken Rice<br>Set C – Fried Mee /Kuay Teow /Bee Hoon /<br>             Macaroni / Maggie with meat<br>(All sets includes fruit & vegetables) |                     <br> <br>                     $2.00<br>  |
 
 #### Stall No. 8 (Cold Drinks & Fruits Stall)
 

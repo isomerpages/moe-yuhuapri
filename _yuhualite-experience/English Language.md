@@ -28,16 +28,16 @@ The Lower Primary STELLAR Pedagogical Model comprises the following strategies:
 *   Modified Language Experience Approach (MLEA)
 *   Learning Centre Activities (LC)
 
-Shared Book Approach (SBA) provides a shared reading experience for teachers to model the reading process and for pupils to participate actively in the reading. During the first reading, the teacher reads a big book together with pupils, discussing concepts of print as well as questions about the book being read. In subsequent readings, the teacher teaches target vocabulary and language structures explicitly, as well as other target skills such as concepts of print and phonics. Based on the book being read, teachers may also carry out a range of follow-up activities like speech and drama, music and art.
+Shared Book Approach (SBA) provides a shared reading experience for teachers to model the reading process and for students to participate actively in the reading. During the first reading, the teacher reads a big book together with students, discussing concepts of print as well as questions about the book being read. In subsequent readings, the teacher teaches target vocabulary and language structures explicitly, as well as other target skills such as concepts of print and phonics. Based on the book being read, teachers may also carry out a range of follow-up activities like speech and drama, music and art.
 
-Modified Language Experience Approach (MLEA) provides pupils with a shared experience that is linked to the big book read during SBA lessons. The shared experience provides the context and content for pupils to think and talk about, using the specific language structures and vocabulary they have acquired during the SBA lessons. The teacher facilitates discussions for a piece of group writing before the pupils progress to pair writing and then individual writing.
+Modified Language Experience Approach (MLEA) provides pupils with a shared experience that is linked to the big book read during SBA lessons. The shared experience provides the context and content for students to think and talk about, using the specific language structures and vocabulary they have acquired during the SBA lessons. The teacher facilitates discussions for a piece of group writing before the students progress to pair writing and then individual writing.
 
 Our Primary 1 and 2 Yuhualites go on Learning Journeys to the Singapore Zoo and Singapore Science Centre as an extension to their learning of the themes covered in the Stellar curriculum. These learning journeys encourage experiential learning as the outdoors become their classroom for the day.
 
 <img src="/images/eng2.png" 
      style="width:100%">
 		 
-Learning Centres help to reinforce the language skills that pupils learn during SBA and MLEA lessons. Differentiated activities are planned for the pupils in the different learning centres where they have the opportunity to relearn, revisit or extend what they have learnt at their own pace.
+Learning Centres help to reinforce the language skills that students learn during SBA and MLEA lessons. Differentiated activities are planned for the students in the different learning centres where they have the opportunity to relearn, revisit or extend what they have learnt at their own pace.
 
 UPPER PRIMARY STELLAR
 
@@ -53,21 +53,21 @@ The Upper Primary STELLAR Pedagogical Model consists of the following strategies
 *   Writing Process Cycle (WPC)
 *   Differentiated Instruction (DI)
 
-Sustained Silent Reading (SSR) is regularly practiced. Everyone in the classroom reads a book of his/her choice quietly and uninterrupted for ten minutes a day. This provides pupils with authentic opportunities to enjoy reading while practising their silent reading skills.
+Sustained Silent Reading (SSR) is regularly practiced. Everyone in the classroom reads a book of his/her choice quietly and uninterrupted for ten minutes a day. This provides students with authentic opportunities to enjoy reading while practising their silent reading skills.
 
 Supported Reading (SR) provides a bridge between teacher-supported reading aloud and independent silent reading. It provides opportunities for pupils to make predictions, read sections of the text silently, discuss the text and unfamiliar words used in context as a whole class.
 
-Know-Want to know-Learnt (KWL) is used mainly for non-fiction texts. This strategy helps pupils to extract information and relate it to what they already know about the topic. Teachers guide pupils to organise, access and remember information from texts read.
+Know-Want to know-Learnt (KWL) is used mainly for non-fiction texts. This strategy helps students to extract information and relate it to what they already know about the topic. Teachers guide pupils to organise, access and remember information from texts read.
 
-Retelling (RT) is a reading comprehension strategy that engages pupils at different levels of language – from interpreting meaning at the whole text level, to individual words and phrases, and back to the whole text again. It provides opportunities for all of the major language skills to be applied as pupils actively make meaning of texts and share their understanding with their peers.
+Retelling (RT) is a reading comprehension strategy that engages students at different levels of language – from interpreting meaning at the whole text level, to individual words and phrases, and back to the whole text again. It provides opportunities for all of the major language skills to be applied as students actively make meaning of texts and share their understanding with their peers.
 
 Writing Process Cycle (WPC) builds on the principles of the MLEA and continues to provide pupils with guidance in the processes of idea generation, idea selection, idea development, idea organisation, review and editing before they apply the skills in writing independently.
 
-Differentiated Instruction (DI) provides pupils with differentiated support at various points of instruction to optimise their learning. Appropriate activities are designed to support, reinforce and extend pupils’ learning in reading, writing, oracy, word study, grammar and language use.
+Differentiated Instruction (DI) provides students with differentiated support at various points of instruction to optimise their learning. Appropriate activities are designed to support, reinforce and extend students’ learning in reading, writing, oracy, word study, grammar and language use.
 
 **Learning Support Programme (LSP)**
 
-Believing that every child can learn well at his or her own pace, the Learning Support Programme (LSP) provides enhanced support to selected pupils in basic literacy skills to enable them to access learning in the regular classroom. The LSP is a specialised early intervention programme aimed at providing learning support to pupils who enter Primary 1 with weak English Language and literacy skills. Pupils are identified for LSP through a systematic screening process which is carried out at the beginning of Primary 1.
+Believing that every child can learn well at his or her own pace, the Learning Support Programme (LSP) provides enhanced support to selected pupils in basic literacy skills to enable them to access learning in the regular classroom. The LSP is a specialised early intervention programme aimed at providing learning support to pupils who enter Primary 1 with weak English Language and literacy skills. Students are identified for LSP through a systematic screening process which is carried out at the beginning of Primary 1.
 
 **School-based Dyslexia Remediation Programme (SDR)**
 
@@ -75,7 +75,7 @@ School-based Dyslexia Remediation Programme is a two-year intervention programme
 
 **Reading Remediation Programme (RRP)**
 
-The Reading Remediation Programme is aimed at supporting Primary 3 and Primary 4 pupils who face consistent difficulty in reading in the English Language. The programme exposes the pupils to a range of coping strategies for reading comprehension, word recognition and oral reading fluency which will enable them to better manage their daily learning.
+The Reading Remediation Programme is aimed at supporting Primary 3 and Primary 4 students who face consistent difficulty in reading in the English Language. The programme exposes the students to a range of coping strategies for reading comprehension, word recognition and oral reading fluency which will enable them to better manage their daily learning.
 
 **READ@Yuhua**
 
@@ -99,7 +99,7 @@ Not only do they learn about the unique characteristics of different story genre
 
 Monthly Current Affairs
 
-In order to nurture pupils who possess broad worldviews, Yuhualites are exposed to a variety of topics to widen their global knowledge. Each month covers a new topic and Yuhualites are given opportunities to engage in class discussions and share their opinions on various topics.
+In order to nurture students who possess broad worldviews, Yuhualites are exposed to a variety of topics to widen their global knowledge. Each month covers a new topic and Yuhualites are given opportunities to engage in class discussions and share their opinions on various topics.
 
 Supplementary Materials : ACE & WHIZ Magazines
 

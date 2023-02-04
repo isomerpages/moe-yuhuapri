@@ -10,7 +10,7 @@ The Angklung/  Kulintang Ensemble aims to nurture young musicians and seeks to 
 
 The Angklung is a Balinese musical instrument which produces a note when shaken. It is made of bamboo and the music can be accompanied with kulintangs.
 
-In the Angklung / Kulintang Ensemble, our pupils are exposed to a wide repertoire of music, both the traditional and the contemporary form. Our pupils demonstrate responsibility in taking good care and maintenance of their instruments. They show resilience while preparing for a performance, culminating in a harmonious performance on stage. Members have opportunities to develop their leadership potential and self-confidence.
+In the Angklung / Kulintang Ensemble, our students are exposed to a wide repertoire of music, both the traditional and the contemporary form. Our students demonstrate responsibility in taking good care and maintenance of their instruments. They show resilience while preparing for a performance, culminating in a harmonious performance on stage. Members have opportunities to develop their leadership potential and self-confidence.
 
 Our young musicians have achieved outstanding achievements in Singapore Youth Festival Arts Presentation and have participated public performances, contributing to the community.
 

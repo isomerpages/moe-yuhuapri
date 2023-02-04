@@ -9,7 +9,7 @@ description: ""
 
 _Growing Our Hearts and Minds_
 
-In Yuhua Primary School, we strive to provide Yuhualites with a holistic education, focused both on academic and non-academic areas. The total curriculum of the school centres on building good character (Heart) in our pupils as well as nurturing their passion for learning (Mind). We believe these two important aspects are interdependent and crucial in moulding the future of our nation. Staff in the school takes pride in ‘walking’ this belief alongside young Yuhualites, being good role models for the pupils and growing together with them.
+In Yuhua Primary School, we strive to provide Yuhualites with a holistic education, focused both on academic and non-academic areas. The total curriculum of the school centres on building good character (Heart) in our students as well as nurturing their passion for learning (Mind). We believe these two important aspects are interdependent and crucial in moulding the future of our nation. Staff in the school takes pride in ‘walking’ this belief alongside young Yuhualites, being good role models for the students and growing together with them.
 
 ### **Our Vision**
 

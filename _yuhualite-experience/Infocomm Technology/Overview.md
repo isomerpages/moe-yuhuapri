@@ -8,18 +8,18 @@ third_nav_title: Infocomm Technology
 
 **ICT in Teaching & Learning**
 
-ICT is an integral part of teaching and learning in YHPS.  Across subjects, teachers leverage ICT to enhance lessons, increase efficacy and engage pupils with the purpose of deepening student’s learning. We aim to achieve quality ICT-enabled learning in every level and nurture pupils with the appropriate dispositions to harness ICT for life-long learning.
+ICT is an integral part of teaching and learning in YHPS.  Across subjects, teachers leverage ICT to enhance lessons, increase efficacy and engage students with the purpose of deepening students' learning. We aim to achieve quality ICT-enabled learning in every level and nurture students with the appropriate dispositions to harness ICT for life-long learning.
 
 **Baseline ICT Standards (New Media Literacies)**
 
-The standards has its focus on the acquisition and application of technical skills to support the creation of digital content and various modes of interaction. It details the skills, knowledge, attitude and values (SKAV) that pupils should apply and demonstrate when harnessing ICT for learning and interacting; curating digital content; connecting and communicating digitally; and creating digital multimodal products.
+The standards has its focus on the acquisition and application of technical skills to support the creation of digital content and various modes of interaction. It details the skills, knowledge, attitude and values (SKAV) that students should apply and demonstrate when harnessing ICT for learning and interacting; curating digital content; connecting and communicating digitally; and creating digital multimodal products.
 
 <img src="/images/ict1.png" 
      style="width:50%">
 		 
-New Media Literacies have been defined as the abilities to curate, create and connect with others in the digital networked environment. Curate, Create and Connect are ways of interacting in the digital networked environment. Regular engagement in these interactions will enable pupils to develop an understanding of the social practices governing the digital networked environment.
+New Media Literacies have been defined as the abilities to curate, create and connect with others in the digital networked environment. Curate, Create and Connect are ways of interacting in the digital networked environment. Regular engagement in these interactions will enable students to develop an understanding of the social practices governing the digital networked environment.
 
-The six values at the core of MOE’s 21st Century Competencies Framework undergird the values that pupils should have. These values shape their participation in the digital networked environment.
+The six values at the core of MOE’s 21st Century Competencies Framework undergird the values that students should have. These values shape their participation in the digital networked environment.
 
 The six values are:
 
@@ -32,15 +32,15 @@ The six values are:
 | **Care** | Makes discerning choices and moves beyond self-interest to improve the community |
 | **Harmony** | Appreciates diversity and seeks social cohesion in the new media ecology |
 
-At the end of their six-year education in Yuhua Primary School, a pupil would have acquired these competencies:
+At the end of their six-year education in Yuhua Primary School, a student would have acquired these competencies:
 
 |  |  |
 |---|---|
-| 1. | The pupil is able to conduct internet searches and organize the digital information for ease of retrieval, while recognizing copyright regulations governing the use of digital information. |
-| 2. | The pupil is able to verify the accuracy, credibility and currency of a piece of information. |
-| 3. | The pupil is able to select and put together different media elements to construct a digital artefact, while making informed choices with regard to how to use information ethically. |
-| 4. | The pupil is able to exchange digital information with others synchronously and asynchronously, while observing proper etiquette. |
-| 5. | The pupil is able to manage the digital footprint he/she makes when sharing information online. |
+| 1. | The student is able to conduct internet searches and organize the digital information for ease of retrieval, while recognizing copyright regulations governing the use of digital information. |
+| 2. | The student is able to verify the accuracy, credibility and currency of a piece of information. |
+| 3. | The student is able to select and put together different media elements to construct a digital artefact, while making informed choices with regard to how to use information ethically. |
+| 4. | The student is able to exchange digital information with others synchronously and asynchronously, while observing proper etiquette. |
+| 5. | The student is able to manage the digital footprint he/she makes when sharing information online. |
 
 **Developing Future-ready Learners**
 
@@ -49,7 +49,7 @@ At the end of their six-year education in Yuhua Primary School, a pupil would ha
 <img src="/images/ict2.png" 
      style="width:80%">
 		 
-**F.L.I.G.H.T. 1,2,3!** is the foundation of the whole-school F.L.I.G.H.T.@1656 programme to drive ICT skills and innovative learning experiences for the pupils. As this component targets the younger learners in our school, we gave them a less abstract setting to work on and tap on their learning content from their English Language curriculum as a springboard to challenge them to more innovative learning experiences and outcomes.
+**F.L.I.G.H.T. 1,2,3!** is the foundation of the whole-school F.L.I.G.H.T.@1656 programme to drive ICT skills and innovative learning experiences for the student. As this component targets the younger learners in our school, we gave them a less abstract setting to work on and tap on their learning content from their English Language curriculum as a springboard to challenge them to more innovative learning experiences and outcomes.
 
 <img src="/images/ict3.png" 
      style="width:200%">
@@ -57,14 +57,14 @@ At the end of their six-year education in Yuhua Primary School, a pupil would ha
 <img src="/images/ict4.png" 
      style="width:200%">
 		 
-A pupil working on the Google Doc where students collaborate using the online tool to create their own ending to the STELLAR Unit “There’s A Boy Under The Bed”.
+A student working on the Google Doc where students collaborate using the online tool to create their own ending to the STELLAR Unit “There’s A Boy Under The Bed”.
 
 <img src="/images/ict5.png" 
      style="width:200%">
 
 The students here are working remotely to access shared documents and give individual inputs, with their teacher’s assistance, to value-add to a group task.
 
-**F.L.I.G.H.T. 4,5,6!** is the next stage to drive innovative and critical thinking skills via coding-based lessons and challenges. As pupils have had experience with F.L.I.G.H.T. 1,2,3!, we gave them a more abstract setting to work on or with. Equipped with micro:bits, students were given socio-environmental contexts to work with to bring forth empathy, passion and critical thinking in their  solutions generation.
+**F.L.I.G.H.T. 4,5,6!** is the next stage to drive innovative and critical thinking skills via coding-based lessons and challenges. As students have had experience with F.L.I.G.H.T. 1,2,3!, we gave them a more abstract setting to work on or with. Equipped with micro:bits, students were given socio-environmental contexts to work with to bring forth empathy, passion and critical thinking in their solutions generation.
 
 <img src="/images/ict6.png" 
      style="width:200%">
@@ -78,21 +78,21 @@ TechPlay 1,2,3! is the enrichment arm of the F.L.I.G.H.T. programme, aimed at en
 
 **Code for Fun (CFF) Programme**
 
-This is an enrichment programme, jointly offered by IMDA and MOE, that aims to increase primary and secondary pupils’ exposure to computational thinking and making. It has been introduced to all Primary 5 pupils in our school from 2020 through a 10-hour programme that aims to develop an appreciation and interest in the core computational thinking and coding concepts.
+This is an enrichment programme, jointly offered by IMDA and MOE, that aims to increase primary and secondary students’ exposure to computational thinking and making. It has been introduced to all Primary 5 students in our school from 2020 through a 10-hour programme that aims to develop an appreciation and interest in the core computational thinking and coding concepts.
 
 <img src="/images/ict8.png" 
      style="width:200%">
 
-These Primary 5 pupils are using the iPads to code their Sphero units to execute various commands, that even includes a disco-dance function.
+These Primary 5 students are using the iPads to code their Sphero units to execute various commands, that even includes a disco-dance function.
 
 <img src="/images/ict9.png" 
      style="width:200%">
 
-The pupils have coded these Sphero units to display icons that help them to play the ‘Scissors, Paper, Stone’ traditional game in innovative ways.
+The students have coded these Sphero units to display icons that help them to play the ‘Scissors, Paper, Stone’ traditional game in innovative ways.
 
 **Forging Ahead with Design Thinking @ InnoWizz**
 
-InnoWizz is another signature programme in our school that enables a select group of pupils to partake in Design Thinking and understand more about effective yet affective problem-solving. This programme offers our students the opportunities to delve deep into a designer’s mindset through exploring and enabling the Design Thinking Framework and allows for the honing of creative and critical thinking that are grounded by empathy. They learn to be impactful contributors to tackle real-world issues.
+InnoWizz is another signature programme in our school that enables a select group of students to partake in Design Thinking and understand more about effective yet affective problem-solving. This programme offers our students the opportunities to delve deep into a designer’s mindset through exploring and enabling the Design Thinking Framework and allows for the honing of creative and critical thinking that are grounded by empathy. They learn to be impactful contributors to tackle real-world issues.
 
 <img src="/images/ict10.png" 
      style="width:200%">

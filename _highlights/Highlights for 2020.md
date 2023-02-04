@@ -7,7 +7,7 @@ description: ""
 
 **President’s Visit @ Yuhua 2020**
 
-We are very honoured to share that our President, Mdm Halimah Yacob, visited Yuhua Primary School on 11 November 2020. During her visit, Mdm President had the opportunity to observe the P2 and P6 recess activities which emphasize positive relationships. Mdm President also visited our P2 pupils Coding lesson with Awbie and Cyberwellness and P5 Form Teacher Guidance Period (FTGP) on developing peer support skills.
+We are very honoured to share that our President, Mdm Halimah Yacob, visited Yuhua Primary School on 11 November 2020. During her visit, Mdm President had the opportunity to observe the P2 and P6 recess activities which emphasize positive relationships. Mdm President also visited our P2 students Coding lesson with Awbie and Cyberwellness and P5 Form Teacher Guidance Period (FTGP) on developing peer support skills.
 
 Mdm President’s visit ended with an interaction session with some of our peer supporters who shared with Mdm President their experiences. Mdm President was presented with a Cyber Wellness advocacy poster, designed by our Cyber Wellness Safety Ambassadors (CWSAs). The visit was featured in the news on Channel NewsAsia and in the newspapers such as Lianhe Zaobao and Berita Harian.
 
@@ -63,7 +63,7 @@ Learning took a different slant when the 2019 cohort of Primary 6 Yuhualites und
 
 #### Home Base Learning
 
-The month-long full Home-Based Learning (fHBL) period which started on 8 April posed a steep learning curve for everyone. While the practice day in the week of 1 April gave us an idea of what to expect, FHBL came with its own set of challenges. Nevertheless, it was a time of learning for pupils and teachers alike. Stay home, stay  
+The month-long full Home-Based Learning (fHBL) period which started on 8 April posed a steep learning curve for everyone. While the practice day in the week of 1 April gave us an idea of what to expect, FHBL came with its own set of challenges. Nevertheless, it was a time of learning for students and teachers alike. Stay home, stay  
 safe, stay curious – How did we do that?
 
 ![](/images/hightlight7.png)
@@ -76,7 +76,7 @@ The Deepavali celebration at Yuhua was held on 29 October 2019, a day after our
 
 #### Chinese New Year
 
-Excitement filled the air as we celebrated Chinese New Year together on 24 February 2020. Pupils learn how traditional practices take on a modern twist with the use of technology.
+Excitement filled the air as we celebrated Chinese New Year together on 24 February 2020. Students learn how traditional practices take on a modern twist with the use of technology.
 
 ![](/images/highlight9.png)
 
@@ -112,7 +112,7 @@ and even an art competition.
 
 #### Annual Prize Giving
 
-Our 37th Annual Prize-Giving Day (APGD) was held on 17 July this year. The theme ‘Dare to Dream’ clearly resonated with our pupils. Pupils from P4 to P6 joined in the Prize-Giving Day by tuning in to the live broadcast from their classrooms. As the pupils watched their friends receive their awards, rapturous applause echoed from the classrooms.
+Our 37th Annual Prize-Giving Day (APGD) was held on 17 July this year. The theme ‘Dare to Dream’ clearly resonated with our students. Students from P4 to P6 joined in the Prize-Giving Day by tuning in to the live broadcast from their classrooms. As the students watched their friends receive their awards, rapturous applause echoed from the classrooms.
 
 ![](/images/highlight14.png)
 
