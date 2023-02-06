@@ -20,6 +20,7 @@ third_nav_title: Staff
 | HOD / Information, Communication and Technology (ICT) | Mrs Lau – Ng Li Ping | ng_li_ping@moe.edu.sg |
 | HOD / PE & CCA |Mr Shum Wai Hoh |shum_wai_hoh@moe.edu.sg|
 | Year Head | Mdm Hia Soo Ling | hia_soo_ling@moe.edu.sg |
+| Year Head | Mrs Denise Kee-Yeo Sulyn | yeo_sulyn_denise@moe.edu.sg |
 | Year Head | Mdm Tan Sok Lan Corrine | tan_sok_lan_corrine@moe.edu.sg |
 | Level Head/ Mathematics | Mrs Lee – Guan Meixia | guan_meixia@moe.edu.sg |
 | Level Head / Mathematics | Mrs Ow- Mah Li Feng | mah_li_feng@moe.edu.sg |
