@@ -101,5 +101,5 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Yip Lai Mun (MDM) | yip_lai_mun@moe.edu.sg |
 | Yogarrajah (MR) | yogarrajah_a_e_c@moe.edu.sg |
 | Yuliana Bte Mohamed (MDM) | yuliana_mohamed@moe.edu.sg |
-| Zahara Binte Mohd Haniffa (MDM) | zahara_mohd_haniffa@moe.edu.sg |
+| Zahara Binte Mohd Haniffa (MDM) | zahara_mohd_haniffa_a@moe.edu.sg |
 | Zhuang Xiling (MISS) | zhuang_xiling@moe.edu.sg |
