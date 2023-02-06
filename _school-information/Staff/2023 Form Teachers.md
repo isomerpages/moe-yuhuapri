@@ -22,7 +22,7 @@ third_nav_title: Staff
 |  | MDM MUMTAJ BIVI | mumtaj_bivi@moe.edu.sg |
 | 1 DILIGENCE | MDM YULIANA MOHAMED | yuliana_mohamed@moe.edu.sg |
 |  | MDM GOH BEE KER | goh_bee_ker@moe.edu.sg|
-| 1 UNITY | MR DANIEL ABDUL MANAP | muhammad_daniel_abdul_manap@moe.edu.sg |
+| 1 UNITY | MR DANIEL MANAP | muhammad_daniel_abdul_manap@moe.edu.sg |
 |  | MS CELESTE CHEN WEI  | celeste_chen_wei@moe.edu.sg
 | 1 HONESTY | MRS NG – ANG SI TING CHERYL | ang_si_ting_cheryl@moe.edu.sg |
 |  | MRS HO - YIP LAI MUN | yip_lai_mun@moe.edu.sg |
