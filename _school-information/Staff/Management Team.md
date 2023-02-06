@@ -16,7 +16,7 @@ third_nav_title: Staff
 | HOD / Mathematics | Mrs Charlotte Lee | tan_hwee_fang@moe.edu.sg |
 | HOD / Mother Tongue Language (MTL) | Ms Loong Siew Hwee Jesslin | loong_siew_hwee@moe.edu.sg |
 | HOD / Character and Citizenship Education | Mdm Chia Hwee Chin | chia_hwee_chin@moe.edu.sg |
-| HOD / Discipline | Mr Musa B Abdul Kadir | musa_b_abdul_kadir@moe.edu.sg |
+| HOD / Student Management | Mr Musa B Abdul Kadir | musa_b_abdul_kadir@moe.edu.sg |
 | HOD / Information, Communication and Technology (ICT) | Mrs Lau – Ng Li Ping | ng_li_ping@moe.edu.sg |
 | HOD / PE & CCA |Mr Shum Wai Hoh |shum_wai_hoh@moe.edu.sg|
 | Year Head | Mdm Hia Soo Ling | hia_soo_ling@moe.edu.sg |
@@ -24,11 +24,12 @@ third_nav_title: Staff
 | Level Head/ Mathematics | Mrs Lee – Guan Meixia | guan_meixia@moe.edu.sg |
 | Level Head / Mathematics | Mrs Ow- Mah Li Feng | mah_li_feng@moe.edu.sg |
 | Level Head/ Science | Mdm Wong Jing Jing Jean | wong_jing_jing@moe.edu.sg |
-| Subject Head/ CCE | Mr Lim Xiang Wei Kelvin | lim_xiang_wei_kelvin@moe.edu.sg |
+| Subject Head/ Student Leaddership | Mr Lim Xiang Wei Kelvin | lim_xiang_wei_kelvin@moe.edu.sg |
 | Subject Head/ Innovation | Mdm Maria Norashiken Bte Hayak | maria_norashiken_hayak@moe.edu.sg |
 | Assistant Year Head | Mr Azman Bin Yahya | azman_yahya@moe.edu.sg |
 | Assistant Year Head | Mrs Yang – Gay Bee Hong | gay_bee_hong@moe.edu.sg |
 | Assistant Year Head | Mr Mohd Noor Faisal Bin Abdul Karim | md_noor_faisal_abdul@moe.edu.sg |
+| Administrative Manager | Ms Tan Kiat Joo | tan_kiat_joo@moe.edu.sg
 | Senior Teacher | Mdm Siti Farah Deva Omar | siti_farah_deva_omar@moe.edu.sg |
 | Senior Teacher | Mdm Mumtaz Bivi Binte Abdul Kader | mumtaj_bivi@moe.edu.sg |
 | Senior Teacher | Ms Lim Bee Lian | lim_bee_lian_a@moe.edu.sg |
