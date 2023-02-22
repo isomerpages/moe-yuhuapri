@@ -22,6 +22,14 @@ sections:
       subtitle: Announcements & News
       button: Announcement
   - infopic:
+      title: Channel News Asia School Work
+      subtitle: Featured on Channel News Asia
+      description: Find out what it means to be a  Discipline Master
+      button: Find out more
+      url: /announcements/news/disciplinemasterCNA/
+      image: /images/MusapicCNA.jpg
+      alt: Image alt text
+  - infopic:
       title: Annual Prize-Giving Day 2022
       description: Our Annual Prize Giving Day (APGD) 2022 was conducted “live” via
         Zoom on 29 April this year for all parents and stakeholders to join in
@@ -46,13 +54,5 @@ sections:
       button: Find out more
       url: /presidents-visit-yuhua-2020
       image: /images/infopic3.png
-      alt: Image alt text
-  - infopic:
-      title: CNA School Work
-      subtitle: Featured on Channel News Asia
-      description: Find out what it means to be a  Discipline Master
-      button: Find out more
-      url: /announcements/news/disciplinemasterCNA/
-      image: /images/MusapicCNA.jpg
       alt: Image alt text
 ---
