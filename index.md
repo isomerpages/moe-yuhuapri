@@ -30,15 +30,6 @@ sections:
       image: /images/MusapicCNA.jpg
       alt: Image alt text
   - infopic:
-      title: Annual Prize-Giving Day 2022
-      description: Our Annual Prize Giving Day (APGD) 2022 was conducted “live” via
-        Zoom on 29 April this year for all parents and stakeholders to join in
-        our celebrations!
-      button: Find out more
-      url: /annual-prize-giving-day-2022
-      image: /images/infopic1.png
-      alt: Annual Prize-Giving Day
-  - infopic:
       title: Inspiring Teacher of English Award 2021
       description: We are proud to announce that our Level Head for English Language
         (EL), Ms Vikneswari D/O Sukumaran, is accorded the Inspiring Teacher of
