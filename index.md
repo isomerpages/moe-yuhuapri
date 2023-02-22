@@ -22,7 +22,7 @@ sections:
       subtitle: Announcements & News
       button: Announcement
   - infopic:
-      title: Channel News Asia School Work
+      title: " School Work"
       subtitle: Featured on Channel News Asia
       description: Find out what it means to be a  Discipline Master
       button: Find out more
