@@ -65,7 +65,7 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Musa B Abdul Kadir (MR) | musa_b_abdul_kadir@moe.edu.sg |
 | Nadira Bte Omar (MDM) | nadira_omar@moe.edu.sg |
 | Nizam Nurrahim B Abdul Shukor (MR) | nizam_nurrahim_abdul_shukor@moe.edu.sg |
-| Norparissah (MDM) | norparissah@moe.edu.sg |
+| Norparissah (MS) | norparissah@moe.edu.sg |
 | Nur Aini Binte Rosli (MISS) | nur_aini_rosli@moe.edu.sg |
 | Nur Qurratuaini Binte Mohd Zuhri (MDM) | nur_qurratuaini_mohd_zuhri@moe.edu.sg|
 | Nurfadlin Fazirah Binte Abdul Manaf | nurfadlin_fazirah_abdul_manaf@moe.edu.sg |
