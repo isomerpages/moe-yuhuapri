@@ -13,8 +13,6 @@ description: ""
 
 [BrainPoP](https://www.brainpop.com/)
 
-[Xue Le 学乐](https://xuele.moe.edu.sg/xuele/slot/u107/index.html)
-
 [Discover Reads](https://www.nlb.gov.sg/discovereads/)
 
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)
