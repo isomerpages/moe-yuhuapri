@@ -25,7 +25,7 @@ description: ""
 
 [Schoolbag.sg](https://www.schoolbag.sg/)
 
-[Cyberwellness]([Cyber Wellness (moe.edu.sg)](https://www.yuhuapri.moe.edu.sg/yuhualite-experience/cyber-wellness/)
+[Cyberwellness](https://www.yuhuapri.moe.edu.sg/yuhualite-experience/cyber-wellness/)
 
 [Parents Gateway](https://pg.moe.edu.sg/)
 
