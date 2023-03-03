@@ -25,7 +25,7 @@ description: ""
 
 [Schoolbag.sg](https://www.schoolbag.sg/)
 
-[Cyberwellness](https://ict.moe.edu.sg/ict/slot/u151/baseline/index.html)
+[Cyberwellness]([Cyber Wellness (moe.edu.sg)](https://www.yuhuapri.moe.edu.sg/yuhualite-experience/cyber-wellness/)
 
 [Parents Gateway](https://pg.moe.edu.sg/)
 
