@@ -21,7 +21,7 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 **P6 Parents Engagement – Science**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/Zg1mZJ2mlak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/9_0tIh2BqU8" title="2023 P6 Subject Briefing SC Updated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P6 Parents Engagement – Mother Tongue (CL)**
 
