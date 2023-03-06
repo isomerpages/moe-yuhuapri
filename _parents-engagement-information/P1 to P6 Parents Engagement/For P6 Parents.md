@@ -13,7 +13,7 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 **P6 Parents Engagement – English**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/U6GQB9VSq70" title="2023 P2 Subject Briefing EL Updated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/NbNr0EeYux4" title="P6 Parents Engagement EL sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P6 Parents Engagement – Mathematics**
 
