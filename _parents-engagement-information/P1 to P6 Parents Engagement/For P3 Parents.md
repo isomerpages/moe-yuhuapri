@@ -12,11 +12,11 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 **P3 Parents Engagement – English**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/1V0rcY-6j0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/7UWyTv95WfY" title="2023 P3 Subject Briefing EL Updated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P3 Parents Engagement – Mathematics**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/zhGaigoBsU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/2nTkzZMBjZw" title="2023 P3 Subject Briefing MA Updated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P3 Parents Engagement – Science**
 
@@ -28,7 +28,7 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 **P3 Compo Parents Engagement (CL)**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/vjzSBZtaQpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/5FQ_Gff3LBg" title="p3 CL Dept Parents Workshop Compo no change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **P3 Parents Engagement – Mother Tongue (ML)**
 
