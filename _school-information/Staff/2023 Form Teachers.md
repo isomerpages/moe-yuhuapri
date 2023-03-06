@@ -17,6 +17,7 @@ third_nav_title: Staff
 |  | MS SITI KAMIRAH MOHAMED NOR | siti_kamirah_mohamed_nor@moe.edu.sg |
 | 1 KINDNESS | MDM SITI FARAH DEVA OMAR | siti_farah_deva_omar@moe.edu.sg |
 |  | MRS YANG - GAY BEE HONG | gay_bee_hong@moe.edu.sg |
+| |MS TAN FANG NI | tan_fang_ni@moe.edu.sg |
 | 1GRATITUDE | MRS CHAN – TAN SOK LAN CORRINE| tan_sok_lan_corrine@moe.edu.sg |
 |  | MRS LEE - GUAN MEIXIA | guan_meixia@moe.edu.sg |
 |  | MDM MUMTAJ BIVI | mumtaj_bivi@moe.edu.sg |
@@ -56,12 +57,14 @@ third_nav_title: Staff
 |---|---|---|
 | 3  JOY | MDM LILY LIM | lim_lily@moe.edu.sg |
 |  | MS ZHUANG XILING | zhuang_xiling@moe.edu.sg |
+|  | MDM LU JIA | lu_jia@moe.edu.sg |
 | 3  COURAGE | MS LIM ZUO ER JOEY | lim_zuo_er_joey@moe.edu.sg |
 |  | MDM NUR QURRATUAINI BTE MOHD ZUHRI | nur_qurratuaini_mohd_zuhri@moe.edu.sg |
 | 3 KINDNESS | MDM KWAN WAI YEE | kwan_wai_yee@moe.edu.sg |
 |  | MDM TEOH CHONG YOOG | teoh_chong_yoog@moe.edu.sg |
 | 3 GRATITUDE | MDM LIM SHIAU CHEN| lim_shiau_chen@moe.edu.sg |
 |  | MDM MAHA DEVI | maha_devi_palaniappan@moe.edu.sg |
+|  | MR IRFAN SILALAHI | irfan_silalahi@moe.edu.sg|
 | 3 DILIGENCE | MDM SITI FATIMAH BTE ABDUL LATIFF | siti_fatimah_abdul_latiff@moe.edu.sg |
 |  | MRS KEE - YEO SULYN DENISE | yeo_sulyn_denise@moe.edu.sg |
 | 3 UNITY | MS LIN RENFANG | lin_renfang@moe.edu.sg |
@@ -98,6 +101,7 @@ third_nav_title: Staff
 |5 KINDNESS | MR AZMAN YAHYA | azman_yahya@moe.edu.sg |
 |  | MS ANG YING YING | ang_ying_ying@moe.edu.sg |
 | 5 GRATITUDE | MRS LIU – KANG HAN YING IVORIE | kang_han_ying_ivorie@moe.edu.sg |
+| |MS JONNALY TEO MIN HUI | jonnaly_teo_min_hui@moe.edu.sg |
 |5 DILIGENCE | MR TAN HENG KWEE | tan_heng_kwee@moe.edu.sg |
 | |MS TAY YULING | tay_yuling@moe.edu.sg |
 

@@ -13,8 +13,6 @@ description: ""
 
 [BrainPoP](https://www.brainpop.com/)
 
-[Xue Le 学乐](https://xuele.moe.edu.sg/xuele/slot/u107/index.html)
-
 [Discover Reads](https://www.nlb.gov.sg/discovereads/)
 
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)
@@ -27,7 +25,7 @@ description: ""
 
 [Schoolbag.sg](https://www.schoolbag.sg/)
 
-[Cyberwellness](https://ict.moe.edu.sg/ict/slot/u151/baseline/index.html)
+[Cyberwellness](https://www.yuhuapri.moe.edu.sg/yuhualite-experience/cyber-wellness/)
 
 [Parents Gateway](https://pg.moe.edu.sg/)
 
