@@ -13,7 +13,6 @@ In Yuhua Primary School, we believe that all Yuhualites can lead. We have in pla
 ![](/images/Presentation1.png)
 
 **Student Leadership Framework in Yuhua Primary School**
-
 As part of student leadership growth and development, the school’s student leadership programme is anchored upon Stephen Covey’s 7 Habits of highly effective people which is also in alignment to our **ACHIEVE** student outcomes framework. The school’s programmes are divided into 3 tiers: Tier 1 - Leading Self, Tier 2 - Leading Peers and Tier 3 - Leading Teams/Others. Aligned to our school vision of “Every Yuhualite who learns, thinks, innovates, cares, shares and contributes”, we hope to nurture all students to flourish, grow and demonstrate student leadership competencies as shown below.
 ![](/images/Student%20leadership.png)
 
