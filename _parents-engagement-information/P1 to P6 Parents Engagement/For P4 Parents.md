@@ -44,4 +44,4 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 **P4 Subject-Based Banding and PSLE Scoring Systems**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/y94kQ2L9k-U" title="P4 Parents workshop 2023   TL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[P4 Briefing on Subject-Based Banding, PSLE Scoring & S1 Posting]()
