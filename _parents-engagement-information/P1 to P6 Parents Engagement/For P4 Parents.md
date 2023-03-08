@@ -6,11 +6,11 @@ third_nav_title: P1 to P6 Parents Engagement
 ---
 ### P4 Parents Engagement
 
-#### Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.
+##### Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.
 
 _“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”      – Jane D. Hull_
 
-**P4 Parents Engagement 2023 – Zoom Session - Students Well-Being Strategies / P4 Subject-based Banding & PSLE Scoring Systems**
+###### **P4 Parents Engagement 2023 – Zoom Session  Students Well-Being Strategies, P4 Subject-Based Banding & PSLE Scoring Systems**
 
 <iframe width="699" height="393" src="https://www.youtube.com/embed/eAGjWujSt0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -42,6 +42,3 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 <iframe width="699" height="393" src="https://www.youtube.com/embed/0zd3yn63fgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**P4 Subject-Based Banding and PSLE Scoring Systems**
-
-[P4 Briefing on Subject-Based Banding, PSLE Scoring & S1 Posting]()
