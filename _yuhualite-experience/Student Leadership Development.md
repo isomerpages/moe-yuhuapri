@@ -10,23 +10,12 @@ In Yuhua Primary School, we believe that all Yuhualites can lead. We have in pla
 **Student Leadership Programme**
 
 **In our school,  we use PINNACLE, which** is the acronym for **P**rogramme for **In**spiring & **N**urturing **A**ctive **C**onfident **Le**aders, in the designing of programme for different segments of the student leaders.
+![](/images/Presentation1.png)
 
-<img src="/images/pupil1.png" 
-     style="width:250%">
-		 
-**All Yuhualites, from primary one to primary six, will go through the milestone programme.**  Cohort Leadership workshop is also carried out for the P4 and P5 cohorts. Through the milestone programme, the school believes that every student leader can and will develop the following leadership skills
+**Student Leadership Framework in Yuhua Primary School**
 
-*   Teamwork
-*   Communications
-*   Decision making
-*   Conflict management
-*   Engaging others
-
-The Enhanced leadership programme is designed for Prefects, CCA Leaders and School Peer Supporters. Yuhualites are taught specific skills that are essential for them to carry out their leadership roles in school. Through the programme, they will also develop the habits of good leaders.
-
-Additional programme and opportunities are also given to student leaders who demonstrates exceptional leadership to develop themselves into active confident leaders.
-
-The school aspires to help develop all Yuhualite to become student leaders who can lead with a humble heart and an open mind.
+As part of student leadership growth and development, the school’s student leadership programme is anchored upon Stephen Covey’s 7 Habits of highly effective people which is also in alignment to our **ACHIEVE** student outcomes framework. The school’s programmes are divided into 3 tiers: Tier 1 - Leading Self, Tier 2 - Leading Peers and Tier 3 - Leading Teams/Others. Aligned to our school vision of “Every Yuhualite who learns, thinks, innovates, cares, shares and contributes”, we hope to nurture all students to flourish, grow and demonstrate student leadership competencies as shown below.
+![](/images/Student%20leadership.png)
 
 <img src="/images/pupil2.png" 
      style="width:200%">
