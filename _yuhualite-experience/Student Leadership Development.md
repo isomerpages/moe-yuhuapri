@@ -7,9 +7,9 @@ description: ""
 
 In Yuhua Primary School, we believe that all Yuhualites can lead. We have in place a rigourous Student Leadership Development programme that seeks to inculcate in every yuhualite the knowledge, skills and values of a leader. Through our programme, we hope that all Yuhualites will develop into self-directed leaders who will seek constant improvement.
 
-**Pupil Leadership Programme**
+**Student Leadership Programme**
 
-**In our school,  we use PINNACLE, which** is the acronym for **P**rogramme for **In**spiring & **N**urturing **A**ctive **C**onfident **Le**aders, in the designing of programme for different segments of the pupil leaders.
+**In our school,  we use PINNACLE, which** is the acronym for **P**rogramme for **In**spiring & **N**urturing **A**ctive **C**onfident **Le**aders, in the designing of programme for different segments of the student leaders.
 
 <img src="/images/pupil1.png" 
      style="width:250%">
