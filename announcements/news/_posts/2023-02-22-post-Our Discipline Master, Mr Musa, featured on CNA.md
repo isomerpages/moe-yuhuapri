@@ -7,8 +7,8 @@ description: ""
 image: /images/MusapicCNA.jpg
 ---
 
-
-![](/images/MusapicCNA.jpg)
+<img src="/images/MusapicCNA.jpg" 
+     style="width:70%">
 
 We are proud to share that our HOD Student Management, also our Discipline Master, Mr Musa, was featured by CNA as part of a series where CNA reporters shadow various school professionals for a day. 
 

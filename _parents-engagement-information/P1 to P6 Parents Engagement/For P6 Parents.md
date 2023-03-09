@@ -12,9 +12,14 @@ third_nav_title: P1 to P6 Parents Engagement
 _“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”      – Jane D. Hull_
 
 **P6 Parents Engagement 2023 – Zoom Session**
-**(Students Well-Being Strategies, S1 Posting System & DSA Matters )**
+**(Students Well-Being Strategies, PSLE Scoring, S1 Posting System & DSA Matters )**
 
-<iframe width="699" height="393" src="https://www.youtube.com/embed/yni6w6wItg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/rYwd1Xuixpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Time stamp:**
+
+* 0 mins - 12:25 ( Students' Well-Being Strategies )
+* 12:25mins - 26:24 ( PSLE Scoring, S1 Posting & DSA ) 
 
 **P6 Parents Engagement 2023 – English**
 
@@ -38,11 +43,3 @@ _“At the end of the day, the most over-whelming key to a child’s success is 
 
 **P6 Parents Engagement 2023– (TL)**
 <iframe width="699" height="393" src="https://www.youtube.com/embed/zdmwef3j6o0" title="P6 Parents workshop 2023   TL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-**P6 Parents Engagement 2023– Ensuring Students’ Well Being**
-
-<iframe width="699" height="393" src="https://www.youtube.com/embed/RVRuM2xUz4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**PSLE New Scoring Systems**
-
-<iframe width="699" height="393" src="https://www.youtube.com/embed/iOAsWjVBcMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

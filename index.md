@@ -20,7 +20,7 @@ sections:
           url: /highlights/2021
   - resources:
       subtitle: Announcements & News
-      button: Announcement
+      button: Click for more
   - infopic:
       title: " School Work"
       subtitle: Featured on Channel News Asia
