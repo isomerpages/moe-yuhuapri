@@ -101,7 +101,7 @@ third_nav_title: Staff
 |5 KINDNESS | MR AZMAN YAHYA | azman_yahya@moe.edu.sg |
 |  | MS ANG YING YING | ang_ying_ying@moe.edu.sg |
 | 5 GRATITUDE | MRS LIU – KANG HAN YING IVORIE | kang_han_ying_ivorie@moe.edu.sg |
-| |MS JONNALY TEO MIN HUI | jonnaly_teo_min_hui@moe.edu.sg |
+| |MS JONNALYN TEO MIN HUI | jonnalyn_teo_min_hui@moe.edu.sg |
 |5 DILIGENCE | MR TAN HENG KWEE | tan_heng_kwee@moe.edu.sg |
 | |MS TAY YULING | tay_yuling@moe.edu.sg |
 
