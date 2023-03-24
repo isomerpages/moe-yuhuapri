@@ -33,3 +33,4 @@ Open House on ***Saturday 15 April 2023 from  8.30a.m. to 12.30  p.m.***
  
 
 Please refer to the attached enclosed invitation letter and Open House brochure for the details.
+[ Open House Information](/files/ACS(I)%202023%20Open%20House%20Invitation.pdf)
