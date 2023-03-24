@@ -27,11 +27,11 @@ It will be a physical event held at the SOTA campus. At the Open House, students
 
 
 
-Anglo Chinese School Open House
+| Anglo Chinese School |  |  |
+| -------- | -------- | -------- |
+| Open House on Saturday 15 April 2023 from 8.30 a.m. to 12.30 p.m. |  
 
-Dear Parent/ Guardian,
 
-Anglo Chinese School would like to invite you and your child/ ward to their Open House on Saturday 15 April 2023 from 8.30 a.m. to 12.30 p.m. 
+ 
+
 Please refer to the attached enclosed invitation letter and Open House brochure for the details.
-
-Thank you.
