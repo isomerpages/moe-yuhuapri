@@ -28,8 +28,4 @@ More information can be found on the website ***sota.edu.sg/oh2023.***
 
 ##### **Anglo Chinese School**
 Open House on ***Saturday 15 April 2023 from  8.30a.m. to 12.30  p.m.***
-
-
- 
-
-###### Please refer to the attached enclosed[ Open House Information](/files/ACS(I)%202023%20Open%20House%20Invitation.pdf) for more details.
+ ###### Please refer to the attached enclosed[ Open House Information](/files/ACS(I)%202023%20Open%20House%20Invitation.pdf) for more details.
