@@ -3,7 +3,7 @@ title: Sec School Open House 2023
 permalink: /parents-engagement-information/secondary-school-open-house-2023/
 description: ""
 ---
- ### Secondary School Open House 2023
+### Secondary School Open House 2023
 
 Dear Parent/ Guardian,
 
@@ -27,7 +27,7 @@ More information can be found on the website ***sota.edu.sg/oh2023.***
 
 
 ##### **Anglo Chinese School**
-Open House on ***Saturday 15 April 2023 from 8.30 a.m. to 12.30 p.m. ***
+Open House on ***Saturday 15 April 2023 from  8.30a.m. to 12.30  p.m.***
 
 
  
