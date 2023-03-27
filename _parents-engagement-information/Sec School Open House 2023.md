@@ -22,7 +22,7 @@ More information can be found on the website ***sota.edu.sg/oh2023.***
 Open House on ***Saturday 15 April 2023 from  8.30a.m. to 12.30  p.m.***
  ###### Please refer to the attached enclosed[ Open House Information](/files/ACS(I)%202023%20Open%20House%20Invitation.pdf) for more details.
  
- #### ** Singapore Sports School - 15 April 2023
+ #### **Singapore Sports School - 15 April 2023**
  
 Singapore Sports School will be hosting our e-Open House on **15 April 2023**. The webinar will start at **10am** followed by a **live chat session on our website from 11.15am.**     
 
@@ -33,9 +33,4 @@ Interested parties can sign up via the Eventbrite page at [https://whysportsscho
 ##### **Raffles Girls School - 20 May 2023** 
 Open House on ***Saturday 20 May 2023 (Term 2 Week 9), from 8.30 a.m. to 1.30 p.m***. 
 It will be an in-person event at their Braddell campus (barring any further updates on Safe Management Measures (SMM) that might advise otherwise). 
-More information will be available on their school website a month before the Open House. 
-
-
-
-
-
+More information will be available on their school website a month before the Open House.
