@@ -12,6 +12,7 @@ third_nav_title: Staff
 |---|---|---|
 | 1 JOY | MS YIM MAY MAY JANICE | yim_may_may_janice@moe.edu.sg |
 |  | MS NURFADLIN FAZIRAH | nurfadlin_fazirah_abdul_manaf@moe.edu.sg |
+|| MS ZHU YUNING
 | 1 COURAGE | MRS XIAO - CHUA SUI LING, CHRISTINE|chua_sui_ling_christine@moe.edu.sg|
 |  | MRS GEE - YAP CHENG LIANG |gee_yap_cheng_liang@moe.edu.sg |
 |  | MS SITI KAMIRAH MOHAMED NOR | siti_kamirah_mohamed_nor@moe.edu.sg |
@@ -19,7 +20,7 @@ third_nav_title: Staff
 |  | MRS YANG - GAY BEE HONG | gay_bee_hong@moe.edu.sg |
 | |MS TAN FANG NI | tan_fang_ni@moe.edu.sg |
 | 1GRATITUDE | MRS CHAN – TAN SOK LAN CORRINE| tan_sok_lan_corrine@moe.edu.sg |
-|  | MRS LEE - GUAN MEIXIA | guan_meixia@moe.edu.sg |
+|  | MRS LEE - GUAN MEIXIA |  |
 |  | MDM MUMTAJ BIVI | mumtaj_bivi@moe.edu.sg |
 | 1 DILIGENCE | MDM YULIANA MOHAMED | yuliana_mohamed@moe.edu.sg |
 |  | MDM GOH BEE KER | goh_bee_ker@moe.edu.sg|
@@ -56,7 +57,7 @@ third_nav_title: Staff
 | Class | Teachers | Email |
 |---|---|---|
 | 3  JOY | MDM LILY LIM | lim_lily@moe.edu.sg |
-|  | MS ZHUANG XILING | zhuang_xiling@moe.edu.sg |
+|  | MS ZHUANG XILING |  |
 |  | MDM LU JIA | lu_jia@moe.edu.sg |
 | 3  COURAGE | MS LIM ZUO ER JOEY | lim_zuo_er_joey@moe.edu.sg |
 |  | MDM NUR QURRATUAINI BTE MOHD ZUHRI | nur_qurratuaini_mohd_zuhri@moe.edu.sg |
@@ -64,7 +65,7 @@ third_nav_title: Staff
 |  | MDM TEOH CHONG YOOG | teoh_chong_yoog@moe.edu.sg |
 | 3 GRATITUDE | MDM LIM SHIAU CHEN| lim_shiau_chen@moe.edu.sg |
 |  | MDM MAHA DEVI | maha_devi_palaniappan@moe.edu.sg |
-|  | MR IRFAN SILALAHI | irfan_silalahi@moe.edu.sg|
+|  | MS KATIE GOH | goh_k_thing@moe.edu.sg|
 | 3 DILIGENCE | MDM SITI FATIMAH BTE ABDUL LATIFF | siti_fatimah_abdul_latiff@moe.edu.sg |
 |  | MRS KEE - YEO SULYN DENISE | yeo_sulyn_denise@moe.edu.sg |
 | 3 UNITY | MS LIN RENFANG | lin_renfang@moe.edu.sg |
@@ -81,7 +82,7 @@ third_nav_title: Staff
 | 4  COURAGE | MR MOHAMED NAZRA MOHAMED SAID | mohamed_nazra_mohamed_said@moe.edu.sg |
 |  | MR KELVIN LIM | lim_xiang_wei_kelvin@moe.edu.sg |
 | 4 KINDNESS | MR GOH KOK WAI | goh_kok_wai@moe.edu.sg |
-|  | MS KATIE GOH | goh_k_thing@moe.edu.sg |
+|  | MR IRFAN SILALAHI | irfan_silalahi@moe.edu.sg |
 |  | MDM MARRISSA MOHAMED TAIB | marrissa_mohamed_taib@moe.edu.sg |
 |4 GRATITUDE  | MR MD NOOR FAISAL | md_noor_faisal_abdul@moe.edu.sg |
 |  | MS WU CHIOU PYNG | wu_chiou_pyng@moe.edu.sg |
