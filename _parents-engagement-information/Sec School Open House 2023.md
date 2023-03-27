@@ -35,4 +35,5 @@ Interested parties can sign up via the Eventbrite page at [https://whysportsscho
 ##### **Raffles Girls School - 20 May 2023** 
 Open House on ***Saturday 20 May 2023 (Term 2 Week 9), from 8.30 a.m. to 1.30 p.m***. 
 It will be an in-person event at their Braddell campus (barring any further updates on Safe Management Measures (SMM) that might advise otherwise). 
+
 More information will be available on their school website a month before the Open House.
