@@ -3,8 +3,6 @@ title: Sec School Open House 2023
 permalink: /parents-engagement-information/secschoolopenhouse2023/
 description: ""
 ---
-  
-
 ### Secondary School Open House 2023
 
 Dear Parent/ Guardian,
@@ -58,4 +56,3 @@ It will be an in-person event at their Braddell campus (barring any further upda
 More information will be available on their school website a month before the Open House.   
 
 [Raffles Girls School Website](https://www.rgs.edu.sg/)
-
