@@ -30,6 +30,7 @@ Singapore Sports School is the only school in Singapore established to nurture a
 
 Interested parties can sign up via the Eventbrite page at [https://whysportsschool.eventbrite.sg](https://whysportsschool.eventbrite.sg) to receive the invite to the webinar.
 
+[Sports School e-Open House](/files/Sports%20School%20e-Open%20House.pdf)
 
 ##### **Raffles Girls School - 20 May 2023** 
 Open House on ***Saturday 20 May 2023 (Term 2 Week 9), from 8.30 a.m. to 1.30 p.m***. 
