@@ -47,6 +47,23 @@ Interested parties can sign up via the Eventbrite page at https://whysportsschoo
 
 [Sport School Open House 2023](/files/Sports%20School%20e-Open%20House.pdf)
 
+#### Methodist Girls School - 29 April 2023
+
+Methodist Girls School wil l be hosting an open house on  **Saturday 29 April 2023 @ 9am**.
+
+The MGS Open House will provide insights into the distinctive features of the MSG Secondary School experience.
+
+
+Learn more about the curriculum and co-curriculum by meeting the MGS family at Discovery and CCA Booths, Sharing Sessions, Student Performances and School Tours.
+
+Refer to this portal for more details:
+
+[MGS Open House Portal](https://www.mgs.moe.edu.sg/news-and-events/mgsoh/ )
+
+[MGS Registration Form](https://go.gov.sg/mgsoh2023)
+
+Alternatively,  you may contact **Mrs Joyce Ang @ joyce_ang@mgs.sch.edu.sg**
+
 ##### **Raffles Girls School - 20 May 2023**
 
  **Saturday 20 May 2023 (Term 2 Week 9), from 8.30 a.m. to 1.30 p.m**.
