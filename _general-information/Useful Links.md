@@ -18,7 +18,7 @@ description: ""
 [Yuhua School Library](https://schoolibrary.moe.edu.sg/yuhuapri)
 
 National Digit Explorer 2023 (NDE-Primary 4)
-* [iCDL Website](https://icdlasia.org/nde2023/)
+* [iCDL Website login](https://learn.icdlasia.org/login)
 * [M365 Website](https://www.microsoft.com/EN/Microsoft-365)
 * [Microsoft365 & NDE e-Learning Portal Student Guide](/files/microsoft%20365%20&%20nde%20elearning%20portal%20student%20guide.pdf)
 
