@@ -11,8 +11,6 @@ description: ""
 
 [Student iCON](https://workspace.google.com/dashboard)
 
-[BrainPoP](https://www.brainpop.com/)
-
 [Discover Reads](https://www.nlb.gov.sg/discovereads/)
 
 [Student Learning Space](https://vle.learning.moe.edu.sg/login)
@@ -22,7 +20,7 @@ description: ""
 [National Digit Explorer 2023 (NDE-Primary 4)]([](/files/nde%20programme%20guide%20for%20students.pdf)https://schoolibrary.moe.edu.sg/yuhuapri)
 
 * [M365 Website](https://www.microsoft.com/EN/Microsoft-365)
-
+* [M365 & NDE elearning Portal Guide]([]())
 
 #### For Parents
 
