@@ -20,7 +20,7 @@ description: ""
 National Digit Explorer 2023 (NDE-Primary 4)
 * [iCDL Website](https://icdlasia.org/nde2023/)
 * [M365 Website](https://www.microsoft.com/EN/Microsoft-365)
-* [M365 & NDE elearning Portal Guide]([V1](/files/microsoft%20365%20&%20nde%20elearning%20portal%20student%20guide.pdf))
+* [Microsoft365 & NDE e-Learning Portal Student Guide](/files/microsoft%20365%20&%20nde%20elearning%20portal%20student%20guide.pdf)
 
 #### For Parents
 
