@@ -19,6 +19,11 @@ description: ""
 
 [Yuhua School Library](https://schoolibrary.moe.edu.sg/yuhuapri)
 
+[National Digit Explorer 2023 (NDE-Primary 4)]([](/files/nde%20programme%20guide%20for%20students.pdf)https://schoolibrary.moe.edu.sg/yuhuapri)
+
+* [M365 Website](https://www.microsoft.com/EN/Microsoft-365)
+
+
 #### For Parents
 
 [MOE Website](https://www.moe.gov.sg/)
