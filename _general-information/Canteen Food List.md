@@ -148,16 +148,15 @@ description: ""
 
 | Type of Food/Drinks | Prices |
 |---|---|
-| Types of Cut Fruits –<br>water melon, honey dew, papaya, orange, pineapple, apple, banana | 30 cents |
-| Assorted Tetrapak Drinks | 50 cents |
-| Milo (packet) | 90 cents |
-| Mineral water (bottled) | 60 cents |
-| Vitagen Drink | 70 cents |
-| HL Fresh Milk | 90 cents |
-| Peel Fresh Juices (no sugar added) | 90 cents |
-| Yogurt Drink | 90 cents |
-| Non-Fat Yogurt (cup) | $1.00 |
-| Vitasoy (packet) | 80 cents |
+| Fresh Cut Fruits | 40 cents |
+| Chrysanthemum Tea (pkt) | 70 cents |
+| Mineral water (bottled) | 70 cents |
+| Lychee Drink | 80 cents |
+| Oolonbg Tea (pkt)| 80 cents |
+| Green Tea (pkt) | 80 cents |
+| H`2`O| 90 cents |
+| Vitasoy (pkt) | 90 cents |
 | H2O (packet) | 80 cents |
-| Oolong Tea (packet) | 70 cents |
-| Green Tea (packet) | 70 cents |
+|Peel Fresh Juice (bottle) | $1.00 |
+|Milo (pkt) | $1.00 |
+|HL Milk (pkt) | $1.00 |
