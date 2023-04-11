@@ -43,7 +43,16 @@ description: ""
 | ---***Friday***---     |  |  |
 | SET A |Dark Sauce Chicken Rice |  |
 | SET B |Maggie Soup |  |
-
+| ---***Sides Dishes***---    |  |  |
+| Egg Sandwich| $0.80 |
+| Tuna Sandwich | $0.80 |
+| Fried Rice | $1.00 |
+| Hardboil Egg (1pc) | $0.80   |
+| Fishball (1pc) | $0.50 |
+|Nuggets (Fish/Chicken)  | $0.50 |
+| Hardboil Egg (1pc) | $0.80   |
+| Steam Corn Cup | $0.80 |
+| Chicken Pizza | $1.20 |
 
 
 #### Stall No. 4 (Chinese Noodles and Rice Stall)
