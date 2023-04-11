@@ -5,7 +5,7 @@ description: ""
 ---
 ### Canteen Food List
 
-#### Stall No. 1  (Hot Drinks & Snack Stall)
+#### Stall No. 1&nbsp;&nbsp;(Hot Drinks &amp; Snack Stall)
 
 | Type of Food/Drinks | Prices |
 |---|---|
@@ -22,22 +22,29 @@ description: ""
 | Koala mini bear biscuit | 30 cents |
 | Potato, rice cracker | 20 cents |
 
-#### Stall No. 2 (Noodles & Rice Stall - Halal)
+#### Stall No. 2 (Noodles &amp; Rice Stall - Halal)
 
-| Type of Food/Drinks | Prices |
-|---|---|
-| Rice | 30 cents |
-| Chicken Porridge with fruit | $1.50 |
-| Roti Prata with fruit | $1.00 |
-| Roti Kirai with fruit | $1.50 |
-| Macaroni Soup with fruit | $1.50 |
-| Mee Rebus / Mee Soto / Mee Siam with fruits | $1.50 |
-| Maggie Soup with fruit | $1.50 |
-| Kway Teow Soup with fruit | $1.50 |
-| Mee Laksa with fruit | $1.50 |
-| Hotdog Bread | 60 cents |
-| Egg Sandwich/Tuna Sandwich | 60 cents |
-| Healthy Meals in Schools Programme<br>Set A – Curry Chicken Rice  <br>Set B – Ayam Kicap Rice<br>Set C – Chicken Rice<br>(All sets includes fruit & vegetables) | $2.00 |
+
+
+| ALL SET MEAL $2 |  |  |
+| - | - |- |
+| ---***Monday*** ---   |  |  |
+| SET A | Curry Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Tuesday*** ---    |  |  |
+| SET A |Chicken Rice |  |
+| SET B |Maggie Soup |  |
+|---***Wednesday*** ---   |  |  |
+| SET A | Curry Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Thursday***---     |  |  |
+| SET A |Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Friday***---     |  |  |
+| SET A |Dark Sauce Chicken Rice |  |
+| SET B |Maggie Soup |  |
+
+
 
 #### Stall No. 4 (Chinese Noodles and Rice Stall)
 
@@ -68,9 +75,9 @@ description: ""
 | Hard Boiled Egg (half) | 50 cents |
 | Seafood Stick | 30 cents |
 | Boiled Fish Ball | 30 cents |
-| Healthy Meals in Schools Programme<br>Set A – Fried Bee Hoon / Noodles with meat<br>(All sets includes fruit & vegetables) |  <br>$2.00 |
+| Healthy Meals in Schools Programme<br>Set A – Fried Bee Hoon / Noodles with meat<br>(All sets includes fruit &amp; vegetables) |  <br>$2.00 |
 
-#### Stall No. 7 (Noodles & Rice Stall - Halal)
+#### Stall No. 7 (Noodles &amp; Rice Stall - Halal)
 
 | Type of Food/Drinks | Prices |
 |---|---|
@@ -85,9 +92,9 @@ description: ""
 | Crab Stick / Fish ball | 30 cents |
 | Steam Pau – Red bean | 60 cents |
 | Steam Pau – Chicken / Curry / BBQ | 70 cents |
-| Healthy Meals in Schools Programme<br>Set A – Spaghetti<br>Set B – Black Pepper Chicken Rice<br>Set C – Fried Mee /Kuay Teow /Bee Hoon /<br>             Macaroni / Maggie with meat<br>(All sets includes fruit & vegetables) |                     <br> <br>                     $2.00<br>  |
+| Healthy Meals in Schools Programme<br>Set A – Spaghetti<br>Set B – Black Pepper Chicken Rice<br>Set C – Fried Mee /Kuay Teow /Bee Hoon /<br>             Macaroni / Maggie with meat<br>(All sets includes fruit &amp; vegetables) |                     <br> <br>                     $2.00<br>  |
 
-#### Stall No. 8 (Cold Drinks & Fruits Stall)
+#### Stall No. 8 (Cold Drinks &amp; Fruits Stall)
 
 | Type of Food/Drinks | Prices |
 |---|---|
