@@ -73,17 +73,33 @@ description: ""
 | Healthy Meals set (rice,meat,vegetables and fruits)| $2.00 |
 
 #### Stall No. 6 (Noodles Stall)
-
-| Type of Food/Drinks | Prices |
-|---|---|
-| Fried Bee Hoon with fruit | 70 cents |
-| Fried Noodles with fruit | 70 cents |
-| BBQ Chicken Drumlet | 60 cents |
-| Hard Boiled Egg (half) | 50 cents |
-| Seafood Stick | 30 cents |
-| Boiled Fish Ball | 30 cents |
-| Healthy Meals in Schools Programme<br>Set A – Fried Bee Hoon / Noodles with meat<br>(All sets includes fruit &amp; vegetables) |  <br>$2.00 |
-
+| ALL SET MEAL $2 |  |  |
+| - | - |- |
+| ---***Monday*** ---   |  |  |
+| SET A | Fried Rice |  |
+| SET B |Noodle Soup |  |
+| ---***Tuesday*** ---    |  |  |
+| SET A |Chicken Rice |  |
+| SET B |Maggie Soup |  |
+|---***Wednesday*** ---   |  |  |
+| SET A | Curry Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Thursday***---     |  |  |
+| SET A |Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Friday***---     |  |  |
+| SET A |Dark Sauce Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Sides Dishes***---    |  |  |
+| Egg Sandwich| $0.80 |
+| Tuna Sandwich | $0.80 |
+| Fried Rice | $1.00 |
+| Hardboil Egg (1pc) | $0.80   |
+| Fishball (1pc) | $0.50 |
+|Nuggets (Fish/Chicken)  | $0.50 |
+| Hardboil Egg (1pc) | $0.80   |
+| Steam Corn Cup | $0.80 |
+| Chicken Pizza | $1.20 |
 #### Stall No. 7 (Noodles &amp; Rice Stall - Halal)
 
 | Type of Food/Drinks | Prices |
