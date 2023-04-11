@@ -5,102 +5,157 @@ description: ""
 ---
 ### Canteen Food List
 
-#### Stall No. 1  (Hot Drinks & Snack Stall)
+#### Stall No. 1&nbsp;&nbsp;(Hot Drinks &amp; Snack Stall)
 
 | Type of Food/Drinks | Prices |
 |---|---|
-| Kopi ‘O’, Tea ‘O’ | 40 cents |
-| Coffee, tea, green tea, Chinese tea | 50 cents |
-| Milo | 60 cents |
-| Big pau | $1 |
-| Types of Pau<br>Char Siew Pau, Lian Yong Pau, Yam Pau  <br>Tau Sar Pau, Siew Mai |  <br>60 cents<br>50 cents |
+| 'Wang Wang' snack |  20 cents  |
+| Small snacks | 50 cents |
+| Coffee | 50 cents |
+| Tea | 50 cents |
+| Small Pau (all variety) | 60 cents|
 | Chee Cheong Fan     | 60 cents |
-| Drumstick Snack, Choco Plunge, Tortilla Chips, Super Corn | 60 cents |
-| Lor Mai Gai | $1.20 |
-| Fan Choy | $1.30 |
-| Potato Crisp | 50 cents |
-| Koala mini bear biscuit | 30 cents |
-| Potato, rice cracker | 20 cents |
+| Stick Snacks| 80 cents |
+| Jack and Jill | 80 cents |
+| Milo | 80 cents |
+| Tortilla Chips | 80 cents |
+| Big Pau (all variety) | $1.00 |
+| 'Pillows' (Chocolate snack) | $1.00 |
+| Glutinous Chicken Rice | $1.00 |
 
-#### Stall No. 2 (Noodles & Rice Stall - Halal)
-
-| Type of Food/Drinks | Prices |
-|---|---|
-| Rice | 30 cents |
-| Chicken Porridge with fruit | $1.50 |
-| Roti Prata with fruit | $1.00 |
-| Roti Kirai with fruit | $1.50 |
-| Macaroni Soup with fruit | $1.50 |
-| Mee Rebus / Mee Soto / Mee Siam with fruits | $1.50 |
-| Maggie Soup with fruit | $1.50 |
-| Kway Teow Soup with fruit | $1.50 |
-| Mee Laksa with fruit | $1.50 |
-| Hotdog Bread | 60 cents |
-| Egg Sandwich/Tuna Sandwich | 60 cents |
-| Healthy Meals in Schools Programme<br>Set A – Curry Chicken Rice  <br>Set B – Ayam Kicap Rice<br>Set C – Chicken Rice<br>(All sets includes fruit & vegetables) | $2.00 |
-
-#### Stall No. 4 (Chinese Noodles and Rice Stall)
-
-| Type of Food/Drinks | Prices |
-|---|---|
-| Soup (with meat and vegetables) | $1.50 |
+#### Stall No. 2 (Noodles &amp; Rice Stall - Halal)
+| ALL SET MEAL $2 |  |  |
+| - | - |- |
+| ---***Monday*** ---   |  |  |
+| SET A | Curry Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Tuesday*** ---    |  |  |
+| SET A |Chicken Rice |  |
+| SET B |Maggie Soup |  |
+|---***Wednesday*** ---   |  |  |
+| SET A | Curry Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Thursday***---     |  |  |
+| SET A |Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Friday***---     |  |  |
+| SET A |Dark Sauce Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Sides Dishes***---    |  |  |
+| Egg Sandwich| $0.80 |
+| Tuna Sandwich | $0.80 |
 | Fried Rice | $1.00 |
-| Chicken Porridge | $1.50   |
-| Fried Bee Hoon | $1.00 |
-| Egg  | 50 cents |
-| Omelette | 80 cents |
-| Roasted Chicken | 70 cents|
-| Steam Corn| 70 cents |
-|Air Fried Chicken Cutlet| 80 cents|
-|Air Fried Wanton| 20 cents|
-|Homemade Chicken Luncheon| 50 cents|
-|Homemade Chicken Nugget| 50 cents|
-|Homemade dumplings| 50 cents|
-| Healthy Meals set (rice,meat,vegetables and fruits)| $2.00 |
+| Hardboil Egg (1pc) | $0.80   |
+| Fishball (1pc) | $0.50 |
+|Nuggets (Fish/Chicken)  | $0.50 |
+| Hardboil Egg (1pc) | $0.80   |
+| Steam Corn Cup | $0.80 |
+| Chicken Pizza | $1.20 |
 
-#### Stall No. 6 (Noodles Stall)
+
+#### Stall No. 4 (Happy Meals)
+
+| ALL SET MEAL $2 |  |  |
+| - | - |- |
+| ---***Monday*** ---   |  | Price |
+| SET A | Macaronic Soup |  |
+| SET B |Tofu Chicken w Rice |  |
+| Soup |White Radish Soup | $1.50 |
+| ---***Tuesday*** ---    |  |  |
+| SET A |Fried Maggie Mee |  |
+| SET B |Braised Chicken w Rice |  |
+| Soup |Old Cucumber Soup | $1.50 |
+|---***Wednesday*** ---   |  |  |
+| SET A | Creamy Pasta |  |
+| SET B |Japanese Curry w Rice |  |
+| Soup |Lotus Peanut Soup | $1.80 |
+| ---***Thursday***---     |  |  |
+| SET A |Fried Kway Teow |  |
+| SET B |Potato Chicken w Rice |  |
+| Soup |ABC Soup | $1.50 |
+| ---***Friday***---     |  |  |
+| SET A |Macaroni |  |
+| SET B |Chicken Curry w Rice |  |
+| Soup |Seaweed Soup | $1.50 |
+| ---***Sides Dishes***---    | Price |  |
+| Sushi| 50 cents |
+| Sandwich | 50 cents |
+| Sausage (Mon,Thur) |50 cents |
+| Nugget (Mon,Thur)|50 cents |
+| Egg| 60 cents |
+|Roasted Chicken |70 cents |
+| Honey Chicken |70 cents   |
+| Chicken Cutlet (Mon,Thur) | 80 cents|
+| Steam Corn | 80 cents |
+|Sausage roll| 80 cents |
+| Egg tart | $1.00 |
+
+#### Stall No. 6 (Noodles House)
+| ALL SET MEAL $2 |  |  |
+| - | - |- |
+| ---***Monday*** ---   |  |  |
+| SET A | Fried Rice |  |
+| SET B |Noodle Soup |  |
+| ---***Tuesday*** ---    |  |  |
+| SET A |Fried Bee Hoon |  |
+| SET B |Noodle Soup |  |
+|---***Wednesday*** ---   |  |  |
+| SET A |Fried Bee Hoon  |  |
+| SET B |Noodle Soup |  |
+| ---***Thursday***---     |  |  |
+| SET A |Fried Bee Hoon |  |
+| SET B |Noodle Soup |  |
+| ---***Friday***---     |  |  |
+| SET A |Fried Rice |  |
+| SET B |Noodle Soup |  |
+| ---***Sides Dishes***---    |  |  |
+| Satay| 80 cents |
+| Chicken Drumlet | 70 cents |
+| Nuggets (Mon, Thur) |50 cents |
+| Sunny side up egg | 60 cents  |
+| Fish ball (1pc) | 30 cents |
+|Crabstick  | 30 cents |
+
+#### Stall No. 7 (Noodles &amp; Rice Stall - Halal)
+| ALL SET MEAL $2 |  |  |
+| - | - |- |
+| ---***Monday*** ---   |  |  |
+| SET A | Brown Rice |  |
+| SET B |Fried Kuey Teow |  |
+| ---***Tuesday*** ---    |  |  |
+| SET A |Brown Rice |  |
+| SET B |Fried Mee |  |
+|---***Wednesday*** ---   |  |  |
+| SET A |Brown Rice |  |
+| SET B |Spaghetti |  |
+| ---***Thursday***---     |  |  |
+| SET A |Brown Rice |  |
+| SET B |Fried Mee Maggie |  |
+| ---***Friday***---     |  |  |
+| SET A |Brown Rice |  |
+| SET B |Fried Rice|  |
+| ---***Sides Dishes***---    |  |  |
+| Satay| 80 cents |
+| Chicken Drumlet | 70 cents |
+| Scambled Egg |50 cents |
+| Nuggets (Mon,Thur)| 50 cents  |
+|Vegetables | 50 cents |
+|Pancake  | 50 cents |
+|Fish ball| 50 cents |
+|Crabstick| 30 cents |
+
+#### Stall No. 8 (Cold Drinks &amp; Fruits Stall)
 
 | Type of Food/Drinks | Prices |
 |---|---|
-| Fried Bee Hoon with fruit | 70 cents |
-| Fried Noodles with fruit | 70 cents |
-| BBQ Chicken Drumlet | 60 cents |
-| Hard Boiled Egg (half) | 50 cents |
-| Seafood Stick | 30 cents |
-| Boiled Fish Ball | 30 cents |
-| Healthy Meals in Schools Programme<br>Set A – Fried Bee Hoon / Noodles with meat<br>(All sets includes fruit & vegetables) |  <br>$2.00 |
-
-#### Stall No. 7 (Noodles & Rice Stall - Halal)
-
-| Type of Food/Drinks | Prices |
-|---|---|
-| Bread with Tuna / Egg | 50 cents |
-| Sandwich with Tuna / Egg | 50 cents |
-| Pancake | 50 cents |
-| Fried Mee / Kuay Teow / Bee Hoon with fruit | $1.20 |
-| Fried Macaroni / Maggie with fruit | $1.20 |
-| Siew Mai | 60 cents |
-| Vegetables | 50 cents |
-| Egg /Scrambled Egg | 50 cents |
-| Crab Stick / Fish ball | 30 cents |
-| Steam Pau – Red bean | 60 cents |
-| Steam Pau – Chicken / Curry / BBQ | 70 cents |
-| Healthy Meals in Schools Programme<br>Set A – Spaghetti<br>Set B – Black Pepper Chicken Rice<br>Set C – Fried Mee /Kuay Teow /Bee Hoon /<br>             Macaroni / Maggie with meat<br>(All sets includes fruit & vegetables) |                     <br> <br>                     $2.00<br>  |
-
-#### Stall No. 8 (Cold Drinks & Fruits Stall)
-
-| Type of Food/Drinks | Prices |
-|---|---|
-| Types of Cut Fruits –<br>water melon, honey dew, papaya, orange, pineapple, apple, banana | 30 cents |
-| Assorted Tetrapak Drinks | 50 cents |
-| Milo (packet) | 90 cents |
-| Mineral water (bottled) | 60 cents |
-| Vitagen Drink | 70 cents |
-| HL Fresh Milk | 90 cents |
-| Peel Fresh Juices (no sugar added) | 90 cents |
-| Yogurt Drink | 90 cents |
-| Non-Fat Yogurt (cup) | $1.00 |
-| Vitasoy (packet) | 80 cents |
-| H2O (packet) | 80 cents |
-| Oolong Tea (packet) | 70 cents |
-| Green Tea (packet) | 70 cents |
+| Fresh Cut Fruits | 40 cents |
+| Chrysanthemum Tea (pkt) | 70 cents |
+| Mineral water (bottled) | 70 cents |
+| Lychee Drink | 80 cents |
+| Oolonbg Tea (pkt)| 80 cents |
+| Green Tea (pkt) | 80 cents |
+| H`2`O| 90 cents |
+| Vitasoy (pkt) | 90 cents |
+|Peel Fresh Juice (bottle) | $1.00 |
+|Milo (pkt) | $1.00 |
+|HL Milk (pkt) | $1.00 |
