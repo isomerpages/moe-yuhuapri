@@ -58,21 +58,25 @@ description: ""
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
 | ---***Monday*** ---   |  | Price |
-| SET A | Curry Chicken Rice |  |
-| SET B |Maggie Soup |  |
-| Soup |White Radish Soup | $1,50 |
+| SET A | Macaronic Soup |  |
+| SET B |Tofu Chicken w Rice |  |
+| Soup |White Radish Soup | $1.50 |
 | ---***Tuesday*** ---    |  |  |
-| SET A |Chicken Rice |  |
-| SET B |Maggie Soup |  |
+| SET A |Fried Maggie Mee |  |
+| SET B |Braised Chicken w Rice |  |
+| Soup |Old Cucumber Soup | $1.50 |
 |---***Wednesday*** ---   |  |  |
-| SET A | Curry Chicken Rice |  |
-| SET B |Maggie Soup |  |
+| SET A | Creamy Pasta |  |
+| SET B |Japanese Curry w Rice |  |
+| Soup |Lotus Peanut Soup | $1.80 |
 | ---***Thursday***---     |  |  |
-| SET A |Chicken Rice |  |
-| SET B |Maggie Soup |  |
+| SET A |Fried Kway Teow |  |
+| SET B |Potato Chicken w Rice |  |
+| Soup |ABC Soup | $1.50 |
 | ---***Friday***---     |  |  |
 | SET A |Dark Sauce Chicken Rice |  |
 | SET B |Maggie Soup |  |
+| Soup |Seaweed Soup | $1.50 |
 | ---***Sides Dishes***---    |  |  |
 | Egg Sandwich| $0.80 |
 | Tuna Sandwich | $0.80 |
