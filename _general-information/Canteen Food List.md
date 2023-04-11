@@ -156,7 +156,6 @@ description: ""
 | Green Tea (pkt) | 80 cents |
 | H`2`O| 90 cents |
 | Vitasoy (pkt) | 90 cents |
-| H2O (packet) | 80 cents |
 |Peel Fresh Juice (bottle) | $1.00 |
 |Milo (pkt) | $1.00 |
 |HL Milk (pkt) | $1.00 |
