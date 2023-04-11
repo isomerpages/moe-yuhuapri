@@ -9,18 +9,19 @@ description: ""
 
 | Type of Food/Drinks | Prices |
 |---|---|
-| Kopi ‘O’, Tea ‘O’ | 40 cents |
-| Coffee, tea, green tea, Chinese tea | 50 cents |
-| Milo | 60 cents |
-| Big pau | $1 |
-| Types of Pau<br>Char Siew Pau, Lian Yong Pau, Yam Pau  <br>Tau Sar Pau, Siew Mai |  <br>60 cents<br>50 cents |
+| 'Wang Wang' snack |  20 cents  |
+| Small snacks | 50 cents |
+| Coffee | 50 cents |
+| Tea | 50 cents |
+| Small Pau (all variety) | 60 cents|
 | Chee Cheong Fan     | 60 cents |
-| Drumstick Snack, Choco Plunge, Tortilla Chips, Super Corn | 60 cents |
-| Lor Mai Gai | $1.20 |
-| Fan Choy | $1.30 |
-| Potato Crisp | 50 cents |
-| Koala mini bear biscuit | 30 cents |
-| Potato, rice cracker | 20 cents |
+| Stick Snacks| 80 cents |
+| Jack and Jill | 80 cents |
+| Milo | 80 cents |
+| Tortilla Chips | 80 cents |
+| Big Pau (all variety) | $1.00 |
+| 'Pillows' (Chocolate snack) | $1.00 |
+| Glutinous Chicken Rice | $1.00 |
 
 #### Stall No. 2 (Noodles &amp; Rice Stall - Halal)
 
