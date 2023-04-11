@@ -117,21 +117,33 @@ description: ""
 |Crabstick  | 30 cents |
 
 #### Stall No. 7 (Noodles &amp; Rice Stall - Halal)
-
-| Type of Food/Drinks | Prices |
-|---|---|
-| Bread with Tuna / Egg | 50 cents |
-| Sandwich with Tuna / Egg | 50 cents |
-| Pancake | 50 cents |
-| Fried Mee / Kuay Teow / Bee Hoon with fruit | $1.20 |
-| Fried Macaroni / Maggie with fruit | $1.20 |
-| Siew Mai | 60 cents |
-| Vegetables | 50 cents |
-| Egg /Scrambled Egg | 50 cents |
-| Crab Stick / Fish ball | 30 cents |
-| Steam Pau – Red bean | 60 cents |
-| Steam Pau – Chicken / Curry / BBQ | 70 cents |
-| Healthy Meals in Schools Programme<br>Set A – Spaghetti<br>Set B – Black Pepper Chicken Rice<br>Set C – Fried Mee /Kuay Teow /Bee Hoon /<br>             Macaroni / Maggie with meat<br>(All sets includes fruit &amp; vegetables) |                     <br> <br>                     $2.00<br>  |
+| ALL SET MEAL $2 |  |  |
+| - | - |- |
+| ---***Monday*** ---   |  |  |
+| SET A | Brown Rice |  |
+| SET B |Fried Kuey Teow |  |
+| ---***Tuesday*** ---    |  |  |
+| SET A |Brown Rice |  |
+| SET B |Fried Mee |  |
+|---***Wednesday*** ---   |  |  |
+| SET A |Brown Rice |  |
+| SET B |Spaghetti |  |
+| ---***Thursday***---     |  |  |
+| SET A |Brown Rice |  |
+| SET B |Fried Mee Maggie |  |
+| ---***Friday***---     |  |  |
+| SET A |Brown Rice |  |
+| SET B |Fried Rice|  |
+| ---***Sides Dishes***---    |  |  |
+| Egg Sandwich| $0.80 |
+| Tuna Sandwich | $0.80 |
+| Fried Rice | $1.00 |
+| Hardboil Egg (1pc) | $0.80   |
+| Fishball (1pc) | $0.50 |
+|Nuggets (Fish/Chicken)  | $0.50 |
+| Hardboil Egg (1pc) | $0.80   |
+| Steam Corn Cup | $0.80 |
+| Chicken Pizza | $1.20 |
 
 #### Stall No. 8 (Cold Drinks &amp; Fruits Stall)
 
