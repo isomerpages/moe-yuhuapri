@@ -53,24 +53,36 @@ description: ""
 | Chicken Pizza | $1.20 |
 
 
-#### Stall No. 4 (Chinese Noodles and Rice Stall)
+#### Stall No. 4 (Happy Meals)
 
-| Type of Food/Drinks | Prices |
-|---|---|
-| Soup (with meat and vegetables) | $1.50 |
+| ALL SET MEAL $2 |  |  |
+| - | - |- |
+| ---***Monday*** ---   |  | Price |
+| SET A | Curry Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| Soup |White Radish Soup | $1,50 |
+| ---***Tuesday*** ---    |  |  |
+| SET A |Chicken Rice |  |
+| SET B |Maggie Soup |  |
+|---***Wednesday*** ---   |  |  |
+| SET A | Curry Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Thursday***---     |  |  |
+| SET A |Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Friday***---     |  |  |
+| SET A |Dark Sauce Chicken Rice |  |
+| SET B |Maggie Soup |  |
+| ---***Sides Dishes***---    |  |  |
+| Egg Sandwich| $0.80 |
+| Tuna Sandwich | $0.80 |
 | Fried Rice | $1.00 |
-| Chicken Porridge | $1.50   |
-| Fried Bee Hoon | $1.00 |
-| Egg  | 50 cents |
-| Omelette | 80 cents |
-| Roasted Chicken | 70 cents|
-| Steam Corn| 70 cents |
-|Air Fried Chicken Cutlet| 80 cents|
-|Air Fried Wanton| 20 cents|
-|Homemade Chicken Luncheon| 50 cents|
-|Homemade Chicken Nugget| 50 cents|
-|Homemade dumplings| 50 cents|
-| Healthy Meals set (rice,meat,vegetables and fruits)| $2.00 |
+| Hardboil Egg (1pc) | $0.80   |
+| Fishball (1pc) | $0.50 |
+|Nuggets (Fish/Chicken)  | $0.50 |
+| Hardboil Egg (1pc) | $0.80   |
+| Steam Corn Cup | $0.80 |
+| Chicken Pizza | $1.20 |
 
 #### Stall No. 6 (Noodles House)
 | ALL SET MEAL $2 |  |  |
