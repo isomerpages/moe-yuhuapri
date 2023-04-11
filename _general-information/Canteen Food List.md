@@ -72,34 +72,32 @@ description: ""
 |Homemade dumplings| 50 cents|
 | Healthy Meals set (rice,meat,vegetables and fruits)| $2.00 |
 
-#### Stall No. 6 (Noodles Stall)
+#### Stall No. 6 (Noodles House)
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
 | ---***Monday*** ---   |  |  |
 | SET A | Fried Rice |  |
 | SET B |Noodle Soup |  |
 | ---***Tuesday*** ---    |  |  |
-| SET A |Chicken Rice |  |
-| SET B |Maggie Soup |  |
+| SET A |Fried Bee Hoon |  |
+| SET B |Noodle Soup |  |
 |---***Wednesday*** ---   |  |  |
-| SET A | Curry Chicken Rice |  |
-| SET B |Maggie Soup |  |
+| SET A |Fried Bee Hoon  |  |
+| SET B |Noodle Soup |  |
 | ---***Thursday***---     |  |  |
-| SET A |Chicken Rice |  |
-| SET B |Maggie Soup |  |
+| SET A |Fried Bee Hoon |  |
+| SET B |Noodle Soup |  |
 | ---***Friday***---     |  |  |
-| SET A |Dark Sauce Chicken Rice |  |
-| SET B |Maggie Soup |  |
+| SET A |Fried Rice |  |
+| SET B |Noodle Soup |  |
 | ---***Sides Dishes***---    |  |  |
-| Egg Sandwich| $0.80 |
-| Tuna Sandwich | $0.80 |
-| Fried Rice | $1.00 |
-| Hardboil Egg (1pc) | $0.80   |
-| Fishball (1pc) | $0.50 |
-|Nuggets (Fish/Chicken)  | $0.50 |
-| Hardboil Egg (1pc) | $0.80   |
-| Steam Corn Cup | $0.80 |
-| Chicken Pizza | $1.20 |
+| Satay| 80 cents |
+| Chicken Drumlet | 70 cents |
+| Nuggets (Mon, Thur) |50 cents |
+| Sunny side up egg | 60 cents  |
+| Fish ball (1pc) | 30 cents |
+|Crabstick  | 30 cents |
+
 #### Stall No. 7 (Noodles &amp; Rice Stall - Halal)
 
 | Type of Food/Drinks | Prices |
