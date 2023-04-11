@@ -77,16 +77,18 @@ description: ""
 | SET A |Macaroni |  |
 | SET B |Chicken Curry w Rice |  |
 | Soup |Seaweed Soup | $1.50 |
-| ---***Sides Dishes***---    |  |  |
-| Egg Sandwich| $0.80 |
-| Tuna Sandwich | $0.80 |
-| Fried Rice | $1.00 |
-| Hardboil Egg (1pc) | $0.80   |
-| Fishball (1pc) | $0.50 |
-|Nuggets (Fish/Chicken)  | $0.50 |
-| Hardboil Egg (1pc) | $0.80   |
-| Steam Corn Cup | $0.80 |
-| Chicken Pizza | $1.20 |
+| ---***Sides Dishes***---    | Price |  |
+| Sushi| 50 cents |
+| Sandwich | 50 cents |
+| Sausage (Mon,Thur) |50 cents |
+| Nugget (Mon,Thur)|50 cents |
+| Egg| 60 cents |
+|Roasted Chicken |70 cents |
+| Honey Chicken |70 cents   |
+| Chicken Cutlet (Mon,Thur) | 80 cents|
+| Steam Corn | 80 cents |
+|Sausage roll| 80 cents |
+| Egg tart | $1.00 |
 
 #### Stall No. 6 (Noodles House)
 | ALL SET MEAL $2 |  |  |
