@@ -74,8 +74,8 @@ description: ""
 | SET B |Potato Chicken w Rice |  |
 | Soup |ABC Soup | $1.50 |
 | ---***Friday***---     |  |  |
-| SET A |Dark Sauce Chicken Rice |  |
-| SET B |Maggie Soup |  |
+| SET A |Macaroni |  |
+| SET B |Chicken Curry w Rice |  |
 | Soup |Seaweed Soup | $1.50 |
 | ---***Sides Dishes***---    |  |  |
 | Egg Sandwich| $0.80 |
