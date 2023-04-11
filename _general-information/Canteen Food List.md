@@ -135,15 +135,14 @@ description: ""
 | SET A |Brown Rice |  |
 | SET B |Fried Rice|  |
 | ---***Sides Dishes***---    |  |  |
-| Egg Sandwich| $0.80 |
-| Tuna Sandwich | $0.80 |
-| Fried Rice | $1.00 |
-| Hardboil Egg (1pc) | $0.80   |
-| Fishball (1pc) | $0.50 |
-|Nuggets (Fish/Chicken)  | $0.50 |
-| Hardboil Egg (1pc) | $0.80   |
-| Steam Corn Cup | $0.80 |
-| Chicken Pizza | $1.20 |
+| Satay| 80 cents |
+| Chicken Drumlet | 70 cents |
+| Scambled Egg |50 cents |
+| Nuggets (Mon,Thur)| 50 cents  |
+|Vegetables | 50 cents |
+|Pancake  | 50 cents |
+|Fish ball| 50 cents |
+|Crabstick| 30 cents |
 
 #### Stall No. 8 (Cold Drinks &amp; Fruits Stall)
 
