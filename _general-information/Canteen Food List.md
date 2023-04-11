@@ -24,9 +24,6 @@ description: ""
 | Glutinous Chicken Rice | $1.00 |
 
 #### Stall No. 2 (Noodles &amp; Rice Stall - Halal)
-
-
-
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
 | ---***Monday*** ---   |  |  |
