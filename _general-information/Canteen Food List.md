@@ -90,30 +90,22 @@ description: ""
 | Egg tart | $1.00 |
 
 #### Stall No. 6 (Noodles House)
+
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
-| ---***Monday*** ---   |  |  |
-| SET A | Fried Rice |  |
-| SET B |Noodle Soup |  |
-| ---***Tuesday*** ---    |  |  |
-| SET A |Fried Bee Hoon |  |
-| SET B |Noodle Soup |  |
-|---***Wednesday*** ---   |  |  |
-| SET A |Fried Bee Hoon  |  |
-| SET B |Noodle Soup |  |
-| ---***Thursday***---     |  |  |
-| SET A |Fried Bee Hoon |  |
-| SET B |Noodle Soup |  |
-| ---***Friday***---     |  |  |
+| ---***Monday & Friday*** ---   |  |  |
 | SET A |Fried Rice |  |
 | SET B |Noodle Soup |  |
-| ---***Sides Dishes***---    |  |  |
-| Satay| 80 cents |
-| Chicken Drumlet | 70 cents |
-| Nuggets (Mon, Thur) |50 cents |
-| Sunny side up egg | 60 cents  |
-| Fish ball (1pc) | 30 cents |
-|Crabstick  | 30 cents |
+| ---***Tuesday, Wednesday and Thursday*** ---    |  |  |
+| SET A |Fried Bee Hoon |  |
+| SET B |Noodle Soup |  |
+| ---***Sides Dishes***---    | Price |  |
+| Fishball| 30 cents |
+| Crabstick | 30 cents |
+| Nuggets (Mon & Thur) |50 cents |
+| Sunny side up egg|60 cents |
+| Chicken Drumlet| 70 cents |
+| Satay |80 cents |
 
 #### Stall No. 7 (Noodles &amp; Rice Stall - Halal)
 | ALL SET MEAL $2 |  |  |
