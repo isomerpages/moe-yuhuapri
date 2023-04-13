@@ -50,7 +50,7 @@ description: ""
 
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
-| ---***Monday*** ---   |  | Price |
+| ---***Monday*** ---   |  | ***Price*** |
 | SET A | Macaronic Soup |  |
 | SET B |Tofu Chicken w Rice |  |
 | Soup |White Radish Soup | $1.50 |
@@ -112,23 +112,26 @@ description: ""
 | SET A |Brown Rice |  |
 | SET B |Fried Mee |  |
 |---***Wednesday*** ---   |  |  |
-| SET A |Brown Rice |  |
+| SET A | Brown Rice |  |
 | SET B |Spaghetti |  |
 | ---***Thursday***---     |  |  |
 | SET A |Brown Rice |  |
 | SET B |Fried Mee Maggie |  |
 | ---***Friday***---     |  |  |
 | SET A |Brown Rice |  |
-| SET B |Fried Rice|  |
-| ---***Sides Dishes***---    |  |  |
-| Satay| 80 cents |
-| Chicken Drumlet | 70 cents |
-| Scambled Egg |50 cents |
-| Nuggets (Mon,Thur)| 50 cents  |
-|Vegetables | 50 cents |
-|Pancake  | 50 cents |
-|Fish ball| 50 cents |
-|Crabstick| 30 cents |
+| SET B |Fried Rice |  |
+| ---***Sides Dishes***---    | Price |  |
+| Sushi| 50 cents |
+| Sandwich | 50 cents |
+| Sausage (Mon,Thur) |50 cents |
+| Nugget (Mon,Thur)|50 cents |
+| Egg| 60 cents |
+|Roasted Chicken |70 cents |
+| Honey Chicken |70 cents   |
+| Chicken Cutlet (Mon,Thur) | 80 cents|
+| Steam Corn | 80 cents |
+|Sausage roll| 80 cents |
+| Egg tart | $1.00 |
 
 #### Stall No. 8 (Cold Drinks &amp; Fruits Stall)
 
