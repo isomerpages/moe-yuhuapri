@@ -101,7 +101,7 @@ description: ""
 | Chicken Drumlet| 70 cents |
 | Satay |80 cents |
 
-#### Stall No. 7 (Noodles &amp; Rice Stall - Halal)
+#### Stall No. 7 (Fusion Gourmet - Halal)
 
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
@@ -121,7 +121,7 @@ description: ""
 | SET A |Brown Rice |  |
 | SET B |Fried Rice |  |
 | ---***Sides Dishes***---    | Price |  |
-| Sushi| 50 cents |
+| Satay| 50 cents |
 | Sandwich | 50 cents |
 | Sausage (Mon,Thur) |50 cents |
 | Nugget (Mon,Thur)|50 cents |
