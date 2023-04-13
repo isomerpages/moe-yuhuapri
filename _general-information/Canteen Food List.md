@@ -102,6 +102,7 @@ description: ""
 | Satay |80 cents |
 
 #### Stall No. 7 (Noodles &amp; Rice Stall - Halal)
+
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
 | ---***Monday*** ---   |  |  |
