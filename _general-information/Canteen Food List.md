@@ -36,7 +36,7 @@ description: ""
 | ---***Friday*** ---   |  |  |
 | SET A |Dark Sauce Chicken Rice |  |
 | SET B |Maggie Soup |  |
-| ---***Sides Dishes***---    | Price |  |
+| ---***Sides Dishes***---    | ***Price*** |  |
 | Fishball (1 pc)| 50 cents |
 | Nuggets (Fish / Chicken) | 50 cents |
 | Egg Sandwich |80 cents |
