@@ -24,40 +24,33 @@ description: ""
 | Glutinous Chicken Rice | $1.00 |
 
 #### Stall No. 2 (Noodles &amp; Rice Stall - Halal)
+
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
 | ---***Monday*** ---   |  |  |
-| SET A | Curry Chicken Rice |  |
+| SET A |Curry Chicken Rice |  |
 | SET B |Maggie Soup |  |
-| ---***Tuesday*** ---    |  |  |
-| SET A |Chicken Rice |  |
+| ---***Tuesday, Wednesday & Thursday*** ---    |  |  |
+| SET A |Curry Chicken Rice |  |
 | SET B |Maggie Soup |  |
-|---***Wednesday*** ---   |  |  |
-| SET A | Curry Chicken Rice |  |
-| SET B |Maggie Soup |  |
-| ---***Thursday***---     |  |  |
-| SET A |Chicken Rice |  |
-| SET B |Maggie Soup |  |
-| ---***Friday***---     |  |  |
+| ---***Friday*** ---   |  |  |
 | SET A |Dark Sauce Chicken Rice |  |
 | SET B |Maggie Soup |  |
-| ---***Sides Dishes***---    |  |  |
-| Egg Sandwich| $0.80 |
-| Tuna Sandwich | $0.80 |
-| Fried Rice | $1.00 |
-| Hardboil Egg (1pc) | $0.80   |
-| Fishball (1pc) | $0.50 |
-|Nuggets (Fish/Chicken)  | $0.50 |
-| Hardboil Egg (1pc) | $0.80   |
-| Steam Corn Cup | $0.80 |
-| Chicken Pizza | $1.20 |
-
+| ---***Sides Dishes***---    | ***Price*** |  |
+| Fishball (1 pc)| 50 cents |
+| Nuggets (Fish / Chicken) | 50 cents |
+| Egg Sandwich |80 cents |
+| Tuna Sandwich|80 cents |
+| Hardboil Egg (1 pc)| 80 cents |
+| Steam Corn Cup |80 cents |
+| Hotdog Bread |$1.20   |
+| Chicken Pizza |$1.20|
 
 #### Stall No. 4 (Happy Meals)
 
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
-| ---***Monday*** ---   |  | Price |
+| ---***Monday*** ---   |  | ***Price*** |
 | SET A | Macaronic Soup |  |
 | SET B |Tofu Chicken w Rice |  |
 | Soup |White Radish Soup | $1.50 |
@@ -77,7 +70,7 @@ description: ""
 | SET A |Macaroni |  |
 | SET B |Chicken Curry w Rice |  |
 | Soup |Seaweed Soup | $1.50 |
-| ---***Sides Dishes***---    | Price |  |
+| ---***Sides Dishes***---    | ***Price*** |  |
 | Sushi| 50 cents |
 | Sandwich | 50 cents |
 | Sausage (Mon,Thur) |50 cents |
@@ -91,32 +84,25 @@ description: ""
 | Egg tart | $1.00 |
 
 #### Stall No. 6 (Noodles House)
+
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
-| ---***Monday*** ---   |  |  |
-| SET A | Fried Rice |  |
-| SET B |Noodle Soup |  |
-| ---***Tuesday*** ---    |  |  |
-| SET A |Fried Bee Hoon |  |
-| SET B |Noodle Soup |  |
-|---***Wednesday*** ---   |  |  |
-| SET A |Fried Bee Hoon  |  |
-| SET B |Noodle Soup |  |
-| ---***Thursday***---     |  |  |
-| SET A |Fried Bee Hoon |  |
-| SET B |Noodle Soup |  |
-| ---***Friday***---     |  |  |
+| ---***Monday & Friday*** ---   |  |  |
 | SET A |Fried Rice |  |
 | SET B |Noodle Soup |  |
-| ---***Sides Dishes***---    |  |  |
-| Satay| 80 cents |
-| Chicken Drumlet | 70 cents |
-| Nuggets (Mon, Thur) |50 cents |
-| Sunny side up egg | 60 cents  |
-| Fish ball (1pc) | 30 cents |
-|Crabstick  | 30 cents |
+| ---***Tuesday, Wednesday and Thursday*** ---    |  |  |
+| SET A |Fried Bee Hoon |  |
+| SET B |Noodle Soup |  |
+| ---***Sides Dishes***---    | ***Price*** |  |
+| Fishball| 30 cents |
+| Crabstick | 30 cents |
+| Nuggets (Mon & Thur) |50 cents |
+| Sunny side up egg|60 cents |
+| Chicken Drumlet| 70 cents |
+| Satay |80 cents |
 
-#### Stall No. 7 (Noodles &amp; Rice Stall - Halal)
+#### Stall No. 7 (Fusion Gourmet - Halal)
+
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
 | ---***Monday*** ---   |  |  |
@@ -126,23 +112,23 @@ description: ""
 | SET A |Brown Rice |  |
 | SET B |Fried Mee |  |
 |---***Wednesday*** ---   |  |  |
-| SET A |Brown Rice |  |
+| SET A | Brown Rice |  |
 | SET B |Spaghetti |  |
 | ---***Thursday***---     |  |  |
 | SET A |Brown Rice |  |
 | SET B |Fried Mee Maggie |  |
 | ---***Friday***---     |  |  |
 | SET A |Brown Rice |  |
-| SET B |Fried Rice|  |
-| ---***Sides Dishes***---    |  |  |
-| Satay| 80 cents |
-| Chicken Drumlet | 70 cents |
-| Scambled Egg |50 cents |
-| Nuggets (Mon,Thur)| 50 cents  |
-|Vegetables | 50 cents |
-|Pancake  | 50 cents |
-|Fish ball| 50 cents |
-|Crabstick| 30 cents |
+| SET B |Fried Rice |  |
+| ---***Sides Dishes***---    | ***Price*** |  |
+| Crabstick| 30 cents |
+| Fishball | 30 cents |
+| Scrambled Egg |50 cents |
+| Nuggets(Mon & Thur)|50 cents |
+| Vegetables| 50 cents |
+| Pancake |50 cents |
+| Chicken Drumlet | 70 cents|
+| Satay | 80 cents|
 
 #### Stall No. 8 (Cold Drinks &amp; Fruits Stall)
 
