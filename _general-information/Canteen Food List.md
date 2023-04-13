@@ -24,16 +24,17 @@ description: ""
 | Glutinous Chicken Rice | $1.00 |
 
 #### Stall No. 2 (Noodles &amp; Rice Stall - Halal)
+
 | ALL SET MEAL $2 |  |  |
 | - | - |- |
 | ---***Monday*** ---   |  |  |
-| SET A | Curry Chicken Rice |  |
+| SET A |Curry Chicken Rice |  |
 | SET B |Maggie Soup |  |
 | ---***Tuesday*** ---    |  |  |
 | SET A |Chicken Rice |  |
 | SET B |Maggie Soup |  |
 |---***Wednesday*** ---   |  |  |
-| SET A | Curry Chicken Rice |  |
+| SET A | Chicken Soup |  |
 | SET B |Maggie Soup |  |
 | ---***Thursday***---     |  |  |
 | SET A |Chicken Rice |  |
@@ -41,17 +42,15 @@ description: ""
 | ---***Friday***---     |  |  |
 | SET A |Dark Sauce Chicken Rice |  |
 | SET B |Maggie Soup |  |
-| ---***Sides Dishes***---    |  |  |
-| Egg Sandwich| $0.80 |
-| Tuna Sandwich | $0.80 |
-| Fried Rice | $1.00 |
-| Hardboil Egg (1pc) | $0.80   |
-| Fishball (1pc) | $0.50 |
-|Nuggets (Fish/Chicken)  | $0.50 |
-| Hardboil Egg (1pc) | $0.80   |
-| Steam Corn Cup | $0.80 |
-| Chicken Pizza | $1.20 |
-
+| ---***Sides Dishes***---    | Price |  |
+| Fishball (1 pc)| 50 cents |
+| Nuggets (Fish / Chicken) | 50 cents |
+| Egg Sandwich |80 cents |
+| Tuna Sandwich|80 cents |
+| Hardboil Egg (1 pc)| 80 cents |
+| Steam Corn Cup |80 cents |
+| Hotdog Bread |$1.20   |
+| Chicken Pizza |$1.20|
 
 #### Stall No. 4 (Happy Meals)
 
