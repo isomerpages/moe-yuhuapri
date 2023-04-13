@@ -7,7 +7,7 @@ description: ""
 
 #### Stall No. 1&nbsp;&nbsp;(Hot Drinks &amp; Snack Stall)
 
-| ***Type of Food/Drinks*** | ***Prices*** |
+| Type of Food/Drinks | Prices |
 |---|---|
 | 'Wang Wang' snack |  20 cents  |
 | Small snacks | 50 cents |
@@ -70,7 +70,7 @@ description: ""
 | SET A |Macaroni |  |
 | SET B |Chicken Curry w Rice |  |
 | Soup |Seaweed Soup | $1.50 |
-| ---***Sides Dishes***---    | Price |  |
+| ---***Sides Dishes***---    | ***Price*** |  |
 | Sushi| 50 cents |
 | Sandwich | 50 cents |
 | Sausage (Mon,Thur) |50 cents |
@@ -93,7 +93,7 @@ description: ""
 | ---***Tuesday, Wednesday and Thursday*** ---    |  |  |
 | SET A |Fried Bee Hoon |  |
 | SET B |Noodle Soup |  |
-| ---***Sides Dishes***---    | Price |  |
+| ---***Sides Dishes***---    | ***Price*** |  |
 | Fishball| 30 cents |
 | Crabstick | 30 cents |
 | Nuggets (Mon & Thur) |50 cents |
@@ -120,7 +120,7 @@ description: ""
 | ---***Friday***---     |  |  |
 | SET A |Brown Rice |  |
 | SET B |Fried Rice |  |
-| ---***Sides Dishes***---    | Price |  |
+| ---***Sides Dishes***---    | ***Price*** |  |
 | Crabstick| 30 cents |
 | Fishball | 30 cents |
 | Scrambled Egg |50 cents |
