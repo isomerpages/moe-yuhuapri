@@ -121,17 +121,14 @@ description: ""
 | SET A |Brown Rice |  |
 | SET B |Fried Rice |  |
 | ---***Sides Dishes***---    | Price |  |
-| Satay| 50 cents |
-| Sandwich | 50 cents |
-| Sausage (Mon,Thur) |50 cents |
-| Nugget (Mon,Thur)|50 cents |
-| Egg| 60 cents |
-|Roasted Chicken |70 cents |
-| Honey Chicken |70 cents   |
-| Chicken Cutlet (Mon,Thur) | 80 cents|
-| Steam Corn | 80 cents |
-|Sausage roll| 80 cents |
-| Egg tart | $1.00 |
+| Crabstick| 30 cents |
+| Fishball | 30 cents |
+| Scrambled Egg |50 cents |
+| Nuggets(Mon & Thur)|50 cents |
+| Vegetables| 50 cents |
+| Pancake |50 cents |
+| Chicken Drumlet | 70 cents|
+| Satay | 80 cents|
 
 #### Stall No. 8 (Cold Drinks &amp; Fruits Stall)
 
