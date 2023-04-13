@@ -30,16 +30,10 @@ description: ""
 | ---***Monday*** ---   |  |  |
 | SET A |Curry Chicken Rice |  |
 | SET B |Maggie Soup |  |
-| ---***Tuesday*** ---    |  |  |
-| SET A |Chicken Rice |  |
+| ---***Tuesday, Wednesday & Thursday*** ---    |  |  |
+| SET A |Curry Chicken Rice |  |
 | SET B |Maggie Soup |  |
-|---***Wednesday*** ---   |  |  |
-| SET A | Chicken Soup |  |
-| SET B |Maggie Soup |  |
-| ---***Thursday***---     |  |  |
-| SET A |Chicken Rice |  |
-| SET B |Maggie Soup |  |
-| ---***Friday***---     |  |  |
+| ---***Friday*** ---   |  |  |
 | SET A |Dark Sauce Chicken Rice |  |
 | SET B |Maggie Soup |  |
 | ---***Sides Dishes***---    | Price |  |
