@@ -7,7 +7,7 @@ description: ""
 
 #### Stall No. 1&nbsp;&nbsp;(Hot Drinks &amp; Snack Stall)
 
-| Type of Food/Drinks | Prices |
+| ***Type of Food/Drinks*** | ***Prices*** |
 |---|---|
 | 'Wang Wang' snack |  20 cents  |
 | Small snacks | 50 cents |
