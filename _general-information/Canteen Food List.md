@@ -31,7 +31,7 @@ description: ""
 | SET A |Curry Chicken Rice |  |
 | SET B |Maggie Soup |  |
 | ---***Tuesday, Wednesday & Thursday*** ---    |  |  |
-| SET A |Curry Chicken Rice |  |
+| SET A |Chicken Rice |  |
 | SET B |Maggie Soup |  |
 | ---***Friday*** ---   |  |  |
 | SET A |Dark Sauce Chicken Rice |  |
