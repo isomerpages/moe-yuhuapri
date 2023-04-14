@@ -31,7 +31,7 @@ description: ""
 | SET A |Curry Chicken Rice |  |
 | SET B |Maggie Soup |  |
 | ---***Tuesday, Wednesday & Thursday*** ---    |  |  |
-| SET A |Curry Chicken Rice |  |
+| SET A |Chicken Rice |  |
 | SET B |Maggie Soup |  |
 | ---***Friday*** ---   |  |  |
 | SET A |Dark Sauce Chicken Rice |  |
@@ -140,7 +140,7 @@ description: ""
 | Lychee Drink | 80 cents |
 | Oolonbg Tea (pkt)| 80 cents |
 | Green Tea (pkt) | 80 cents |
-| H`2`O| 90 cents |
+| H2O| 90 cents |
 | Vitasoy (pkt) | 90 cents |
 |Peel Fresh Juice (bottle) | $1.00 |
 |Milo (pkt) | $1.00 |
