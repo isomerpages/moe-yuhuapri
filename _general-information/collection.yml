@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - APGD Testing 2023.md
-      - APGD Testing/.keep
       - School Operating Hours.md
       - School Services.md
       - Student Learning Space (SLS).md
