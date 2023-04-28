@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - School Bus Advertisement/.keep
       - "School Canteen Advertisement/School : Submit canteen ads notice to HQ
         via FornSG.md"
       - School Canteen Advertisement/.keep
