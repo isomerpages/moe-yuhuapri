@@ -2,6 +2,8 @@ collections:
   general-information:
     output: true
     order:
+      - "School Canteen Advertisement/School : Submit canteen ads notice to HQ
+        via FornSG.md"
       - School Canteen Advertisement/.keep
       - APGD Testing 2023.md
       - School Operating Hours.md
