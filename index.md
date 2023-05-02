@@ -18,6 +18,9 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/2021
+        - title: APGD 2023
+          description: ""
+          url: /apgd2023
   - resources:
       subtitle: Announcements & News
       button: Click for more

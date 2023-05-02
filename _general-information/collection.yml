@@ -2,6 +2,12 @@ collections:
   general-information:
     output: true
     order:
+      - School Bus Advertisement/Advertisement for Bus Operator.md
+      - School Bus Advertisement/.keep
+      - "School Canteen Advertisement/School : Submit canteen ads notice to HQ
+        via FornSG.md"
+      - School Canteen Advertisement/.keep
+      - APGD Testing 2023.md
       - School Operating Hours.md
       - School Services.md
       - Student Learning Space (SLS).md
