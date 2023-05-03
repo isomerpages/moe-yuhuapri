@@ -1,0 +1,4 @@
+collections:
+  vendors:
+    output: true
+    order: []
