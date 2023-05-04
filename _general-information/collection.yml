@@ -2,8 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Bus Operator.md
-      - Canteen Operator.md
       - School Operating Hours.md
       - School Services.md
       - Student Learning Space (SLS).md
@@ -13,3 +11,5 @@ collections:
       - Usage of Photographs and Videos.md
       - Useful Links.md
       - For Bus & Canteen Vendors/.keep
+      - Bus Operator.md
+      - Canteen Operator.md
