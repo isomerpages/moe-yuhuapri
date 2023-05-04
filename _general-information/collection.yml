@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Bus & Canteen Vendors/Bus Operator.md
       - For Bus & Canteen Vendors/.keep
       - School Operating Hours.md
       - School Services.md
