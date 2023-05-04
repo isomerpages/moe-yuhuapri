@@ -2,8 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - For Bus & Canteen Vendors/Bus Operator.md
-      - For Bus & Canteen Vendors/.keep
       - School Operating Hours.md
       - School Services.md
       - Student Learning Space (SLS).md
@@ -12,3 +10,5 @@ collections:
       - GPA Insurance Policy for Students.md
       - Usage of Photographs and Videos.md
       - Useful Links.md
+      - For Bus & Canteen Vendors/.keep
+      - For Bus & Canteen Vendors/Bus Operator.md
