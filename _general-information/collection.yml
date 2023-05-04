@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Canteen Operator.md
       - School Operating Hours.md
       - School Services.md
       - Student Learning Space (SLS).md
