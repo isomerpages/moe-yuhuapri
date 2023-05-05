@@ -38,6 +38,10 @@ links:
         url: /general-information/usage-of-photographs-and-videos
       - title: Useful Links
         url: /general-information/useful-links/
+      - title: Submenu1
+        url: /Submenu1
+      - title: Submenu2
+        url: /Submenu2
   - title: Yuhualite Experience
     url: /yuhualite-experience/english-language/
     sublinks:
@@ -53,7 +57,7 @@ links:
         url: /yuhualite-experience/Infocomm-Technology/
       - title: Cyber Wellness
         url: /yuhualite-experience/cyber-wellness/
-      - title: "Programme for Active Learning "
+      - title: Programme for Active Learning
         url: /yuhualite-experience/programme-for-active-learning/
       - title: Aesthetics
         url: /yuhualite-experience/Aesthetics/overview/
@@ -61,7 +65,7 @@ links:
         url: /yuhualite-experience/physical-and-health-education/
       - title: Social Studies
         url: /yuhualite-experience/social-studies/
-      - title: "Character Education "
+      - title: Character Education
         url: /yuhualite-experience/Character-Education/overview/
       - title: Co-Curricular Activities
         url: /yuhualite-experience/Co-Curricular-Activities/overview/
