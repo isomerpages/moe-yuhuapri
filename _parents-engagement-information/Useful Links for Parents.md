@@ -5,7 +5,7 @@ description: ""
 ---
 ### Useful Links for Parents
 
-*   ##### [Cyber Wellness](http://ict.moe.edu.sg/ict/slot/u151/baseline/index.html)
+
     
 *   ##### [ECG Parent Guide](https://go.gov.sg/parent-guide)
     
