@@ -5,7 +5,7 @@ description: ""
 ---
 ### Useful Links for Parents
 
-*   ##### [Cyber Wellness](http://ict.moe.edu.sg/ict/slot/u151/baseline/index.html)
+
     
 *   ##### [ECG Parent Guide](https://go.gov.sg/parent-guide)
     
@@ -32,4 +32,4 @@ description: ""
 *   ##### [“Welcome to Secondary School” video](https://go.gov.sg/welcome-to-secondary-school)  
       
     
-*   ##### [WESTories 2021](https://moe-yuhuapri-staging.netlify.app/WESTories-2021)
+*   ##### [Westories](https://www.yuhuapri.moe.edu.sg/westories)
