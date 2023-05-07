@@ -14,4 +14,3 @@ Through each narrative, we hope to give fresh insights on the endeavours of each
 Click the link below to access WeSTories.
 
 [WeStories](https://go.gov.sg/westories-official)
-
