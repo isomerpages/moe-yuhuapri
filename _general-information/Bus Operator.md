@@ -9,13 +9,13 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 \*\*Service Requirements\*\*
 
-1.           \[[Call for proposal](/files/1%20call%20for%20proposal.pdf)] 
+1.           \[Call for proposal]
 
-2.           \[[Agreement for appointment of school bus operator](/files/Bus%20Operator/2%20agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)]
+2.           \[Agreement for appointment of school bus operator]
 
 \*\*Application Procedure\*\*
 
-1\. Complete the \[[Call for proposal - Annex A](/files/Bus%20Operator/call%20for%20proposal%20-%20annex%20a.pdf)]
+1\. Complete the \[Call for proposal - Annex A]
 
 2\. Submit the completed Call for Proposal – Annex A by closing date, 16 July 2021 , to the School’s General Office.
 
@@ -35,7 +35,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * * *
 
- School to upload PDF here
+[School Bus Operator and NTE Price](/files/Bus%20Operator/school%20bus%20operator%20and%20nte%20price.pdf)]
 
  School to upload PDF here
 

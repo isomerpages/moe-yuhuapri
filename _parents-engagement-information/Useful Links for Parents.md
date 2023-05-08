@@ -32,4 +32,4 @@ description: ""
 *   ##### [“Welcome to Secondary School” video](https://go.gov.sg/welcome-to-secondary-school)  
       
     
-*   ##### [Westories](https://www.yuhuapri.moe.edu.sg/westories)
+*   ##### [WE-STories](https://www.yuhuapri.moe.edu.sg/westories)
