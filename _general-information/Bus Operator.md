@@ -35,7 +35,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 * * *
 
-[School Bus OPerator and NTE Price](/files/Bus%20Operator/school%20bus%20operator%20and%20nte%20price.pdf)
+[School Bus Operator and NTE Price](/files/Bus%20Operator/school%20bus%20operator%20and%20nte%20price.pdf)]
 
  School to upload PDF here
 
