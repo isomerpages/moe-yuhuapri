@@ -9,7 +9,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 \*\*Service Requirements\*\*
 
-1.           \[Call for Proposal\] 
+1.           \[[Call for proposal](/files/1%20call%20for%20proposal.pdf)] 
 
 2.           \[Agreement for Appointment of School Bus Operator\]
 
