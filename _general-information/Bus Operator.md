@@ -3,8 +3,6 @@ title: Bus Operator
 permalink: /general-information/for-bus-and-canteen-vendors/permalink/
 description: ""
 ---
-
-
 \#### School Bus Advertisement
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
