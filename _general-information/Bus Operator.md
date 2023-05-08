@@ -11,11 +11,11 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1.           \[[Call for proposal](/files/1%20call%20for%20proposal.pdf)] 
 
-2.           \[Agreement for Appointment of School Bus Operator\]
+2.           \[[Agreement for appointment of school bus operator](/files/Bus%20Operator/2%20agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)]
 
 \*\*Application Procedure\*\*
 
-1\. Complete the \[Call for Proposal - Annex A\]
+1\. Complete the \[[Call for proposal - Annex A](/files/Bus%20Operator/call%20for%20proposal%20-%20annex%20a.pdf)]
 
 2\. Submit the completed Call for Proposal – Annex A by closing date, 16 July 2021 , to the School’s General Office.
 
