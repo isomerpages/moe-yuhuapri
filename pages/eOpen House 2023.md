@@ -6,4 +6,4 @@ description: ""
 #### **An exciting page is coming your way!**
 ![](/images/yuhua.gif)
 ### 
-###          ###** Catch us on 7th July 2023!**
+### ** Catch us on 7th July 2023!**
