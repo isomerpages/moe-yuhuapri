@@ -14,9 +14,15 @@ We hope you will find out more about how the school serves to grow our children�
 
 Here is glimpse of a day in a life of a Primary 1 Yuhualite and other exciting photos below!
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OO1fvqpXaiI" height="393" width="699"></iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/OO1fvqpXaiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+
+Now that you have an idea of what's in store for you, here are some exciting photos of our programmes.
+
+# EL Department
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTdAtQZj8q19sj0JZIejxc_8e4OsY5IGOQwIUcZDu7Cs9MdM8L-dlbEBaMqL8CWuqepuIG_VE9BSo1I/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="800" height="500" allowfullscreen="true"></iframe>
 
 For more information, feel free to explore the various pages of our school’s website.
 
 Thank you for joining Yuhua Primary School’s E-Open House 2023.
-
