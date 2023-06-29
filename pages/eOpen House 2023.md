@@ -4,5 +4,7 @@ permalink: /eopenhouse2023/
 description: ""
 ---
 #### **An exciting page is coming your way!**
-![](/images/yuhua.gif)
+
+![](/images/yuhuagifupdated.gif)
+
 #### ** Catch us on 7th July 2023!**
