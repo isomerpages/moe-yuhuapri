@@ -10,8 +10,8 @@ Dear Parents/Guardians,
 Thank you for visiting our E-Open House 2023. We would like to warmly welcome you to Yuhua Primary School.
 The following video and photos have been prepared to introduce Yuhua's facilities and programmes to you. 
 
-We have also specially prepared a virtual tour of our school and its facilities. Click here to start the tour.
-
+We have also specially prepared a virtual tour of our school and its facilities. Click **[here](https://4d.silversea-media.com/view/yuhuaps360tour/)** to start the tour.
+![](/images/virtual%20tour%20pic.jpg)
 
 
 Now that you have seen our facilities, let us find out how the school serves to grow our children’s hearts and minds.
