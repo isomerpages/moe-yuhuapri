@@ -12,6 +12,8 @@ The following video and photos have been prepared to introduce Yuhua's facilitie
 
 We have also specially prepared a virtual tour of our school and its facilities. Click here to start the tour.
 
+
+
 Now that you have seen our facilities, let us find out how the school serves to grow our children’s hearts and minds.
 
 Here is glimpse of a day in a life of a Primary 1 Yuhualite!
