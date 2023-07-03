@@ -3,8 +3,7 @@ title: Sample open house page
 permalink: /permalink/
 description: ""
 ---
-
-
+![](/images/e-open%20house%20banner%202.png)
 
 Dear Parents/Guardians,
 
