@@ -25,14 +25,14 @@ Wonder how is a day like as an Yuhualite? Watch the video to find out!
 
 Next, let's take a look at some of our P1 programmes.
 
-# English, Math &amp; Mother Tongue
+# English, Mathematics &amp; Mother Tongue
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpAZvV56GY2FXwBd1UrmPaeLhGVK89zFrjL0mBGpz955GwQs8hYPqtSdQTrBwyhEPYm5VzHYWeju8n/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="700" height="500" allowfullscreen="true"></iframe>
 
 # P.A.M, PAL &amp; F.L.I.G.H.T
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLRPSt78d6GcaZlBbdpOv8UhT7DB9AGO8E6zzoL4gnfd2Pl4GEkZvLP_-g30J9Cj6oBtx626fU7ciE/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="700" height="500" allowfullscreen="true"></iframe>
 
-# C.C.E, Pupils Well-Being &amp; Environmental Programmes 
+# Character &amp; Citizenship Education, Pupils Well-Being ; Environmental Education Programme 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSclLacvmVZmpOy_o7WZMswNzYmrW7-P_31I4OrJgx6fSSIoTpYlOKOYcvF826gWt0ii-tEUfOF2rbi/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="700" height="500" allowfullscreen="true"></iframe>
 
