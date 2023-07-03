@@ -13,7 +13,7 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Ang Si Ting Cheryl (MRS NG) | ang_si_ting_cheryl@moe.edu.sg |
 | Ang Ying Ying (MS) | ang_ying_ying@moe.edu.sg |
 | Azman B Yahya (MR) | azman_yahya@moe.edu.sg |
-| Cao Lei Lei (MS) | cao_lei_lei@moe.edu.sg |
+| Cao Lei Lei (MS) | cao_leilei@moe.edu.sg |
 | Celeste Chen Wei (MS) | celeste_chen_wei@moe.edu.sg |
 | Charlotte Lee-Tan Hwee Fang (MRS) | tan_hwee_fang@moe.edu.sg |
 | Chia Hwee Chin (MDM) | chia_hwee_chin@moe.edu.sg |
