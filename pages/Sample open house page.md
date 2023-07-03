@@ -3,6 +3,9 @@ title: Sample open house page
 permalink: /permalink/
 description: ""
 ---
+
+
+
 Dear Parents/Guardians,
 
 Thank you for visiting our E-Open House 2023. We would like to warmly welcome you to Yuhua Primary School.
@@ -12,7 +15,7 @@ We have also specially prepared a virtual tour of our school and its facilities.
 
 Now that you have seen our facilities, let us find out how the school serves to grow our children’s hearts and minds.
 
-Here is glimpse of a day in a life of a Primary 1 Yuhualite and other exciting photos below!
+Here is glimpse of a day in a life of a Primary 1 Yuhualite!
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OO1fvqpXaiI" height="393" width="699"></iframe>
 
@@ -30,9 +33,9 @@ Now that you have an idea of what's in store for your child, here are some excit
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSclLacvmVZmpOy_o7WZMswNzYmrW7-P_31I4OrJgx6fSSIoTpYlOKOYcvF826gWt0ii-tEUfOF2rbi/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="800" height="500" allowfullscreen="true"></iframe>
 
-FInally, let's hear from our current Primary 1 on their experiences.
+FInally, let's hear from our current students of their experiences.
 
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ohAARen5CgE" height="393" width="699"></iframe>
 
 For more information, feel free to explore the various pages of our school’s website.
 
