@@ -18,14 +18,12 @@ Let's start the journey with a virtual tour of Yuhua Primary School.
 ![](/images/virtual%20tour%20pic.jpg)
 
 
-Now that you have seen our facilities, let us find out how the school serves to grow our children’s hearts and minds.
-
-Here is glimpse of a day in a life of a Primary 1 Yuhualite!
+Wonder how is a day like as an Yuhualite? Watch the video to find out! 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OO1fvqpXaiI" height="393" width="699"></iframe>
 
 
-Now that you have an idea of what's in store for your child, here are some exciting photos of the different programmes in Yuhua.
+Next, let's take a look at some of our P1 programmes.
 
 # English, Math &amp; Mother Tongue
 
@@ -38,9 +36,11 @@ Now that you have an idea of what's in store for your child, here are some excit
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSclLacvmVZmpOy_o7WZMswNzYmrW7-P_31I4OrJgx6fSSIoTpYlOKOYcvF826gWt0ii-tEUfOF2rbi/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="800" height="500" allowfullscreen="true"></iframe>
 
-FInally, let's hear from our current students of their experiences.
+Is your child still anxious about attending Primary 1? Watch this video to hear what some of our Yuhualites have to say of their experiences!
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ohAARen5CgE" height="393" width="699"></iframe>
+
+We look forward to forging a strong partnership with you in growing your child's heart and mind. 
 
 For more information, feel free to explore the various pages of our school’s website.
 
