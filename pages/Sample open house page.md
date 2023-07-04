@@ -40,4 +40,4 @@ FInally, let's hear from our current students of their experiences.
 
 For more information, feel free to explore the various pages of our school’s website.
 
-Thank you for joining Yuhua Primary School’s E-Open House 2023.
+We welcome you to be a part of the Yuhua family and thank you for joining Yuhua Primary School’s E-Open House 2023.
