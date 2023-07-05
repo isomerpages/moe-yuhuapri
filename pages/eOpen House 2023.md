@@ -46,6 +46,6 @@ For more information, feel free to explore the various pages of our school’s w
 
 Before leaving, we would appreciate if you could take a moment to complete a short the survey of the e-Open House by clicking on the link below.
 
-[Open House Survey 2023](https://form.gov.sg/64a27f2c418c6d00110980ae)
+**[Open House Survey 2023](https://form.gov.sg/64a27f2c418c6d00110980ae)**
 
 We welcome you to be a part of the Yuhua family and thank you for joining Yuhua Primary School’s E-Open House 2023.
