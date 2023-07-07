@@ -25,6 +25,16 @@ sections:
       subtitle: Announcements & News
       button: Click for more
   - infopic:
+      title: E-Open House 2023
+      subtitle: E-Open House 2023
+      description: Come and take a look at our e-Open House 2023.  Here, we share
+        about our school facilities via a virtual tour, Primary 1 programmes and
+        student voices with you.
+      button: Click here
+      url: https://www.yuhuapri.moe.edu.sg/eopenhouse2023/
+      image: /images/e-open house banner 1.png
+      alt: Image alt text
+  - infopic:
       title: School Work
       subtitle: Featured on Channel News Asia
       description: Find out what it means to be a  Discipline Master
@@ -48,13 +58,5 @@ sections:
       button: Find out more
       url: /presidents-visit-yuhua-2020
       image: /images/infopic3.png
-      alt: Image alt text
-  - infopic:
-      title: E-Open House 2023
-      subtitle: E-Open House 2023
-      description: Come and take look at our e-Open House
-      button: Click here
-      url: https://www.yuhuapri.moe.edu.sg/eopenhouse2023/
-      image: /images/e-open house banner 1.png
       alt: Image alt text
 ---
