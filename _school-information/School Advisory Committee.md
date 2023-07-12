@@ -13,6 +13,9 @@ description: ""
 | **Mr Tan Kheng Phuong – Member** / **Treasurer** |
 | **Mdm Pauline Koh – Member** |
 | **Dr Azilawati Jamaludin – Member** |
+|**Mr Loo Deliang – Member** |
+|**Miss Tan Siew Yong – Member** |
+| **Mr Xu Wei – Member** |
 | **Mrs Ruth Tai – Honorary Secretary/Principal** |
 | **Mr Noah Ong Nai Ah – Vice Principal (Admin)** |
 | **Mrs Zoey So-Lim Ching Sia – Vice-Principal** |
