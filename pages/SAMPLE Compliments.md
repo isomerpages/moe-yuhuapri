@@ -10,7 +10,7 @@ description: ""
  ### Words of encouragement!  
 
 
-Let's cheer for our teachers and staff in Yuhua.  Share your kind thoughts and encouraging words with us. Our heartfelt thanks to all who have posted your&nbsp;[appreciation notes](https://www.moe.gov.sg/about-us/compliments)!
+Let's cheer for our teachers and staff in Yuhua.  Share your kind thoughts and encouraging words with us. Our heartfelt thanks to all who have posted your&nbsp;[appreciation notes](https://www.moe.gov.sg/about-us/compliments)!   - *will link back to our page*
 
 <a href="”https://form.gov.sg/64c649f055d52c00113f380”">![](/images/button1.png)</a>
 
