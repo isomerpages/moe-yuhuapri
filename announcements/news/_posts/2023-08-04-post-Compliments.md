@@ -12,4 +12,3 @@ image: ""
 ### Words of encouragement
 
 Let's cheer for our teachers and staff in Yuhua.  Share your kind thoughts and encouraging words with us. Our heartfelt thanks to all who have posted your&nbsp;[appreciation notes](https://www.moe.gov.sg/about-us/compliments)!   - *will link back to our page*
-
