@@ -19,4 +19,3 @@ We will share them with our Yuhua Family and bring a smile to their faces.
 **Click** on the image below to send your compliments.
 
 <a href="https://form.gov.sg/64c649f055d52c00113f38e0">![](/images/button1.png)</a>
-
