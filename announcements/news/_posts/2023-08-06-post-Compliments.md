@@ -12,9 +12,9 @@ image: ""
 ### Words of encouragement
 
 
-Let's cheer for our teachers and staff of Yuhua Primary.  Share your encouraging messages or compliments for the school and staff with us.  Our heartfelt thanks to all who have posted your appreciation notes. 
+Let's cheer for our teachers and staff of Yuhua Primary.  Share your encouraging messages or compliments for the school and staff with us. 
 
-We will share them with our Yuhua Family and bring a smile to their faces.
+Our heartfelt thanks to all who have posted your appreciation notes. We will share them with our Yuhua Family and bring a smile to their faces.
 
 **Click** on the image below to send your compliments.
 
