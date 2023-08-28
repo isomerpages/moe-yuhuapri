@@ -1,14 +1,11 @@
 ---
 title: Compliments
-permalink: /announcements/news/permalink/
+permalink: /announcements/news/permalink/compliments/
 date: 2023-08-06
 layout: post
 description: ""
 image: ""
 ---
-ANNOUNCEMENT:  Dear Ex-Yuhualites,  
-Tomorrow (29 Aug) our school will be having Teacher's Day Celebration.  If you are down to visit the teachers tomorrow, please only come between 10.30am to 11.30am.  Else, feel free to drop your teachers a message below.
-
 ![Sometimes, Just A Little Compliment Can Make Someone's Entire Day!](https://www.donemanaps.com/cmsfiles/items/gallery/245_o_1eo1q2k8moskla3e8c1j83rk12i.jpg)
 
 
