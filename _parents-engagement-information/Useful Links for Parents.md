@@ -15,7 +15,7 @@ description: ""
     
 *   ##### [MySkillsFuture Student Portal (Primary)](https://go.gov.sg/exploreschools%20by%20end%20March%202022)
     
-*   ##### [Parents Gateway](https://pg.moe.edu.sg/)
+*   ##### [Parents Gateway FAQ ](https://pg.moe.edu.sg/faq()
     
 *   ##### [Parents Gateway Release 3.1 Features](https://youtu.be/PCM5o8jAncc)
     
