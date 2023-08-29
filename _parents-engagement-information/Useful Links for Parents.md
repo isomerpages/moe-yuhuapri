@@ -7,7 +7,7 @@ description: ""
 
 
     
-*   ##### [ECG Parent Guide](https://go.gov.sg/parent-guide)
+*   ##### [Education & Career Guidance Tips for Parents](https://go.gov.sg/parent-guide)
     
 *   ##### [Facebook- Yuhua Primary](https://www.facebook.com/yuhuaprimaryschool)
     
@@ -17,7 +17,6 @@ description: ""
     
 *   ##### [Parents Gateway FAQ ](https://pg.moe.edu.sg/faq()
     
-*   ##### [Parents Gateway Release 3.1 Features](https://youtu.be/PCM5o8jAncc)
     
 *   ##### [PSLE- Full Subject-Based Banding Microsite](https://go.gov.sg/pslefsbb)
     
