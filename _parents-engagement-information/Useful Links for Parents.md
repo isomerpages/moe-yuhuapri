@@ -28,7 +28,9 @@ description: ""
 *   ##### [Secondary School Education Booklet](https://go.gov.sg/psle-sec-sch-brochure)
     
 *   ##### [Singapore Examinations and Assessment Boards](https://www.seab.gov.sg/home/examinations/psle)
-    
+
+*  ##### [Student Details Form](https://pg.moe.edu.sg/forms/sdf)
+
 *   ##### [“Welcome to Secondary School” video](https://go.gov.sg/welcome-to-secondary-school)  
       
     
