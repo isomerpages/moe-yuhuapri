@@ -15,7 +15,7 @@ description: ""
     
 *   ##### [MySkillsFuture Student Portal (Primary)](https://go.gov.sg/exploreschools%20by%20end%20March%202022)
     
-*   ##### [Parents Gateway FAQ ](https://pg.moe.edu.sg/faq()
+*   ##### [Parents Gateway FAQ ](https://pg.moe.edu.sg/faq)
     
     
 *   ##### [PSLE- Full Subject-Based Banding Microsite](https://go.gov.sg/pslefsbb)
