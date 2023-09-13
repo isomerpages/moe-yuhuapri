@@ -16,6 +16,10 @@ Let's cheer for our teachers and staff of Yuhua Primary.  Share your encouraging
 
 Our heartfelt thanks to all who have posted your appreciation notes. We will share them with our Yuhua Family and bring a smile to their faces.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Oqg7GCXeCoA?si=x62vUVGWHYq2GRX8" height="393" width="699"></iframe>
+
+
+You can still send us your compliments.
 **Click** on the image below to send your compliments.
 
 <a href="https://form.gov.sg/64c649f055d52c00113f38e0">![](/images/button1.png)</a>
