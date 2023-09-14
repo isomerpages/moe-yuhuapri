@@ -1,12 +1,12 @@
 ---
-title: Angklung, Kulintang Ensemble
-permalink: /yuhualite-experience/Co-Curricular-Activities/angklung-kulintang-ensemble/
+title: Angklung & Kulintang Ensemble
+permalink: /yuhualite-experience/co-curricular-activities/angklung-kulintang-ensemble/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
 ### Angklung / Kulintang Ensemble
 
-The Angklung/  Kulintang Ensemble aims to nurture young musicians and seeks to develop good character through engaging experiences in the music.
+The Angklung/&nbsp; Kulintang Ensemble aims to nurture young musicians and seeks to develop good character through engaging experiences in the music.
 
 The Angklung is a Balinese musical instrument which produces a note when shaken. It is made of bamboo and the music can be accompanied with kulintangs.
 
@@ -26,5 +26,4 @@ Our young musicians have achieved outstanding achievements in Singapore Youth Fe
 
 Tuesdays, 7.30am to 9am, Angklung room (Level 1)
 
-<img src="/images/angklung2.png" 
-     style="width:100%">
+<img src="/images/angklung2.png" style="width:100%">
