@@ -30,11 +30,11 @@ Students will develop and demonstrate:
 To achieve this, we have 4 categories of CCAs for the pupils to choose from:
 
 *   **Sports & Games**  
-    Athletics, Badminton, Basketball, Football, Netball, Volleyball, Sepak Takraw
+    Track and Field, Badminton, Basketball, Football, Netball, Volleyball, Sepak Takraw
 *   **Clubs & Societies**  
-    Art Club, ICT & Media Club
+    Art & Crafts, Infocomm Technology (Media Production)
 *   **Performing Arts**  
-    Angklung Ensemble, Brass Band, Choir, Chinese Dance, Malay Dance, Indian Dance
+    Angklung / Kulintang Ensemble, Brass Band, Choir, Chinese Dance, Malay Dance, Indian Dance
 *   **Uniformed Groups**  
     Cub Scouts
 
