@@ -46,9 +46,9 @@ Students are strongly encouraged to participate actively in their CCA to develop
 
 **CCA Practices and Meetings**
 
-Students have CCA Practice/Meeting once a week, for about one and a half hours, on Tuesday mornings during curriculum hours between 8am to 9.30am (subject to changes).
+Students have CCA Practice/Meeting once a week, for about one and a half hours, on Tuesday mornings during curriculum hours between 7:30am to 9am (subject to changes).
 
-For some CCAs which require more practices to develop competency in skills or to prepare for competitions, students have to attend practices twice a week. The second practice is on either a Wednesday or Friday afternoon between 2pm to 4pm (subject to changes). CCAs are conducted in the school.
+For some CCAs which require more practices to develop competency in skills or to prepare for competitions, students have to attend practices twice a week. The second practice is on either a Wednesday or Friday afternoon between 2pm to 4pm (subject to changes). CCAs are usually conducted in school.
 
 CCA practices/meetings will stand down 2 weeks before the examinations and resume after the examinations.
 
