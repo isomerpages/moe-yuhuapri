@@ -19,8 +19,8 @@ The fitness and conditioning activities and other extensive specialised training
 |  |  |
 |---|---|
 | Low Kok Jun (MR) / Teacher IC | low_kok_jun@moe.edu.sg |
-| Rebekah Tan (MISS) | tan_li_ying_rebekah@moe.edu.sg |
-| Muhd Mahader BSuliadi | muhd_mahader_b_suliadi@moe.edu.sg |
+| Loke Lye Kit (MR) | loke_lye_kit@moe.edu.sg |
+| Tan Heng Kwee (MR) | tan_heng_kwee@moe.edu.sg |
 
 **Schedule**
 
