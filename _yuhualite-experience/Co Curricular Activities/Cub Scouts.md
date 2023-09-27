@@ -19,6 +19,7 @@ The activities Cub Scouts partake in include hiking, camps, camp craft, and acti
 |  |  |
 |---|---|
 | Mohammad Nasir Bin Md Rasid (MR) / Teacher IC | mohammad_nasir_md_rasid@moe.edu.sg |
+| Irfan Silalahi (MR) | irfan_silalahi@moe.edu.sg |
 | Lim Lily (MDM) | lim_lily@moe.edu.sg |
 | Sharon Ow (MRS) | mah_li_feng@moe.edu.sg |
 
