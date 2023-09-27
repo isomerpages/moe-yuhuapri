@@ -18,7 +18,7 @@ The students gain game exposure by taking part in friendly matches with other sc
 
 |  |  |
 |---|---|
-|  Daniel Manap(MR) / Teacher IC | muhammad_daniel_abdul_manap@moe.edu.sg |
+| Muhd Mahader Bin Suliadi (MR) / Teacher IC | muhd_mahader_b_suliadi@moe.edu.sg |
 | Azman B Yahya (MR) | azman_yahya@moe.edu.sg |
 
 **Schedule**
