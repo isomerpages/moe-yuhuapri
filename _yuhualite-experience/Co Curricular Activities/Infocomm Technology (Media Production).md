@@ -13,9 +13,9 @@ The activities include basic photography and video editing, blogging, animation 
 |  |  |
 |---|---|
 | Marziati Mustafa (MISS) / Teacher IC | marziati_mustafa@moe.edu.sg |
-| Anthony Tay (Mr) | anthony_tay_poh_hua@moe.edu.sg |
 | Ivorie Kang (MISS) | kang_han_ying@moe.edu.sg |
-| Padmini (MRS) | purushothaman_padmini@moe.edu.sg |
+| Kavitha D/O Shanmugananthan (MISS) | kavitha_shanmugananthan@moe.edu.sg |
+| Lu Jia (MDM) | lu_jia@moe.edu.sg |
 
 **Schedule**
 
