@@ -14,10 +14,10 @@ During the process of art-making, not only do members learn the various art-maki
 
 |  |  |
 |---|---|
-| Nadira Bte Omar (MDM) / Teacher IC | nadira_omar@moe.edu.sg |
+| Tay Yuling (MISS) / Teacher IC | tay_yuling@moe.edu.sg |
+| Nur Qurratuaini Binte Mohd Zuhri (MDM) | bur_qurratuaini_mohd_zuhri@moe.edu.sg |
 | Nurfadlin Fazirah Binte Abdul Manaf (MISS) | nurfdlin_fazirah_abdul_manaf@moe.edu.sg |
 | Lim Bee Lian (MISS) | lim_bee_lian_a@moe.edu.sg |
-| Katie Goh (MISS) | goh_k_thing@moe.edu.sg |
 
 **Schedule**
 
