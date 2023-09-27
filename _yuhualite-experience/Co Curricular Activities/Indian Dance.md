@@ -17,6 +17,7 @@ Our aspiring dancers showcase their talents and skills during school events like
 |  |  |
 |---|---|
 | Maha Devi Achenbach (MRS) / Teacher IC | maha_devi_palaniappan@moe.edu.sg |
+| Shammini D/O Padmanaban (MISS) | shammini_padmanaban@moe.edu.sg |
 
 **Schedule**
 
