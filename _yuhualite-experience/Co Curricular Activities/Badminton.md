@@ -21,6 +21,7 @@ Members who display potential and have demonstrated competence and skills are se
 | Goh Kok Wai (MR) / Teacher IC | goh_kok_wai@moe.edu.sg |
 | Ang Ying Ying (MISS) | ang_ying_ying@moe.edu.sg |
 | Kelvin Lim (MR) | lim_xiang_wei_kelvin@moe.edu.sg |
+| Suhana Bte Puhari (MDM) | suhana_puhari@moe.edu.sg |
 
 #### Schedule
 
