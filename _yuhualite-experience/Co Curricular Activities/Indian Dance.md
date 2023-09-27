@@ -17,7 +17,6 @@ Our aspiring dancers showcase their talents and skills during school events like
 |  |  |
 |---|---|
 | Maha Devi Achenbach (MRS) / Teacher IC | maha_devi_palaniappan@moe.edu.sg |
-| Kirandeep Kour (MISS) | kirandeep_kour_sandu@moe.edu.sg |
 
 **Schedule**
 
