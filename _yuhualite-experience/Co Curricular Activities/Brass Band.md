@@ -14,10 +14,9 @@ There are opportunities for band members to showcase their talents such as perfo
 
 |  |  |
 |---|---|
-| Tay YuLing (MISS) / Teacher IC | tay_yuling@moe.edu.sg |
-| Choy Jia Ying Florence (MISS) | choy_jia_ying_florence@moe.edu.sg |
-| Gay Bee Hong (MISS) | gay_bee_hong@moe.edu.sg |
-| Dorcas Tan Zhi En (MISS) | dorcas_tan_zhi_en@moe.edu.sg |
+| Gay Bee Hong (MISS) / Teacher IC | gay_bee_hong@moe.edu.sg |
+| Cao Lei Lei (MISS) | cao_leilei@moe.edu.sg |
+| Jonnalyn Teo Min Hui (MISS) | jonnalyn_teo_min_hui@moe.edu.sg |
 
 **Schedule**
 

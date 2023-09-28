@@ -16,7 +16,9 @@ The fitness and conditioning activities and advance training will prepare those 
 
 |  |  |
 |---|---|
-| Siti Fatimah Binte Abdul Latiff (MISS) | siti_fatimah_abdul_latif@moe.edu.sg |
+| Siti Fatimah Binte Abdul Latiff (MISS) / Teacher IC | siti_fatimah_abdul_latif@moe.edu.sg |
+| Lim Shiau Chen Samantha (MDM) | lim_shiau_chen@moe.edu.sg |
+| Rita Binte Salleh (MDM) | rita_salleh@moe.edu.sg |
 
 **Schedule**
 

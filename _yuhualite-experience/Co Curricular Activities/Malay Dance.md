@@ -15,7 +15,7 @@ The dancers can showcase their talents and skills during school events like Annu
 |  |  |
 |---|---|
 | Sadiah Bte Ahmad (MDM) / Teacher IC | sadiah_ahmad@moe.edu.sg |
-| Suhana Bte Puhari (MISS)  (MDM) | suhana_puhari@moe.edu.sg |
+| Maria Norashiken Bte Hayak (MDM) | maria_norashiken_hayak@moe.edu.sg |
 | Siti Kamirah Bte Mohamed Nor (MISS) | siti_kamirah_mohamed_nor@moe.edu.sg |
 
 **Schedule**

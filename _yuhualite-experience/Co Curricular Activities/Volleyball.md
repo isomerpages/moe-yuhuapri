@@ -16,9 +16,11 @@ Students who have progressed sufficiently are selected to participate in volleyb
 
 |  |  |
 |---|---|
-| Tseng Chao Cheng (MR) / Teacher IC | tseng_chao-cheng@moe.edu.sg |
-| Ang Si Ting Cheryl (MISS) | ang_si_ting_cheryl@moe.edu.sg |
-| Goh Han Serm (MR) | goh_han_serm@moe.edu.sg |
+| Goh Han Serm (MR) / Teacher IC | goh_han_serm@moe.edu.sg |
+| Kwan Wai Yee (MDM) | kwan_wai_yee@moe.edu.sg |
+| Tan Fang Ni (MISS) | tan_fang_ni@moe.edu.sg |
+| Tseng Chao Cheng (MR) | tseng_chao-cheng@moe.edu.sg |
+
 
 **Schedule**
 

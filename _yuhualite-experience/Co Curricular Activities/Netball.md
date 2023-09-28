@@ -22,9 +22,10 @@ The Netball Club provides girls with an opportunity to participate in sports. 
 
 |  |  |
 |---|---|
-| Shum Wai Hoh (MR) / Teacher IC | shum_wai_hoh@moe.edu.sg |
-| Zhuang Xiling (MISS) | zhuang_xiling@moe.edu.sg |
+| Zhuang Xiling (MISS) / Teacher IC | zhuang_xiling@moe.edu.sg |
+| Lim Zuo Er Joey (MISS) | lim_zuo_er_joey@moe.edu.sg |
 | Lin Renfang (MISS) | lin_renfang@moe.edu.sg |
+| Yip Lai Mun (MDM) | yip_lai_mun@moe.edu.sg |
 
 **Schedule**
 
