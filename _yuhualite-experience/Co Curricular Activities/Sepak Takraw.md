@@ -23,6 +23,6 @@ The students gain game exposure by taking part in friendly matches with other sc
 
 **Schedule**
 
-Tuesdays, 7.30am to 9am, ISH
+Tuesdays, 7.30am to 9am, School Hall
 
 ![](/images/cca12.png)
