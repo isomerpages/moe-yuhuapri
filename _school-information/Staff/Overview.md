@@ -29,6 +29,7 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Goh K Thing (MDM) | goh_k_thing@moe.edu.sg |
 | Goh Kok Wai (MR) | goh_kok_wai@moe.edu.sg |
 | Guan Meixia (MRS LEE) | guan_meixia@moe.edu.sg |
+| Hanis Rahmat (MDM) | hanis_rahmat@moe.edu.sg |
 | Hia Soo Ling (MDM) | hia_soo_ling@moe.edu.sg |
 | Irfan Silalahi (MR) | irfan_silalahi@moe.edu.sg |
 | Jonnalyn Teo Min Hui (MS) | jonnalyn_teo_min_hui@moe.edu.sg |
