@@ -56,7 +56,7 @@ CCA practices/meetings will stand down 2 weeks before the examinations and resum
 
 At the end of Primary Two, students will get to find out more about the various CCAs. They will then be given a form to select their choices. The students are encouraged to discuss their choices of CCA with their parents before the parents submit their CCA choices online.
 
-The school will try to assign the CCAs according to pupils’ preference. However, there may be instances when students may not be assigned their first choice CCA if it is over-subscribed. In such cases, they will be assigned to one of their remaining choices of CCA.
+The school will try to assign the CCAs according to students’ preference. However, there may be instances when students may not be assigned their first choice CCA if it is over-subscribed. In such cases, they will be assigned to one of their remaining choices of CCA.
 
 #### CCA Photos
 ![](/images/ccaoverview.png)
