@@ -10,7 +10,7 @@ description: ""
 | **Mr Yeo Boon Hui – Chairman** |
 | **Mr Tay Thain Lin – Member** |
 | **Dr Susanna Leong Su Jan – Member** |
-| **Mr Tan Kheng Phuong – Member** / **Treasurer** |
+| **Mr Tan Keng Phuang – Member** / **Treasurer** |
 | **Mdm Pauline Koh – Member** |
 | **Dr Azilawati Jamaludin – Member** |
 |**Mr Loo Deliang – Member** |
