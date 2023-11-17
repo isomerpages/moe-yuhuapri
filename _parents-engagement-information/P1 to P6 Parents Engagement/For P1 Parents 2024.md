@@ -19,6 +19,6 @@ These are the slides that were shared during the orientation earlier. They conta
 
 ### Useful links
 
-[E-Giro Information](http://www.moe.gov.sg/financial matters/fees)
+[School Fees Information](http://www.moe.gov.sg/financial matters/fees)
 
 [E-Giro Application](http://www.moe.gov.sg/financial matters/fees/egiro)
