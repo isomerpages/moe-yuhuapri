@@ -17,7 +17,7 @@ These are the slides that were shared during the orientation earlier. They conta
 
 **[Other Admin Matters](/files/2024_Other_Admin_Matters.pdf)**
 
-### Useful links:
+### Useful links
 
 [E-Giro Information](http://www.moe.gov.sg/financial matters/fees)
 
