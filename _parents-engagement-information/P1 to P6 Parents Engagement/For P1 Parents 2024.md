@@ -22,8 +22,3 @@ These are the slides that were shared with you earlier during the orientation. T
 [E-Giro Information](http://www.moe.gov.sg/financial matters/fees)
 
 [E-Giro Application](http://www.moe.gov.sg/financial matters/fees/egiro)
-
-
-
-
-
