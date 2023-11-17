@@ -10,12 +10,12 @@ Dear P1 Parents of 2024,
 These are the slides that were shared earlier during the orientation. They contain all the information needed for your reference. 
 
 
-**[2024 Year Head Briefing]**(/files/2024_Year_Head_Briefing___Preparing_for_P1.pdf)
+**[2024 Year Head Briefing](/files/2024_Year_Head_Briefing___Preparing_for_P1.pdf)**
 
 
-**[VP Admin P1 Parents Briefing (Safety, Finance and Security)]**(/files/VPA_P1_Parent_Briefing_2024__Safety_Finance__Punctuality__FINAL.pdf)
+**[VP Admin P1 Parents Briefing (Safety, Finance and Security)](/files/VPA_P1_Parent_Briefing_2024__Safety_Finance__Punctuality__FINAL.pdf)**
 
-**[Other Admin Matters]**(/files/2024_Other_Admin_Matters.pdf)
+**[Other Admin Matters](/files/2024_Other_Admin_Matters.pdf)**
 
 ### Useful links:
 
