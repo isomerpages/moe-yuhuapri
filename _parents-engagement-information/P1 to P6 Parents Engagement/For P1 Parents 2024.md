@@ -7,7 +7,7 @@ third_nav_title: P1 to P6 Parents Engagement
 ---
 Dear P1 Parents of 2024,
 
-These are the slides that were shared with you earlier during the orientation. They contain all the information needed for your reference. 
+These are the slides that were shared earlier during the orientation. They contain all the information needed for your reference. 
 
 
 **[2024 Year Head Briefing]**(/files/2024_Year_Head_Briefing___Preparing_for_P1.pdf)
