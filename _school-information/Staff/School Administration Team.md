@@ -3,14 +3,6 @@ title: School Administration Team
 permalink: /school-information/Staff/school-administration-team/
 description: ""
 third_nav_title: Staff
+variant: tiptap
 ---
-### Executive and Administrative 
-
-|  |  |  |
-|---|---|---|
-| **Ms Tan Kiat Joo**<br>Admin Manager | **Mr Hsieh Kok Seng**<br>Operations Manager | **Mr Zulkifli B Mansor**<br>Operations Manager |
-| **Mdm Madaleine Chua**<br>ICT Manager | **Mr Bayruse Khan Noon**<br>Admin Executive | **Ms Nur Fitriaina Bte Abdul Samad**<br>Admin Executive |
-| **Mdm Sarima M Noor**<br>Management Support Officer | **Mdm Loke Shiong Wah**<br>Management Support Officer | **Mr Hamdan Bin Omar**<br>Operations Support Officer |
-| **Ms Helen Tan**<br>Operations Support Officer | **Mdm Linda Ang**<br>Operations Support Officer | **Mdm Lim Ah Geok**<br>Operations Support Officer |
-| **Mr Loh Kah Yin**<br>Operations Support Officer |  |  |
-| **Mdm Shaheen Aman Binte Malik Aman**<br>AED/Counselling | **Mdm Jess Lin Ching Lian**<br>AED/LBS | **Mdm Nur Aini Binti Rosli**<br>AED/LBS |
+<h3>Executive and Administrative</h3><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Tan Kiat Joo</strong><br>Admin Manager</p></td><td rowspan="1" colspan="1"><p><strong>Mr Hsieh Kok Seng</strong><br>Operations Manager</p></td><td rowspan="1" colspan="1"><p><strong>Mr Zulkifli B Mansor</strong><br>Operations Manager</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Madaleine Chua</strong><br>ICT Manager</p></td><td rowspan="1" colspan="1"><p><strong>Mr Bayruse Khan Noon</strong><br>Admin Executive</p></td><td rowspan="1" colspan="1"><p><strong>Mdm Sarima M Noor</strong><br>Admin Executive</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Loke Shiong Wah</strong><br>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p><strong>Mdm Lee Ai Leng (Irene)</strong></p><p>Corporate Support Officer</p></td><td rowspan="1" colspan="1"><p><strong>Mr Hamdan Bin Omar</strong><br>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Ms Tan Ah Chu (Helen)</strong><br>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p><strong>Mdm Ang Lay Hoon (Linda)</strong><br>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p><strong>Mdm Lim Ah Geok</strong><br>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mr Loh Kah Yin</strong><br>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p><strong>Mdm Ong Chui Chui (Mandy)</strong></p><p>Operations Support Officer</p></td><td rowspan="1" colspan="1"><p><strong>Mdm Ng Siew Ling</strong></p><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Mdm Shaheen Aman Binte Malik Aman</strong><br>AED/Counselling</p></td><td rowspan="1" colspan="1"><p><strong>Mdm Jess Lin Ching Lian</strong><br>AED/LBS</p></td><td rowspan="1" colspan="1"><p><strong>Mdm Nur Aini Binti Rosli</strong><br>AED/LBS</p></td></tr></tbody></table><p></p>

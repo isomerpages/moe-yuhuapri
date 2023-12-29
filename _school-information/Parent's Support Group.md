@@ -2,12 +2,11 @@
 title: Parent's Support Group
 permalink: /school-information/parents-support-group/
 description: ""
+variant: markdown
 ---
 ### Parent's Support Group
 
 
-
-#### Parents Support Group 2023
 
 #### **Be a part of our Yuhua Family as a Parents’ Support Group (PSG) Volunteer**
 
