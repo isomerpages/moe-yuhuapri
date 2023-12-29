@@ -22,7 +22,7 @@ Undergirding these ideals will be our student ‘ACHIEVE’ outcomes that have b
 
 With this framework, the school continually aligns, relooks into and refines our total curriculum plans and key learning programmes so as to help us actualise the shared belief that ‘Every Yuhualite Can **ACHIEVE**’.
 
-add pix here.
+![](/images/2024%20pictures/ACHIEVE_Final_2023.jpg)
     
 
        
@@ -43,4 +43,3 @@ Principal
 
 Yuhua Primary School
 
-Yuhua Primary School
