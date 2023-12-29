@@ -17,12 +17,12 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Cao Lei Lei (MS) | cao_leilei@moe.edu.sg |
 | Celeste Chen Wei (MS) | celeste_chen_wei@moe.edu.sg |
 | Charlotte Lee-Tan Hwee Fang (MRS) | tan_hwee_fang@moe.edu.sg |
-| Chen Ziwei Joyce (MDM) | @moe.edu.sg |
+| Chen Ziwei Joyce (MDM) | chen_ziwei_joyce@moe.edu.sg |
 | Chia Hwee Chin (MDM) | chia_hwee_chin@moe.edu.sg |
 | David Wee Yong Zhi (MR) | david_wee_yong_zhi@moe.edu.sg |
 | Denise Kee-Yeo Sulyn (MRS) | yeo_sulyn_denise@moe.edu.sg |
 | Durrah Binte Adam (MDM) | durrahadam@moe.edu.sg |
-| Elda Zarifah Binte Zamri (MS) | @moe.edu.sg |
+| Elda Zarifah Binte Zamri (MS) | elda_zarifah_zamri@moe.edu.sg |
 | Gao Zhen (MDM) | gao_zhen@moe.edu.sg |
 | Gay Bee Hong (MRS YANG) | gay_bee_hong@moe.edu.sg |
 | Gee Yap Cheng Liang (MRS) | gee_yap_cheng_liang@moe.edu.sg |
@@ -43,7 +43,7 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Koh Ai Hua Isa (MDM) | koh_ai_hua_isa@moe.edu.sg |
 | Kwan Wai Yee (MDM) | kwan_wai_yee@moe.edu.sg |
 | Lau-Ng Li Ping (Huang Liping) (MRS) | ng_li_ping@moe.edu.sg |
-| Lee Yihui (MDM) | @moe.edu.sg |
+| Lee Yihui (MDM) | lee_yihui@moe.edu.sg |
 | Liew Mun Yee (MS) | liew_mun_yee@moe.edu.sg |
 | Liew Zhi Jun (MS) | liew_zhi_jun@moe.edu.sg |
 | Lim Bee Lian (MS) | lim_bee_lian_a@moe.edu.sg |
@@ -53,12 +53,12 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Lim Xiang Wei Kelvin (MR) | Lim_Xiang_Wei_Kelvin@moe.edu.sg |
 | Lim Zuo Er Joey (MS) | lim_zuo_er_joey@moe.edu.sg |
 | Lin Renfang (MS) | lin_renfang@moe.edu.sg |
-| Loh Chiow Chien (MS) | @moe.edu.sg |
+| Loh Chiow Chien (MS) | loh_chiow_chien@moe.edu.sg |
 | Loke Lye Kit (MR) | loke_lye_kit@moe.edu.sg |
 | Loong Siew Hwee (MS) | loong_siew_hwee@moe.edu.sg |
 | Low Kok Jun (MR) | low_kok_jun@moe.edu.sg |
 | Lu Jia (MDM) | lu_jia@moe.edu.sg |
-| Lua Shixiong (MR) | @moe.edu.sg |
+| Lua Shixiong (MR) | lua_shixiong@moe.edu.sg |
 | Mah Li Feng (MRS OW) | mah_li_feng@moe.edu.sg |
 | Maha Devi Achenbach (MRS) | maha_devi_palaniappan@moe.edu.sg |
 | Maria Norashiken Bte Hayak (MS) | maria_norashiken_hayak@moe.edu.sg |
@@ -82,7 +82,7 @@ Link to [2023 Form Teachers](https://moe-yuhuapri-staging.netlify.app/school-inf
 | Rohaidah Bte Abdul Wahid (MS) | rohaidah_abdul_wahid@moe.edu.sg |
 | Sadiah Bte Ahmad (MDM) | sadiah_ahmad@moe.edu.sg |
 | Sally Chew Kian Wah (MRS) | chew_kian_wah@moe.edu.sg |
-| Sally Tan Yi Bei (MDM) | @moe.edu.sg |
+| Sally Tan Yi Bei (MDM) | tan_yi_bei_sally@moe.edu.sg |
 | Shaheen Aman Khan (MRS) | shaheen_aman_malik_aman@moe.edu.sg |
 | Shammini D/O Padmanaban (MS) | shammini_padmanaban@moe.edu.sg |
 | Shum Wai Hoh (MR) | shum_wai_hoh@moe.edu.sg |
