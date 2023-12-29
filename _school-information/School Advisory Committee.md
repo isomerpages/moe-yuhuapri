@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /school-information/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 ### School Advisory Committee
 
@@ -16,8 +17,8 @@ description: ""
 |**Mr Loo Deliang – Member** |
 |**Miss Tan Siew Yong – Member** |
 | **Mr Xu Wei – Member** |
-| **Mrs Ruth Tai – Honorary Secretary/Principal** |
+| **Mrs Ruth Tai – Honorary Secretary / Principal** |
 | **Mr Noah Ong Nai Ah – Vice Principal (Admin)** |
 | **Mrs Zoey So-Lim Ching Sia – Vice-Principal** |
-| **Mdm Marrissa Taib – School Representative** |
-| **Ms Tan Kiat Joo – Recording Secretary** |
+| **Mdm Marrissa Taib – School HOD Representative** |
+| **Ms Tan Kiat Joo – Recording Secretary / Admin Manager** |
