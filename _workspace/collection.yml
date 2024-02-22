@@ -1,0 +1,5 @@
+collections:
+  workspace:
+    output: true
+    order:
+      - eOpen House.md
