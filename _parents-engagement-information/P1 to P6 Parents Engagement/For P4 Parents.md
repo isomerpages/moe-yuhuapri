@@ -11,36 +11,40 @@ variant: tiptap
 </p>
 <h6><strong>P4 Parents Engagement 2024 – Zoom Session Students Well-Being Strategies, P4 Subject-Based Banding &amp; PSLE Scoring Systems</strong></h6>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QpZiqkjACNs"></iframe>
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YxP4OIISVHA"></iframe>
 </div>
 <p><strong>P4 Parents Engagement 2024 – English</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oGWLusBk9JM"></iframe>
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/agCyT1NZuqI"></iframe>
 </div>
 <p><strong>P4 Parents Engagement 2024 – Mathematics</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u6Mo8c_Ws1c"></iframe>
-</div>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_MA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - Mathematics</a>
+</p>
 <p><strong>P4 Parents Engagement 2024 – Science</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nUz5wgFrlNY"></iframe>
-</div>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_SC.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - Science</a>
+</p>
 <p><strong>P4 Parents Engagement 2024 – Mother Tongue (CL)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LV2G_8lnT1Y"></iframe>
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MK4Nmmw_VF0"></iframe>
 </div>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_CL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - CL</a>
+</p>
 <p><strong>P4 Parents Engagement 2024 – Mother Tongue (ML)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k7yHlTw-qR4"></iframe>
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FTuGQV4WNxo"></iframe>
 </div>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_ML.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - ML</a>
+</p>
 <p><strong>P4 Parents Engagement 2024 – Mother Tongue (TL)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y94kQ2L9k-U"></iframe>
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t8upnTT0gZw"></iframe>
 </div>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_TL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - TL</a>
+</p>
 <p></p>
