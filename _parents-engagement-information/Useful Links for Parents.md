@@ -67,12 +67,13 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/welcome-to-secondary-school" rel="noopener noreferrer nofollow" target="_blank">“Welcome to Secondary School” video</a>
+<p><a href="https://go.gov.sg/pslefsbb" rel="noopener noreferrer nofollow" target="_blank">The PSLE-FSBB Microsite</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/pslefsbb" rel="noopener noreferrer nofollow" target="_blank">The PSLE-FSBB Microsite</a>
+<p><a href="https://go.gov.sg/welcome-to-secondary-school" rel="noopener noreferrer nofollow" target="_blank">“Welcome to Secondary School” video</a>
 </p>
+<p></p>
 <p></p>
 </li>
 </ul>
