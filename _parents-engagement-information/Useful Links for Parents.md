@@ -11,11 +11,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">ECG Tips For Parents </a>
+<p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">ECG Tips For Parents</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/whats-next-psle" rel="noopener noreferrer nofollow" target="_blank">ECG What’s Next </a>
+<p><a href="https://go.gov.sg/whats-next-psle" rel="noopener noreferrer nofollow" target="_blank">ECG What’s Next</a>
 </p>
 </li>
 <li>
@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/SchoolFinder_how_to_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">How-to-Guides to equip parents on how to use the tools </a>
+<p><a href="/files/SchoolFinder_how_to_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">How-to-Guides to equip parents on how to use the tools</a>
 </p>
 </li>
 <li>
@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/a_secondary_school_thats_right_for_your_child.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Tips on Shortlisting Secondary Schools </a>
+<p><a href="/files/a_secondary_school_thats_right_for_your_child.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Tips on Shortlisting Secondary Schools</a>
 </p>
 </li>
 <li>
