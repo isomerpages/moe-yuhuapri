@@ -11,7 +11,23 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">ECG Tips For Parents </a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/whats-next-psle" rel="noopener noreferrer nofollow" target="_blank">ECG What’s Next </a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/my-fsbb-path" rel="noopener noreferrer nofollow" target="_blank">Explore your FSBB Path</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.facebook.com/yuhuaprimaryschool" rel="noopener noreferrer nofollow" target="_blank">Facebook- Yuhua Primary</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SchoolFinder_how_to_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">How-to-Guides to equip parents on how to use the tools </a>
 </p>
 </li>
 <li>
@@ -19,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/exploreschools%20by%20end%20March%202022" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal (Primary)</a>
+<p><a href="https://go.gov.sg/mysfpri" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal (Primary)</a>
 </p>
 </li>
 <li>
@@ -31,11 +47,15 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="/files/a_secondary_school_thats_right_for_your_child.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Tips on Shortlisting Secondary Schools </a>
+</p>
+</li>
+<li>
 <p><a href="http://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag</a>
 </p>
 </li>
 <li>
-<p><a href="https://moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">SchoolFinder Tool</a>
+<p><a href="https://go.gov.sg/secschoolfinder" rel="noopener noreferrer nofollow" target="_blank">SchoolFinder Tool</a>
 </p>
 </li>
 <li>
@@ -48,6 +68,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://go.gov.sg/welcome-to-secondary-school" rel="noopener noreferrer nofollow" target="_blank">“Welcome to Secondary School” video</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pslefsbb" rel="noopener noreferrer nofollow" target="_blank">The PSLE-FSBB Microsite</a>
 </p>
 <p></p>
 </li>
