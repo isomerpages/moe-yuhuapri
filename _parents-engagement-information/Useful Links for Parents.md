@@ -5,17 +5,18 @@ description: ""
 variant: tiptap
 ---
 <h3>Useful Links for Parents</h3>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/parent-guide" rel="noopener noreferrer nofollow" target="_blank">Education &amp; Career Guidance Tips for Parents</a>
-</p>
-</li>
 <li>
 <p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">ECG Tips For Parents</a>
 </p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/whats-next-psle" rel="noopener noreferrer nofollow" target="_blank">ECG What’s Next</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/parent-guide" rel="noopener noreferrer nofollow" target="_blank">Education &amp; Career Guidance Tips for Parents</a>
 </p>
 </li>
 <li>
