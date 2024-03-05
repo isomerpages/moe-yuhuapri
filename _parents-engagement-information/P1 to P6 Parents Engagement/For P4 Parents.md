@@ -3,37 +3,49 @@ title: For P4 Parents
 permalink: /parents-engagement-information/P4/
 description: ""
 third_nav_title: P1 to P6 Parents Engagement
+variant: tiptap
 ---
-### P4 Parents Engagement
-
-##### Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.
-
-_“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”      – Jane D. Hull_
-
-###### **P4 Parents Engagement 2023 – Zoom Session  Students Well-Being Strategies, P4 Subject-Based Banding & PSLE Scoring Systems**
-
-<iframe width="699" height="393" src="https://www.youtube.com/embed/QpZiqkjACNs" title="P4 Parents Engagement 2023 – Zoom Session" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-**P4 Parents Engagement 2023 – English**
-<iframe width="699" height="393" src="https://www.youtube.com/embed/oGWLusBk9JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-**P4 Parents Engagement 2023 – Mathematics**
-
-<iframe width="699" height="393" src="https://www.youtube.com/embed/u6Mo8c_Ws1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-**P4 Parents Engagement 2023– Science**
-
-<iframe width="699" height="393" src="https://www.youtube.com/embed/nUz5wgFrlNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-**P4 Parents Engagement 2023– Mother Tongue (CL)**
-
-<iframe width="699" height="393" src="https://www.youtube.com/embed/LV2G_8lnT1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-**P4 Parents Engagement 2023– Mother Tongue (ML)**
-
-<iframe width="699" height="393" src="https://www.youtube.com/embed/k7yHlTw-qR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-**P4 Parents Engagement 2023 – Mother Tongue (TL)**
-
-<iframe width="699" height="393" src="https://www.youtube.com/embed/y94kQ2L9k-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h3>P4 Parents Engagement</h3>
+<h5>Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.</h5>
+<p><em>“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”&nbsp; &nbsp; &nbsp; – Jane D. Hull</em>
+</p>
+<p><strong>P4 Parents Engagement 2024 – Zoom Session Students Well-Being Strategies, P4 Subject-Based Banding &amp; PSLE Scoring Systems</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YxP4OIISVHA"></iframe>
+</div>
+<p><strong>P4 Parents Engagement 2024 – English</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/agCyT1NZuqI"></iframe>
+</div>
+<p><strong>P4 Parents Engagement 2024 – Mathematics</strong>
+</p>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_MA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - Mathematics</a>
+</p>
+<p><strong>P4 Parents Engagement 2024 – Science</strong>
+</p>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_SC.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - Science</a>
+</p>
+<p><strong>P4 Parents Engagement 2024 – Mother Tongue (CL)</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MK4Nmmw_VF0"></iframe>
+</div>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_CL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - CL</a>
+</p>
+<p><strong>P4 Parents Engagement 2024 – Mother Tongue (ML)</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FTuGQV4WNxo"></iframe>
+</div>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_ML.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - ML</a>
+</p>
+<p><strong>P4 Parents Engagement 2024 – Mother Tongue (TL)</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t8upnTT0gZw"></iframe>
+</div>
+<p><a href="/files/2024_P4_Parents_Engagement_slides_TL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - TL</a>
+</p>
+<p></p>
