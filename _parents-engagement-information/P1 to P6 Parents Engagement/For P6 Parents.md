@@ -27,7 +27,7 @@ variant: tiptap
 </div>
 <p></p>
 <h4>Downloaded PDF Slides</h4>
-<p><a href="/files/_TO_UPLOAD_IN_ADDITION_TO_VID__2024_P6_Parents_Engagement_slides_EL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Parent Engagement English Slides</a>
+<p><a href="/files/2024_P6_Parents_Engagement_slides_EL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Parent Engagement English Slides</a>
 </p>
 <p><a href="/files/Parent Engagement 2024/2024_P6_Parent_Engagement_MA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Parent Engagement Math Slides</a>
 </p>
