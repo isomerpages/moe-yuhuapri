@@ -22,7 +22,8 @@ contacts:
   - content:
       - phone: +65 6560 5062
       - email: yuhua_ps@moe.edu.sg
-      - other: We will contact you within 3 working days for any enquiry.  <i></i>
+      - other: We will contact you within 3 school working days for any
+          enquiry.  <i></i>
     title: General Enquiries & Feedback
 feedback: ""
 ---
