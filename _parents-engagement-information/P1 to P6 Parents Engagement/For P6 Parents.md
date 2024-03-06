@@ -15,7 +15,7 @@ variant: tiptap
 </div>
 <h4><strong><em>2024 P6 Parent Engagement EL</em></strong></h4>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qcQyalbks_8?si=NUPQDeeaR0ERIsb8"></iframe>
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hJBTFvUlnCs?si=Kjug4y0_8sTEOBA3"></iframe>
 </div>
 <h4><strong>2024 P6 P6 Parent Engagement ML</strong></h4>
 <div class="iframe-wrapper">
@@ -27,6 +27,8 @@ variant: tiptap
 </div>
 <p></p>
 <h4>Downloaded PDF Slides</h4>
+<p><a href="/files/_TO_UPLOAD_IN_ADDITION_TO_VID__2024_P6_Parents_Engagement_slides_EL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Parent Engagement English Slides</a>
+</p>
 <p><a href="/files/Parent Engagement 2024/2024_P6_Parent_Engagement_MA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Parent Engagement Math Slides</a>
 </p>
 <p><a href="/files/Parent Engagement 2024/2024_P6_Parent_Engagement_SC.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P6 Parent Engagement Science Slides</a>
