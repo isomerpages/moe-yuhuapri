@@ -8,8 +8,6 @@ variant: tiptap
 <h3>Overview</h3>
 <p><a href="/parents-engagement-information/p1-to-p6-parents-engagement/permalink/p1parents2024" rel="noopener noreferrer nofollow" target="_blank">P1 2024 Parents Engagement Page</a>
 </p>
-<p><a href="/parents-engagement-information/P1" rel="noopener noreferrer nofollow" target="_blank">P1 Parents Engagement Page</a>
-</p>
 <p><a href="/parents-engagement-information/P2" rel="noopener noreferrer nofollow" target="_blank">P2 Parents Engagement Page</a>
 </p>
 <p><a href="/parents-engagement-information/P3" rel="noopener noreferrer nofollow" target="_blank">P3 Parents Engagement Page</a>
