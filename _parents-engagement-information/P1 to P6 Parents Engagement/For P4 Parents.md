@@ -17,7 +17,7 @@ variant: tiptap
 <p><strong>P4 Parents Engagement 2024 – English</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/agCyT1NZuqI"></iframe>
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MzGacsnMS6o"></iframe>
 </div>
 <p><a href="/files/2024_P4_Parents_Engagement_slides_EL__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - English</a>
 </p>
