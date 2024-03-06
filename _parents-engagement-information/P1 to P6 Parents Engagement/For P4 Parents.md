@@ -9,7 +9,7 @@ variant: tiptap
 <h5>Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.</h5>
 <p><em>“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”&nbsp; &nbsp; &nbsp; – Jane D. Hull</em>
 </p>
-<p><strong>P4 Parents Engagement 2024 – Zoom Session Students Well-Being Strategies, P4 Subject-Based Banding &amp; PSLE Scoring Systems</strong>
+<p><strong>P4 Parents Engagement 2024 – Zoom Main Session ( Includes EL, MA &amp; SC)</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YxP4OIISVHA"></iframe>
