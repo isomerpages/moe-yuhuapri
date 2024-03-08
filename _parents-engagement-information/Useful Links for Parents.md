@@ -52,7 +52,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="http://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag</a>
+<p><a href="http://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag</a>
 </p>
 </li>
 <li>
