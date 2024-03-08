@@ -2,7 +2,8 @@
 title: Forms and Letters
 permalink: /parents-engagement-information/forms-and-letters/
 description: ""
+variant: markdown
 ---
 ### Forms and Letters
 
-[Application for NEU PC PLUS (Click here)](https://www.imda.gov.sg/neupc)
+[Digital Access @ Home (Click here)](https://www.imda.gov.sg/how-we-can-help/digital-access-at-home)
