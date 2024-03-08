@@ -19,5 +19,3 @@ They contain all the information for your reference.</p>
 </p>
 <p><a href="http://www.moe.gov.sg/financial matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">E-Giro Application</a>
 </p>
-<p><a href="https://www.yuhuapri.moe.edu.sg/parents-engagement-information/forms-and-letters/" class="is-full" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
