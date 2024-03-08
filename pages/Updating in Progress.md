@@ -2,6 +2,7 @@
 title: Updating in Progress
 permalink: /permalink/updatinginprogress/
 description: ""
+variant: markdown
 ---
 Dear Parents/Guardians,
 
