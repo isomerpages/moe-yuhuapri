@@ -15,7 +15,9 @@ They contain all the information for your reference.</p>
 <p><strong><a href="https://www.yuhuapri.moe.edu.sg/files/2024_Other_Admin_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Other Admin Matters</u></a></strong>
 </p>
 <h3>Useful links</h3>
-<p>[School Fees Information](<a href="https://www.yuhuapri.moe.edu.sg/files/2024_Year_Head_Briefing___Preparing_for_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/financial</a> matters/fees)</p>
-<p>[E-Giro Application](<a href="https://www.yuhuapri.moe.edu.sg/files/2024_Year_Head_Briefing___Preparing_for_P1.pdf" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/financial</a> matters/fees/egiro)</p>
+<p><a href="http://www.moe.gov.sg/financial matters/fees" rel="noopener noreferrer nofollow" target="_blank">School Fees Information</a>
+</p>
+<p><a href="http://www.moe.gov.sg/financial matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">E-Giro Application</a>
+</p>
 <p><a href="https://www.yuhuapri.moe.edu.sg/parents-engagement-information/forms-and-letters/" class="is-full" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 </p>
