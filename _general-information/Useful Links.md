@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /general-information/useful-links/
 description: ""
+variant: markdown
 ---
 ### Links
 
@@ -26,7 +27,7 @@ National Digital Explorer 2023 (NDE-Primary 4)
 
 [MOE Website](https://www.moe.gov.sg/)
 
-[Schoolbag.sg](https://www.schoolbag.sg/)
+[Schoolbag - The Education News Site](https://www.schoolbag.edu.sg/)
 
 [Cyberwellness](https://www.yuhuapri.moe.edu.sg/yuhualite-experience/cyber-wellness/)
 
