@@ -27,9 +27,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ACS (Independent)               </strong>
+<p><strong>ACS (Independent)</strong>
 </p>
-<p><strong>Open House             </strong>
+<p><strong>Open House</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
