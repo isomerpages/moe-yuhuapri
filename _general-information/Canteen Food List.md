@@ -1169,18 +1169,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chrysanthemum Tea (pkt)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>80 cents</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mineral water (bottled)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>70 cents</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chrysanthemum Tea (pkt)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
 </td>
 </tr>
 <tr>
