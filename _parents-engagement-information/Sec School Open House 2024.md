@@ -40,7 +40,8 @@ variant: tiptap
 <p>6 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 a.m - 3 p.m</p>
+<p>9 a.m -</p>
+<p>3 p.m</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of the Arts, Singapore (SOTA)
