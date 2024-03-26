@@ -10,20 +10,54 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>School</p>
+<p><strong>School</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Date</p>
+<p><strong>Date</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time</p>
+<p><strong>Time</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Location</p>
+<p><strong>Location</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Website</p>
+<p><strong>Website</strong>
+</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S.O.T.A (Open Classroom Experience)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday</p>
+<p>6 April 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 a.m - 3 p.m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of the Arts, Singapore (SOTA)
+<br>
+</p>
+<p>1 Zubir Said Drive,
+<br>Administration Office #05-01,
+<br>Singapore 227968</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.sota.edu.sg/oh2024." rel="noopener noreferrer nofollow" target="_blank">S.O.T.A Open House Link</a>
+</p>
+<p></p>
+<p>Registration:</p>
+<p><a href="https://forms.gle/oU2FfexF1MHs6dLW6" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -47,23 +81,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.acsindep.moe.edu.sg/events/openhouse/" rel="noopener noreferrer nofollow" target="_blank">Open House (moe.edu.sg)</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
