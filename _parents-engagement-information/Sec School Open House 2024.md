@@ -52,7 +52,7 @@ variant: tiptap
 <br>Singapore 227968</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.sota.edu.sg/oh2024." rel="noopener noreferrer nofollow" target="_blank">S.O.T.A Open House Link</a>
+<p><a href="https://www.sotaoh.sg/2024/" rel="noopener noreferrer nofollow" target="_blank">S.O.T.A Open House Link</a>
 </p>
 <p></p>
 <p>Registration:</p>
