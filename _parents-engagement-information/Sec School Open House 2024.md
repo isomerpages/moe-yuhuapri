@@ -40,8 +40,8 @@ variant: tiptap
 <p>6 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9 a.m -</p>
-<p>3 p.m</p>
+<p>9 am -</p>
+<p>3 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of the Arts, Singapore (SOTA)
@@ -68,19 +68,36 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Saturday, 13 April 2024</strong>
-</p>
+<p>Saturday, 13 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8:30 am to 12:30 pm</strong>
-</p>
+<p>8:30 am to 12:30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>121 Dover Road, Singapore 139650</strong>
-</p>
+<p>121 Dover Road, Singapore 139650</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.acsindep.moe.edu.sg/events/openhouse/" rel="noopener noreferrer nofollow" target="_blank">Open House (moe.edu.sg)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Methodist Girls' School Open House</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 27 April 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 am to 1 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Blackmore Drive, Singapore 599986</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MGS Open House Portal</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mgoh24</a>
 </p>
 </td>
 </tr>
