@@ -97,7 +97,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MGS Open House Portal</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mgoh24</a>
+<p><a href="https://go.gov.sg/mgoh24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mgoh24</a>
 </p>
 </td>
 </tr>
