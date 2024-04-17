@@ -97,7 +97,28 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MGS Open House Portal</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mgoh24</a>
+<p><a href="https://go.gov.sg/mgoh24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mgoh24</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RGS Open House</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday,</p>
+<p>18 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am- 1:30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Braddell Rise S(318871)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RGS Open House</p>
+<p><a href="https://openhouse.rgs.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://openhouse.rgs.edu.sg/</a>
 </p>
 </td>
 </tr>
