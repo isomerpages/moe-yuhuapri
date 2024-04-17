@@ -103,7 +103,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RGS Open House</p>
+<p><strong>RGS Open House</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Saturday,</p>
