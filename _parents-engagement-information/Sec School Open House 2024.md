@@ -6,7 +6,15 @@ variant: tiptap
 ---
 <h3>Secondary School Open House 2024</h3>
 <p></p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,6 +36,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p><strong>Website</strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -59,6 +70,9 @@ variant: tiptap
 <p><a href="https://forms.gle/oU2FfexF1MHs6dLW6" rel="noopener noreferrer nofollow" target="_blank">Registration Form</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -80,6 +94,9 @@ variant: tiptap
 <p><a href="https://www.acsindep.moe.edu.sg/events/openhouse/" rel="noopener noreferrer nofollow" target="_blank">Open House (moe.edu.sg)</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -99,6 +116,9 @@ variant: tiptap
 <p>MGS Open House Portal</p>
 <p><a href="https://go.gov.sg/mgoh24" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mgoh24</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -120,6 +140,35 @@ variant: tiptap
 <p>RGS Open House</p>
 <p><a href="https://openhouse.rgs.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://openhouse.rgs.edu.sg/</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>St Joesph Institute (SJI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday,</p>
+<p>18 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am -</p>
+<p>4 p.m</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>38 Malcolm Road,</p>
+<p>S( 308274)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SJI Open House</p>
+<p><a href="https://ibdp-openhouse.sji.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SJI Open House</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
