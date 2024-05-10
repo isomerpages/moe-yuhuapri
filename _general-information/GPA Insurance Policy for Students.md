@@ -6,13 +6,13 @@ variant: tiptap
 ---
 <h3>GPA Insurance Policy for Students</h3>
 <h3><br><strong>Insurance Plan for Students 2024</strong></h3>
-<p><strong>Introduction</strong>
+<p><strong>Introduction</strong> 
 <br>A Master Contract for GPA has been established by MOE HQ since 2018. The
 purpose is to reduce admin workload for schools and leverage on economies
 of scale to obtain better coverage.
 <br>All government and government aided schools have been included in the
 cover and need not pay for the premium.</p>
-<p><strong>Coverage</strong>
+<p><strong>Coverage</strong> 
 <br>The Group Personal Accident (GPA) Insurance for Students covers death,
 permanent and total/partial disability and medical expenses. The triggering
 causes of injuries&nbsp;<strong>must be attributed to an accident</strong>.</p>
@@ -59,7 +59,7 @@ etc.)</p>
 </p>
 <p>The factsheet below gives information on the contract period, coverage,
 benefit/sum assured and other details.</p>
-<p><a href="/files/Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet 2024</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet 2024</a>
 </p>
 <p><strong>Online Claims Submissions &amp; Verifications</strong>
 </p>
@@ -78,7 +78,7 @@ details at <a href="" rel="noopener noreferrer nofollow" target="_blank">https:/
 <p><a href="/files/GPA_Insurance_FAQs_27_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ File</a>
 </p>
 <p>For other enquiries, please write to <a href="mailto:MOE_Insurance@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_Insurance@moe.gov.sg</a>&nbsp;</p>
-<p><strong>Contact Details</strong>
+<p><strong>Contact Details</strong> 
 <br>Click on&nbsp;<a href="http://www.income.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.income.com.sg</a>
 </p>
 <p><strong>CALL</strong>&nbsp;our hotline at&nbsp;<strong>6788 1777</strong>
