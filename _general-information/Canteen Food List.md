@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h3>Canteen Food List</h3>
 <h4>Stall No. 1&nbsp;&nbsp;(Hot Drinks &amp; Snack Stall)</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -123,7 +127,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Stall No. 2 (Noodles &amp; Rice Stall - Halal)</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -338,7 +347,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Stall No. 4 (Happy Meals)</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -589,7 +603,7 @@ variant: tiptap
 <p>Sushi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 cents</p>
+<p>60 cents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -600,7 +614,7 @@ variant: tiptap
 <p>Sandwich</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 cents</p>
+<p>60 cents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -611,7 +625,7 @@ variant: tiptap
 <p>Sausage (Mon,Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 cents</p>
+<p>60 cents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -622,7 +636,7 @@ variant: tiptap
 <p>Nugget (Mon,Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 cents</p>
+<p>60 cents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -644,7 +658,7 @@ variant: tiptap
 <p>Roasted Chicken</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70 cents</p>
+<p>80 cents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -655,7 +669,7 @@ variant: tiptap
 <p>Honey Chicken</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70 cents</p>
+<p>80 cents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -666,7 +680,7 @@ variant: tiptap
 <p>Chicken Cutlet (Mon,Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 cents</p>
+<p>$1.00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -708,7 +722,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Stall No. 6 (Noodles House)</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -868,7 +887,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Stall No. 7 (Fusion Gourmet - Halal)</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1149,7 +1173,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Stall No. 8 (Cold Drinks &amp; Fruits Stall)</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
