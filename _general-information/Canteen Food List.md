@@ -1208,7 +1208,7 @@ variant: tiptap
 <p>Chrysanthemum Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 cents</p>
+<p>90 cents</p>
 </td>
 </tr>
 <tr>
@@ -1216,7 +1216,7 @@ variant: tiptap
 <p>Lychee Drink</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 cents</p>
+<p>90 cents</p>
 </td>
 </tr>
 <tr>
@@ -1224,7 +1224,7 @@ variant: tiptap
 <p>Oolong Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 cents</p>
+<p>90 cents</p>
 </td>
 </tr>
 <tr>
@@ -1232,7 +1232,7 @@ variant: tiptap
 <p>Green Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 cents</p>
+<p>90 cents</p>
 </td>
 </tr>
 <tr>
