@@ -1,7 +1,8 @@
 ---
-title: eOpen House 2023
-permalink: /eopenhouse2023/
+title: eOpen House 2024
+permalink: /eopenhouse2024/
 description: ""
+variant: tiptap
 ---
 ![](/images/e-open%20house%20banner%202.png)
 

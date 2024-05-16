@@ -25,13 +25,13 @@ sections:
       subtitle: Announcements & News
       button: Click for more
   - infopic:
-      title: E-Open House 2023
-      subtitle: E-Open House 2023
-      description: Come and take a look at our E-Open House 2023.  Here, we share
+      title: E-Open House 2024
+      subtitle: E-Open House 2024
+      description: Come and take a look at our E-Open House 2024.  Here, we share
         about our school facilities via a virtual tour, Primary 1 programmes and
         student voices with you.
       button: Click here
-      url: https://www.yuhuapri.moe.edu.sg/eopenhouse2023/
+      url: https://www.yuhuapri.moe.edu.sg/eopenhouse2024/
       image: /images/e-open house banner 1.png
       alt: Image alt text
   - infopic:
