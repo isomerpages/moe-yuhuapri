@@ -27,7 +27,7 @@ sections:
   - infopic:
       title: E-Open House 2024
       subtitle: E-Open House 2024
-      description: Come and take a look at our E-Open House 2023.  Here, we share
+      description: Come and take a look at our E-Open House 2024.  Here, we share
         about our school facilities via a virtual tour, Primary 1 programmes and
         student voices with you.
       button: Click here
