@@ -171,6 +171,31 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dunman HIgh School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday,</p>
+<p>18 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E-Open House</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dunman High School<br>10 Tg Rhu Road S(436895)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.dunmanhigh.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Dunman High School Link</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please click on the link to access the</p>
+<p>E-Open House</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
