@@ -32,7 +32,7 @@ sections:
         student voices with you.
       button: Click here
       url: https://www.yuhuapri.moe.edu.sg/eopenhouse2024/
-      image: /images/e-open house banner 1.png
+      image: /images/open_house_banner_2024.jpg
       alt: Image alt text
   - infopic:
       title: School Work
