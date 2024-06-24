@@ -14,11 +14,8 @@ variant: tiptap
 this online platform, we will be showcasing our school facilities, school
 programmes and some videos from our Yuhualites.</p>
 <p>Let's start the journey with a virtual tour of Yuhua Primary School.</p>
-<p>Click <strong><a href="https://4d.silversea-media.com/view/yuhuaps360tour/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-start the tour.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/virtual%20tour%20pic.jpg">
-</div>
+<p>Click <strong><a href="https://4d.silversea-media.com/view/yuhuaps360tour/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> or
+the picture below to start the tour.</p><a class="isomer-image-wrapper" href="https://4d.silversea-media.com/view/yuhuaps360tour/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/virtual%20tour%20pic.jpg"></a>
 <p>Wonder how is a day like as an Yuhualite? Watch the video to find out!</p>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OO1fvqpXaiI"></iframe>
@@ -47,7 +44,7 @@ child's heart and mind.</p>
 website.</p>
 <p>We would appreciate it if you could take a moment to complete a short
 survey of the e-Open House by clicking on the link below.</p>
-<p><a href="https://form.gov.sg/64a27f2c418c6d00110980ae" rel="noopener noreferrer nofollow" target="_blank">Open House 2023 Survey</a>
+<p><a href="https://form.gov.sg/6674e4cb3205e380096e797d" rel="noopener noreferrer nofollow" target="_blank">Open House 2024 Survey</a>
 </p>
 <p>We welcome you to be a part of the Yuhua family and thank you for joining
 Yuhua Primary School’s E-Open House 2024.</p>
