@@ -14,7 +14,7 @@ sections:
           url: /school-achievements/2021
         - title: E-Open House 2024
           description: ""
-          url: https://www.yuhuapri.moe.edu.sg/eopenhouse2024/
+          url: /eopenhouse2024/
         - title: Highlights
           description: ""
           url: /highlights/2021
@@ -31,7 +31,7 @@ sections:
         about our school facilities via a virtual tour, Primary 1 programmes and
         student voices with you.
       button: Click here
-      url: https://www.yuhuapri.moe.edu.sg/eopenhouse2024/
+      url: /eopenhouse2024/
       image: /images/open_house_banner_2024.jpg
       alt: Image alt text
   - infopic:
