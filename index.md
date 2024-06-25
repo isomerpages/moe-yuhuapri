@@ -14,7 +14,7 @@ sections:
           url: /school-achievements/2021
         - title: E-Open House 2024
           description: ""
-          url: https://www.yuhuapri.moe.edu.sg/eopenhouse2024/
+          url: /eopenhouse2024/
         - title: Highlights
           description: ""
           url: /highlights/2021
