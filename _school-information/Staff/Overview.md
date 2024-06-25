@@ -160,14 +160,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Han Serm (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_han_serm@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Goh K Thing (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -528,6 +520,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ng Hui Min Selina (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_hui_min_selina_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Norparissah (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -572,14 +572,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chow_peng_khuen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rita Binte Salleh (MDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rita_salleh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -732,6 +724,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_suan_kheng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Ying Xiu Tabitha (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ying_xiu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
