@@ -35,11 +35,7 @@ the picture below to start the tour.</p><a class="isomer-image-wrapper" href="ht
 </div>
 <p>Is your child still anxious about attending Primary 1? Watch this video
 to hear what some of our Yuhualites have to say of their experiences!</p>
-<div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ohAARen5CgE"></iframe>
-</div>
-<p></p>
-<h3>Our Buddy Program</h3>
+<h3>Our Peer Support Program</h3>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qjV-mSdbpbs?si=n3f7z0wqu9YJEFXh"></iframe>
 </div>
