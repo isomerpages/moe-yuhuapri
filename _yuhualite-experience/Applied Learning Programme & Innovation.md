@@ -19,9 +19,8 @@ to deepen and apply their learning across the different subjects.
 the Design Thinking process to ideate human-centric solutions and affect
 positive change through innovation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Guided by the YHPS’s Innovation Framework, well-rounded thINk@yuhua programmes have been crafted for Primary 1 to Primary 6 students that enable them to foster the necessary competencies, dispositions and interest to flourish in school and in the future." src="/images/ALP1.jpg">
 </div>
-<p></p>
 <p>The thINk@yuhua programmes can be categorised into two broad tiers.</p>
 <h3><u>Tier 1: Providing Opportunities for All Students</u></h3>
 <p><em>Integrated Project Work</em>  <em>(IPW)</em> 
@@ -31,8 +30,17 @@ learning from various subjects’ units that have been carefully chosen for
 being inter-linked. The contents of these units are enriched through the
 application of various thinking techniques that bring about deeper understanding
 and appreciation from making connections with and across topics.</p>
-<p>(insert p3 image)</p>
-<p>(insert p4 image)</p>
+<p><em>~ IPW@P3 : C.A.R.E</em>
+</p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP.png">
+</div>
+<p><em>~ IPW@P4 : C.H.A.M.P.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP2_jpg.png">
+</div>
 <h4><strong><em><u>InnoMake Programmes to drive Computational Thinking</u></em></strong></h4>
 <p>The InnoMake programme serves to equip the upper primary (P4, P5 &amp;
 P6)<em> </em>students with 21<sup>st </sup>Century Competencies like coding
@@ -40,14 +48,68 @@ and Design Thinking. Typically, the Primary 4 and Primary 5 students get
 to tinker with micro:bits to create sustainable solutions that lead to
 the creation of Smart Homes, while the Primary 6 work on application designs
 that would bring ease and improvement to selected members of the community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>(Insert 2 images - can create a table of 2 column and insert)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP3.jpg">
+</div>
+<p>Pri 4 students using the SMART City Kit to innovate and problem-solve
+issues around the household for a smarter home</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP4.jpg">
+</div>
+<p><em>Pri 5 students using the SMART City Kit to prototype a smart watering or water cooler system that can improve water consumption</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong><em>TechPlay1,2,3! Programmes</em></strong></h4>
 <p>The lower primary students also get a chance to pique their interest and
 build a curiosity for coding with a learn-through-play approach, using
 simpler but more fun coding tools.</p>
-<p>(insert tech play images)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP5.jpg">
+</div>
+<p><em>Pri 1 students using the TaleBot to discover basic computational thinking through playing with coding</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP6.jpg">
+</div>
+<p><em>Pri 2 students using the Coding Awbie to learn coding basics like sequencing and loop through a tactile gaming application</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP7.jpg">
+</div>
+<p><em>Pri 3 students using the Ozobot to explore line coding and applying it into scenarios that require the use of Design Thinking as well</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3><u>Tier 2: Nurturing Talents &amp; Interests</u></h3>
 <p>The thINk@yuhua programme seizes opportunities to promote innovation and
