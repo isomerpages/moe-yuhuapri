@@ -2,6 +2,7 @@ collections:
   yuhualite-experience:
     output: true
     order:
+      - Applied Learning Programme & Innovation.md
       - English Language.md
       - Mathematics.md
       - Science.md
