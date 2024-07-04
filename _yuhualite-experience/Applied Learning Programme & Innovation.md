@@ -21,7 +21,7 @@ positive change through innovation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Guided by the YHPS’s Innovation Framework, well-rounded thINk@yuhua programmes have been crafted for Primary 1 to Primary 6 students that enable them to foster the necessary competencies, dispositions and interest to flourish in school and in the future." src="/images/ALP1.jpg">
 </div>
-<p>The thINk@yuhua programmes can be categorised into two broad tiers.</p>
+<p>The thINk@Yuhua programmes can be categorised into two broad tiers.</p>
 <h3><u>Tier 1: Providing Opportunities for All Students</u></h3>
 <p><em>Integrated Project Work</em>  <em>(IPW)</em> 
 <br>
@@ -32,7 +32,6 @@ application of various thinking techniques that bring about deeper understanding
 and appreciation from making connections with and across topics.</p>
 <p><em>~ IPW@P3 : C.A.R.E</em>
 </p>
-<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP.png">
 </div>
@@ -162,7 +161,7 @@ searches and offers custom healthy exercises and meal options.</p>
 projects and upcoming innovation programmes lined the walls of this junction
 to inspire innovation amongst students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP9.jpg">
 </div>
 <p>Not only that, there is also a “teaching wall” where one can pick up the
 skills to innovate via tools like the Design Thinking process or SCAMPER.
@@ -177,8 +176,9 @@ This is a dedicated space for thinking, and tinkering, to come alive. With
 intentionally-selected furnishing, the space is designed for students to
 spark their imagination and creativity, and bring joy to their learning.&nbsp;
 &nbsp;</p>
-<p>Insert 2 images</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP10.jpg">
+</div>
 <h4><strong>Key Event</strong></h4>
 <p>Our school takes time to celebrate the innovative and enriching teaching
 and learning practices during InnoLearn Fest (known as Inspire Fest from
@@ -186,7 +186,9 @@ and learning practices during InnoLearn Fest (known as Inspire Fest from
 but also sets aside time for all students to partake in innovative learning
 experiences that are multi-disciplinary and promotes the application of
 Design Thinking.</p>
-<p>(insert 2 images)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP11.jpg">
+</div>
 <p>Thus, with the rich and innovative learning environment and experiences
 as seen here, the school hopes for all Yuhualites to ACHIEVE and be equipped
 with the ideals and skills required to pursue excellence, affect positive
