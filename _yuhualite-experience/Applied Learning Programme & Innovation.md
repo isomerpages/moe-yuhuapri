@@ -18,7 +18,9 @@ to deepen and apply their learning across the different subjects.
 <br>The use of real-world scenarios and problems also allows students to harness
 the Design Thinking process to ideate human-centric solutions and affect
 positive change through innovation.</p>
-<p>(insert image)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP1.jpg">
+</div>
 <p></p>
 <p>The thINk@yuhua programmes can be categorised into two broad tiers.</p>
 <h3><u>Tier 1: Providing Opportunities for All Students</u></h3>
