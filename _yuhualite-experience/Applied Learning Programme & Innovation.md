@@ -169,9 +169,10 @@ skills to innovate via tools like the Design Thinking process or SCAMPER.
 There is even a tinkering space where students can go to during recess
 to unleash their creative and innovative ideas with pegs and pins on the
 large board.</p>
-<p>insert 2 images</p>
-<p></p>
-<p>At the end of the Inspiration Junction, one can find <strong>Studio SPARKS</strong> &nbsp;.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP13.jpg">
+</div>
+<p>At the end of the Inspiration Junction, one can find <strong>Studio SPARKS</strong>.
 This is a dedicated space for thinking, and tinkering, to come alive. With
 intentionally-selected furnishing, the space is designed for students to
 spark their imagination and creativity, and bring joy to their learning.&nbsp;
