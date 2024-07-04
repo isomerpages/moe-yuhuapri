@@ -6,25 +6,26 @@ collections:
       - English Language.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue/.keep
       - Mother Tongue/Overview.md
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
-      - Mother Tongue/.keep
+      - Infocomm Technology/.keep
       - Infocomm Technology/Overview.md
       - Infocomm Technology/Code for Fun (CFF).md
-      - Infocomm Technology/.keep
       - Cyber Wellness.md
       - Programme for Active Learning.md
+      - Aesthetics/.keep
       - Aesthetics/Overview.md
       - Aesthetics/Learning for Life Programme (LLP).md
       - Aesthetics/Singapore Youth Festival (SYF) Songwriting Achievements.md
-      - Aesthetics/.keep
       - Physical & Health Education.md
       - Social Studies.md
+      - Character Education (CCE)/.keep
       - Character Education (CCE)/Overview.md
       - Character Education (CCE)/Sexuality Education.md
-      - Character Education (CCE)/.keep
+      - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
       - Co Curricular Activities/Angklung & Kulintang Ensemble.md
       - Co Curricular Activities/Art & Crafts.md
@@ -42,5 +43,4 @@ collections:
       - Co Curricular Activities/Football.md
       - Co Curricular Activities/Track and Field.md
       - Co Curricular Activities/Volleyball.md
-      - Co Curricular Activities/.keep
       - Student Leadership Development.md
