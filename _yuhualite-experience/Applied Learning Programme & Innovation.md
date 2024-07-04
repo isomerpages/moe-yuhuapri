@@ -107,7 +107,6 @@ simpler but more fun coding tools.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><u>Tier 2: Nurturing Talents &amp; Interests</u></h3>
 <p>The thINk@yuhua programme seizes opportunities to promote innovation and
 joy of learning through talent and interest promotion via the following
@@ -147,7 +146,6 @@ as well as critical thinking.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>In 2023, our P5 Team for National Thinker’s Challenge clinched the Commendation
 Award at Phase 1: Ideation Stage for their ideation of “Scan &amp; Sculpt”,
 which is an AI-equipped body composition scan that syncs up to an app that
