@@ -2,7 +2,6 @@ collections:
   yuhualite-experience:
     output: true
     order:
-      - Applied Learning Programme & Innovation.md
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -11,6 +10,7 @@ collections:
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
+      - Applied Learning Programme & Innovation.md
       - Infocomm Technology/.keep
       - Infocomm Technology/Overview.md
       - Infocomm Technology/Code for Fun (CFF).md
