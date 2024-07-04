@@ -56,7 +56,6 @@ that would bring ease and improvement to selected members of the community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP3.jpg">
 </div>
@@ -64,7 +63,6 @@ that would bring ease and improvement to selected members of the community.</p>
 issues around the household for a smarter home</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP4.jpg">
 </div>
@@ -155,16 +153,17 @@ as well as critical thinking.</p>
 Award at Phase 1: Ideation Stage for their ideation of “Scan &amp; Sculpt”,
 which is an AI-equipped body composition scan that syncs up to an app that
 searches and offers custom healthy exercises and meal options.</p>
-<p>insert image</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP8.jpg">
+</div>
 <h3><strong>Our Infrastructure</strong></h3>
 <p>Our school has dedicated the linkway of Level 1 as the “Inspiration Junction”.
 <br>In this space, displays of the school’s innovation journey, winning innovative
 projects and upcoming innovation programmes lined the walls of this junction
 to inspire innovation amongst students.</p>
-<p></p>
-<p>Insert 2 images</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP13.jpg">
+</div>
 <p>Not only that, there is also a “teaching wall” where one can pick up the
 skills to innovate via tools like the Design Thinking process or SCAMPER.
 There is even a tinkering space where students can go to during recess
