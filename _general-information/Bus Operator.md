@@ -25,4 +25,5 @@ Procedure below.</p>
 <p></p>
 </li>
 </ol>
-<p></p>
+<p><strong>Application Procedure</strong>
+</p>
