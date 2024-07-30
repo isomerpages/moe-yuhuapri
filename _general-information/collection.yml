@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Bus Operator.md
       - School Operating Hours.md
       - School Services.md
       - Student Learning Space (SLS).md
@@ -11,3 +10,4 @@ collections:
       - GPA Insurance Policy for Students.md
       - Usage of Photographs and Videos.md
       - Useful Links.md
+      - Bus Operator.md
