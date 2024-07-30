@@ -4,7 +4,7 @@ permalink: /general-information/bus-operator/
 variant: tiptap
 description: ""
 ---
-<h1>School Bus Advertisment</h1>
+<h1>School Bus Advertisement</h1>
 <p></p>
 <p>To apply, please refer to the Service Requirements and the Application
 Procedure below.</p>
