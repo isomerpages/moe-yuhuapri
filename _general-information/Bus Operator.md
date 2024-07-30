@@ -53,3 +53,14 @@ to the School's General Office.</p>
 </li>
 </ul>
 <p></p>
+<p><strong>How to get there?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Jurong East MRT Station (NS1/EW24) - 30 min walking distance</p>
+</li>
+<li>
+<p>Bus number: 98. 187, 333, 502</p>
+</li>
+</ul>
+<p></p>
