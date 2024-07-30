@@ -27,3 +27,14 @@ Procedure below.</p>
 </ol>
 <p><strong>Application Procedure</strong>
 </p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Complete the <a href="/files/Bus Operator/2__Information_from_Vendor__For_Single_Bus_Service_.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal - Annex A (Information Required from Vendor)</a>
+</p>
+</li>
+<li>
+<p>Submit the completed Call for Proposal - Annex A by closing date, 08 August
+2024, to the School's General Office.</p>
+</li>
+</ol>
+<p></p>
