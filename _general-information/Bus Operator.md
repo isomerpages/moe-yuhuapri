@@ -33,8 +33,13 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p>Submit the completed Call for Proposal - Annex A by closing date, 08 August
-2024, to the School's General Office.</p>
+<p>Submit the completed Call for Proposal - Annex A by closing date,<u> 08 August 2024</u> (Thursday)
+to the School's General Office.</p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 158 Jurong East Street 24 Singapore, 609558</p>
+</li>
+</ul>
 <p></p>
