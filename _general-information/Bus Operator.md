@@ -12,8 +12,7 @@ Procedure below.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/Bus Operator/call for propopsal.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
-</p>
+<p></p>
 </li>
 <li>
 <p><a href="/files/Bus Operator/terms and conditions for bus operator to provide school bus services.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
@@ -22,6 +21,7 @@ Procedure below.</p>
 <li>
 <p><a href="/files/Bus Operator/request for school bus service.pdf" rel="noopener noreferrer nofollow" target="_blank">Request for School Bus Services</a>
 </p>
+<p></p>
 </li>
 </ol>
 <p></p>
