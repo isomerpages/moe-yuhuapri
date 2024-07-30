@@ -41,5 +41,15 @@ to the School's General Office.</p>
 <li>
 <p>Address: 158 Jurong East Street 24 Singapore, 609558</p>
 </li>
+<li>
+<p>Contact No: 65605062</p>
+</li>
+<li>
+<p>Email: <a href="mailto:tan_kiat_joo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kiat_joo@schools.gov.sg</a>
+</p>
+</li>
+<li>
+<p>Contact Person: Ms Tan Kiat Joo</p>
+</li>
 </ul>
 <p></p>
