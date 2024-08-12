@@ -63,4 +63,13 @@ at the national level, i.e. Inter-Primary Basketball Championships.</p>
 </table>
 <p><strong>Schedule</strong>
 </p>
-<p>Tuesdays, 7.30am to 9am, Basketball Court</p>
+<p>Tuesday, 7.30am to 9am, Basketball Court</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_2.jpg">
+</div>
+<p></p>
