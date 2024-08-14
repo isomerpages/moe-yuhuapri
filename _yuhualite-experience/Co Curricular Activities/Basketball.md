@@ -70,6 +70,6 @@ at the national level, i.e. Inter-Primary Basketball Championships.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_2_1_.jpg">
 </div>
 <p></p>
