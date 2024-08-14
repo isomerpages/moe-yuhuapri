@@ -66,7 +66,12 @@ them.</p>
 </p>
 <p>Tuesdays, 7.30am to 9am, Band Room</p>
 <p>Wednesdays, 2.15pm to 4.15pm, Band Room</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:200%" height="auto" width="100%" src="/images/cca3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_Band_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brass_band_2.jpg">
 </div>
 <p></p>
