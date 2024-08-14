@@ -65,7 +65,12 @@ contributing to the community.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.30am to 9am, Angklung room (Level 1)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/angklung2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yuhua_Primary_School_1166.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yuhua_Primary_School_1170.jpg">
 </div>
 <p></p>
