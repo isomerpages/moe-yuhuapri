@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<h4><strong>Environmental Science Club CCA </strong></h4>
+<h4><strong>Environmental Science Club CCA</strong></h4>
 <p><strong>Empower, Inspire, and Make a Difference</strong>
 </p>
 <p>The Environmental Science Club (ESC) provides the opportunities for Yuhualites
@@ -40,7 +40,8 @@ for all, and take your first step towards a greener future!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Miss Ang Ying Ting / Teacher IC</p>
+<p><strong>Miss Ang Ying Ting / Teacher IC</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>ang_ying_ying@moe.edu.sg</p>
@@ -48,8 +49,7 @@ for all, and take your first step towards a greener future!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Maria Norashiken</strong>
-</p>
+<p>Mdm Maria Norashiken</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>maria_norashiken_hayak@moe.edu.sg</p>
