@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /yuhualite-experience/Co-Curricular-Activities/malay-dance/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Malay Dance
 
@@ -15,11 +16,11 @@ The dancers can showcase their talents and skills during school events like Annu
 |  |  |
 |---|---|
 | Sadiah Bte Ahmad (MDM) / Teacher IC | sadiah_ahmad@moe.edu.sg |
-| Maria Norashiken Bte Hayak (MDM) | maria_norashiken_hayak@moe.edu.sg |
-| Siti Kamirah Bte Mohamed Nor (MISS) | siti_kamirah_mohamed_nor@moe.edu.sg |
+| Nur Syazwani Izzati Binte Mohamed Hisamudin (MS) | nur_syazwani_izzati_mohamed@moe.edu.sg |
 
 **Schedule**
 
 Tuesdays, 7.30am to 9am, Dance Studio
+![](/images/2024%20pictures/Yuhua_Primary_School_0724.jpg)
 
-![](/images/cca10.png)
+![](/images/2024%20pictures/Yuhua_Primary_School_0704.jpg)
