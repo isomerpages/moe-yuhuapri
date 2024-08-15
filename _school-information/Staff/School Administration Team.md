@@ -55,24 +55,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Raja Swaminathan</strong>
-</p>
-<p>ICT Associate</p>
+<br>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Loke Shiong Wah</strong>
 <br>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Munisah Bte Mohd Yunkin</strong>
-</p>
-<p>Corporate Support Officer</p>
+<p><strong>Mdm Munisah Bte Mohmad Y</strong>
+<br>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lee Ai Leng (Irene)</strong>
-</p>
-<p>Corporate Support Officer</p>
+<p><strong>Mr Irene Lee </strong>
+<br>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Hamdan Bin Omar</strong>
@@ -99,14 +96,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ong Chui Chui (Mandy)</strong>
-</p>
-<p>Operations Support Officer</p>
+<p><strong>Mdm Ng Siew Ling</strong>
+<br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ng Siew Ling</strong>
-</p>
-<p>Operations Support Officer</p>
+<p><strong>Mdm Mandy Ong</strong>
+<br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
