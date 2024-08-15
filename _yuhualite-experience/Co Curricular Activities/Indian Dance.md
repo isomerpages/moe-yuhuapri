@@ -3,6 +3,7 @@ title: Indian Dance
 permalink: /yuhualite-experience/Co-Curricular-Activities/indian-dance/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Indian Dance
 
@@ -16,12 +17,12 @@ Our aspiring dancers showcase their talents and skills during school events like
 
 |  |  |
 |---|---|
-| Maha Devi Achenbach (MRS) / Teacher IC | maha_devi_palaniappan@moe.edu.sg |
-| Shammini D/O Padmanaban (MISS) | shammini_padmanaban@moe.edu.sg |
+| Mumtaj Bivi Binte Abdul Kader (MDM) / Teacher IC | mumtaj_bivi@moe.edu.sg |
+| Kavitha D/O Shanmugananthan (MS) | kavitha_shanmugananthan@moe.edu.sg |
 
 **Schedule**
 
 Tuesdays, 7.30am to 9am, CCA Room 1
+![](/images/2024%20pictures/SYF_performance_indian_dance.jpg)
 
-<img src="/images/cca8.png" 
-     style="width:200%">
+![](/images/2024%20pictures/National_Day_performance.jpg)
