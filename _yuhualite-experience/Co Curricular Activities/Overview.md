@@ -3,6 +3,7 @@ title: Overview
 permalink: /yuhualite-experience/Co-Curricular-Activities/overview/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Co-Curricular Activities
 
@@ -32,7 +33,7 @@ To achieve this, we have 4 categories of CCAs for the pupils to choose from:
 *   **Sports & Games**  
     Track and Field, Badminton, Basketball, Football, Netball, Volleyball, Sepak Takraw
 *   **Clubs & Societies**  
-    Art & Crafts, Infocomm Technology (Media Production)
+    Art & Crafts, Infocomm Technology (Media Production), Debate and Public Speaking Club, Environmental Club
 *   **Performing Arts**  
     Angklung / Kulintang Ensemble, Brass Band, Choir, Chinese Dance, Malay Dance, Indian Dance
 *   **Uniformed Groups**  
