@@ -50,6 +50,14 @@ other school teams and the Inter Primary Schools Sepak Takraw Championship.</p>
 <p>ang_si_ting_cheryl@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniel Manap (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_daniel_abdul_manap@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Schedule</strong>
