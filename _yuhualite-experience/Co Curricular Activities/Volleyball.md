@@ -59,7 +59,12 @@ Schools Volleyball Championships.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.30am to 9am, ISH</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca15.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Extra_Training.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_NSG_Senior___Serving.jpg">
 </div>
 <p></p>
