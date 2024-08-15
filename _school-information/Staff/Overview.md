@@ -552,14 +552,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nurfadlin Fazirah Binte Abdul Manaf</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurfadlin_fazirah_abdul_manaf@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Nur Syazwani Izzati Binte Mohamed Hisamudin</p>
 </td>
 <td rowspan="1" colspan="1">
