@@ -3,6 +3,7 @@ title: Netball
 permalink: /yuhualite-experience/Co-Curricular-Activities/netball/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Netball
 
@@ -25,10 +26,10 @@ The Netball Club provides girls with an opportunity to participate in sports. 
 | Zhuang Xiling (MISS) / Teacher IC | zhuang_xiling@moe.edu.sg |
 | Lim Zuo Er Joey (MISS) | lim_zuo_er_joey@moe.edu.sg |
 | Lin Renfang (MISS) | lin_renfang@moe.edu.sg |
-| Yip Lai Mun (MDM) | yip_lai_mun@moe.edu.sg |
 
 **Schedule**
 
 Tuesdays, 7.30am  to 9am, Parade Square
+![](/images/2024%20pictures/WhatsApp_Image_2024_07_16_at_8_40_06_AM__2_.jpg)
 
-![](/images/cca11.png)
+![](/images/2024%20pictures/WhatsApp_Image_2024_08_14_at_8_32_36_AM.jpg)
