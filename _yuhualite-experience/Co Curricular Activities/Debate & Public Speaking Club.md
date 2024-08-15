@@ -21,6 +21,9 @@ In addition, members have the privilege to present during school events,
 gaining valuable public speaking experience.</p>
 <p>Join us as we cultivate confident speakers and informed debaters ready
 to make meaningful contributions both within our club and beyond.</p>
+<p><strong>Schedule</strong>
+</p>
+<p>Tuesdays, 7.30am – 9am, CL Room</p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <table style="minWidth: 50px">
