@@ -246,17 +246,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS NURFADLIN FAZIRAH</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurfadlin_fazirah_abdul_manaf@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2 COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -472,6 +461,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chia_hwee_chin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR TSENG CHAO CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tseng_chao-cheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
