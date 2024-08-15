@@ -70,7 +70,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>Mdm Lee Ai Leng (Irene)</strong>
 </p>
 <p>Corporate Support Officer</p>
