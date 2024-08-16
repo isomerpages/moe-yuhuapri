@@ -42,14 +42,6 @@ and encourage members to become artists that are self-directed in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nurfadlin Fazirah Binte Abdul Manaf (MISS) / Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurfdlin_fazirah_abdul_manaf@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Nur Qurratuaini Binte Mohd Zuhri (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
