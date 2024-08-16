@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Choir</h3>
 <p>The School Choir seeks to instill in the students the joy of singing and
-build good character.During the practices, members learn proper singing
+build good character. During the practices, members learn proper singing
 techniques. Basic music theory is taught and applied. Fun and interesting
 drills are introduced to the training programme. Learning different genres
 and languages of new songs require resilience, patience and attentiveness.
@@ -55,7 +55,11 @@ contributing to the community.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.30am to 9am, Music Room (Level 1)</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:200%" height="auto" width="100%" src="/images/cca6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChoirSYF.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChoirJTC2.jpg">
 </div>
 <p></p>
