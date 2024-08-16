@@ -54,6 +54,14 @@ Schools Volleyball Championships.</p>
 <p>tseng_chao-cheng@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abdul Haqim Mohd Nasrudin (Mr)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>abdul_haqim_mohd_nasrudin@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Schedule</strong>
