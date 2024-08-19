@@ -5,23 +5,17 @@ date: 2023-08-27
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
-![Sometimes, Just A Little Compliment Can Make Someone's Entire Day!](https://www.donemanaps.com/cmsfiles/items/gallery/245_o_1eo1q2k8moskla3e8c1j83rk12i.jpg)
-
-
-### Words of encouragement
-
-
-Let's cheer for our teachers and staff of Yuhua Primary.  Share your encouraging messages or compliments for the school and staff with us. 
-
-Our heartfelt thanks to all who have posted your appreciation notes. We will share them with our Yuhua Family and bring a smile to their faces.
-
-Here are some of your heartful compliments to our Yuhua Family.
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Oqg7GCXeCoA?si=x62vUVGWHYq2GRX8" height="393" width="699"></iframe>
-
-
-You can still send us your compliments.
-**Click** on the image below to send your compliments.
-
-<a href="https://form.gov.sg/64c649f055d52c00113f38e0">![](/images/button1.png)</a>
+<h3>Words of encouragement</h3>
+<p>Let's cheer for our teachers and staff of Yuhua Primary. Share your encouraging
+messages or compliments for the school and staff with us.</p>
+<p>Our heartfelt thanks to all who have posted your appreciation notes. We
+will share them with our Yuhua Family and bring a smile to their faces.</p>
+<p>Here are some of your heartful compliments to our Yuhua Family previously.</p>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Oqg7GCXeCoA?si=x62vUVGWHYq2GRX8"></iframe>
+</div>
+<p>We look forward to your compliments. Click <strong><a href="https://tinyurl.com/yhpsteachersday2024" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> here
+to send your compliments.</p>
+<p></p>
