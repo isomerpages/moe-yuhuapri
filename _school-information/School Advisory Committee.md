@@ -10,9 +10,8 @@ variant: markdown
 |:---:|
 | **Mr Yeo Boon Hui – Chairman** |
 | **Mr Tay Thain Lin – Member** |
-| **Dr Susanna Leong Su Jan – Member** |
+| **Dr Pan Zhengxiang Jedi – Member** |
 | **Mr Tan Keng Phuang – Member** / **Treasurer** |
-| **Mdm Pauline Koh – Member** |
 | **Dr Azilawati Jamaludin – Member** |
 |**Mr Loo Deliang – Member** |
 |**Miss Tan Siew Yong – Member** |
