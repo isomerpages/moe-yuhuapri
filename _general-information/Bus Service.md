@@ -1,6 +1,6 @@
 ---
 title: Bus Service
-permalink: /bus-service/
+permalink: /general-information/bus-service/
 variant: tiptap
 description: ""
 ---
