@@ -183,6 +183,32 @@ students from home to school and vice versa.</p>
 <p>$250.00</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4>Pricing - 2025 to 2026</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -199,7 +225,119 @@ students from home to school and vice versa.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="5">
+<p>Daily School Bus Services based on Not to Exceed Price (i.e. for sending
+students from home to school and vice versa.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Initial Service Period</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Up to 15 seater</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&gt;15 seater</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Distance Range Category</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>2 way&nbsp;</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>1 way</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>2 way&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$140.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$150.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$140.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$150.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt;2 - 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$240.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$250.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$240.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$250.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
