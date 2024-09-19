@@ -632,7 +632,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siti Fatimah Binte Abdul Latiff (MDM)</p>
+<p>Siti Fatimah Binte Abdul Latif (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_fatimah_abdul_latif@moe.edu.sg</p>
