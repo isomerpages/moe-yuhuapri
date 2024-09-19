@@ -559,7 +559,7 @@ variant: tiptap
 <p>MS GERMAINE LIM JIA YING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>germaine_lim_jia_ying@moe.edu.sg</p>
+<p>lim_jia_ying_germaine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -567,10 +567,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM SITI FATIMAH BTE ABDUL LATIFF</p>
+<p>MDM SITI FATIMAH BTE ABDUL LATIF</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_fatimah_abdul_latiff@moe.edu.sg</p>
+<p>siti_fatimah_abdul_latif@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
