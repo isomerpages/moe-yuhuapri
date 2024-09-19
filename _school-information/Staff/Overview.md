@@ -147,7 +147,7 @@ variant: tiptap
 <p>Germaine Lim Jia Ying (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>germaine_lim_jia_ying@moe.edu.sg</p>
+<p>lim_jia_ying_germaine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
