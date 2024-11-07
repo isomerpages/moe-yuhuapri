@@ -43,6 +43,36 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Crest Secondary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Nov (Wed)</p>
+<p>21-22 Nov (Thurs- Fri)</p>
+<p>23 Nov( Sat)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed</p>
+<p>11am-5pm</p>
+<p>Thur -Fri</p>
+<p>9am -5pm</p>
+<p>Sat</p>
+<p>9am-3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Crest Secondary</p>
+<p>561 Jurong East St 24</p>
+<p>Sg 609561</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.crestsec.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.crestsec.edu.sg/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>S.O.T.A (Open Classroom Experience)</strong>
 </p>
 </td>
