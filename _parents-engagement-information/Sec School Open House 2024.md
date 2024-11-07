@@ -43,19 +43,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Crest Secondary</p>
+<p><strong>Crest Secondary</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Nov (Wed)</p>
-<p>21-22 Nov (Thurs- Fri)</p>
-<p>23 Nov( Sat)</p>
+<p><strong>(Wed)</strong>
+</p>
+<p><strong>20 Nov </strong>
+</p>
+<p>21-22 <strong>(Thurs- Fri)</strong>
+</p>
+<p>Nov</p>
+<p><strong>Saturday</strong>
+</p>
+<p>23 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed</p>
+<p><strong>Wed</strong>
+</p>
 <p>11am-5pm</p>
-<p>Thur -Fri</p>
+<p><strong>Thur -Fri</strong>
+</p>
 <p>9am -5pm</p>
-<p>Sat</p>
+<p><strong>Sat</strong>
+</p>
 <p>9am-3pm</p>
 </td>
 <td rowspan="1" colspan="1">
