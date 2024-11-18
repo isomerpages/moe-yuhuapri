@@ -14,7 +14,7 @@ They contain all the information for your reference.</p>
 </p>
 <p></p>
 <h3>Useful links</h3>
-<p><a href="http://www.moe.gov.sg/financial matters/fees" rel="noopener noreferrer nofollow" target="_blank">School Fees Information</a>
+<p><a href="http://www.moe.gov.sg/financial matters/fees" rel="noopener nofollow" target="_blank">School Fees Information</a>
 </p>
 <p><a href="http://www.moe.gov.sg/financial matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">E-Giro Application</a>
 </p>
