@@ -14,3 +14,7 @@ have addressed at the Q&amp;A segment that day for your reference.</p>
 </p>
 <p>Please refer to the documents below for the slides that were shared during
 the orientation. They contain all the information for your reference.</p>
+<p><a href="/files/Year_Head_Briefing_Preparing_for_P1.pdf" rel="noopener nofollow" target="_blank">2025 Year Head Briefing</a>
+</p>
+<p><a href="/files/VPA_P1_Parent_Briefing_2024.pdf" rel="noopener nofollow" target="_blank">VP Admin P1 Parents Briefing (Safety, Finance and Security)</a>
+</p>
