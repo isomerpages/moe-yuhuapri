@@ -179,17 +179,6 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Primary 2</h4>
@@ -268,17 +257,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,17 +275,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>shammini_padmanaban@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -487,7 +454,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 GRATITUDE</p>
+<p>3GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS YEONG – TAN CHUAN LIM</p>
@@ -538,17 +505,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_ying_ying@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -618,39 +574,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4 COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -706,7 +629,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 GRATITUDE</p>
+<p>4GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM WONG JING JING JEAN</p>
@@ -735,17 +658,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>elda_zarifah_zamri@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -914,7 +826,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 GRATITUDE</p>
+<p>5GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LIM BEE LIAN</p>
@@ -1023,17 +935,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>6 COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1100,7 +1001,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 GRATITUDE</p>
+<p>6GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR LUA SHIXIONG</p>
@@ -1118,17 +1019,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>zhuang_xiling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
