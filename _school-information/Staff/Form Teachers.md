@@ -6,7 +6,7 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>2025 Form Teachers</h3>
-<h4>Primary 1</h4>
+<h4><strong>Primary 1</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -181,7 +181,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Primary 2</h4>
+<h4><strong>Primary 2</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -367,7 +367,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Primary 3</h4>
+<h4><strong>Primary 3</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -542,7 +542,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Primary 4</h4>
+<h4><strong>Primary 4</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -739,7 +739,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Primary 5</h4>
+<h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -892,7 +892,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Primary 6</h4>
+<h4><strong>Primary 6</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
