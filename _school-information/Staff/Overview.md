@@ -584,14 +584,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sally Tan Yi Bei (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yi_bei_sally@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Shaheen Aman Khan (MRS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -724,6 +716,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ying_xiu@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yi Bei Sally (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yi_bei_sally@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
