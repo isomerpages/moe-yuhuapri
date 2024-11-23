@@ -257,7 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2KINDNESS</p>
+<p>2 KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS LEE - GUAN MEIXIA</p>
@@ -498,6 +498,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS ANG YING YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_ying_ying@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR EMMAUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3 UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -618,7 +640,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4GRATITUDE</p>
+<p>4 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM WONG JING JING JEAN</p>
@@ -804,7 +826,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5GRATITUDE</p>
+<p>5 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LIM BEE LIAN</p>
@@ -979,7 +1001,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6GRATITUDE</p>
+<p>6 GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR LUA SHIXIONG</p>
