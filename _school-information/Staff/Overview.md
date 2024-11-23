@@ -32,10 +32,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Si Ting Cheryl (MRS NG)</p>
+<p>Adeline Wong Ai Leng (Ms)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_si_ting_cheryl@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,6 +128,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Emmaus (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Gay Bee Hong (MRS YANG)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,6 +200,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Hannie Hidayah Bt Rauzan (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Hia Soo Ling (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,6 +260,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kirandeep_kour_sandu@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Khaw Huey Lin Joanne (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -560,6 +584,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Purushothaman Padmini (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Raymond Chow Peng Khuen (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -756,6 +788,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tseng_chao-cheng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venkatachalam Alamu (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>venkatachalam_alamu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
