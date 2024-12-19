@@ -26,12 +26,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nurul Hazuwani Mohd Nor</strong>
-<br>Desktop Engineer</p>
+<p><strong>Mr Muhamad Zahin Akid Bin Makhizu</strong>
+</p>
+<p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Muhammad Shahrul Kahir BH</strong>
-<br>Desktop Engineer</p>
+<p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
