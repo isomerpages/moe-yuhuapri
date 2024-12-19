@@ -1,11 +1,11 @@
 ---
 title: Form Teachers
-permalink: /under-maintenance/
+permalink: /school-information/staff/formteachers/
 description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h3>2025 Form Teachers</h3>
+<h3>2025 Form Teachers (tentative)</h3>
 <h4><strong>Primary 1</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 JOY</p>
+<p>1JOY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS CHAN – TAN SOK LAN CORRINE</p>
@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 COURAGE</p>
+<p>1COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM SITI FARAH DEVA OMAR</p>
@@ -71,7 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 KINDNESS</p>
+<p>1KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS HO - YIP LAI MUN</p>
@@ -110,12 +110,13 @@ variant: tiptap
 <p>MS ADELINE WONG AI LENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>will update soon</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 DILIGENCE</p>
+<p>1DILIGENCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS GEE - YAP CHENG LIANG</p>
@@ -137,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 UNITY</p>
+<p>1UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM HANIS BT RAHMAT</p>
@@ -159,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 HONESTY</p>
+<p>1HONESTY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LIEW ZHI JUN</p>
@@ -202,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 JOY</p>
+<p>2JOY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS YANG - GAY BEE HONG</p>
@@ -235,7 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 COURAGE</p>
+<p>2COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS TIEY HUAY YONG</p>
@@ -257,7 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 KINDNESS</p>
+<p>2KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS LEE - GUAN MEIXIA</p>
@@ -279,7 +280,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 GRATITUDE</p>
+<p>2GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS ROHAIDAH ABDUL WAHID</p>
@@ -301,7 +302,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 DILIGENCE</p>
+<p>2DILIGENCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR DAVID WEE YONG ZHI</p>
@@ -323,7 +324,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 UNITY</p>
+<p>2UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM MARIA NORASHIKEN</p>
@@ -345,7 +346,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 HONESTY</p>
+<p>2HONESTY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS KIRANDEEP KOUR SANDU</p>
@@ -388,7 +389,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 JOY</p>
+<p>3JOY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR TAN HENG KWEE</p>
@@ -410,7 +411,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 COURAGE</p>
+<p>3COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LIN RENFANG</p>
@@ -427,12 +428,12 @@ variant: tiptap
 <p>MS HANNIE HIDAYAH BT RAUZAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hannie_hidayah_rauzan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 KINDNESS</p>
+<p>3KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR AZMAN YAHYA</p>
@@ -487,7 +488,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 DILIGENCE</p>
+<p>3DILIGENCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS KATIE GOH</p>
@@ -509,7 +510,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 UNITY</p>
+<p>3UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS GERMAINE LIM JIA YING</p>
@@ -552,7 +553,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 JOY</p>
+<p>4JOY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS MARZIATI MUSTAFA</p>
@@ -574,7 +575,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 COURAGE</p>
+<p>4COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR MOHAMED NAZRA MOHAMED SAID</p>
@@ -607,7 +608,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 KINDNESS</p>
+<p>4KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS SALLY TAN</p>
@@ -629,7 +630,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 GRATITUDE</p>
+<p>4GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM WONG JING JING JEAN</p>
@@ -662,7 +663,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 DILIGENCE</p>
+<p>4DILIGENCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR ANDY LOW</p>
@@ -679,7 +680,8 @@ variant: tiptap
 <p>MDM KHAW HUEY LIN JOANNE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>will update soon</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -695,7 +697,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 UNITY</p>
+<p>4UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM SITI FATIMAH BTE ABDUL LATIF</p>
@@ -749,7 +751,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 JOY</p>
+<p>5JOY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS JONNALYN TEO MIN HUI</p>
@@ -771,7 +773,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 COURAGE</p>
+<p>5COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS TAN CHIEN YUIN CAROLINE</p>
@@ -793,7 +795,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 KINDNESS</p>
+<p>5KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS KEE - YEO SULYN DENISE</p>
@@ -815,7 +817,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 GRATITUDE</p>
+<p>5GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LIM BEE LIAN</p>
@@ -837,7 +839,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 DILIGENCE</p>
+<p>5DILIGENCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS KAREN LEONG - TAN SUAN KHENG</p>
@@ -854,12 +856,13 @@ variant: tiptap
 <p>MDM PURUSHOTHAMAN PADMINI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>will update soon</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 UNITY</p>
+<p>5UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM KWAN WAI YEE</p>
@@ -902,7 +905,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 JOY</p>
+<p>6JOY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR IRFAN SILALAHI</p>
@@ -924,7 +927,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 COURAGE</p>
+<p>6COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR NASIR</p>
@@ -957,7 +960,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 KINDNESS</p>
+<p>6KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS SITI ASHYURA ALIMON</p>
@@ -990,7 +993,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 GRATITUDE</p>
+<p>6GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR LUA SHIXIONG</p>
@@ -1012,7 +1015,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 DILIGENCE</p>
+<p>6DILIGENCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR MUSA ABDUL KADIR</p>
@@ -1045,7 +1048,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 UNITY</p>
+<p>6UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS KAVITHA D/O GOVINDASAMY</p>
