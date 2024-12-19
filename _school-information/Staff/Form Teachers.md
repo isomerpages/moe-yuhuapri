@@ -110,7 +110,8 @@ variant: tiptap
 <p>MS ADELINE WONG AI LENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>will update soon</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -427,7 +428,7 @@ variant: tiptap
 <p>MS HANNIE HIDAYAH BT RAUZAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>hannie_hidayah_rauzan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -679,7 +680,8 @@ variant: tiptap
 <p>MDM KHAW HUEY LIN JOANNE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>will update soon</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -854,7 +856,8 @@ variant: tiptap
 <p>MDM PURUSHOTHAMAN PADMINI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>will update soon</em>
+</p>
 </td>
 </tr>
 <tr>
