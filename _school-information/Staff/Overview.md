@@ -35,7 +35,8 @@ variant: tiptap
 <p>Adeline Wong Ai Leng (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>will update soon</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -251,7 +252,8 @@ variant: tiptap
 <p>Khaw Huey Lin Joanne (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>will update soon</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -571,7 +573,8 @@ variant: tiptap
 <p>Purushothaman Padmini (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>will update soon</em>
+</p>
 </td>
 </tr>
 <tr>
