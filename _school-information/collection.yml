@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Under Maintenance.md
       - Principal's Message.md
       - Mission, Vision & Values.md
       - School History.md
