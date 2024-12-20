@@ -1,6 +1,6 @@
 ---
 title: Form Teachers
-permalink: /school-information/staff/formteachers/
+permalink: /under-maintenance/
 description: ""
 third_nav_title: Staff
 variant: tiptap
