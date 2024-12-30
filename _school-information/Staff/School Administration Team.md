@@ -104,7 +104,9 @@ variant: tiptap
 <br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Soniajeet Kaur</strong>
+</p>
+<p>Lab Technician</p>
 </td>
 </tr>
 <tr>
