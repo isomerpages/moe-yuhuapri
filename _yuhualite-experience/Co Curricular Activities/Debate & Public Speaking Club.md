@@ -53,7 +53,7 @@ to make meaningful contributions both within our club and beyond.</p>
 <p>Rishiikeasan (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>g_rishiikeasan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
