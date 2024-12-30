@@ -67,8 +67,15 @@ and activities organised the Scout Headquarters.</p>
 <p>Elda Zarifah Binte Zamri (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:elda_zarifah_zamri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">elda_zarifah_zamri@moe.edu.sg</a>
-</p>
+<p>elda_zarifah_zamri@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Suan Kheng (MRS LEONG)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_suan_kheng@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
