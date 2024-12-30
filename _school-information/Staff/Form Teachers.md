@@ -96,10 +96,10 @@ variant: tiptap
 <p>1GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS YIM MAY MAY JANICE</p>
+<p>Gay Bee Hong (MRS YANG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yim_may_may_janice@moe.edu.sg</p>
+<p>gay_bee_hong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -206,10 +206,10 @@ variant: tiptap
 <p>2JOY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS YANG - GAY BEE HONG</p>
+<p>MS SITI KAMIRAH MOHAMED NOR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gay_bee_hong@moe.edu.sg</p>
+<p>siti_kamirah_mohamed_nor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -217,10 +217,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SITI KAMIRAH MOHAMED NOR</p>
+<p>Yim May May Janice (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_kamirah_mohamed_nor@moe.edu.sg</p>
+<p>yim_may_may_janice@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -447,17 +447,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM LILY LIM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_lily@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3GRATITUDE</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>MRS YEONG – TAN CHUAN LIM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -469,10 +458,33 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>EMMAUS (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>to be updated</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3GRATITUDE</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>MS WU CHIOU PYNG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wu_chiou_pyng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM LILY LIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_lily@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -495,6 +507,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_k_thing@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM TEOH CHONG YOOG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teoh_chong_yoog@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -571,6 +594,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chen_ziwei_joyce@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR DANIEL ABDUL MANAP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_daniel_abdul_manap@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -680,8 +714,7 @@ variant: tiptap
 <p>MDM KHAW HUEY LIN JOANNE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>will update soon</em>
-</p>
+<p>joanne_khaw@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -754,6 +787,40 @@ variant: tiptap
 <p>5JOY</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>MRS LIU – KANG HAN YING IVORIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kang_han_ying_ivorie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS TAN CHIEN YUIN CAROLINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chien_yuin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JIE LIN (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>to be updated</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5COURAGE</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>MS JONNALYN TEO MIN HUI</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -769,28 +836,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>shum_wai_hoh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5COURAGE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS TAN CHIEN YUIN CAROLINE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_chien_yuin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MRS LIU – KANG HAN YING IVORIE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kang_han_ying_ivorie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1066,17 +1111,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>liew_mun_yee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM TEOH CHONG YOOG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teoh_chong_yoog@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
