@@ -21,8 +21,9 @@ are truly looking forward to the purposeful activities leading up to, and
 culminating with our actual day celebrations in late April this year.</p>
 <p>Join us on our school’s Facebook or Instagram page and be part of our
 celebrations.</p>
-<p>Facebook: <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/yuhuaprimaryschool</a> Instagram:
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/yuhuaprimaryschool</a>
+<p>Facebook: <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/yuhuaprimaryschool</a>
+</p>
+<p>Instagram: <a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/yuhuaprimaryschool</a>
 </p>
 <p>Over here at Yuhua, we continue to stay passionate about growing the hearts
 and minds of our students. Developing them as they grow in wisdom and stature
