@@ -39,17 +39,24 @@ for all, and take your first step towards a greener future!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Miss Ang Ying Ting / Teacher IC</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>ang_ying_ying@moe.edu.sg</p>
-</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Maria Norashiken</p>
+<p>Ang Ying Ying (MS) / Teacher IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_ying_ying@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Maria Norashiken (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>maria_norashiken_hayak@moe.edu.sg</p>
