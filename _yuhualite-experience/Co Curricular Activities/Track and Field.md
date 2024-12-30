@@ -52,10 +52,10 @@ Track and Field Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liew Zhi Jun (Ms)</p>
+<p>Muhammad Daniel Bin Abdul Manap (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liew_zhi_jun@moe.edu.sg</p>
+<p>muhammad_daniel_abdul_manap@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
