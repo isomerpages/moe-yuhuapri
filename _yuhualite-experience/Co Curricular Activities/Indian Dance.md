@@ -36,18 +36,19 @@ during community events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mumtaj Bivi Binte Abdul Kader (MDM) / Teacher IC</p>
+<p>Purushothaman Padmini (MDM) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mumtaj_bivi@moe.edu.sg</p>
+<p><em>to be updated</em>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kavitha D/O Shanmugananthan (MS)</p>
+<p>Kirandeep Kour Sandu (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kavitha_shanmugananthan@moe.edu.sg</p>
+<p>kirandeep_kour_sandu@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
