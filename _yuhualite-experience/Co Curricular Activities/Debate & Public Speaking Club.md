@@ -34,12 +34,27 @@ to make meaningful contributions both within our club and beyond.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Tan_suan_keng (Mdm)</p>
-<p>(Teacher IC)</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>tan_suan_keng@moe.edu.sg</p>
+<p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Renfang (MS) / Teacher IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lin_renfang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rishiikeasan (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
