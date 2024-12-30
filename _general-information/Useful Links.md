@@ -6,8 +6,6 @@ variant: tiptap
 ---
 <h3>Links</h3>
 <h4>For Students</h4>
-<p><a href="https://students-edu-sg.zoom.us/" rel="noopener noreferrer nofollow" target="_blank">Student- Zoom</a>
-</p>
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>
 </p>
 <p><a href="https://www.nlb.gov.sg/discovereads/" rel="noopener noreferrer nofollow" target="_blank">Discover Reads</a>
@@ -16,21 +14,8 @@ variant: tiptap
 </p>
 <p><a href="https://schoolibrary.moe.edu.sg/yuhuapri" rel="noopener noreferrer nofollow" target="_blank">Yuhua School Library</a>
 </p>
-<p>National Digital Explorer 2023 (NDE-Primary 4)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://learn.icdlasia.org/login" rel="noopener noreferrer nofollow" target="_blank">iCDL Website login</a>
+<p><a href="https://www.microsoft.com/EN/Microsoft-365" rel="noopener nofollow" target="_blank">Microsoft 365</a>
 </p>
-</li>
-<li>
-<p><a href="https://www.microsoft.com/EN/Microsoft-365" rel="noopener noreferrer nofollow" target="_blank">M365 Website</a>
-</p>
-</li>
-<li>
-<p><a href="/files/microsoft%20365%20&amp;%20nde%20elearning%20portal%20student%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Microsoft365 &amp; NDE e-Learning Portal Student Guide</a>
-</p>
-</li>
-</ul>
 <h4>For Parents</h4>
 <p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
 </p>
