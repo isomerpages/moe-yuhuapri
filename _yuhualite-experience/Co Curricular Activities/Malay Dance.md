@@ -49,10 +49,10 @@ during community events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Syahirah</p>
+<p>Siti Nur Syahirah Yusman (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>siti_nur_syahirah_yusman@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
