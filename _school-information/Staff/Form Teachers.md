@@ -96,7 +96,7 @@ variant: tiptap
 <p>1GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gay Bee Hong (MRS YANG)</p>
+<p>MRS YANG - GAY BEE HONG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gay_bee_hong@moe.edu.sg</p>
@@ -217,7 +217,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yim May May Janice (MS)</p>
+<p>MS YIM MAY MAY JANICE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yim_may_may_janice@moe.edu.sg</p>
@@ -451,18 +451,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chuan_lim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>EMMAUS (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>to be updated</em>
-</p>
 </td>
 </tr>
 <tr>
@@ -802,18 +790,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chien_yuin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JIE LIN (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>to be updated</em>
-</p>
 </td>
 </tr>
 <tr>
