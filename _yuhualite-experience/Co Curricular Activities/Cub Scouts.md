@@ -72,7 +72,7 @@ and activities organised the Scout Headquarters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Suan Kheng (MRS LEONG)</p>
+<p>Tan Suan Kheng Karen (MRS LEONG)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_suan_kheng@moe.edu.sg</p>
