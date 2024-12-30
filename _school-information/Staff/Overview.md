@@ -35,7 +35,7 @@ variant: tiptap
 <p>Adeline Wong Ai Leng (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>will update soon</em>
+<p><em>to be updated</em>
 </p>
 </td>
 </tr>
@@ -121,6 +121,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>G Rishiikeasan (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>g_rishiikeasan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Gay Bee Hong (MRS YANG)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,14 +141,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>gee_yap_cheng_liang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Germaine Lim Jia Ying (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_jia_ying_germaine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -252,8 +252,7 @@ variant: tiptap
 <p>Khaw Huey Lin Joanne (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>will update soon</em>
-</p>
+<p>joanne_khaw@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -322,6 +321,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lim Jia Ying Germaine (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_jia_ying_germaine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lim Lily (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -370,14 +377,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lok Hong Tan Jenny (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lok_hong_tan_jenny@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Loke Lye Kit (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,14 +421,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>mah_li_feng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Maha Devi (MDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>maha_devi_palaniappan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -573,7 +564,7 @@ variant: tiptap
 <p>Purushothaman Padmini (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>will update soon</em>
+<p><em>to be updated</em>
 </p>
 </td>
 </tr>
@@ -655,6 +646,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_kamirah_mohamed_nor@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Siti Nur Syahirah Yusman (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nur_syahirah_yusman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -831,6 +830,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yuliana_mohamed@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yu Huiyi Corinne (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yu_huiyi_corinne@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
