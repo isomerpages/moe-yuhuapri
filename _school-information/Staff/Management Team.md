@@ -293,10 +293,10 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>corinne</p>
+<p>Yu Huiyi Corinne (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yu_huiyi_corinne@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
