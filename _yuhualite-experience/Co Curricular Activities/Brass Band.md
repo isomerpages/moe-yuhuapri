@@ -29,27 +29,19 @@ them.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Tay Yuling (MISS) / Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tay_yuling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jonnalyn Teo Min Hui (MS)</p>
+<p>Jonnalyn Teo Min Hui (MS) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jonnalyn_teo_min_hui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Liew Zhi Jun (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liew_zhi_jun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -58,6 +50,14 @@ them.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gay_bee_hong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Celeste Chen Wei (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>celeste_chen_wei@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
