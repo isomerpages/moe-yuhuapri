@@ -47,7 +47,15 @@ in competition to showcase their skills and talents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sally Tan Yi Bei (MS)</p>
+<p>Lua Shixiong (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lua_shixiong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yi Bei Sally (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_yi_bei_sally@moe.edu.sg</p>
@@ -55,10 +63,10 @@ in competition to showcase their skills and talents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lua Shixiong (MR)</p>
+<p>Lim Zuo Er Joey (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lua_shixiong@moe.edu.sg</p>
+<p>lim_zuo_er_joey@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
