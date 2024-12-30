@@ -54,10 +54,10 @@ contributing to the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Celeste Chen Wei (MS)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>celeste_chen_wei@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
