@@ -48,18 +48,18 @@ Schools Volleyball Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tseng Chao Cheng (MR)</p>
+<p>Abdul Haqim Bin Mohd Nasruddin (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tseng_chao-cheng@moe.edu.sg</p>
+<p>abdul_haqim_mohd_nasruddin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Abdul Haqim Mohd Nasrudin (Mr)</p>
+<p>Mah Li Feng (MRS SHARON OW)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>abdul_haqim_mohd_nasrudin@moe.edu.sg</p>
+<p>mah_li_feng@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

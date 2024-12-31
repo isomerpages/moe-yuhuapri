@@ -62,13 +62,13 @@ variant: tiptap
 <br>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Munisah Bte Mohmad Y</strong>
+<p><strong>Mdm Munisah Bte Mohmad Yunkin</strong>
 <br>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Irene Lee </strong>
+<p><strong>Ms Irene Lee </strong>
 <br>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,9 @@ variant: tiptap
 <br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Soniajeet Kaur</strong>
+</p>
+<p>Lab Technician</p>
 </td>
 </tr>
 <tr>
