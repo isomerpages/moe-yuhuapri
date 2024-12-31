@@ -258,6 +258,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS SITI NUR SYAHIRAH YUSMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nur_syahirah_yusman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -877,8 +888,18 @@ variant: tiptap
 <p>MDM PURUSHOTHAMAN PADMINI</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>will update soon</em>
-</p>
+<p>purushothaman_padmini@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR G RISHIIKEASAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>g_rishiikeasan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
