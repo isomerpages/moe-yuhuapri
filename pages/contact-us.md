@@ -10,7 +10,7 @@ locations:
       - Singapore 609558
     operating_hours:
       - days: Mon - Fri
-        time: 7:00 am - 5:00 pm
+        time: 8:00 am - 5:00 pm
         description: Closed on Weekends, Public and School Holidays.
       - days: Important
         time: To Note
