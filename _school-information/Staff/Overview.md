@@ -513,22 +513,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nizam Nurrahim B Abdul Shukor (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nizam_nurrahim_abdul_shukor@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Hui Min Selina (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_hui_min_selina_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Norparissah (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -564,16 +548,7 @@ variant: tiptap
 <p>Purushothaman Padmini (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>to be updated</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Raymond Chow Peng Khuen (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chow_peng_khuen@moe.edu.sg</p>
+<p>puroshothaman_padmini@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

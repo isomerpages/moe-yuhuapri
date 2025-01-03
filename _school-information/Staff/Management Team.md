@@ -293,7 +293,7 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yu Huiyi Corinne (MS)</p>
+<p>Ms Yu Huiyi Corinne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yu_huiyi_corinne@moe.edu.sg</p>
@@ -341,6 +341,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_bee_lian_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Khaw Huey Lin Joanne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>joanne_khaw@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
