@@ -32,11 +32,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adeline Wong Ai Leng (MS)</p>
+<p>Adeline Wong Ai Leng (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>to be updated</em>
-</p>
+<p>adeline_wong_ai_leng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
