@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h3>2025 Form Teachers (tentative)</h3>
-<h4><strong>Primary 1</strong></h4>
+<h3>2025 Form Teachers</h3>
+<h4><strong>Primary 1 (tentative)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -107,11 +107,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS ADELINE WONG AI LENG</p>
+<p>MDM ADELINE WONG AI LENG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>will update soon</em>
-</p>
+<p>adeline_wong_ai_leng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -221,17 +220,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yim_may_may_janice@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS LIM ZUO ER JOEY (Sem 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_zuo_er_joey@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
