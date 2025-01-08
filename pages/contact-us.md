@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8:00 am - 5:00 pm
-        description: Closed on Weekends, Public and School Holidays.
+        description: Closed on Weekends and Public Holidays
       - days: Important
         time: To Note
         description: We will try our best to contact you within 3 school working days
