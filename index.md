@@ -25,6 +25,16 @@ sections:
       subtitle: Announcements & News
       button: Click for more
   - infopic:
+      title: 2024 InTouch Magazine
+      subtitle: 2024 E-Newsletter
+      id: infopic
+      description: Dive into a year of memories, achievements, and exciting updates in
+        Yuhua Primary's 2024 InTouch Magazine!
+      button: CLICK HERE TO READ MORE
+      url: https://heyzine.com/flip-book/63eeea68ae.html?fbclid=IwZXh0bgNhZW0CMTAAAR0FLSiWi6FrcBdZ3fNQMCNFVVnzNhHPxisoKqDxhkyaRVneep5jsikdoXk_aem_RdiC3LRagIf8E_9zEF-Hdg
+      image: /images/Screenshot_2025_01_10_064539.png
+      alt: Image alt text
+  - infopic:
       title: E-Open House 2024
       subtitle: E-Open House 2024
       description: Come and take a look at our E-Open House 2024.  Here, we share
