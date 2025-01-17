@@ -354,17 +354,6 @@ variant: tiptap
 <p>joanne_khaw@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yim May May Janice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yim_may_may_janice@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
