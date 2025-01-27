@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>GPA Insurance Policy for Students</h3>
-<h3><br><strong>Insurance Plan for Students 2024</strong></h3>
+<h3><br><strong>Insurance Plan for Students 2025</strong></h3>
 <p><strong>Introduction</strong> 
 <br>A Master Contract for GPA has been established by MOE HQ since 2018. The
 purpose is to reduce admin workload for schools and leverage on economies
