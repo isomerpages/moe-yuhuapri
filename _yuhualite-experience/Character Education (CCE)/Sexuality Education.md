@@ -6,7 +6,7 @@ third_nav_title: Character Education (CCE)
 variant: tiptap
 ---
 <h3>Sexuality Education</h3>
-<h4><strong>Moe Sexuality Education in Schools</strong></h4>
+<h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
