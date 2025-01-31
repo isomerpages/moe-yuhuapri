@@ -195,6 +195,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chicken Rice</p>
+<p>Mee Rubus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -206,6 +207,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Maggie Soup</p>
+<p>Laksa</p>
+<p>Tom Yam Soup</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -344,6 +347,17 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prata</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Stall No. 4 (Happy Meals)</h4>
@@ -393,7 +407,7 @@ variant: tiptap
 <p>SET B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tofu Chicken w Rice</p>
+<p>Chicken Rice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -514,7 +528,7 @@ variant: tiptap
 <p>SET A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fried Kway Teow</p>
+<p>Japanese Curry Noodles</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -525,7 +539,7 @@ variant: tiptap
 <p>SET B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Potato Chicken w Rice</p>
+<p>Chicken Rice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -558,7 +572,7 @@ variant: tiptap
 <p>SET A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Macaroni</p>
+<p>Macaroni w Tomato Sauce</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -625,7 +639,7 @@ variant: tiptap
 <p>Sausage (Mon,Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 cents</p>
+<p>50 cents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -636,7 +650,7 @@ variant: tiptap
 <p>Nugget (Mon,Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 cents</p>
+<p>50 cents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
