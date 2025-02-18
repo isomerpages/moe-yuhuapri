@@ -20,7 +20,7 @@ sections:
           url: /highlights/2021
         - title: YH95
           description: ""
-          url: ""
+          url: /yh95/
   - resources:
       subtitle: Announcements & News
       button: Click for more
