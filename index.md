@@ -15,7 +15,7 @@ sections:
         - title: E-Open House 2024
           description: ""
           url: /eopenhouse2024/
-        - title: Highlights
+        - title: Spotlight
           description: ""
           url: /highlights/2021
         - title: YH95
