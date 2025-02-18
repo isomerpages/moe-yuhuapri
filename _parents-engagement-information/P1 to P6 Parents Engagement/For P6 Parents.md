@@ -13,11 +13,11 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JIQykJTV0sU?si=-_sbgI8Ue-TS2dTT"></iframe>
 </div>
-<h4><strong><em>2024 P6 Parent Engagement 2025 - EL</em></strong></h4>
+<h4><strong>2024 P6 Parent Engagement 2025 - EL</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hJBTFvUlnCs?si=Kjug4y0_8sTEOBA3"></iframe>
 </div>
-<h4><strong>2024 P6 P6 Parent Engagement 2025 -  ML</strong></h4>
+<h4><strong>2024 P6 Parent Engagement 2025 - ML</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/j9Ui9zSnUJQ?si=A7U6nfBkgyFRC9u0"></iframe>
 </div>
