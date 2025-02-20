@@ -9,28 +9,23 @@ variant: tiptap
 <h4>Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.</h4>
 <p><em>“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”&nbsp; &nbsp; &nbsp; – Jane D. Hull</em>
 </p>
-<p><strong>P2 Parents Engagement 2025 – English</strong>
-</p>
+<h4><strong>P2 Parents Engagement 2025 – English</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tMaf-mN-j70"></iframe>
 </div>
-<p><strong>P2 Parents Engagement 2025 – Mathematics</strong>
-</p>
+<h4><strong>P2 Parents Engagement 2025 – Mathematics</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BUmNw1qXyIk"></iframe>
 </div>
-<p><strong>P2 Parents Engagement 2025 – Mother Tongue (CL)</strong>
-</p>
+<h4><strong>P2 Parents Engagement 2025 – Mother Tongue (CL)</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UCHIhFVOSZ0"></iframe>
 </div>
-<p><strong>P2 Parents Engagement 2025 – Mother Tongue (ML)</strong>
-</p>
+<h4><strong>P2 Parents Engagement 2025 – Mother Tongue (ML)</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JGufYEfFLg0"></iframe>
 </div>
-<p><strong>P2 Parents Engagement 2025 – Mother Tongue (TL)</strong>
-</p>
+<h4><strong>P2 Parents Engagement 2025 – Mother Tongue (TL)</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ieiFm7wvooo"></iframe>
 </div>
