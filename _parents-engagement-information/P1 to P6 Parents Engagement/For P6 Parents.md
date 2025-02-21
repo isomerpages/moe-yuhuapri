@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <h4><strong>P6 Parents Engagement 2025 - EL</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/30k9GrTtP98?si=pL4pgd0EXrVurBwC"></iframe>
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/30k9GrTtP98?si=pL4pgd0EXrVurBwC"></iframe>
 </div>
 <p><a href="/files/2025_P6_Parents_Engagement_EL.pdf" rel="noopener nofollow" target="_blank">2025 P6 Parents Engagement Slides - EL</a>
 </p>
