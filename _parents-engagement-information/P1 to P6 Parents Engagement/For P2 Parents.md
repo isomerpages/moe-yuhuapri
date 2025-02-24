@@ -13,11 +13,14 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yrandZCqQUg?si=dwCZnLi2aGHyt2Id"></iframe>
 </div>
+<p><a href="/files/2025_P2_Parents_Engagement_Handouts_EL.pdf" rel="noopener nofollow" target="_blank">2025_P2_Parents_Engagement_Handouts_EL.pdf</a>
+</p>
 <h4><strong>P2 Parents Engagement 2025 – Mathematics</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2gQjlHi8Wrs?si=ff9HQ_Y_DOBnrcd7"></iframe>
 </div>
-<h4></h4>
+<p><a href="/files/2025_P2_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2025_P2_Parent_Engagement_MA.pdf</a>
+</p>
 <h4><strong>P2 Parents Engagement 2025 – Mother Tongue (CL)</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UCHIhFVOSZ0"></iframe>
