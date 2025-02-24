@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/YH95_Header__4_8MB_.gif
+      background: /images/YH95_Header__Updated_4_95mb_.gif
       key_highlights:
         - title: School's Achievements
           description: ""
