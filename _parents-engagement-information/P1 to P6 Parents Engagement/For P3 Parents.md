@@ -26,11 +26,13 @@ variant: tiptap
 <p><a href="/files/2025_P3_Parent_engagement_SC.pdf" rel="noopener nofollow" target="_blank">2025_P3_Parent_Engagement_SC.pdf</a>
 </p>
 <h4><strong>P3 Parents Engagement 2025 – Mother Tongue (CL) Part 1</strong></h4>
-<p><strong>CL Part 1</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/93VLYEg_0rQ?si=IBBmPbzz-lSKhBBy"></iframe>
+</div>
 <h4><strong>P3 Parents Engagement 2025 – Mother Tongue (CL) Part 2</strong></h4>
-<p><strong>CL Part 2</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GYRsNDdZZ4Y?si=nLeji0P737013pzi"></iframe>
+</div>
 <h4><strong>P3 Parents Engagement 2025 – Mother Tongue (ML)</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HLe-rz3E2QA"></iframe>
