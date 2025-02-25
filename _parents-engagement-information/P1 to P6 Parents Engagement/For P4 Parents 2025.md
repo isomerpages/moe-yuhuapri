@@ -13,30 +13,21 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yrandZCqQUg?si=lTwYUD8XSmNx3TSc"></iframe>
 </div>
-<p><a href="/files/2024_P4_Parents_Engagement_slides_EL__updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - English</a>
+<p><a href="/files/2025_P4_Parent_Engagement_EL.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - English</a>
 </p>
 <h4><strong>P4 Parents Engagement 2025 – Mathematics</strong></h4>
-<p><a href="/files/2024_P4_Parents_Engagement_slides_MA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - Mathematics</a>
+<p><a href="/files/2025_P4_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - Mathematics</a>
 </p>
 <h4><strong>P4 Parents Engagement 2025 – Science</strong></h4>
-<p><a href="/files/2024_P4_Parents_Engagement_slides_SC.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - Science</a>
+<p><a href="/files/2025_Parent_engagement_P4_SC.pdf" rel="noopener nofollow" target="_blank">2025 Parent Engagement Slides - Science</a>
 </p>
 <h4><strong>P4 Parents Engagement 2025 – Mother Tongue (CL)</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MK4Nmmw_VF0"></iframe>
-</div>
-<p><a href="/files/2024_P4_Parents_Engagement_slides_CL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - CL</a>
+<p><a href="/files/2025_P4_Parent_Engagement_CL.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - CL</a>
 </p>
 <h4><strong>P4 Parents Engagement 2025 – Mother Tongue (ML)</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FTuGQV4WNxo"></iframe>
-</div>
-<p><a href="/files/2024_P4_Parents_Engagement_slides_ML.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - ML</a>
+<p><a href="/files/2025_P4_Parent_Engagement_ML_New.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - ML</a>
 </p>
 <h4><strong>P4 Parents Engagement 2025 – Mother Tongue (TL)</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t8upnTT0gZw"></iframe>
-</div>
-<p><a href="/files/2024_P4_Parents_Engagement_slides_TL.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 P4 Parents Engagement Slides - TL</a>
+<p><a href="/files/2025_P4_Parent_Engagement_TL_New.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - TL</a>
 </p>
 <p></p>
