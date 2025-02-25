@@ -22,8 +22,9 @@ variant: tiptap
 <p><a href="/files/2025_P2_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2025_P2_Parent_Engagement_MA.pdf</a>
 </p>
 <h4><strong>P2 Parents Engagement 2025 – Mother Tongue (CL)</strong></h4>
-<p><strong>CL Video</strong>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eWiyjAGISo8?si=YOh5w6fatHeXVApE"></iframe>
+</div>
 <h4><strong>P2 Parents Engagement 2025 – Mother Tongue (ML)</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H4hWDDXv9IM?si=1JGq1JUJPonnruh3"></iframe>
