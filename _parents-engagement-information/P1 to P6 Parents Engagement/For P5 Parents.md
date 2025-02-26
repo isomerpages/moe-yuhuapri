@@ -3,32 +3,40 @@ title: For P5 Parents
 permalink: /parents-engagement-information/P5/
 description: ""
 third_nav_title: P1 to P6 Parents Engagement
-variant: markdown
+variant: tiptap
 ---
-### P5 Parents Engagement
-
-#### Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.
-
-_“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”&nbsp; &nbsp; &nbsp; – Jane D. Hull_
-
-**P5 Parents Engagement – English**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LanvNFOkWWE?si=uwwU96phJW_pKRU6" height="315" width="560"></iframe>
-
-**P5 Parents Engagement – Mathematics**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dcywKfok3cE?si=9iyBFHeKLwi6KIeI" height="315" width="560"></iframe>
-
-**P5 Parents Engagement – Science**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dTvyGjR68K8?si=oNb89USx02LVv6vR" height="315" width="560"></iframe>
-
-**P5 Compo Parents Engagement (CL) Part 1**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JMJc1_nWaiI?si=dNJ11AX5v2eYKKgH" height="315" width="560"></iframe>
-
-**P5 Compo Parents Engagement (CL) Part 2**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DQYP-Zr79-o?si=f4LMVmtfC-V51ZAG" height="315" width="560"></iframe>
-
-**P5 Parents Engagement – Mother Tongue (ML)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/x1SxkH879sU?si=mhO21TDB3J72nVFY" height="315" width="560"></iframe>
-
-**P5 Parents Engagement – Mother Tongue (TL)**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/o0t2FhtZKiU?si=TLQZAVk1P0JoC3t0" height="315" width="560"></iframe>
+<h3>P5 Parents Engagement</h3>
+<h4>Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.</h4>
+<p><em>“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”&nbsp; &nbsp; &nbsp; – Jane D. Hull</em>
+</p>
+<h4><strong>P5 Parents Engagement 2025 – English</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LanvNFOkWWE?si=uwwU96phJW_pKRU6"></iframe>
+</div>
+<p><a href="/files/2025_P5_Parent_Engagement_Handouts_EL.pdf" rel="noopener nofollow" target="_blank">2025 P5 Parent Engagement - English</a>
+</p>
+<h4><strong>P5 Parents Engagement 2025 – Mathematics</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dcywKfok3cE?si=9iyBFHeKLwi6KIeI"></iframe>
+</div>
+<p><a href="/files/2025_P5_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2025 P5 Parent Engagement - Mathematics</a>
+</p>
+<h4><strong>P5 Parents Engagement 2025 – Science</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dTvyGjR68K8?si=oNb89USx02LVv6vR"></iframe>
+</div>
+<p><a href="/files/2025_P5_Parent_engagement_SC.pdf" rel="noopener nofollow" target="_blank">2025 P5 Parent Engagement - Science</a>
+</p>
+<h4><strong>P5 Parents Engagement 2025 - CL</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kfFErGwBqeo?si=44uORo1bp7xByOsP"></iframe>
+</div>
+<h4><strong>P5 Parents Engagement 2025 – ML</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZwLrIBIjgAo?si=jIsoNUtscgivLgJa"></iframe>
+</div>
+<h4><strong>P5 Parents Engagement 2025 – TL</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s54idcOrqdI?si=R3cIp3ShdA5s2I7S"></iframe>
+</div>
+<p></p>

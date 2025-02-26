@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/yuhuagifupdated.gif
+      background: /images/YH95_Header__Updated_4_95mb_.gif
       key_highlights:
         - title: School's Achievements
           description: ""
@@ -15,12 +15,12 @@ sections:
         - title: E-Open House 2024
           description: ""
           url: /eopenhouse2024/
-        - title: Highlights
+        - title: Spotlight
           description: ""
           url: /highlights/2021
-        - title: APGD 2023
+        - title: YH95
           description: ""
-          url: /apgd2023
+          url: /yh95/
   - resources:
       subtitle: Announcements & News
       button: Click for more
