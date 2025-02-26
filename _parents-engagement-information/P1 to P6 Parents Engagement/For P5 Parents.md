@@ -11,19 +11,19 @@ variant: tiptap
 </p>
 <h4><strong>P5 Parents Engagement 2025 – English</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LanvNFOkWWE?si=uwwU96phJW_pKRU6"></iframe>
+<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WvMzVtdrlLk?si=bGmxIWCEfk16Mto5"></iframe>
 </div>
 <p><a href="/files/2025_P5_Parent_Engagement_Handouts_EL.pdf" rel="noopener nofollow" target="_blank">2025 P5 Parent Engagement - English</a>
 </p>
 <h4><strong>P5 Parents Engagement 2025 – Mathematics</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dcywKfok3cE?si=9iyBFHeKLwi6KIeI"></iframe>
+<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jK1MumB786M?si=jqUJfXF-Ux-zYwZp"></iframe>
 </div>
 <p><a href="/files/2025_P5_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2025 P5 Parent Engagement - Mathematics</a>
 </p>
 <h4><strong>P5 Parents Engagement 2025 – Science</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dTvyGjR68K8?si=oNb89USx02LVv6vR"></iframe>
+<iframe height="399" width="693" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cL3173JJ2Jg?si=LWKBvv5pcs_bDCgk"></iframe>
 </div>
 <p><a href="/files/2025_P5_Parent_engagement_SC.pdf" rel="noopener nofollow" target="_blank">2025 P5 Parent Engagement - Science</a>
 </p>
