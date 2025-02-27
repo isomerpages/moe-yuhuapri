@@ -9,6 +9,10 @@ variant: tiptap
 <h5>Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.</h5>
 <p><em>“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”&nbsp; &nbsp; &nbsp; – Jane D. Hull</em>
 </p>
+<h4><strong>Information on SBB and PSLE Scoring System</strong></h4>
+<p><a href="/files/P4_Info_on_SBB_and_PSLE_Scoring_System_for_parents.pdf" rel="noopener nofollow" target="_blank">P4 Information on SBB and PSLE Scoring System</a>
+</p>
+<p></p>
 <h4><strong>P4 Parents Engagement 2025 – English</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yrandZCqQUg?si=lTwYUD8XSmNx3TSc"></iframe>
@@ -30,4 +34,6 @@ variant: tiptap
 <h4><strong>P4 Parents Engagement 2025 – Mother Tongue (TL)</strong></h4>
 <p><a href="/files/2025_P4_Parent_Engagement_TL_New.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - TL</a>
 </p>
+<h4></h4>
+<p></p>
 <p></p>
