@@ -9,6 +9,9 @@ variant: tiptap
 <h5>Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.</h5>
 <p><em>“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”&nbsp; &nbsp; &nbsp; – Jane D. Hull</em>
 </p>
+<h4><strong>Information on PSLE Scoring System &amp; S1 Posting</strong></h4>
+<p><a href="/files/PSLE_2025__For_parents.pdf" rel="noopener nofollow" target="_blank">Information on PSLE Scoring System &amp; S1 Posting</a>
+</p>
 <h4><strong>P6 Parents Engagement 2025 - EL</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/30k9GrTtP98?si=pL4pgd0EXrVurBwC"></iframe>
