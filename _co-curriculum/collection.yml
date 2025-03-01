@@ -1,4 +1,5 @@
 collections:
   co-curriculum:
     output: true
-    order: []
+    order:
+      - Applied Learning Programme & Innovation.md
