@@ -2,7 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Co Curricular Activities (CCA)/Overview.md
-      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities/Overview.md
+      - Co Curricular Activities/.keep
       - Signature Programmes/Applied Learning Programme & Innovation.md
       - Signature Programmes/.keep
