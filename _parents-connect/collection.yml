@@ -1,5 +1,5 @@
 collections:
-  parents-engagement-information:
+  parents-connect:
     output: true
     order:
       - P1 to P6 Parents Engagement/.keep
