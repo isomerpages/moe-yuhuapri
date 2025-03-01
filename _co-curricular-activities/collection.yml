@@ -2,9 +2,9 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Performing Arts/Angklung & Kulintang Ensemble.md
-      - Performing Arts/.keep
-      - Clubs & Societies/.keep
-      - Sports & Games/.keep
       - Overview.md
+      - Sports & Games/.keep
+      - Clubs & Societies/.keep
+      - Performing Arts/.keep
+      - Performing Arts/Angklung & Kulintang Ensemble.md
+      - Uniformed Groups/.keep
