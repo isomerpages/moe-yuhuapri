@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Sports & Games/Basketball.md
       - Sports & Games/Badminton.md
       - Sports & Games/.keep
       - Clubs & Societies/Art & Crafts.md
