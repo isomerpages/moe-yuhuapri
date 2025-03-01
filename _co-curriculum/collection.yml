@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Uniformed Group/.keep
       - Signature Programmes/Learning for Life Programme (LLP).md
       - Signature Programmes/Programme for Active Learning.md
       - Signature Programmes/.keep
