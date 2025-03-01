@@ -8,6 +8,10 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://www.yuhuapri.moe.edu.sg/yuhualite-experience/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">ECG Tips For Parents</a>
 </p>
 </li>
@@ -37,6 +41,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://go.gov.sg/mysfpri" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal (Primary)</a>
+</p>
+</li>
+<li>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>
 <li>
