@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Sports & Games/Volleyball.md
       - Sports & Games/Track and Field.md
       - Sports & Games/Football.md
       - Sports & Games/Sepak Takraw.md
