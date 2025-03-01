@@ -1,5 +1,5 @@
 collections:
-  yuhualite-experience:
+  curriculum:
     output: true
     order:
       - English Language.md
