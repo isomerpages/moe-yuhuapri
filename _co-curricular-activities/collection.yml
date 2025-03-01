@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Volleyball.md
       - Overview.md
       - Sports & Games/Track and Field.md
       - Sports & Games/Football.md
