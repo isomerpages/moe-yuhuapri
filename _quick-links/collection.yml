@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Contact.md
       - For Students.md
       - For Teachers.md
       - For Parents.md
