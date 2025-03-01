@@ -2,12 +2,12 @@ collections:
   general-information:
     output: true
     order:
-      - School Services/Bookshop.md
-      - School Services/School Uniform.md
-      - School Services/Dental.md
-      - School Services/School Services.md
-      - School Services/Bus Service.md
       - School Services/.keep
+      - School Services/Bus Service.md
+      - School Services/Bookshop.md
+      - School Services/Dental.md
+      - School Services/School Uniform.md
+      - School Services/School Services.md
       - School Operating Hours.md
       - Student Learning Space (SLS).md
       - Canteen Food List.md
