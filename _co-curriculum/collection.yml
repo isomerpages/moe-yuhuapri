@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Signature Programmes/.keep
-      - Signature Programmes/Applied Learning Programme & Innovation.md
+      - Signature Programmes/Applied Learning Programme & Innovation (ALP).md
       - Signature Programmes/Learning for Life Programme (LLP).md
       - Signature Programmes/Programme for Active Learning.md
       - Student Leadership Development.md
