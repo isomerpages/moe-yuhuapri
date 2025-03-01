@@ -2,4 +2,5 @@ collections:
   quick-links:
     output: true
     order:
+      - Calendar of Events.md
       - Contact.md
