@@ -2,5 +2,5 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Angklung & Kulintang Ensemble.md
       - Overview.md
+      - Angklung & Kulintang Ensemble.md
