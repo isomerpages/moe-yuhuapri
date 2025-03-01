@@ -2,8 +2,8 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Student Leadership Development.md
       - Signature Programmes/.keep
       - Signature Programmes/Applied Learning Programme & Innovation.md
+      - Student Leadership Development.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Overview.md
