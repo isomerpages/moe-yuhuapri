@@ -12,7 +12,10 @@ variant: tiptap
 <h4><strong>Information on SBB and PSLE Scoring System</strong></h4>
 <p><a href="/files/P4_Info_on_SBB_and_PSLE_Scoring_System_for_parents.pdf" rel="noopener nofollow" target="_blank">P4 Information on SBB and PSLE Scoring System</a>
 </p>
-<p></p>
+<h4><strong>P4 Parents Engagement 2025 Teams Recording - English, Mathematics &amp; Science</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aj52Q1SkPag?si=s0o6Vqvg9uEfeqx9"></iframe>
+</div>
 <h4><strong>P4 Parents Engagement 2025 – English</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yrandZCqQUg?si=lTwYUD8XSmNx3TSc"></iframe>
@@ -26,6 +29,9 @@ variant: tiptap
 <p><a href="/files/2025_Parent_engagement_P4_SC.pdf" rel="noopener nofollow" target="_blank">2025 Parent Engagement Slides - Science</a>
 </p>
 <h4><strong>P4 Parents Engagement 2025 – Mother Tongue (CL)</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wYMqG7tBfHM?si=RVY5Cj23BBGwGPU-"></iframe>
+</div>
 <p><a href="/files/2025_P4_Parent_Engagement_CL.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - CL</a>
 </p>
 <h4><strong>P4 Parents Engagement 2025 – Mother Tongue (ML)</strong></h4>
