@@ -30,8 +30,6 @@ links:
         url: /general-information/school-services
       - title: Student Learning Space (SLS)
         url: /general-information/student-learning-space
-      - title: Calendar of Events
-        url: /general-information/calendar-of-events
       - title: Canteen Food List
         url: /general-information/canteen-food-list
       - title: GPA Insurance Policy(Students)
@@ -42,7 +40,7 @@ links:
         url: /general-information/useful-links/
       - title: Bus Service
         url: /general-information/bus-service/
-  - title: Yuhualite Experience
+  - title: Curriculum
     url: /yuhualite-experience/english-language/
     sublinks:
       - title: English Language
@@ -53,8 +51,6 @@ links:
         url: /yuhualite-experience/science/
       - title: Mother Tongue
         url: /yuhualite-experience/Mother-Tongue/
-      - title: Applied Learning Programme
-        url: /applied-learning-programme-innovation/
       - title: InfoComm Technology
         url: /yuhualite-experience/Infocomm-Technology/
       - title: Cyber Wellness
@@ -69,11 +65,16 @@ links:
         url: /yuhualite-experience/social-studies/
       - title: Character Education
         url: /yuhualite-experience/Character-Education/overview/
-      - title: Co-Curricular Activities
-        url: /yuhualite-experience/Co-Curricular-Activities/overview/
+  - title: Co-Curriculum
+    url: /yuhualite-experience/english-language/
+    sublinks:
+      - title: Signature Programmes
+        url: /applied-learning-programme-innovation/
       - title: Student Leadership Development
         url: /yuhualite-experience/pupil-leadership-development/
-  - title: Parents Engagement Information
+      - title: Co-Curricular Activities (CCA)
+        url: /yuhualite-experience/Co-Curricular-Activities/overview/
+  - title: Parents Connect
     url: /parents-engagement-information/P1-to-P6/
     sublinks:
       - title: P1 to P6 Parents Engagement
@@ -82,9 +83,20 @@ links:
         url: /parents-engagement-information/direct-school-admission-2024/
       - title: Sec School Open House 2024
         url: /parents-engagement-information/secondary-school-open-house-2024/
-      - title: Useful Links for Parents
+      - title: Quick Links for Parents
         url: /parents-engagement-information/useful-links-for-parents
       - title: Forms and Letters
         url: /parents-engagement-information/forms-and-letters
-  - title: Contact
+  - title: Quick Links
     url: /contact-us/
+    sublinks:
+      - title: Contact
+        url: /contact-us/
+      - title: For Students
+        url: /permalink
+      - title: For Parents
+        url: /parents-engagement-information/useful-links-for-parents
+      - title: For Teachers
+        url: /permalink
+      - title: School Calendar of Events
+        url: /general-information/calendar-of-events
