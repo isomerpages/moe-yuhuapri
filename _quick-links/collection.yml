@@ -2,8 +2,8 @@ collections:
   quick-links:
     output: true
     order:
-      - For Parents.md
-      - For Teachers.md
-      - For Students.md
       - Contact.md
+      - For Students.md
+      - For Teachers.md
+      - For Parents.md
       - Calendar of Events.md
