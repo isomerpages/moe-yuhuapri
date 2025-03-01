@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - Useful Links.md
       - Calendar of Events.md
       - Contact.md
