@@ -2,4 +2,5 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Signature Programmes.md
       - Applied Learning Programme & Innovation.md
