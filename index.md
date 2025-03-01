@@ -17,7 +17,7 @@ sections:
           url: /eopenhouse2024/
         - title: Spotlight
           description: ""
-          url: /highlights/2021
+          url: /2024-intouch-magazine/
         - title: YH95
           description: ""
           url: /yh95/
