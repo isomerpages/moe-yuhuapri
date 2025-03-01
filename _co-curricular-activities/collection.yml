@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/.keep
       - Sports & Games/.keep
       - Overview.md
       - Angklung & Kulintang Ensemble.md
