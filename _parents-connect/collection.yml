@@ -2,7 +2,6 @@ collections:
   parents-connect:
     output: true
     order:
-      - Parent's Support Group.md
       - P1 to P6 Parents Engagement/.keep
       - P1 to P6 Parents Engagement/Overview.md
       - P1 to P6 Parents Engagement/P1 Orientation (2024).md
@@ -17,3 +16,4 @@ collections:
       - Sec School Open House 2024.md
       - Useful Links for Parents.md
       - Forms and Letters.md
+      - Parent's Support Group.md
