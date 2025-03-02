@@ -34,4 +34,10 @@ sections:
       url: /eopenhouse2024/
       image: /images/open_house_banner_2024.jpg
       alt: Image alt text
+  - infopic:
+      title: Our Social Media Platforms
+      id: infopic
+      description: Scan the QR codes to visit our Facebook and Instagram pages!
+      image: /images/YHPS_Socials.png
+      alt: Image alt text
 ---
