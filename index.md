@@ -25,6 +25,12 @@ sections:
       subtitle: Announcements & News
       button: Click for more
   - infopic:
+      title: Our Social Media Platforms
+      id: infopic
+      description: Scan the QR codes to visit our Facebook and Instagram pages!
+      image: /images/YHPS_Socials.png
+      alt: Image alt text
+  - infopic:
       title: E-Open House 2024
       subtitle: E-Open House 2024
       description: Come and take a look at our E-Open House 2024.  Here, we share
@@ -33,11 +39,5 @@ sections:
       button: Click here
       url: /eopenhouse2024/
       image: /images/open_house_banner_2024.jpg
-      alt: Image alt text
-  - infopic:
-      title: Our Social Media Platforms
-      id: infopic
-      description: Scan the QR codes to visit our Facebook and Instagram pages!
-      image: /images/YHPS_Socials.png
       alt: Image alt text
 ---
