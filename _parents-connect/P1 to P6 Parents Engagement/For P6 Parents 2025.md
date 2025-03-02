@@ -12,6 +12,10 @@ variant: tiptap
 <h4><strong>Information on PSLE Scoring System &amp; S1 Posting</strong></h4>
 <p><a href="/files/PSLE_2025__For_parents.pdf" rel="noopener nofollow" target="_blank">Information on PSLE Scoring System &amp; S1 Posting</a>
 </p>
+<h4><strong>P6 Parents Engagement 2025 Teams Recording - English, Mathematics &amp; Science</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wS464J9TWy8?si=h_1X7eG4T89_6NR2"></iframe>
+</div>
 <h4><strong>P6 Parents Engagement 2025 - EL</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/30k9GrTtP98?si=pL4pgd0EXrVurBwC"></iframe>
@@ -25,6 +29,9 @@ variant: tiptap
 <p><a href="/files/2025_Parent_engagement_P6_SC.pdf" rel="noopener nofollow" target="_blank">2025 P6 Parents Engagement Slides - Science</a>
 </p>
 <h4><strong>P6 Parents Engagement 2025 - CL</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_jBQvpGqhVI?si=pKKnNGTVsRO1mvii"></iframe>
+</div>
 <p><a href="/files/2025_P6_Parent_Engagement_CL.pdf" rel="noopener nofollow" target="_blank">2025 P6 Parents Engagement Slides - CL</a>
 </p>
 <h4><strong>P6 Parents Engagement 2025 - ML</strong></h4>
