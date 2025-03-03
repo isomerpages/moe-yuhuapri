@@ -1,11 +1,9 @@
 ---
 title: Our Discipline Master, Mr Musa, featured on CNA
-permalink: /announcements/news/disciplinemasterCNA/
-date: 2023-02-22
-layout: post
-description: ""
-image: /images/MusapicCNA.jpg
+permalink: /our-discipline-master-mr-musa-featured-on-cna/
 variant: tiptap
+description: ""
+third_nav_title: Highlights for 2023
 ---
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/MusapicCNA.jpg">

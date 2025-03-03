@@ -1,0 +1,8 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - For Students.md
+      - For Teachers.md
+      - For Parents.md
+      - Calendar of Events.md

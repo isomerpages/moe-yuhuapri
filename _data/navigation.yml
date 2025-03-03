@@ -17,8 +17,6 @@ links:
         url: /school-information/Staff/Overview
       - title: School Advisory Committee
         url: /school-information/school-advisory-committee
-      - title: Parent's Support Group
-        url: /school-information/parents-support-group
       - title: YH95
         url: /yh95/
   - title: General Information
@@ -27,53 +25,44 @@ links:
       - title: School Operating Hours
         url: /general-information/school-operating-hours
       - title: School Services
-        url: /general-information/school-services
+        url: /general-information/school-services/bus-service/
       - title: Student Learning Space (SLS)
         url: /general-information/student-learning-space
-      - title: Calendar of Events
-        url: /general-information/calendar-of-events
       - title: Canteen Food List
         url: /general-information/canteen-food-list
       - title: GPA Insurance Policy(Students)
         url: /general-information/GPA-insurance-policy-for-students/
       - title: Usage of Photographs & Videos
         url: /general-information/usage-of-photographs-and-videos
-      - title: Useful Links
-        url: /general-information/useful-links/
-      - title: Bus Service
-        url: /general-information/bus-service/
-  - title: Yuhualite Experience
-    url: /yuhualite-experience/english-language/
+  - title: Curriculum
+    url: /curriculum/english-language/
     sublinks:
       - title: English Language
-        url: /yuhualite-experience/english-language/
+        url: /curriculum/english-language/
       - title: Mathematics
-        url: /yuhualite-experience/mathematics/
+        url: /curriculum/mathematics/
       - title: Science
-        url: /yuhualite-experience/science/
+        url: /curriculum/science/
       - title: Mother Tongue
-        url: /yuhualite-experience/Mother-Tongue/
-      - title: Applied Learning Programme
-        url: /applied-learning-programme-innovation/
-      - title: InfoComm Technology
-        url: /yuhualite-experience/Infocomm-Technology/
-      - title: Cyber Wellness
-        url: /yuhualite-experience/cyber-wellness/
-      - title: Programme for Active Learning
-        url: /yuhualite-experience/programme-for-active-learning/
+        url: /curriculum/mother-tongue/
       - title: Aesthetics
-        url: /yuhualite-experience/Aesthetics/overview/
+        url: /curriculum/aesthetics/overview/
       - title: Physical Education
-        url: /yuhualite-experience/physical-and-health-education/
+        url: /curriculum/physical-and-health-education/
       - title: Social Studies
-        url: /yuhualite-experience/social-studies/
+        url: /curriculum/social-studies/
       - title: Character Education
-        url: /yuhualite-experience/Character-Education/overview/
-      - title: Co-Curricular Activities
-        url: /yuhualite-experience/Co-Curricular-Activities/overview/
+        url: /curriculum/character-education/overview/
+  - title: Co-Curriculum
+    url: /co-curriculum/signature-programmes/applied-learning-programme-innovation/
+    sublinks:
+      - title: Signature Programmes
+        url: /co-curriculum/signature-programmes/applied-learning-programme-innovation/
       - title: Student Leadership Development
-        url: /yuhualite-experience/pupil-leadership-development/
-  - title: Parents Engagement Information
+        url: /co-curriculum/pupil-leadership-development/
+      - title: Co-Curricular Activities (CCA)
+        url: /co-curricular-activities/overview/
+  - title: Parents Connect
     url: /parents-engagement-information/P1-to-P6/
     sublinks:
       - title: P1 to P6 Parents Engagement
@@ -82,9 +71,22 @@ links:
         url: /parents-engagement-information/direct-school-admission-2024/
       - title: Sec School Open House 2024
         url: /parents-engagement-information/secondary-school-open-house-2024/
-      - title: Useful Links for Parents
+      - title: Quick Links for Parents
         url: /parents-engagement-information/useful-links-for-parents
       - title: Forms and Letters
         url: /parents-engagement-information/forms-and-letters
+      - title: Parent's Support Group
+        url: /parents-connect/parents-support-group/
+  - title: Quick Links
+    url: /contact-us/
+    sublinks:
+      - title: For Students
+        url: /quick-links/for-students/
+      - title: For Parents
+        url: /quick-links/for-parents/
+      - title: For Teachers
+        url: /quick-links/for-teachers/
+      - title: School Calendar of Events
+        url: /quick-links/calendar-of-events/
   - title: Contact
     url: /contact-us/
