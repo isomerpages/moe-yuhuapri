@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>SBB Information</strong>
+<p><strong>Information on SBB</strong>
 </p>
 </li>
 <li>
