@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>PSLE Scoring &amp; S1 Posting Information</strong>
+<p><strong>Information on PSLE Scoring &amp; S1 Posting</strong>
 </p>
 </li>
 <li>
