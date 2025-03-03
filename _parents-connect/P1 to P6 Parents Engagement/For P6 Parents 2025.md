@@ -12,7 +12,23 @@ variant: tiptap
 <h4><strong>Information on PSLE Scoring System &amp; S1 Posting</strong></h4>
 <p><a href="/files/PSLE_2025__For_parents.pdf" rel="noopener nofollow" target="_blank">Information on PSLE Scoring System &amp; S1 Posting</a>
 </p>
-<h4><strong>P6 Parents Engagement 2025 Teams Recording - English, Mathematics &amp; Science</strong></h4>
+<h4><strong>P6 Parents Engagement 2025 Teams Recording</strong></h4>
+<blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>YH Sharing on Caring for our Children's Well-Being</strong>
+</p>
+</li>
+<li>
+<p><strong>PSLE Scoring &amp; S1 Posting Information</strong>
+</p>
+</li>
+<li>
+<p><strong>Sharing on English, Mathematics &amp; Science</strong>
+</p>
+</li>
+</ul>
+</blockquote>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wS464J9TWy8?si=h_1X7eG4T89_6NR2"></iframe>
 </div>
