@@ -1,0 +1,21 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Overview.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - Aesthetics/.keep
+      - Aesthetics/Overview.md
+      - Aesthetics/Singapore Youth Festival (SYF) Songwriting Achievements.md
+      - Physical Education.md
+      - Social Studies.md
+      - Character Education (CCE)/.keep
+      - Character Education (CCE)/Overview.md
+      - Character Education (CCE)/Cyber Wellness.md
+      - Character Education (CCE)/Sexuality Education.md

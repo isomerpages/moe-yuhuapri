@@ -1,0 +1,15 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - School Operating Hours.md
+      - School Services/.keep
+      - School Services/Bus Service.md
+      - School Services/Bookshop.md
+      - School Services/Dental.md
+      - School Services/School Uniform.md
+      - School Services/Student Care Center.md
+      - Student Learning Space (SLS).md
+      - Canteen Food List.md
+      - GPA Insurance Policy for Students.md
+      - Usage of Photographs and Videos.md

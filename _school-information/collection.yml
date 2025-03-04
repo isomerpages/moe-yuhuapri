@@ -1,0 +1,16 @@
+collections:
+  school-information:
+    output: true
+    order:
+      - Principal's Message.md
+      - Mission, Vision & Values.md
+      - School History.md
+      - School Song.md
+      - School Crest.md
+      - Staff/.keep
+      - Staff/Overview.md
+      - Staff/Management Team.md
+      - Staff/Form Teachers.md
+      - Staff/School Administration Team.md
+      - Staff/Support Staff.md
+      - School Advisory Committee.md

@@ -1,0 +1,92 @@
+logo: /images/yuhualogo.png
+links:
+  - title: About Us
+    url: /school-information/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /school-information/principals-message
+      - title: Mission, Vision, Values
+        url: /school-information/mission-vision-and-values
+      - title: School History
+        url: /school-information/school-history
+      - title: School Song
+        url: /school-information/school-song
+      - title: School Crest
+        url: /school-information/school-crest
+      - title: Staff
+        url: /school-information/Staff/Overview
+      - title: School Advisory Committee
+        url: /school-information/school-advisory-committee
+      - title: YH95
+        url: /yh95/
+  - title: General Information
+    url: /general-information/school-operating-hours
+    sublinks:
+      - title: School Operating Hours
+        url: /general-information/school-operating-hours
+      - title: School Services
+        url: /general-information/school-services/bus-service/
+      - title: Student Learning Space (SLS)
+        url: /general-information/student-learning-space
+      - title: Canteen Food List
+        url: /general-information/canteen-food-list
+      - title: GPA Insurance Policy(Students)
+        url: /general-information/GPA-insurance-policy-for-students/
+      - title: Usage of Photographs & Videos
+        url: /general-information/usage-of-photographs-and-videos
+  - title: Curriculum
+    url: /curriculum/english-language/
+    sublinks:
+      - title: English Language
+        url: /curriculum/english-language/
+      - title: Mathematics
+        url: /curriculum/mathematics/
+      - title: Science
+        url: /curriculum/science/
+      - title: Mother Tongue
+        url: /curriculum/mother-tongue/
+      - title: Aesthetics
+        url: /curriculum/aesthetics/overview/
+      - title: Physical Education
+        url: /curriculum/physical-and-health-education/
+      - title: Social Studies
+        url: /curriculum/social-studies/
+      - title: Character Education
+        url: /curriculum/character-education/overview/
+  - title: Co-Curriculum
+    url: /co-curriculum/signature-programmes/applied-learning-programme-innovation/
+    sublinks:
+      - title: Signature Programmes
+        url: /co-curriculum/signature-programmes/applied-learning-programme-innovation/
+      - title: Student Leadership Development
+        url: /co-curriculum/pupil-leadership-development/
+      - title: Co-Curricular Activities (CCA)
+        url: /co-curricular-activities/overview/
+  - title: Parents Connect
+    url: /parents-engagement-information/P1-to-P6/
+    sublinks:
+      - title: P1 to P6 Parents Engagement
+        url: /parents-engagement-information/P1-to-P6/
+      - title: Direct School Admission 2024
+        url: /parents-engagement-information/direct-school-admission-2024/
+      - title: Sec School Open House 2024
+        url: /parents-engagement-information/secondary-school-open-house-2024/
+      - title: Quick Links for Parents
+        url: /parents-engagement-information/useful-links-for-parents
+      - title: Forms and Letters
+        url: /parents-engagement-information/forms-and-letters
+      - title: Parent's Support Group
+        url: /parents-connect/parents-support-group/
+  - title: Quick Links
+    url: /contact-us/
+    sublinks:
+      - title: For Students
+        url: /quick-links/for-students/
+      - title: For Parents
+        url: /quick-links/for-parents/
+      - title: For Teachers
+        url: /quick-links/for-teachers/
+      - title: School Calendar of Events
+        url: /quick-links/calendar-of-events/
+  - title: Contact
+    url: /contact-us/
