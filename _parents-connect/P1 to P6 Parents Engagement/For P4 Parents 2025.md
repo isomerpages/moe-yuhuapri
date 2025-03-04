@@ -9,9 +9,6 @@ variant: tiptap
 <h5>Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.</h5>
 <p><em>“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”&nbsp; &nbsp; &nbsp; – Jane D. Hull</em>
 </p>
-<h4><strong>Information on SBB and PSLE Scoring System</strong></h4>
-<p><a href="/files/P4_Info_on_SBB_and_PSLE_Scoring_System_for_parents.pdf" rel="noopener nofollow" target="_blank">P4 Information on SBB and PSLE Scoring System</a>
-</p>
 <h4><strong>P4 Parents Engagement 2025 Teams Recording</strong></h4>
 <blockquote>
 <ul data-tight="true" class="tight">
@@ -30,9 +27,10 @@ variant: tiptap
 </ul>
 </blockquote>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aj52Q1SkPag?si=s0o6Vqvg9uEfeqx9"></iframe>
+<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aj52Q1SkPag?si=s0o6Vqvg9uEfeqx9"></iframe>
 </div>
-<p></p>
+<p><a href="/files/P4_Info_on_SBB_and_PSLE_Scoring_System_for_parents.pdf" rel="noopener nofollow" target="_blank">P4 Information on SBB and PSLE Scoring System</a>
+</p>
 <h4><strong>P4 Parents Engagement 2025 – English</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yrandZCqQUg?si=lTwYUD8XSmNx3TSc"></iframe>
