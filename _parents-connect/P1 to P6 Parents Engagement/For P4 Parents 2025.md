@@ -27,7 +27,7 @@ variant: tiptap
 </ul>
 </blockquote>
 <div class="iframe-wrapper">
-<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aj52Q1SkPag?si=s0o6Vqvg9uEfeqx9"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aj52Q1SkPag?si=s0o6Vqvg9uEfeqx9"></iframe>
 </div>
 <p><a href="/files/P4_Info_on_SBB_and_PSLE_Scoring_System_for_parents.pdf" rel="noopener nofollow" target="_blank">P4 Information on SBB and PSLE Scoring System</a>
 </p>
