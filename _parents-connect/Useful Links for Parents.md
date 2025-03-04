@@ -82,8 +82,6 @@ variant: tiptap
 <li>
 <p><a href="https://go.gov.sg/welcome-to-secondary-school" rel="noopener noreferrer nofollow" target="_blank">“Welcome to Secondary School” video</a>
 </p>
-<p></p>
-<p></p>
 </li>
 </ul>
 <p></p>
