@@ -20,8 +20,10 @@ variant: tiptap
 <p>Mondays to Fridays: 7.45 a.m. to 1.30 p.m
 <br><strong><em>P4 to P6 ends at 2:30 p.m. on Thursdays</em></strong>
 <br>
-<br>Morning assembly starts at 7.45 a.m.
-<br>Silent reading is conducted daily at the assembly area before the start
+<br>The first teaching period starts at 7.45 a.m.</p>
+<p>Students are advised to be seated in the School Hall or Classroom by 7.35
+a.m.</p>
+<p>Silent reading is conducted daily at the assembly area before the start
 of the morning assembly. Students are expected to bring a story book to
 read during the silent reading session.</p>
 </td>
