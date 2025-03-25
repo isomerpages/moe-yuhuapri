@@ -224,6 +224,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LIM ZUO ER JOEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_zuo_er_joey@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -345,6 +356,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS EMMAUS TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>emmaus_tan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2HONESTY</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -450,6 +472,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chuan_lim@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR G RISHIIKEASAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>g_rishiikeasan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -793,6 +826,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LIM JIE LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_jie_lin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -859,6 +903,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR AMINURASHID BIN SUPAHAK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_aminurashid_bin_supahak@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5DILIGENCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -877,17 +932,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>purushothaman_padmini@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR G RISHIIKEASAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>g_rishiikeasan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
