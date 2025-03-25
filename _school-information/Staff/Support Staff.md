@@ -41,24 +41,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Soniajeet Kaur</strong>
-<br>Science Lab Assistant</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Mr Jamil Bin Abdul Majid</strong>
 <br>Science Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Saemah Binte Ali</strong>
 <br>Library Assistant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
