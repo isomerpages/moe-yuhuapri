@@ -27,13 +27,26 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Muhamad Zahin Akid Bin Makhizu</strong>
-</p>
-<p>Desktop Engineer</p>
+<br>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
+<p><strong>Mr Muhammad Harith Hafiz B Modh Din</strong>
+<br>Desktop Engineer
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Soniajeet Kaur</strong>
+<br>Science Lab Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jamil Bin Abdul Majid</strong>
+<br>Science Lab Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -46,6 +59,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Lim Cheng Ban</strong>
+<br>Security Guard</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lynda Saroja Sandaram</strong>
+<br>Security Guard</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
