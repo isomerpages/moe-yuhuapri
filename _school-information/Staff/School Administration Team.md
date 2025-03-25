@@ -54,11 +54,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Raja Swaminathan</strong>
+<p><strong>Mdm Loke Shiong Wah</strong>
 <br>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Loke Shiong Wah</strong>
+<p><strong>Mdm Irene Lee </strong>
 <br>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,8 +68,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Irene Lee </strong>
-<br>Corporate Support Officer</p>
+<p><strong>Mdm Ang Lay Hoon (Linda)</strong>
+<br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Hamdan Bin Omar</strong>
@@ -82,31 +82,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ang Lay Hoon (Linda)</strong>
-<br>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Ah Geok</strong>
 <br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Loh Kah Yin</strong>
+<p><strong>Mr Loh Kah Yin (Benny)</strong>
+<br>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Ng Siew Ling</strong>
 <br>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ng Siew Ling</strong>
-<br>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Mdm Mandy Ong</strong>
 <br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Soniajeet Kaur</strong>
-</p>
-<p>Lab Technician</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -116,16 +113,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Jess Lin Ching Lian</strong>
-<br>AED/LBS</p>
+<br>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Nur Aini Binti Rosli</strong>
-<br>AED/LBS</p>
+<br>SEN Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mdm Nurfadilah Binte Abdul Muttalib</strong>
+<br>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
