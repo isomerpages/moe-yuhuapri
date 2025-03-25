@@ -120,6 +120,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Emmaus Tan (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>emmaus_tan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>G Rishiikeasan (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -320,6 +328,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Lim Jie Lin (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_jie_lin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lim Jia Ying Germaine (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -452,6 +468,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>md_noor_faisal_abdul@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Aminurashid Bin Supahak (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_aminurashid_bin_supahak@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
