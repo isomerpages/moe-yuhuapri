@@ -100,13 +100,10 @@ variant: tiptap
 <br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Soniajeet Kaur</strong>
-<br>Support Staff</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Jamil Bin Abdul Majid</strong>
-<br>Support Staff/Science Lab Assistant</p>
+<p></p>
 </td>
 </tr>
 <tr>
