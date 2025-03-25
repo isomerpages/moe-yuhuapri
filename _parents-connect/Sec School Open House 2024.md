@@ -4,7 +4,7 @@ permalink: /parents-engagement-information/secondary-school-open-house-2024/
 description: ""
 variant: tiptap
 ---
-<h3>Secondary School Open House 2024</h3>
+<h3>Secondary School Open House 2025</h3>
 <p></p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -49,7 +49,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>(Wed)</strong>
 </p>
-<p><strong>20 Nov </strong>
+<p><strong>20 Nov</strong>
 </p>
 <p>21-22 <strong>(Thurs- Fri)</strong>
 </p>
