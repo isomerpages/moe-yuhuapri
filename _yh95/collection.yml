@@ -1,4 +1,5 @@
 collections:
   yh95:
     output: true
-    order: []
+    order:
+      - YH95.md
