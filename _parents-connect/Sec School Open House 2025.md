@@ -92,6 +92,31 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Sports School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 5 April 2025</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 1:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Sports School</p>
+<p><em>1 Champions Way, Singapore 737913</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.sportsschool.edu.sg/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
