@@ -117,6 +117,31 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hwa Chong International School (HCIS)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 5 April 2025</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 2:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hwa Chong International School</p>
+<p><em>663 Bukit Timah Road, Singapore 269783</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.hcis.edu.sg/experiencehcis-open-house-2025/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
