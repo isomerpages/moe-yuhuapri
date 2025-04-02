@@ -12,9 +12,9 @@ sections:
         - title: School's Achievements
           description: ""
           url: /school-achievements/2021
-        - title: E-Open House 2024
+        - title: E-Open House 2025
           description: ""
-          url: /eopenhouse2024/
+          url: /eopenhouse2025/
         - title: Spotlight
           description: ""
           url: /2024-intouch-magazine/
@@ -31,13 +31,11 @@ sections:
       image: /images/YHPS_Socials.png
       alt: Image alt text
   - infopic:
-      title: E-Open House 2024
-      subtitle: E-Open House 2024
-      description: Come and take a look at our E-Open House 2024.  Here, we share
-        about our school facilities via a virtual tour, Primary 1 programmes and
-        student voices with you.
+      title: E-Open House 2025
+      subtitle: E-Open House 2025
+      description: More details coming up soon! Stay tuned!
       button: Click here
-      url: /eopenhouse2024/
+      url: /eopenhouse2025/
       image: /images/open_house_banner_2024.jpg
       alt: Image alt text
 ---
