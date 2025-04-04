@@ -2,7 +2,6 @@ collections:
   parents-connect:
     output: true
     order:
-      - Useful Links for Parents.md
       - P1 to P6 Parents Engagement/.keep
       - P1 to P6 Parents Engagement/Overview.md
       - P1 to P6 Parents Engagement/P1 Orientation (2024).md
@@ -14,4 +13,5 @@ collections:
       - P1 to P6 Parents Engagement/For P6 Parents 2025.md
       - Direct School Admission (DSA).md
       - Sec School Open House.md
+      - Useful Links for Parents.md
       - Parent's Support Group.md
