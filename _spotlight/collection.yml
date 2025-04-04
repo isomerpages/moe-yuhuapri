@@ -2,6 +2,7 @@ collections:
   spotlight:
     output: true
     order:
+      - Highlights for 2021.md
       - Inspiring Teacher of English Award 2021.md
       - 2024 InTouch Magazine.md
       - Our Discipline Master, Mr Musa, featured on CNA.md
