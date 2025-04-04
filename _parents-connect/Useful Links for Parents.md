@@ -12,6 +12,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener nofollow" target="_blank">Digital Access @ Home</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">ECG Tips For Parents</a>
 </p>
 </li>
