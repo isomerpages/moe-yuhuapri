@@ -1,5 +1,5 @@
 collections:
-  highlights:
+  spotlight:
     output: true
     order:
       - Highlights for 2024/2024 InTouch Magazine.md
