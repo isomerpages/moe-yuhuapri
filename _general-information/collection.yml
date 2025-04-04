@@ -2,7 +2,7 @@ collections:
   general-information:
     output: true
     order:
-      - School Hours, Dismissal and Visitation.md
+      - School Hours, Dismissal, Visitation.md
       - School Services/.keep
       - School Services/Bus Service.md
       - School Services/Bookshop.md
