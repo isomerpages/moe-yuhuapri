@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Signature Programmes/.keep
-      - Signature Programmes/Applied Learning Programme & Innovation (ALP).md
+      - Signature Programmes/Think@Yuhua.md
       - Signature Programmes/Learning for Life Programme (LLP).md
       - Signature Programmes/Programme for Active Learning (PAL).md
       - Signature Programmes/Infocomm Technology (ICT).md
