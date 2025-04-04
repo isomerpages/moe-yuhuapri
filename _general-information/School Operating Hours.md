@@ -4,7 +4,7 @@ permalink: /general-information/school-operating-hours/
 description: ""
 variant: tiptap
 ---
-<h3>School Operating Hours</h3>
+<h3></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
