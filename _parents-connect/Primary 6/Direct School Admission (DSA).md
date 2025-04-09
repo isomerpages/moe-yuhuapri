@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Primary 6
 ---
-<h3>Direct School Admission (DSA) 2024</h3>
+<h3>Direct School Admission (DSA)</h3>
 <p></p>
 <p>Here is the link to the MOE Direct School Admission (Secondary) webpage
 for updates on DSA timelines and information:</p>
