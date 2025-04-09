@@ -2,6 +2,7 @@ collections:
   parents-connect:
     output: true
     order:
+      - Primary 6/Direct School Admission (DSA).md
       - Primary 6/.keep
       - Primary 5/.keep
       - Primary 4/.keep
