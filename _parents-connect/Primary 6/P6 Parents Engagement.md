@@ -1,8 +1,8 @@
 ---
-title: For P6 Parents 2025
+title: P6 Parents Engagement
 permalink: /parents-engagement-information/p6/
 description: ""
-third_nav_title: P1 to P6 Parents Engagement
+third_nav_title: Primary 6
 variant: tiptap
 ---
 <h3>P6 Parents Engagement</h3>

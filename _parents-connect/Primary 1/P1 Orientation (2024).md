@@ -3,7 +3,7 @@ title: P1 Orientation (2024)
 permalink: /p1-orientation-2024/
 variant: tiptap
 description: ""
-third_nav_title: P1 to P6 Parents Engagement
+third_nav_title: Primary 1
 ---
 <p>Dear Parents/ Guardians of our 2025 P1 Cohort,</p>
 <p>Thank you for joining us at our recent P1 Orientation Day held last Friday,

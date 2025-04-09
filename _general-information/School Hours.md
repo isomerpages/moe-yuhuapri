@@ -1,10 +1,10 @@
 ---
-title: School Operating Hours
-permalink: /general-information/school-operating-hours/
+title: School Hours
+permalink: /general-information/school-hours/
 description: ""
 variant: tiptap
 ---
-<h3>School Operating Hours</h3>
+<h3></h3>
 <table style="minWidth: 25px">
 <colgroup>
 <col>

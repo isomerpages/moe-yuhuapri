@@ -1,8 +1,9 @@
 ---
-title: Sec School Open House 2025
+title: Sec School Open House
 permalink: /parents-engagement-information/secondary-school-open-house-2025/
 description: ""
 variant: tiptap
+third_nav_title: Primary 6
 ---
 <h3>Secondary School Open House 2025</h3>
 <p></p>
@@ -54,7 +55,6 @@ variant: tiptap
 <p>9:00am - 3:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of the Arts (SOTA)</p>
 <p><em>1 Zubir Said Drive, Administration Office #05-01,<br>Singapore 227968</em>
 </p>
 </td>
@@ -79,8 +79,6 @@ variant: tiptap
 <p>8:30am - 12:30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACS (Independent)</p>
-<p></p>
 <p><em>121 Dover Road, Singapore 139650</em>
 </p>
 </td>
@@ -105,7 +103,6 @@ variant: tiptap
 <p>9:00am - 1:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Sports School</p>
 <p><em>1 Champions Way, Singapore 737913</em>
 </p>
 </td>
@@ -130,7 +127,6 @@ variant: tiptap
 <p>9:00am - 2:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hwa Chong International School</p>
 <p><em>663 Bukit Timah Road, Singapore 269783</em>
 </p>
 </td>

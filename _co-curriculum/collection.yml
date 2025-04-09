@@ -3,9 +3,11 @@ collections:
     output: true
     order:
       - Signature Programmes/.keep
-      - Signature Programmes/Applied Learning Programme & Innovation (ALP).md
-      - Signature Programmes/Learning for Life Programme (LLP).md
-      - Signature Programmes/Programme for Active Learning (PAL).md
-      - Signature Programmes/Infocomm Technology (ICT).md
-      - Signature Programmes/Code for Fun (CFF).md
+      - Signature Programmes/Think@Yuhua.md
+      - Signature Programmes/Building Good Character Through Music & Performing
+        Arts.md
+      - Digital Literacy/.keep
+      - Digital Literacy/Infocomm Technology (ICT).md
+      - Digital Literacy/Code for Fun (CFF).md
+      - Programme for Active Learning (PAL).md
       - Student Leadership Development.md

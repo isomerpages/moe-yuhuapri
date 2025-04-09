@@ -22,7 +22,7 @@ links:
   - title: General Information
     url: /general-information/school-operating-hours
     sublinks:
-      - title: School Operating Hours
+      - title: School Hours
         url: /general-information/school-operating-hours
       - title: School Services
         url: /general-information/school-services/bus-service/
@@ -58,23 +58,21 @@ links:
     sublinks:
       - title: Signature Programmes
         url: /co-curriculum/signature-programmes/applied-learning-programme-innovation/
-      - title: Student Leadership Development
-        url: /co-curriculum/pupil-leadership-development/
       - title: Co-Curricular Activities (CCA)
         url: /co-curricular-activities/overview/
+      - title: Digital Literacy
+        url: /co-curriculum/signature-programmes/infocomm-technology/
+      - title: Programme for Active Learning
+        url: /co-curriculum/signature-programmes/programme-for-active-learning/
+      - title: Student Leadership Development
+        url: /co-curriculum/pupil-leadership-development/
   - title: Parents Connect
-    url: /parents-engagement-information/P1-to-P6/
+    url: /parents-engagement-information/p1-to-p6/
     sublinks:
       - title: P1 to P6 Parents Engagement
-        url: /parents-engagement-information/P1-to-P6/
-      - title: Direct School Admission 2024
-        url: /parents-engagement-information/direct-school-admission-2024/
-      - title: Sec School Open House 2025
-        url: /parents-engagement-information/secondary-school-open-house-2025/
+        url: /parents-engagement-information/p1-to-p6/
       - title: Quick Links for Parents
-        url: /parents-engagement-information/useful-links-for-parents
-      - title: Forms and Letters
-        url: /parents-engagement-information/forms-and-letters
+        url: /parents-engagement-information/useful-links-for-parents/
       - title: Parent's Support Group
         url: /parents-connect/parents-support-group/
   - title: Quick Links

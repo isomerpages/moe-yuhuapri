@@ -2,7 +2,6 @@
 title: Highlights for 2021
 permalink: /highlights/2021/
 description: ""
-third_nav_title: Highlights for 2021
 variant: tiptap
 ---
 <h3><strong>Highlights for 2021</strong></h3>

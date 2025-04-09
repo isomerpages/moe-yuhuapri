@@ -39,8 +39,7 @@ during community events.</p>
 <p>Purushothaman Padmini (MDM) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>to be updated</em>
-</p>
+<p>puroshothaman_padmini@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

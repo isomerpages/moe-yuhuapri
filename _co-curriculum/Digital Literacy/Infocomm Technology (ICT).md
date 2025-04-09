@@ -2,7 +2,7 @@
 title: Infocomm Technology (ICT)
 permalink: /co-curriculum/signature-programmes/infocomm-technology/
 description: ""
-third_nav_title: Signature Programmes
+third_nav_title: Digital Literacy
 variant: tiptap
 ---
 <h3>ICT Programme</h3>

@@ -2,17 +2,20 @@ collections:
   parents-connect:
     output: true
     order:
-      - P1 to P6 Parents Engagement/.keep
-      - P1 to P6 Parents Engagement/Overview.md
-      - P1 to P6 Parents Engagement/P1 Orientation (2024).md
-      - P1 to P6 Parents Engagement/For P1 Parents 2025.md
-      - P1 to P6 Parents Engagement/For P2 Parents.md
-      - P1 to P6 Parents Engagement/For P3 Parents.md
-      - P1 to P6 Parents Engagement/For P4 Parents 2025.md
-      - P1 to P6 Parents Engagement/For P5 Parents.md
-      - P1 to P6 Parents Engagement/For P6 Parents 2025.md
-      - Direct School Admission (DSA) 2024.md
-      - Sec School Open House 2025.md
+      - Primary 1/.keep
+      - Primary 1/P1 Parents Engagement.md
+      - Primary 1/P1 Orientation (2024).md
+      - Primary 2/.keep
+      - Primary 2/P2 Parents Engagement.md
+      - Primary 3/.keep
+      - Primary 3/P3 Parents Engagement.md
+      - Primary 4/.keep
+      - Primary 4/P4 Parents Engagement.md
+      - Primary 5/.keep
+      - Primary 5/P5 Parents Engagement.md
+      - Primary 6/.keep
+      - Primary 6/P6 Parents Engagement.md
+      - Primary 6/Sec School Open House.md
+      - Primary 6/Direct School Admission (DSA).md
       - Useful Links for Parents.md
-      - Forms and Letters.md
       - Parent's Support Group.md

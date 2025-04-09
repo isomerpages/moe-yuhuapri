@@ -1,5 +1,5 @@
 ---
-title: Learning for Life Programme (LLP)
+title: Building Good Character Through Music & Performing Arts
 permalink: /co-curriculum/signature-programmes/learning-for-life-programme/
 description: ""
 third_nav_title: Signature Programmes

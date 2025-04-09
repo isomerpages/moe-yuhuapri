@@ -1,8 +1,8 @@
 ---
-title: For P2 Parents
-permalink: /parents-engagement-information/P2/
+title: P2 Parents Engagement
+permalink: /parents-engagement-information/p2/
 description: ""
-third_nav_title: P1 to P6 Parents Engagement
+third_nav_title: Primary 2
 variant: tiptap
 ---
 <h3>P2 Parents Engagement</h3>

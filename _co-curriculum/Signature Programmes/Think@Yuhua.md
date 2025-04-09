@@ -1,5 +1,5 @@
 ---
-title: Applied Learning Programme & Innovation (ALP)
+title: Think@Yuhua
 permalink: /co-curriculum/signature-programmes/applied-learning-programme-innovation/
 variant: tiptap
 description: ""

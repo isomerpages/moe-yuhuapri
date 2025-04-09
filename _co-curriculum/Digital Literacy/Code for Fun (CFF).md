@@ -2,7 +2,7 @@
 title: Code for Fun (CFF)
 permalink: /co-curriculum/signature-programmes/code-for-fun/
 description: ""
-third_nav_title: Signature Programmes
+third_nav_title: Digital Literacy
 variant: tiptap
 ---
 ### Code for Fun (CFF)
