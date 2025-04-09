@@ -2,7 +2,7 @@ collections:
   parents-connect:
     output: true
     order:
-      - Primary 6/For P6 Parents.md
+      - Primary 6/P6 Parents Engagement.md
       - Primary 6/Sec School Open House.md
       - Primary 6/Direct School Admission (DSA).md
       - Primary 6/.keep
