@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - P3/.keep
-      - P2/.keep
+      - Primary 2/.keep
       - Primary 1/P1 Parents Engagement.md
       - Primary 1/P1 Orientation (2024).md
       - Primary 1/.keep
