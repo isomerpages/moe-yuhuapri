@@ -2,7 +2,7 @@ collections:
   parents-connect:
     output: true
     order:
-      - P3 Parents/.keep
+      - P3/.keep
       - P2/.keep
       - P1/P1 Parents Engagement.md
       - P1/P1 Orientation (2024).md
