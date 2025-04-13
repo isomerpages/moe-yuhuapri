@@ -6,6 +6,9 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <h3>Infocomm Technology (Media Production)</h3>
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKgIiTuMpQdCbDAaSYX3E6g36JGoMQkr9oRhwojhGAPb03r9unDmKF3EXNno_7F0UsD3NsoBacLl1L/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>The Infocomm Technology (Media Production) Club aims to equip members
 with ICT skills and knowledge so that they can be role models in the use
 of ICT. The club’s activities inculcate school values and develop good
@@ -74,12 +77,3 @@ in competition to showcase their skills and talents.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.30am to 9am, ICT Lab 2, Lab 3</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 pictures/ICT_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 pictures/ICT_2.jpg">
-</div>
-<p></p>
