@@ -6,6 +6,9 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Basketball</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkzodK5kixslhoGL3lsKBG_We2N0WoReB57RRkuJEt8y76nMAAEhhEoptgdDbgbWNknP7JgJD2tUD5/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <h4>Overview</h4>
 <p>The Basketball Club aims to 1) cultivate members’ interest in basketball,
 2) develop members’ skills in basketball and nurture talented players and
