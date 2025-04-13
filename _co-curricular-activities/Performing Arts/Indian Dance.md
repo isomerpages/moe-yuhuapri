@@ -6,6 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Indian Dance</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFUOgzoK9pbDBGl4IrSGDVHT4x6HTHJoRJsrVc4NEl49afB_XPa4KYB6Ybh4GYn8v6sfmGbu7H7qNw/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>The Indian Dance Club provides members with exposure to Indian culture
 and dance forms. The Club aims to develop an appreciation of Indian classical
 and folk dance. Members learn the basic Bharatanatyam steps and other dance
