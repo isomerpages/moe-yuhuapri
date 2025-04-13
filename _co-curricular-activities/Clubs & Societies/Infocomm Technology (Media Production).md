@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Infocomm Technology (Media Production)</h3>
 <div class="iframe-wrapper">
-<iframe height="320" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKgIiTuMpQdCbDAaSYX3E6g36JGoMQkr9oRhwojhGAPb03r9unDmKF3EXNno_7F0UsD3NsoBacLl1L/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKgIiTuMpQdCbDAaSYX3E6g36JGoMQkr9oRhwojhGAPb03r9unDmKF3EXNno_7F0UsD3NsoBacLl1L/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>The Infocomm Technology (Media Production) Club aims to equip members
 with ICT skills and knowledge so that they can be role models in the use
