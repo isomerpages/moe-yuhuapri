@@ -6,6 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Brass Band</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyGRGp_4BSC085-AgykvD5Ter752K_nOGsLT95dt7AdKj5SBDVc4Fm0bNTLpBNExy8H8kX8952bxo0/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>The Brass Band Club is an avenue for Yuhualites to explore and build on
 their interest in music. Besides playing music, Yuhualites are also given
 opportunities to develop their leadership skills and teamwork. Band members
