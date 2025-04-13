@@ -6,6 +6,9 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Football</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9HDsddTHD0DpGQmWloCSxiqJ3zMjQ_L7IlkSj_lZ5uX0-px0bflVxj4ruaGnp6G80e16TyNDenfy9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>The Yuhua Primary Football CCA programme seeks to equip students with
 basic football skills and concepts such as passing, dribbling, shooting,
 turning, supporting team play and making use of space. It develops students’
