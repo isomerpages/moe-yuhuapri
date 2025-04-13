@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <h4><strong>Debate and Public Speaking Club</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0jwVae7hfwY5bPlDT7xMG0fCG4rWDpRnJXO942ZxIMbrQ-Mg3CRXRwBxnEkS5y4JWulnW-WYz9ZaV/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>Debate and Public Speaking Club seeks to equip members with the essential
 knowledge, skills and values through engaging speaking and debating activities.</p>
 <p>Throughout our CCA sessions, members delve into speech preparation techniques
