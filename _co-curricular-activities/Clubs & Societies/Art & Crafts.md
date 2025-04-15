@@ -71,7 +71,7 @@ and encourage members to become artists that are self-directed in learning.</p>
 </table>
 <p><strong>Schedule</strong>
 </p>
-<p>Tuesdays, 7.30am – 9am, Art Room</p>
+<p>Tuesdays, 7.45am – 9am, Art Room</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art__crafts_1.jpg">
