@@ -81,7 +81,7 @@ and Inter-Primary Schools&nbsp;Netball&nbsp;Championships.</p>
 </table>
 <p><strong>Schedule</strong>
 </p>
-<p>Tuesdays, 7.30am &nbsp;to 9am, Parade Square</p>
+<p>Tuesdays, 7.45am &nbsp;to 9am, Parade Square</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20pictures/WhatsApp_Image_2024_07_16_at_8_40_06_AM__2_.jpg">
 </div>
