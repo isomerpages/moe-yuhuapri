@@ -64,7 +64,7 @@ Championships.</p>
 </tbody>
 </table>
 <h4>Schedule</h4>
-<p>Tuesdays, 7.30pm to 9am, Hall</p>
+<p>Tuesdays, 7.45am to 9am, Hall</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_CCA_1.jpg">
 </div>
