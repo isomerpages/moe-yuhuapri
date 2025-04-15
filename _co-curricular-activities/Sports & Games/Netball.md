@@ -70,10 +70,10 @@ and Inter-Primary Schools&nbsp;Netball&nbsp;Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Emmaus (MR)</p>
+<p>Emmaus Tan (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>to be updated</em>
+<p><em>emmaus_tan@moe.edu.sg</em>
 </p>
 </td>
 </tr>
