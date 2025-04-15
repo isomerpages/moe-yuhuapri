@@ -65,7 +65,7 @@ Track and Field Championships.</p>
 </table>
 <p><strong>Schedule</strong>
 </p>
-<p>Tuesdays, 7:30am – 9.00am, Parade Square</p>
+<p>Tuesdays, 7.45am – 9.00am, Parade Square</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track_and_field_1.jpg">
