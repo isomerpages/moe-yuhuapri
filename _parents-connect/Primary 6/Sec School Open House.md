@@ -134,7 +134,8 @@ third_nav_title: Primary 6
 <p>9:00am - 1:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Blackmore Drive, Singapore 599986</p>
+<p><em>11 Blackmore Drive, Singapore 599986</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.mgs.moe.edu.sg/news-and-events/mgsoh/</a>
