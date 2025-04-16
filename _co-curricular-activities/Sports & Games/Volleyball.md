@@ -6,9 +6,6 @@ variant: tiptap
 third_nav_title: Sports & Games
 ---
 <h3>Volleyball</h3>
-<div class="iframe-wrapper">
-<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1JAYEiw03TJMWxrZA3g3AiMi1Qu3nDr6Yj_9dahwhXuqAAUHXTM7zDsjVqmNulKUh73O_5c1834Ws/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p>The Volleyball Club seeks to develop good character through sports and
 build members’ physical fitness and inspire passion for the game.</p>
 <p>We have a systematic and differentiated training programme to cater to
