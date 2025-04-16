@@ -6,9 +6,6 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Malay Dance</h3>
-<div class="iframe-wrapper">
-<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSNBliVAsYJ4Z6xgZAyILAXZ6l9je_fu_TzzB4ag5aqG7fiAAKUICzzlAmQh7fhP-iNVs_BMCn6S-T3/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p>The Malay Dance Club provides members with exposure to Malay traditional
 dance forms and to develop an appreciation of Malay culture. Members learn
 the basic dance skills. The practices provide opportunities for pupils
