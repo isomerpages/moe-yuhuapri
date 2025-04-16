@@ -6,9 +6,6 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <h3>Art &amp; Crafts</h3>
-<div class="iframe-wrapper">
-<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbui0NzlhbPuHbu6ta2hQ3srEaUuseqT5Q15YYJAXkAdDSczOYpfBddov9_7vIGF1SGHu9QBL8jpCV/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p>Art and Crafts Club seeks to build members’ interest in art-making and
 appreciation of art. In art club, members are introduced to a wide variety
 of different art forms through the art-making activities. The art-making
