@@ -27,10 +27,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://weshare.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">WeSHARE</a>
-</p>
-</li>
-<li>
 <p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
 </p>
 </li>

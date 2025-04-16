@@ -66,7 +66,7 @@ Schools Volleyball Championships.</p>
 </table>
 <p><strong>Schedule</strong>
 </p>
-<p>Tuesdays, 7.30am to 9am, ISH</p>
+<p>Tuesdays, 7.45am to 9am, ISH</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Extra_Training.jpg">

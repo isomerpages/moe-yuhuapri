@@ -49,7 +49,7 @@ contributing to the community.</p>
 </table>
 <p><strong>Schedule</strong>
 </p>
-<p>Tuesdays, 7.30am to 9am, PAL room</p>
+<p>Tuesdays, 7.45am to 9am, PAL room</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 pictures/Yuhua_Primary_School_0F7A3613.jpg">
 </div>

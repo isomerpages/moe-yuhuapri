@@ -64,7 +64,7 @@ them.</p>
 </table>
 <p><strong>Schedule</strong>
 </p>
-<p>Tuesdays, 7.30am to 9am, Band Room</p>
+<p>Tuesdays, 7.45am to 9am, Band Room</p>
 <p>Wednesdays, 2.15pm to 4.15pm, Band Room</p>
 <p></p>
 <div class="isomer-image-wrapper">

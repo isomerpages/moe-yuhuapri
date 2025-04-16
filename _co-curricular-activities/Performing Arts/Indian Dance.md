@@ -54,7 +54,7 @@ during community events.</p>
 </table>
 <p><strong>Schedule</strong>
 </p>
-<p>Tuesdays, 7.30am to 9am, CCA Room 1</p>
+<p>Tuesdays, 7.45am to 9am, CCA Room 1</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20pictures/SYF_performance_indian_dance.jpg">
 </div>

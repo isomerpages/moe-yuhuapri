@@ -23,7 +23,7 @@ gaining valuable public speaking experience.</p>
 to make meaningful contributions both within our club and beyond.</p>
 <p><strong>Schedule</strong>
 </p>
-<p>Tuesdays, 7.30am – 9am, CL Room</p>
+<p>Tuesdays, 7.45am – 9am, CL Room</p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <table style="minWidth: 50px">
