@@ -6,9 +6,6 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h3>Cub Scouts</h3>
-<div class="iframe-wrapper">
-<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-4rQkAMJnm7Gd55QpWqEbE76s0S4MiGjdHkmDglOCSjkKw8YwbPOt-6AkVVDYGrpzP1gqI86n0pBN/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p><strong>Overview</strong>
 </p>
 <p>The Yuhua Cub Scouts programme seeks to inculcate in cub scouts, a value
