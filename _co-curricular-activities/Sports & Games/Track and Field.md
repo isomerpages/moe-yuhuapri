@@ -6,9 +6,6 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Track and Field</h3>
-<div class="iframe-wrapper">
-<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQo16IMiGy2BgJdKk5Xv69fEHWEqQMIoXpgiVG3aHwpcWSAjuz3vDthj8zUqrKg0vc5-NVMJ-6xs_Yy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <h4>Overview</h4>
 <p>The main objective of Track and Field Club is to develop skills in track
 and field events such as sprints, jumps and throws. Through the weekly
