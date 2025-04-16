@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <h4><strong>Environmental Science Club CCA</strong></h4>
-<div class="iframe-wrapper">
-<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKXrbMns_SpLAa1x4xaE9IP411Ju8ZUN2W-aJ4gEV7aeQVElPZu0Qi2ZTC8TmuGdjTJt0qtpPNQyAa/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p><strong>Empower, Inspire, and Make a Difference</strong>
 </p>
 <p>The Environmental Science Club (ESC) provides the opportunities for Yuhualites
