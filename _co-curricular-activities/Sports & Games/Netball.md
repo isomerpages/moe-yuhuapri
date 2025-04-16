@@ -6,9 +6,6 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Netball</h3>
-<div class="iframe-wrapper">
-<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQP1GpbVy-u5gz-BQO648h0TZ1gaOOkaiBxyfgsA8UFveKLi9qzFpyNhx72drWh-lioeFeqNeETioiF/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
 <p><strong>Overview</strong>
 </p>
 <p>Our Objectives:</p>
