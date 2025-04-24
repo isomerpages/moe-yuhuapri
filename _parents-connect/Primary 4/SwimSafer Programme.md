@@ -70,7 +70,7 @@ Logging in using the parents’ Singpass account will not be linked to recipient
 </ul>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>After selecting Option 2 “Retrieve without Singpass”, you will be required
