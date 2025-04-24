@@ -21,8 +21,7 @@ pass both the theory and practical tests will be awarded the e-Certificate.</p>
 components of the SwimSafer stage he/she is assigned, parents will receive
 an email from <strong>FileSG with the transaction ID.</strong> &nbsp;Students
 would have indicated their parents’ email and contact number when they
-logged in to attempt their Theory Component <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sstheory</a> at
-home.</p>
+logged in to attempt their Theory Component <a href="https://go.gov.sg/sstheory" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sstheory</a> at home.</p>
 <p>Once the theory quiz is completed and you have received the email from
 FileSG, please kindly follow the steps below to retrieve the e-certificate
 from the FileSG webpage.</p>
@@ -34,8 +33,7 @@ or already logged in with your own Singpass.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.file.gov.sg/retrieve</a>
-<a href="https://www.file.gov.sg/retrieve" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p>Visit <a href="https://www.file.gov.sg/retrieve" rel="noopener noreferrer nofollow" target="_blank">https://www.file.gov.sg/retrieve&nbsp;</a>
 </p>
 </li>
 </ol>
@@ -58,7 +56,7 @@ sender : <strong>SportSG (via FileSG) -no-reply@file.gov.sg</strong>
 <li>
 <p>If you do not see this “Retrieve without Singpass” option, it is likely
 that your document was issued without a valid mobile number. Please submit
-the following FormSG (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ssreport</a>)
+the following FormSG (<a href="https://go.gov.sg/ssreport" rel="noopener noreferrer nofollow" target="_blank">https://</a><a href="https://form.gov.sg/66f632bc02349cdb0147a7e0" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/ssreport</a>)
 to update with a valid mobile number.</p>
 </li>
 <li>
@@ -90,9 +88,9 @@ email under Recipient Name.</p>
 </p>
 <p>If there is an error verifying, it is likely that an incorrect date of
 birth was registered for your child’s SwimSafer assessment. Please submit
-the following FormSG (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ssreport</a>)
-with your child’s correct date of birth for ActiveSG to refresh and send
-a new email as well as transaction ID to retrieve your child’s e-certificate.</p>
+the following FormSG (<a href="https://go.gov.sg/ssreport" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ssreport</a>) with
+your child’s correct date of birth for ActiveSG to refresh and send a new
+email as well as transaction ID to retrieve your child’s e-certificate.</p>
 </li>
 </ul>
 <p></p>
