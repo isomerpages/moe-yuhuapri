@@ -144,6 +144,25 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Paya Lebar Methodist Girls’ School (Secondary)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 10 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:00am - 11:00am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/" rel="noopener nofollow" target="_blank">https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>St. Joseph's Institution (SJI)</strong>
 </p>
 </td>
