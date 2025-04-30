@@ -154,7 +154,13 @@ third_nav_title: Primary 6
 <p>10:00am - 11:00am</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><em>Online Sharing</em>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://msteams.link/M784</a>
+</p>
 <p></p>
+<p><strong>Meeting ID:</strong> 413 498 737 763 0</p>
+<p><strong>Passcode:</strong> Rs6oS3dt</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/" rel="noopener nofollow" target="_blank">https://www.plmgss.moe.edu.sg/about-us/school-admission/direct-school-admission-dsa-sec/</a>
