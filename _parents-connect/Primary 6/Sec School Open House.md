@@ -189,6 +189,26 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Chung Cheng High School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 24 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 12:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>50 Goodman Road,Singapore 439012</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.chungchenghighmain.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>School of Science and Technology (SST)</strong>
 </p>
 </td>
@@ -205,6 +225,23 @@ third_nav_title: Primary 6
 <td rowspan="1" colspan="1">
 <p><a href="https://sites.google.com/sst.edu.sg/2025sstopenhouse/" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/sst.edu.sg/2025sstopenhouse/</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
