@@ -28,7 +28,7 @@ sections:
       title: Our Social Media Platforms
       id: infopic
       description: Scan the QR codes to visit our Facebook and Instagram pages!
-      image: /images/YHPS_Socials.png
+      image: /images/YHPS_Socials_2.png
       alt: Image alt text
   - infopic:
       title: E-Open House 2025
