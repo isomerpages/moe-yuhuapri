@@ -59,7 +59,7 @@ etc.)</p>
 </p>
 <p>The factsheet below gives information on the contract period, coverage,
 benefit/sum assured and other details.</p>
-<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet 2024</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet 2025</a>
 </p>
 <p><strong>Online Claims Submissions &amp; Verifications</strong>
 </p>
@@ -75,7 +75,7 @@ details at <a href="" rel="noopener noreferrer nofollow" target="_blank">https:/
 <p><strong>Frequently Asked Questions</strong>
 </p>
 <p>A list of FAQs can be found&nbsp;here</p>
-<p><a href="/files/GPA_Insurance_FAQs_27_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ File</a>
+<p><a href="/files/MOE_GPA_Insurance_FAQs__31_Dec_2024_.pdf" rel="noopener nofollow" target="_blank">FAQ File</a>
 </p>
 <p>For other enquiries, please write to <a href="mailto:MOE_Insurance@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_Insurance@moe.gov.sg</a>&nbsp;</p>
 <p><strong>Contact Details</strong> 
