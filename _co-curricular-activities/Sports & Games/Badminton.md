@@ -6,6 +6,9 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Badminton</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ1mzit7XF0gxmEOew-mfSyR2FBfKq2_diUu5hJeyjDyD1dB83laUfwOEJzltnYwf8rkTVpAOxXv5dR/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p><strong>Overview</strong>
 </p>
 <p>The objective of the Badminton Club is to develop members’ skills in badminton
@@ -62,11 +65,3 @@ Championships.</p>
 </table>
 <h4>Schedule</h4>
 <p>Tuesdays, 7.45am to 9am, Hall</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_CCA_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_CCA_2.jpg">
-</div>
-<p></p>
