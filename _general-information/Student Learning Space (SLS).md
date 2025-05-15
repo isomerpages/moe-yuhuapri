@@ -36,6 +36,12 @@ Space (SLS) offers:</p>
 </p>
 <p>🔹 Password &amp; Technical Support – Get help with login and technical
 issues:</p>
+<p><strong>Forgot Password / Reset Password</strong>
+</p>
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/login-troubleshooting/authentication/reset-sls-password-student/</a>
+</p>
+<p><strong>Locked Accounts / Technical Issues</strong>
+</p>
 <p><em><a href="https://www.learning.moe.edu.sg/students/password-and-technical-support/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/students/password-and-technical-support/</a></em>
 </p>
 <p></p>
