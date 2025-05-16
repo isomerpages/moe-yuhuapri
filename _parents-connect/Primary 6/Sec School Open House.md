@@ -103,27 +103,6 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Hwa Chong International School (HCIS)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saturday, 5 April 2025</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9:00am - 2:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>663 Bukit Timah Road, Singapore 269783</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.hcis.edu.sg/experiencehcis-open-house-2025/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Methodist Girls’ School (MGS)</strong>
 </p>
 </td>
@@ -229,19 +208,23 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Hwa Chong International School (HCIS)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 31 May 2025</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9:00am - 11:00am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Online via Zoom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Sign Up Link:</p>
+<p><a href="https://forms.gle/h1fGosYuUAcMDVmA7" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/h1f GsU UAcM DVm A7</a>
+</p>
 </td>
 </tr>
 </tbody>
