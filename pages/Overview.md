@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <p><a href="/parents-engagement-information/p4" rel="noopener noreferrer nofollow" target="_blank">P4 Parents Engagement Page</a>
 </p>
-<p><a href="/parents-engagement-information/P5" rel="noopener noreferrer nofollow" target="_blank">P5 Parents Engagement Page</a>
+<p><a href="/parents-engagement-information/p5" rel="noopener noreferrer nofollow" target="_blank">P5 Parents Engagement Page</a>
 </p>
 <p><a href="/parents-engagement-information/p6" rel="noopener noreferrer nofollow" target="_blank">P6 Parents Engagement Page</a>
 </p>
