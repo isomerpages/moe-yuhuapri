@@ -9,7 +9,7 @@ variant: tiptap
 <p>The aim of the Parents’ Support Group (PSG) is to foster positive relationship
 between school and home.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/latest%20psg.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YHPS2025PSG.jpg">
 </div>
 <p>As a PSG volunteer, you will:</p>
 <ul data-tight="true" class="tight">
