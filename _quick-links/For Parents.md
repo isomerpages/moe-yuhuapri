@@ -5,11 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>For Parents</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.yuhuapri.moe.edu.sg/yuhualite-experience/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness</a>
-</p>
-</li>
 <li>
 <p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener nofollow" target="_blank">Digital Access @ Home</a>
 </p>
@@ -20,10 +17,6 @@ description: ""
 </li>
 <li>
 <p><a href="https://go.gov.sg/whats-next-psle" rel="noopener noreferrer nofollow" target="_blank">ECG What’s Next</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/parent-guide" rel="noopener noreferrer nofollow" target="_blank">Education &amp; Career Guidance Tips for Parents</a>
 </p>
 </li>
 <li>
@@ -68,6 +61,10 @@ description: ""
 </li>
 <li>
 <p><a href="https://go.gov.sg/welcome-to-secondary-school" rel="noopener noreferrer nofollow" target="_blank">“Welcome to Secondary School” video</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.seab.gov.sg/psle/" rel="noopener nofollow" target="_blank">Singapore Examinations and Assessment Boards</a>
 </p>
 </li>
 </ul>

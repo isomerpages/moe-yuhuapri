@@ -6,6 +6,9 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h3>Netball</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQP1GpbVy-u5gz-BQO648h0TZ1gaOOkaiBxyfgsA8UFveKLi9qzFpyNhx72drWh-lioeFeqNeETioiF/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p><strong>Overview</strong>
 </p>
 <p>Our Objectives:</p>
@@ -79,10 +82,3 @@ and Inter-Primary Schools&nbsp;Netball&nbsp;Championships.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.45am &nbsp;to 9am, Parade Square</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20pictures/WhatsApp_Image_2024_07_16_at_8_40_06_AM__2_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024%20pictures/WhatsApp_Image_2024_08_14_at_8_32_36_AM.jpg">
-</div>
-<p></p>
