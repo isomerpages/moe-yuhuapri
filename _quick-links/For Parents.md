@@ -35,10 +35,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="/files/SchoolFinder_how_to_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">How-to-Guides to equip parents on how to use the tools</a>
-</p>
-</li>
-<li>
 <p><a href="http://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
 </p>
 </li>
@@ -59,10 +55,6 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="/files/a_secondary_school_thats_right_for_your_child.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Tips on Shortlisting Secondary Schools</a>
-</p>
-</li>
-<li>
 <p><a href="http://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag - The Education News Site</a>
 </p>
 </li>
@@ -71,15 +63,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://www.seab.gov.sg/home/examinations/psle" rel="noopener noreferrer nofollow" target="_blank">Singapore Examinations and Assessment Boards</a>
-</p>
-</li>
-<li>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Student Details Form</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/pslefsbb" rel="noopener noreferrer nofollow" target="_blank">The PSLE-FSBB Microsite</a>
 </p>
 </li>
 <li>
