@@ -9,21 +9,15 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9HDsddTHD0DpGQmWloCSxiqJ3zMjQ_L7IlkSj_lZ5uX0-px0bflVxj4ruaGnp6G80e16TyNDenfy9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p>The Yuhua Primary Football CCA programme seeks to equip students with
-basic football skills and concepts such as passing, dribbling, shooting,
-turning, supporting team play and making use of space. It develops students’
-social emotional competencies and provide an avenue to inculcate our school
-values.</p>
-<p>The Football CCA comprises of junior team players and school team players.
-The two groups go through a different training programme which is progressive
-and allowing the new members to learn the basics and develop the potential
-of the skillful players.</p>
-<p>The Club aimed to produce all-round individuals who have skillful players,
-good decision makers, creative problem solvers and risk takers.</p>
-<p>The students gain game exposure by taking part in friendly matches with
-other school teams, FAS age group carnivals and the Inter Primary Schools
-Football Championship.</p>
-<p></p>
+<p>Yuhua Football CCA aims to foster physical, social, and emotional development
+of the pupils. Engaging in football training sessions enhances coordination
+and overall fitness. The sport requires running, dribbling, and quick movements,
+which improve strength, balance, and agility.</p>
+<p>Football is a team-oriented sport that teaches children the importance
+of collaboration and communication. Players learn to work together towards
+a common goal, building friendships amongst the members. Regular practice
+instills discipline and responsibility in young players. They learn the
+value of commitment, punctuality, and respect for coaches and teammates.</p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <table style="minWidth: 50px">
