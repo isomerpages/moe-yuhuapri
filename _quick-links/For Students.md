@@ -21,10 +21,7 @@ description: ""
 <li>
 <p><a href="https://schoolibrary.moe.edu.sg/yuhuapri" rel="noopener noreferrer nofollow" target="_blank">Yuhua School Library</a>
 </p>
-</li>
-<li>
-<p><a href="https://www.microsoft.com/EN/Microsoft-365" rel="noopener nofollow" target="_blank">Microsoft 365</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
