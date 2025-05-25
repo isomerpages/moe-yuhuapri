@@ -6,6 +6,9 @@ variant: tiptap
 third_nav_title: Performing Arts
 ---
 <h3>Angklung / Kulintang Ensemble</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_ABrxj7HzUxxQOQfngof_NgYasxAxm0k0o2GsO3bEO6_lEsOGxWJTh4XtxGACnT-yB6iJEXjTaqc9/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>The Angklung/&nbsp; Kulintang Ensemble aims to nurture young musicians
 and seeks to develop good character through engaging experiences in the
 music.</p>
@@ -65,12 +68,4 @@ contributing to the community.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.45am to 9am, Angklung room (Level 1)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yuhua_Primary_School_1166.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Yuhua_Primary_School_1170.jpg">
-</div>
 <p></p>
