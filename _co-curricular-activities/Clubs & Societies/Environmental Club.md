@@ -6,30 +6,23 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <h4><strong>Environmental Science Club CCA</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSKXrbMns_SpLAa1x4xaE9IP411Ju8ZUN2W-aJ4gEV7aeQVElPZu0Qi2ZTC8TmuGdjTJt0qtpPNQyAa/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p><strong>Empower, Inspire, and Make a Difference</strong>
 </p>
-<p>The Environmental Science Club (ESC) provides the opportunities for Yuhualites
-to become a proactive eco-steward and inspire positive change. The ESC
-aims to educate, empower, and engage individuals in sustainable practices.
-We believe that by fostering a deeper understanding of environmental science,
-we can inspire meaningful action that extends beyond our club –positively
-impacting family, school and the broader community.</p>
-<p>During ESC CCA sessions, members can gain hands-on experience with sustainability
-projects, conservation efforts, and eco-friendly practices. They are then
-encouraged to lead by example and help others adopt green habits that protect
-our Earth. These are some of the activities that the ESC can partake in:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Recycling: tending to the
-Book Swap corner to encourage reading through book donations, composting
-and others</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upcycling: attending workshops
-to learn the skills to reuse and repurpose used items</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Observing sustainable farm-to-table
-practice: tending and growing in traditional and vertical farms in school</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advocating positive change:
-creating posters and messages, participating in green challenges and engaging
-peers during events, that promote a green and more sustainable lifestyle</p>
-<p>Be a part of something bigger—something that will shape a better world
-for all, and take your first step towards a greener future!</p>
+<p>At the Environment and Science Club, we nurture our students' curiosity
+about the natural world while empowering them to become environmentally
+responsible citizens. Through hands-on activities such as gardening and
+composting, students learn how plants grow and explore sustainable farming
+methods like hydroponics.</p>
+<p>Our members also take part in meaningful projects such as upcycling booths
+and food waste reduction initiatives, where they gain awareness of how
+everyday choices impact the environment. These experiences are closely
+aligned with the Singapore Green Plan 2030, helping students understand
+their role in building a more sustainable future.</p>
+<p>By championing eco-friendly practices in school and at home, our students
+are actively contributing to a greener tomorrow.</p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <table style="minWidth: 50px">
