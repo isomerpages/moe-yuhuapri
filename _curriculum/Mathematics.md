@@ -29,6 +29,49 @@ beyond the traditional classroom setting. Each activity integrates problem-solvi
 and logical thinking, helping students learn collaboratively and overcome
 challenges while applying mathematical concepts in meaningful, everyday
 situations.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math4.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Primary 1 students counting the number of bean bags they throw into a
+hula hoop before plotting a picture graph.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>To foster joy of learning through play, the Mathematics Department created
 a unique corner in the school, the <strong>FAME corner</strong>, which stands
 for Free Access Maths Experience corner. Affectionately known as FAME,
