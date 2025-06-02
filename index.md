@@ -36,6 +36,6 @@ sections:
       description: More details coming up soon! Stay tuned!
       button: Click here
       url: /eopenhouse2025/
-      image: /images/open_house_banner_2024.jpg
+      image: /images/Screenshot_2025_06_02_124816.png
       alt: Image alt text
 ---
