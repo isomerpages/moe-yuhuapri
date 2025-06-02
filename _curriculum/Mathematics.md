@@ -57,7 +57,54 @@ hula hoop before plotting a picture graph.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 2 students using a self-created 1-m string to find out distances between 2 points around the school.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Math6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 3 students created 1-m square by reusing papers to estimate the area of a badminton court.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>As Yuhualites move up to the upper primary, they will be involved in group
+projects that allow them to use design thinking process and apply mathematical
+concepts learnt to collaboratively problem-solve a given scenario.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -71,6 +118,7 @@ hula hoop before plotting a picture graph.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>To foster joy of learning through play, the Mathematics Department created
 a unique corner in the school, the <strong>FAME corner</strong>, which stands
 for Free Access Maths Experience corner. Affectionately known as FAME,
@@ -86,10 +134,7 @@ maths in a fun and engaging way.</p>
 <img style="width:100%" height="auto" width="100%" src="/images/math2.png">
 </div>
 <p>Kahoot! Competition</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/math2.png">
-</div>
-<p>Fame recess activities</p>
+<p></p>
 <p><strong>Outdoor learning experience (OLE)</strong>
 </p>
 <p>OLE programme aims to provide opportunities for Students to see mathematics
