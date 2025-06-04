@@ -46,7 +46,7 @@ child's heart and mind.</p>
 website.</p>
 <p>We would appreciate it if you could take a moment to complete a short
 survey of the e-Open House by clicking on the link below.</p>
-<p><a href="https://form.gov.sg/6674e4cb3205e380096e797d" rel="noopener noreferrer nofollow" target="_blank">Open House 2024 Survey</a>
+<p><strong><a href="https://form.gov.sg/6674e4cb3205e380096e797d" rel="noopener noreferrer nofollow" target="_blank">Open House 2024 Survey (need to change this link)</a></strong>
 </p>
 <p>We welcome you to be a part of the Yuhua family and thank you.</p>
 <p></p>
