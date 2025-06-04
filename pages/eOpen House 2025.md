@@ -25,7 +25,7 @@ the picture below to start the tour.</p><a class="isomer-image-wrapper" href="ht
 <p>Add in slides</p>
 <h3>P.A.M, PAL &amp; F.L.I.G.H.T</h3>
 <div class="iframe-wrapper">
-<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0QzHFKLos9WWeIo1HPht0uNYWh92TwzPCqlalNnbaXieqsutaAhJvNH7-GFO3mhTZRhA-OTClRifC/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFo0ijZF45ADcyvIL07u6q-Vi1ojQsTbW38vn312tn0QxSJbWkP6L4DTCcTVuXZJOhLtyeBXGiAOP7/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Character &amp; Citizenship Education, Pupils Well-Being ; Environmental Education Programme</h3>
 <div class="iframe-wrapper">
