@@ -6,6 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Chinese Dance</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEnl0NASTPrhCsRJ0DcMjfumZqOBPuklDgmLEDE76R5pTi7acG6yQ-RcMc3LqGbTDa32mKaRihgSbE/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>The Chinese Dance Club aims to cultivate an interest in a variety of traditional
 dance and impart valuable cultural heritage in members. Through age appropriated
 physical training and working as one harmonious team, we build good character.
@@ -50,11 +53,3 @@ contributing to the community.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.45am to 9am, PAL room</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 pictures/Yuhua_Primary_School_0F7A3613.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 pictures/Yuhua_Primary_School_0F7A3607.jpg">
-</div>
-<p></p>
