@@ -22,14 +22,16 @@ the picture below to start the tour.</p><a class="isomer-image-wrapper" href="ht
 </div>
 <p>Next, let's take a look at some of our P1 programmes.</p>
 <h3>English, Mathematics &amp; Mother Tongue</h3>
-<p>Add in slides</p>
+<div class="iframe-wrapper">
+<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsxj1ink3DZ8lenJJl7SJ14Of0CfDZXak-6PogNKcdN7PjaXj-0j7vmvDinYdJsLLEXI1kiBzgXWa5/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h3>P.A.M, PAL &amp; F.L.I.G.H.T</h3>
 <div class="iframe-wrapper">
 <iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFo0ijZF45ADcyvIL07u6q-Vi1ojQsTbW38vn312tn0QxSJbWkP6L4DTCcTVuXZJOhLtyeBXGiAOP7/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h3>Character &amp; Citizenship Education, Pupils Well-Being ; Environmental Education Programme</h3>
 <div class="iframe-wrapper">
-<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIvTDDoyX5LsaujoK3MX2qe74ZwrOFq5JHsiG2KmuOWv9l4tzLK8-kn2Hacd6rCs8smQgvY7Y7CMJ1/embed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<iframe height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMKoU7B-oxqPTS5S6LPYXTGvPyn2ws9PAXKque0E-2v1FVmgKeUEFkE0T4XU0vzM_eVm4dkkQLXlPJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>Is your child still anxious about attending Primary 1? Watch this video
 to hear what some of our Yuhualites have to say of their experiences!</p>
