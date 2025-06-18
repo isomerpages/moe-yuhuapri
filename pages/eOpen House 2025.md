@@ -26,8 +26,7 @@ We hope this journey gives you valuable insights into school life at Yuhua.</p>
 <p>Take a walk through our school grounds and explore our thoughtfully designed
 facilities that support holistic learning.</p>
 <p>Click<strong> <a href="https://4d.silversea-media.com/view/yuhuaps360tour/" rel="noopener nofollow" target="_blank">here</a></strong> or
-the picture below to start the virtual tour!</p>
-<p></p><a class="isomer-image-wrapper" href="https://4d.silversea-media.com/view/yuhuaps360tour/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/virtual%20tour%20pic.jpg"></a>
+the picture below to start the virtual tour!</p><a class="isomer-image-wrapper" href="https://4d.silversea-media.com/view/yuhuaps360tour/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/virtual%20tour%20pic.jpg"></a>
 </div>
 </details>
 <details class="isomer-details">
