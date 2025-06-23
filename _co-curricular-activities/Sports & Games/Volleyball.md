@@ -6,6 +6,12 @@ variant: tiptap
 third_nav_title: Sports & Games
 ---
 <h3>Volleyball</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1JAYEiw03TJMWxrZA3g3AiMi1Qu3nDr6Yj_9dahwhXuqAAUHXTM7zDsjVqmNulKUh73O_5c1834Ws/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p></p>
+<p><strong>Overview</strong>
+</p>
 <p>The Volleyball Club seeks to develop good character through sports and
 build members’ physical fitness and inspire passion for the game.</p>
 <p>We have a systematic and differentiated training programme to cater to
@@ -68,11 +74,4 @@ Schools Volleyball Championships.</p>
 </p>
 <p>Tuesdays, 7.45am to 9am, ISH</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Extra_Training.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_NSG_Senior___Serving.jpg">
-</div>
 <p></p>
