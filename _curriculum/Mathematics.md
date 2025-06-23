@@ -16,8 +16,12 @@ develop Yuhualites to be resilient and collaborative problem solvers.</p>
 </div>
 <p><strong>Developing Resilient and Collaborative Problem Solvers</strong>
 </p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Fostering a Joy of Learning in Mathematics</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Fostering a Joy of Learning in Mathematics</strong>
 </p>
+</li>
+</ul>
 <p>Fostering a joy of learning in Mathematics is an important step to develop
 resilient and collaborative learners. Activity-based learning approach
 is adopted to encourage active student participation in the learning process
@@ -30,6 +34,9 @@ and logical thinking, helping students learn collaboratively and overcome
 challenges while applying mathematical concepts in meaningful, everyday
 situations.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary1.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -38,50 +45,39 @@ situations.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math4.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Primary 1 students counting the number of bean bags they throw into a
-hula hoop before plotting a picture graph.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math5.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p>Primary 2 students using a self-created 1-m string to find out distances
+between 2 points around the school.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3 students created 1-m square by reusing papers to estimate the
+area of a badminton court.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 2 students using a self-created 1-m string to find out distances between 2 points around the school.</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math6.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Math6.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Primary 3 students created 1-m square by reusing papers to estimate the area of a badminton court.</strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>As Yuhualites move up to the upper primary, they will be involved in group
 projects that allow them to use design thinking process and apply mathematical
 concepts learnt to collaboratively problem-solve a given scenario.</p>
