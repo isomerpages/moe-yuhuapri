@@ -6,6 +6,11 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <h3>Art &amp; Crafts</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTbui0NzlhbPuHbu6ta2hQ3srEaUuseqT5Q15YYJAXkAdDSczOYpfBddov9_7vIGF1SGHu9QBL8jpCV/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p><strong>Overview</strong>
+</p>
 <p>Art and Crafts Club seeks to build members’ interest in art-making and
 appreciation of art. In art club, members are introduced to a wide variety
 of different art forms through the art-making activities. The art-making
@@ -58,7 +63,7 @@ and encourage members to become artists that are self-directed in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Bee Lian (MISS)</p>
+<p>Lim Bee Lian (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_bee_lian_a@moe.edu.sg</p>
