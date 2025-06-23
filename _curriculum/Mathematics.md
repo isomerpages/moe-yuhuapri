@@ -33,7 +33,6 @@ beyond the traditional classroom setting. Each activity integrates problem-solvi
 and logical thinking, helping students learn collaboratively and overcome
 challenges while applying mathematical concepts in meaningful, everyday
 situations.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary1.jpg">
 </div>
@@ -67,14 +66,6 @@ area of a badminton court.</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -91,17 +82,24 @@ concepts learnt to collaboratively problem-solve a given scenario.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math7.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Primary 5 students working in groups to design a Maths game to help their
+peers to learn Mathematics.</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Primary 5 students sharing their Maths games with other levels during
+recess.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math8.jpg">
+</div>
 </td>
 </tr>
 <tr>
