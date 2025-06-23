@@ -102,68 +102,43 @@ recess.</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <p>To foster joy of learning through play, the Mathematics Department created
 a unique corner in the school, the <strong>FAME corner</strong>, which stands
 for Free Access Maths Experience corner. Affectionately known as FAME,
 this corner provides logic games for playing during recess time. New games
 are introduced monthly. During the post-exam period, competitions like
-Blooklet, Rubik’s cubes and Sudoku are available for Yuhualites to experience
-maths in a fun and engaging way.</p>
-<p></p>
+Blooket, Rubik’s cubes and Sudoku are available for Yuhualites to experience
+Math in a fun and engaging way.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/math1.png">
 </div>
+<p>Our FAME Corner</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/math2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fame1.jpg">
 </div>
-<p>Kahoot! Competition</p>
-<p></p>
-<p><strong>Outdoor learning experience (OLE)</strong>
-</p>
-<p>OLE programme aims to provide opportunities for Students to see mathematics
-outside the classroom. These OLE lessons packages are the brain child of
-our mathematics teachers. The needs and interests of our students are considered
-when designing these lessons. Our mathematics teachers brainstormed on
-the topics that their students found challenging and that could be integrated
-with outdoor experiences. Problem solving and logical thinking were incorporated
-into the OLE activities which were carried out during the mathematics lessons.&nbsp;
-OLE activities allow students to practise the Mathematics concepts in a
-meaningful real-life context. OLE activities were developed for all the
-levels from Primary 1 – Primary 6.</p>
-<p>Here are some examples:</p>
-<p>Primary 3 (Topic: Area and Perimeter)</p>
-<p>Students find out the area of a badminton court using their 1-metre squares
-made out of newspapers.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/math3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fame2.jpg">
 </div>
-<p>Primary 6 (Topic: Rate/ Speed)</p>
-<p>Students investigate if there is a difference in the speeds of the lift
-when going up and going down.</p>
+<p>FAME Corner Competition using Blooket Quiz conducted with the help of
+parent volunteers.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/math4.png">
+<img style="width: 100%" height="auto" width="100%" alt="Addition game during one of the monthly FAME Corner activities." src="/images/Fame3.jpg">
 </div>
-<p><strong>Lower Primary Games Day</strong>
-</p>
-<p>The Mathematics Department organised a Games Day in collaboration with
-the PE Department. Many game stations were set up where students could
-participate and solve problems through physical activities which required
-the use of mathematical concepts.&nbsp; Students had lots of fun and at
-the same time, apply their mathematical knowledge to solve authentic problem.</p>
+<p>Addition game during one of the monthly FAME Corner activities.</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/math5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fame4.jpg">
 </div>
+<p>Active Floor Maths games are used during one of the monthly FAME corner
+activities.</p>
+<p>Besides the FAME corner, the Mathematics Department also gamified the
+P3 to P6 WeCan Quizzes to make the learning of basic Mathematics facts
+more engaging.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WECan1.jpg">
+</div>
+<p>Sample of the gamification features in the WeCan Quizzes.</p>
 <p><strong>Programmes to enrich learning of Mathematics</strong>
 </p>
 <p><strong>Maths Olympiad Programme</strong>
