@@ -6,6 +6,11 @@ description: ""
 third_nav_title: Clubs & Societies
 ---
 <h4><strong>Debate and Public Speaking Club</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0jwVae7hfwY5bPlDT7xMG0fCG4rWDpRnJXO942ZxIMbrQ-Mg3CRXRwBxnEkS5y4JWulnW-WYz9ZaV/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
+<p><strong>Overview</strong>
+</p>
 <p>Debate and Public Speaking Club seeks to equip members with the essential
 knowledge, skills and values through engaging speaking and debating activities.</p>
 <p>Throughout our CCA sessions, members delve into speech preparation techniques
@@ -21,9 +26,7 @@ In addition, members have the privilege to present during school events,
 gaining valuable public speaking experience.</p>
 <p>Join us as we cultivate confident speakers and informed debaters ready
 to make meaningful contributions both within our club and beyond.</p>
-<p><strong>Schedule</strong>
-</p>
-<p>Tuesdays, 7.45am – 9am, CL Room</p>
+<p></p>
 <p><strong>Teachers-in-charge</strong>
 </p>
 <table style="minWidth: 50px">
@@ -58,11 +61,7 @@ to make meaningful contributions both within our club and beyond.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_12_at_9_38_49_AM.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_08_12_at_9_36_45_AM.jpg">
-</div>
+<p><strong>Schedule</strong>
+</p>
+<p>Tuesdays, 7.45am – 9am, CL Room</p>
 <p></p>
