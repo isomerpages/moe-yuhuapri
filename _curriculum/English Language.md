@@ -7,7 +7,7 @@ variant: tiptap
 <h3>English Language</h3>
 <p><strong>Overview</strong>
 </p>
-<p>The English Language Syllabus 2020 (Primary) emphasises the progressive
+<p>The English Language Syllabus 2020 (Primary) emphasizes the progressive
 development, reinforcement, and extension of language skills through meaningful
 and engaging learning experiences. It promotes a love for reading, encourages
 extensive language use, and leverages oracy, reading, and writing to build
@@ -265,3 +265,16 @@ expression.</p>
 and supported by the Ministry of Education (MOE) and Speak Good English
 Movement (SGEM), offers our students the opportunity to refine their public
 speaking abilities and build self-assurance in a competitive environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Speaking_Competitions.jpg">
+</div>
+<p><strong>Language Level Competitions</strong>
+</p>
+<p>To celebrate the end of examinations, our Yuhualites would have a language
+level competition. Our Yuhualites played word games such as Spelling Bee
+or Scattergories. It was a happy way to relax, have fun with friends, and
+celebrate their hard work.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Level_Games.png">
+</div>
+<p></p>
