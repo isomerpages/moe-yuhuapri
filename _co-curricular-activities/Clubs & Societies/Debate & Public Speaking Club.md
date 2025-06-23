@@ -11,23 +11,26 @@ third_nav_title: Clubs & Societies
 </div>
 <p><strong>Overview</strong>
 </p>
-<p>Debate and Public Speaking Club seeks to equip members with the essential
-knowledge, skills and values through engaging speaking and debating activities.</p>
-<p>Throughout our CCA sessions, members delve into speech preparation techniques
-and are introduced to the use of appropriate voice quality to support their
-speech. Emphasizing creativity and individual expression, members learn
-to craft compelling speeches that resonate with diverse audience. We foster
-an environment that values openness and empathy towards differing viewpoints,
-encouraging rigorous research and collaborative discussions among peers
-to strengthen argumentation skills.</p>
-<p>Recognising the importance of teamwork, members are given ample opportunities
-to collaborate effectively in teams, promoting mutual learning and growth.
-In addition, members have the privilege to present during school events,
-gaining valuable public speaking experience.</p>
-<p>Join us as we cultivate confident speakers and informed debaters ready
-to make meaningful contributions both within our club and beyond.</p>
-<p></p>
-<p><strong>Teachers-in-charge</strong>
+<p>The Debate and Public Speaking Club seeks to equip members with the essential
+knowledge, skills and values through engaging speaking and debating activities.&nbsp;&nbsp;</p>
+<p>The CCA offers a dynamic and supportive space for students to build confidence,
+express themselves creatively, and collaborate with others through the
+performing arts. Each session begins with vocal warm-ups—including engaging
+tongue twisters—to improve articulation, clarity, and vocal projection.&nbsp;</p>
+<p>Students take part in a variety of dramatization activities such as freeze
+frames, role-play, and improvisation. These exercises help students explore
+storytelling, enhance their use of body language and voice, and develop
+teamwork and creative thinking.&nbsp;</p>
+<p>To strengthen public speaking skills, students are introduced to monologue
+performances where they learn to deliver speeches with expression and confidence.
+As they progress, students are gradually exposed to basic debate formats,
+encouraging them to organize their thoughts, present arguments clearly,
+and listen actively to others.&nbsp;</p>
+<p>The Debate and Public Speaking Club aims to nurture confident and empathetic
+communicators and thoughtful team players, preparing them to shine both
+on and off stage.&nbsp;</p>
+<p>
+<br><strong>Teachers-in-charge</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
