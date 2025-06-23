@@ -29,6 +29,7 @@ multimodal and hybrid texts, students develop not only linguistic competence
 but also media, visual and information literacy skills, preparing them
 to navigate the complexities of communication in a digitally connected
 and culturally diverse world.</p>
+<hr>
 <p><strong>Our Vision</strong>
 </p>
 <p>To nurture Communicative and Confident Learners through the development
@@ -135,6 +136,7 @@ before they apply the skills in writing independently.</p>
 support at various points of instruction to optimize their learning. Appropriate
 activities are designed to support, reinforce and extend students’ learning
 in reading, writing, oracy, word study, grammar and language use.</p>
+<hr>
 <p><strong>Learning Support Programme (LSP)</strong>
 </p>
 <p>Believing that every child can learn well at his or her own pace, the
@@ -160,6 +162,7 @@ and 5 students who require more support in reading in the English Language.
 The programme exposes the students to a range of coping strategies for
 reading comprehension, word recognition and oral reading fluency which
 will enable them to better manage their daily learning.</p>
+<hr>
 <p><strong>READ Period</strong>
 </p>
 <p>At Yuhua Primary, our weekly <strong>READ Periods</strong> are specially
@@ -209,6 +212,7 @@ to our students’ reading levels and designed to spark curiosity, promote
 critical thinking, and deepen understanding of both local and global issues.
 The content is current, engaging, and relevant—ensuring students can connect
 with the material in meaningful ways.</p>
+<hr>
 <p><strong>SPEAK@Yuhua:</strong>
 </p>
 <p>At Yuhua Primary School, we offer various programmes and activities to
