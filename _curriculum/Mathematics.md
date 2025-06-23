@@ -139,14 +139,48 @@ more engaging.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WECan1.jpg">
 </div>
 <p>Sample of the gamification features in the WeCan Quizzes.</p>
-<p><strong>Programmes to enrich learning of Mathematics</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Encouraging Self-Reflection and Embracing a Growth Mindset</strong>
 </p>
-<p><strong>Maths Olympiad Programme</strong>
+</li>
+</ul>
+<p>To cultivate resilience in the learning of Mathematics in Yuhualites,
+the Mathematics Department incorporated self-assessment component in every
+Topical Review to promote deeper understanding of what they are learning,
+encourage reflection and empower them to take ownership of their learning.
+By actively assessing their own work, Yuhualites will gain a better understanding
+of their strengths and weaknesses, identify areas for improvement, and
+develop critical thinking and self-directed learning skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reflection1.png">
+</div>
+<p>Sample of self-assessment component in Topical Review.</p>
+<p>The Mathematics Department also initiated the Maths Buddy Programme to
+build a strong support network of peers to provide a safe, collaborative,
+and inclusive Mathematics learning culture, where students are encouraged
+to help one another which strengthens academic progress and social bonds.
+It also empowers Yuhualites from Primary 1 to Primary 6 to take on meaningful
+leadership roles as Maths Buddies in the classroom. Maths Buddies are taught
+not only to model resilience and problem-solving, but also to guide others
+with thoughtfulness and encouragement. They are reminded that mistakes
+are part of the learning process and that everyone learns at their own
+pace. These meaningful interactions instill a sense of purpose and belonging
+in both the helper and the helped.</p>
+<p></p>
+<p><strong>Programmes to Enrich Learning of Mathematics</strong>
 </p>
-<p>The Maths Olympiad Programme is offered to students who has shown potential
-and aptitude in the subject. The programme stretches across 10 sessions
-to stretch our students’ potential in Mathematics.</p>
-<p>Selected students are being sent for national level Mathematics competitions
-and we are proud to present their 2019 achievements below:</p>
+<p>Yuhualites who have demonstrated strong potential and aptitude in Mathematics
+will be given the opportunity to join the Maths Olympiad Programme and
+the E2K Maths Programme. The Maths Olympiad Programme programme is designed
+to stretch students’ mathematical thinking and problem-solving abilities
+beyond the standard curriculum, whereas the E2K Mathematics Programme aims
+to develop students' mathematical reasoning skills and deepens their conceptual
+understanding through an inquiry approach.</p>
+<p>Participants are also given the opportunity to represent the school in
+various Mathematics Olympiad competitions.
+<br>
+<br>
+</p>
 <h5></h5>
 <p></p>
