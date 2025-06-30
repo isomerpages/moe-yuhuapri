@@ -6,6 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Choir</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTQO-n7_zrMMQCY5OWJa5N6Y994Kd7R_vNUW9szHvn1FqLTsyNRNsdwRItTvTtlprsHYadbLnMnwRyy/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p>The School Choir seeks to instill in the students the joy of singing and
 build good character. During the practices, members learn proper singing
 techniques. Basic music theory is taught and applied. Fun and interesting
@@ -63,11 +66,3 @@ contributing to the community.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.45am to 9am, Music Room (Level 1)</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChoirSYF.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ChoirJTC2.jpg">
-</div>
-<p></p>
