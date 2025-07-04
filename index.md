@@ -33,7 +33,7 @@ sections:
   - infopic:
       title: E-Open House 2025
       subtitle: E-Open House 2025
-      description: More details coming up soon! Stay tuned!
+      description: Join us at our E-Open House 2025!
       button: Click here
       url: /eopenhouse2025/
       image: /images/Screenshot_2025_06_02_124816.png
