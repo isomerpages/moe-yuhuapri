@@ -354,6 +354,50 @@ variant: tiptap
 <p>joanne_khaw@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guan Meixia (MRS LEE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>guan_meixia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohammad Nasir Bin Md Rasid (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohammad_nasir_md_rasid@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Yuling (MISS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tay_yuling@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venkatachalam Alamu (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ventakachalam_alamu@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
