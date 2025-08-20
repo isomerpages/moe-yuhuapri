@@ -8,10 +8,6 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.yuhuapri.moe.edu.sg/yuhualite-experience/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">Cyberwellness</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener nofollow" target="_blank">Digital Access @ Home</a>
 </p>
 </li>
