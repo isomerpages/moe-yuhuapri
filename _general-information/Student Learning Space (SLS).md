@@ -17,7 +17,7 @@ also use the SLS to complement classroom teaching and learning.</p>
 <p>The SLS is collectively shaped by teachers and students. Taking into consideration
 their ideas and feedback on the resources and tools, the system is developed
 iteratively to stay dynamic and responsive.</p>
-<p>The SLS can be accessed from&nbsp;<strong><a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;.</p>
+<p>The SLS can be accessed from&nbsp;<strong><a href="https://www.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;.</p>
 <div class="iframe-wrapper">
 <iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xryKipQKsSE"></iframe>
 </div>
