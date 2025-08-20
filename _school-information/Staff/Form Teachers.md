@@ -6,7 +6,7 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>2025 Form Teachers</h3>
-<h4><strong>Primary 1 (tentative)</strong></h4>
+<h4><strong>Primary 1 </strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -490,17 +490,6 @@ variant: tiptap
 <p>3GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS WU CHIOU PYNG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wu_chiou_pyng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>MDM LILY LIM</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -684,6 +673,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS WU CHIOU PYNG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wu_chiou_pyng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS TAN LAY HWA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4GRATITUDE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -713,6 +724,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>elda_zarifah_zamri@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR HABIB NASIRUDDIN BIN KARIM GANI</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>habib_nasiruddin_karim_gani_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

@@ -70,7 +70,7 @@ enjoy sports and games as they compete with others in relays and challenges.</p>
 <p>Useful sports information for children and parents:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://myactivesg.com/" rel="noopener noreferrer nofollow" target="_blank">www.myactivesg.com</a>
+<p><a href="https://activesg.gov.sg/home" rel="noopener noreferrer nofollow" target="_blank">www.myactivesg.com</a>
 </p>
 </li>
 <li>
