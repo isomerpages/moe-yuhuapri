@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h3>Chinese Dance <strong>(will be merged to Cultural Dance)</strong></h3>
+<h3>Chinese Dance <strong>(will be merged to Cultural Dance in 2026)</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEnl0NASTPrhCsRJ0DcMjfumZqOBPuklDgmLEDE76R5pTi7acG6yQ-RcMc3LqGbTDa32mKaRihgSbE/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
