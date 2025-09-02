@@ -34,7 +34,7 @@ To achieve this, we have 4 categories of CCAs for the pupils to choose from:
 *   **Clubs & Societies**  
     Art & Crafts, Infocomm Technology (Media Production), Debate and Public Speaking Club, Environmental Club
 *   **Performing Arts**  
-    Angklung / Kulintang Ensemble, Brass Band, Choir, Chinese Dance, Malay Dance, Indian Dance
+    Angklung / Kulintang Ensemble, Brass Band, Choir, **Chinese Dance, Malay Dance, Indian Dance (will be merged to Cultural Dance in 2026)**
 *   **Uniformed Groups**  
     Cub Scouts
 
