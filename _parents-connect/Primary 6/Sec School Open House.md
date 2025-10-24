@@ -227,6 +227,70 @@ third_nav_title: Primary 6
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Clementi Town Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 9 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 2:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>10 Clementi Avenue 3, Singapore 129904</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/ctss-e-open-house-2025/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/ctss-e-open-house-2025/home</a>
+</p>
+<p></p>
+<p>Brochure: <a href="https://drive.google.com/file/d/1S3qsgOYNJii3mieFQGzi11pKRuu3Riqq/view" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1S3qsgOYNJii3mieFQGzi11pKRuu3Riqq/view</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Jurong Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 15 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 12:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>31 Yuan Ching Road, Singapore 618652</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sign Up Link:</p>
+<p><a href="https://linktr.ee/jurongsec" rel="noopener noreferrer nofollow" target="_blank">https://linktr.ee/jurongsec</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hua Yi Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 22 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am - 1:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>60 Jurong West Street 42, Singapore 649371</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://huayisec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://huayisec.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
