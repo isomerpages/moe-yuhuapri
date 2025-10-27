@@ -25,14 +25,35 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Memory Games Competition (2021)</p>
+<p>W1 Cluster Young Investigators 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 10</p>
+<p>Einstein Excellence Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.林铭辉 Lim Ming Hui
-<br>2.林文圈 Alivenna Lim Wen Quan</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>W1 Cluster Young Investigators 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Einstein Green Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>W1 Cluster Young Investigators 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eureka Green Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -47,6 +68,17 @@ Issues</p>
 <p>1.Rafi Abdul Subuhan Mohammed Afraz 5 Cou
 <br>2.Magesh Kumar Rashmita 5 Cou
 <br>3.Singaravelan Ranjani Sri 5 Kin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
