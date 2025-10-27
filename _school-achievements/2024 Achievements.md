@@ -194,6 +194,183 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Oratorical Competition (Telok Blangah CC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>KARTHIK HARISH PRANAV (5 GRA)</p>
+</li>
+<li>
+<p>SUBRAMANIAN RAKSHITHA (6 JOY)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Poem Recitation Competition (UPTLC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>KANNAN PREM KUMAR (5 COU) - 4th Position</p>
+</li>
+<li>
+<p>KARTIGA SIVARAJ (5 COU) - Participation</p>
+</li>
+<li>
+<p>KARTHIK HARISH PRANAV (5 GRA) -</p>
+</li>
+<li>
+<p>JAYAKUMAR VISHALINI (5 JOY) - Participation</p>
+</li>
+<li>
+<p>ERUTHARAJA THANISH (5 JOY) - Participation</p>
+</li>
+<li>
+<p>KADHIRAVAN SAI CHANDRESH (5 UNI) - Participation</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saya Boleh Bercerita</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>SHAARAWY MAGHAZI BIN MOHAMMAD NOOR (2 GRA) - Gold</p>
+</li>
+<li>
+<p>AALIYAH DELISHA BINTE AHMED ZAKI (2 UNI) - Silver</p>
+</li>
+<li>
+<p>DAIYAN EZRA BIN MOHAMED KHAIRUL (2 UNI) - Silver</p>
+</li>
+<li>
+<p>LUTHFIYAH MARISSA BINTI MUHAMAD MUSRI (2 UNI) - Bronze</p>
+</li>
+<li>
+<p>MUHAMMAD NAHWAN BIN MOHAMMED ZULKIFLI (2 UNI) - Bronze</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Story Telling Competition (Leng Kee CC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>KANTHASAMI MALINI BHARATHY (3 KIN) - 3rd Prize</p>
+</li>
+<li>
+<p>MAYURIKA MOHAN (3 GRA) - Participation</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Story Telling Competition (Telok Blangah CC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>BAHURUDHEEN ALI AHAMED AFRAAH (3 JOY) - Participation</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thirukural Recital Competition (Yuhua CC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>PUKAZHENTHI ARTHI ENIYA (4 UNI) - 3rd Prize</p>
+</li>
+<li>
+<p>MURUGESAN HASINI (4 UNI) - Participation</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Creative Essay Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Work Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>CHEN YUTONG (4 GRA)</p>
+</li>
+<li>
+<p>SONG RUXUAN (5 COU)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>stopped at line 74</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
