@@ -245,7 +245,11 @@ description: ""
 <p>Saya Boleh Bercerita</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Gold</p>
 <p></p>
+<p>Silver</p>
+<p></p>
+<p>Bronze</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
