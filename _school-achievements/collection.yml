@@ -2,6 +2,7 @@ collections:
   school-achievements:
     output: true
     order:
+      - 2024 Achievements.md
       - 2023 Achievements.md
       - 2022 Achievements.md
       - 2021 Achievements.md
