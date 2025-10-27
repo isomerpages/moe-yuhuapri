@@ -32,6 +32,10 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://www.yuhuapri.moe.edu.sg/general-information/GPA-insurance-policy-for-students/" rel="noopener nofollow" target="_blank">GPA Insurance Policy for Students</a>
+</p>
+</li>
+<li>
 <p><a href="/files/SchoolFinder_how_to_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">How-to-Guides to equip parents on how to use the tools</a>
 </p>
 </li>
