@@ -13,36 +13,26 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>W1 Cluster Young Investigators 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Einstein Excellence Award</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>W1 Cluster Young Investigators 2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Einstein Green Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>JI TINGYU (6 JOY)</p>
+</li>
+<li>
+<p>LEROY NAVIN GIRIESAN (6 JOY)</p>
+</li>
+<li>
+<p>NGUYEN NGO BAO CHAU (6 JOY)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -53,25 +43,168 @@ description: ""
 <p>Eureka Green Award</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>PAVITRA SARAVANA (6 COU)</p>
+</li>
+<li>
+<p>MUHAMMAD MIKAIL BIN SULAIMAN (6 COU)</p>
+</li>
+<li>
+<p>DAKSAYANI D/O THIRUSELVAN (6 DIL)</p>
+</li>
+<li>
+<p>LEE QI XUE, EDEN (6 DIL)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asia- Pacific Mathematical Olympiad for Primary Schools</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+<p></p>
+<p>Silver</p>
+<p></p>
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>LIU JINGHENG (6 JOY) - Gold</p>
+</li>
+<li>
+<p>LU RENZHI (6 JOY) - Gold</p>
+</li>
+<li>
+<p>SONG RUXUAN (5 COU) - Silver</p>
+</li>
+<li>
+<p>HU QINGHAI (5 COU) - Silver</p>
+</li>
+<li>
+<p>JI TINGYU (6 JOY) - Silver</p>
+</li>
+<li>
+<p>JING YI (5 COU) - Bronze</p>
+</li>
+<li>
+<p>WU YIXUAN (6 JOY) - Bronze</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asia-Pacific Mathematical Olympiad(APMOPS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>SONG RUXUAN (5 COU)</p>
+</li>
+<li>
+<p>LIU JINGHENG (6 JOY)</p>
+</li>
+<li>
+<p>LU RENZHI (6 JOY)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International CL Creative Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>SUN WEICHEN (6 JOY) - Bronze</p>
+</li>
+<li>
+<p>ZHANG HENG (3 COU) - Participation</p>
+</li>
+<li>
+<p>CHEN XIMING (3 COU) - Participation</p>
+</li>
+<li>
+<p>LOW ZHE MING (3 GRA) - Participation</p>
+</li>
+<li>
+<p>KEE RUI QEE (4 COU) - Participation</p>
+</li>
+<li>
+<p>YANG XINMIAO (4 GRA) - Participation</p>
+</li>
+<li>
+<p>CHEN JINGYUN (4 KIN) - Participation</p>
+</li>
+<li>
+<p>CHEN XIN (5 COU) - Participation</p>
+</li>
+<li>
+<p>HENG SI XUAN CLOVELLE (5 COU) - Participation</p>
+</li>
+<li>
+<p>JING YI (5 COU) - Participation</p>
+</li>
+<li>
+<p>LIU YANTING (5 COU) - Participation</p>
+</li>
+<li>
+<p>LIYU ZI QING (5 COU) - Participation</p>
+</li>
+<li>
+<p>SONG RUXUAN (5 COU) - Participation</p>
+</li>
+<li>
+<p>YU PEICHEN (5 COU) - Participation</p>
+</li>
+<li>
+<p>ZOE VUONG (5 COU) - Participation</p>
+</li>
+<li>
+<p>LI MUYANG (5 COU) - Participation</p>
+</li>
+<li>
+<p>SUN LECHEN (5 COU) - Participation</p>
+</li>
+<li>
+<p>SUN RUIHONG (5 COU) - Participation</p>
+</li>
+<li>
+<p>HE WEIYI (5 UNI) - Participation</p>
+</li>
+<li>
+<p>WU XIGUI (5 UNI) - Participation</p>
+</li>
+<li>
+<p>LI JIAEN (6 JOY) - Participation</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tamil Languge Festival 2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate and Trophies for presentation on Consersation and Enviromental
-Issues</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1.Rafi Abdul Subuhan Mohammed Afraz 5 Cou
-<br>2.Magesh Kumar Rashmita 5 Cou
-<br>3.Singaravelan Ranjani Sri 5 Kin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,47 +216,24 @@ Issues</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Abbott Young Scientist Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Recipient of Abbott Young Scientist Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yap Lei’A 5Kin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Primary Science Olympiad</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kevin Phyo 6Dil (Gold)
-<br>Xie Zihan 6Dil (Silver)
-<br>Zhang Jingcheng 5Kin (Bronze)
-<br>Nay Wun Thant 6Dil (Merit)</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Math Olympiad of Singapore</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Chee Hann 3 Gra (Gold)
-<br>Zhang Jingcheng 5 Kin (Silver)
-<br>Liew San You 5 Kin (Bronze)
-<br>Honourable Mention
-<br>Stephanie Chua Le Le 5 Kin
-<br>Kevin Phyo 6 Dil
-<br>Nay Wun Thant 6 Dil
-<br>Rahman Mashrafi 6 Dil
-<br>Shirin Angeline 6 Dil
-<br>Xie Zihan 6 Dil</p>
+<p></p>
 </td>
 </tr>
 </tbody>
