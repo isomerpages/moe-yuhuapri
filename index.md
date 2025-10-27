@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: School's Achievements
           description: ""
-          url: /school-achievements/2021
+          url: /2025-achievements/
         - title: E-Open House 2025
           description: ""
           url: /eopenhouse2025/
