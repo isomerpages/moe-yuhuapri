@@ -60,15 +60,15 @@ description: ""
 </p>
 </li>
 <li>
+<p><a href="https://www.seab.gov.sg/psle/" rel="noopener nofollow" target="_blank">Singapore Examinations and Assessment Boards</a>
+</p>
+</li>
+<li>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Student Details Form</a>
 </p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/welcome-to-secondary-school" rel="noopener noreferrer nofollow" target="_blank">“Welcome to Secondary School” video</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.seab.gov.sg/psle/" rel="noopener nofollow" target="_blank">Singapore Examinations and Assessment Boards</a>
 </p>
 </li>
 </ul>
