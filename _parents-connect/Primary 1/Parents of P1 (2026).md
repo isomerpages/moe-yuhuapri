@@ -112,13 +112,13 @@ P1 administrative matters.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Chitson Bus Fare List 2025</strong>
+<p><strong>Chitson Bus Fare List 2026</strong>
 </p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.yuhuapri.moe.edu.sg/general-information/school-services/bus-service/" rel="noopener noreferrer nofollow" target="_blank">https://www.yuhuapri.moe.edu.sg/general-information/school-services/bus-service/</a></strong>
+<p><strong><a href="/files/Yuhua_Bus_Fare_2026.pdf" rel="noopener nofollow" target="_blank">Chitson Bus Fare List 2026</a></strong>
 </p>
 </td>
 </tr>
@@ -152,13 +152,14 @@ P1 administrative matters.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>P1 Book List 2026</strong>
+<p><strong>P1 Booklist 2026</strong>
 </p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/P1_Booklist_2026__3_pages_.pdf" rel="noopener nofollow" target="_blank">P1 Booklist (2026)</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
