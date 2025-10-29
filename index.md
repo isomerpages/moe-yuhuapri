@@ -14,7 +14,7 @@ sections:
           url: /2025-achievements/
         - title: For P1 Parents (2026)
           description: ""
-          url: ss
+          url: /parents-of-p1-2026/
         - title: Spotlight
           description: ""
           url: /2024-intouch-magazine/
