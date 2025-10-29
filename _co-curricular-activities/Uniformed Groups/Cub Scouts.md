@@ -86,7 +86,3 @@ and activities organised the Scout Headquarters.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.45am – 9am, CCA Room 3</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca7.png">
-</div>
-<p></p>
