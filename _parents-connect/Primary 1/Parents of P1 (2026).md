@@ -26,7 +26,7 @@ P1 administrative matters.</p>
 </ul>
 </th>
 <th rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
+<p><a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 </th>
 </tr>
@@ -40,7 +40,7 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://asencio.com.sg/</a></strong>
+<p><strong><a href="https://asencio.com.sg/" rel="noopener nofollow" target="_blank">https://asencio.com.sg/</a></strong>
 </p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a></strong>
+<p><strong><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a></strong>
 </p>
 </td>
 </tr>
@@ -73,10 +73,10 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/financial-matters/fees</a></strong>
+<p><strong><a href="http://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">http://www.moe.gov.sg/financial-matters/fees</a></strong>
 </p>
 <p></p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/financial-matters/fees/egiro</a></strong>
+<p><strong><a href="http://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">http://www.moe.gov.sg/financial-matters/fees/egiro</a></strong>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance/</a></strong>
+<p><strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance/" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance/</a></strong>
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.aceatwork.com.sg/ace609558</a></strong>
+<p><strong><a href="https://www.aceatwork.com.sg/ace609558" rel="noopener nofollow" target="_blank">https://www.aceatwork.com.sg/ace609558</a></strong>
 </p>
 </td>
 </tr>
