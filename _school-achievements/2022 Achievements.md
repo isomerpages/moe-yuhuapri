@@ -28,7 +28,7 @@ description: ""
 <p>Abbott Young Scientist Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Recipient of Abbott Young Scientist Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -73,10 +73,10 @@ description: ""
 <p>Abbott Young Scientist Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Recipient of Abbott Young Scientist Award</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yap Lei’A 5Kin</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -87,10 +87,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kevin Phyo 6Dil (Gold)
-<br>Xie Zihan 6Dil (Silver)
-<br>Zhang Jingcheng 5Kin (Bronze)
-<br>Nay Wun Thant 6Dil (Merit)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -101,16 +98,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Chee Hann 3 Gra (Gold)
-<br>Zhang Jingcheng 5 Kin (Silver)
-<br>Liew San You 5 Kin (Bronze)
-<br>Honourable Mention
-<br>Stephanie Chua Le Le 5 Kin
-<br>Kevin Phyo 6 Dil
-<br>Nay Wun Thant 6 Dil
-<br>Rahman Mashrafi 6 Dil
-<br>Shirin Angeline 6 Dil
-<br>Xie Zihan 6 Dil</p>
+<p></p>
 </td>
 </tr>
 </tbody>
