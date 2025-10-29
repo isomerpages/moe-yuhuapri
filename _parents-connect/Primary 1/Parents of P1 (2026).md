@@ -118,7 +118,8 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://www.yuhuapri.moe.edu.sg/general-information/school-services/bus-service/" rel="noopener noreferrer nofollow" target="_blank">https://www.yuhuapri.moe.edu.sg/general-information/school-services/bus-service/</a></strong>
+</p>
 </td>
 </tr>
 <tr>
