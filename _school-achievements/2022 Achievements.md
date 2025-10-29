@@ -25,28 +25,47 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Memory Games Competition (2021)</p>
+<p>Abbott Young Scientist Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Top 10</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.林铭辉 Lim Ming Hui
-<br>2.林文圈 Alivenna Lim Wen Quan</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CHIKA BRINITA TESHAANI OSADEBE (4 COU)</p>
+</li>
+<li>
+<p>MUHAMMAD ADAM RAYYAN BIN ABDULLAH (5 GRA)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tamil Languge Festival 2021</p>
+<p>National Picture Book Creation Competition - Merit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate and Trophies for presentation on Consersation and Enviromental
-Issues</p>
+<p>Merit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.Rafi Abdul Subuhan Mohammed Afraz 5 Cou
-<br>2.Magesh Kumar Rashmita 5 Cou
-<br>3.Singaravelan Ranjani Sri 5 Kin</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>YEOH KAI JUN (5 DIL)</p>
+</li>
+<li>
+<p>KEE QIN ENN (5 GRA)</p>
+</li>
+<li>
+<p>LIN MIAOMIAO (5 GRA)</p>
+</li>
+<li>
+<p>TAY HWEE XIN (5 GRA)</p>
+</li>
+<li>
+<p>WEI SHIPENG (5 GRA)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
