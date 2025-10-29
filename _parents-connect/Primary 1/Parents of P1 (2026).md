@@ -76,8 +76,6 @@ P1 administrative matters.</p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/financial-matters/fees</a></strong>
 </p>
 <p></p>
-<p></p>
-<p></p>
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/financial-matters/fees/egiro</a></strong>
 </p>
 </td>
