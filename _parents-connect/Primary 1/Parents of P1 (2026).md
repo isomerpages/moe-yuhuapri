@@ -158,7 +158,7 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/P1_Booklist_2026__3_pages_.pdf" rel="noopener nofollow" target="_blank">P1 Booklist (2026)</a></strong>
+<p><a href="/files/P1_Booklist_for_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist (2026)</a>
 </p>
 </td>
 </tr>
