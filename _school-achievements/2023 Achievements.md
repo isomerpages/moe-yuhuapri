@@ -140,66 +140,6 @@ description: ""
 <li>
 <p>SUN WEICHEN (6 JOY) - Bronze</p>
 </li>
-<li>
-<p>ZHANG HENG (3 COU) - Participation</p>
-</li>
-<li>
-<p>CHEN XIMING (3 COU) - Participation</p>
-</li>
-<li>
-<p>LOW ZHE MING (3 GRA) - Participation</p>
-</li>
-<li>
-<p>KEE RUI QEE (4 COU) - Participation</p>
-</li>
-<li>
-<p>YANG XINMIAO (4 GRA) - Participation</p>
-</li>
-<li>
-<p>CHEN JINGYUN (4 KIN) - Participation</p>
-</li>
-<li>
-<p>CHEN XIN (5 COU) - Participation</p>
-</li>
-<li>
-<p>HENG SI XUAN CLOVELLE (5 COU) - Participation</p>
-</li>
-<li>
-<p>JING YI (5 COU) - Participation</p>
-</li>
-<li>
-<p>LIU YANTING (5 COU) - Participation</p>
-</li>
-<li>
-<p>LIYU ZI QING (5 COU) - Participation</p>
-</li>
-<li>
-<p>SONG RUXUAN (5 COU) - Participation</p>
-</li>
-<li>
-<p>YU PEICHEN (5 COU) - Participation</p>
-</li>
-<li>
-<p>ZOE VUONG (5 COU) - Participation</p>
-</li>
-<li>
-<p>LI MUYANG (5 COU) - Participation</p>
-</li>
-<li>
-<p>SUN LECHEN (5 COU) - Participation</p>
-</li>
-<li>
-<p>SUN RUIHONG (5 COU) - Participation</p>
-</li>
-<li>
-<p>HE WEIYI (5 UNI) - Participation</p>
-</li>
-<li>
-<p>WU XIGUI (5 UNI) - Participation</p>
-</li>
-<li>
-<p>LI JIAEN (6 JOY) - Participation</p>
-</li>
 </ul>
 </td>
 </tr>
