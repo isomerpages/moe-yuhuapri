@@ -132,7 +132,8 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/FAQ_for_P1_Parents_2026.pdf" rel="noopener nofollow" target="_blank">FAQs for P1 Parents 2026</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +146,8 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/2026_P1_Packing_List.pdf" rel="noopener nofollow" target="_blank">P1 Packing List 2026</a></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -158,7 +160,7 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/P1_Booklist_for_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist (2026)</a>
+<p><strong><a href="/files/P1_Booklist_for_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist (2026)</a></strong>
 </p>
 </td>
 </tr>
