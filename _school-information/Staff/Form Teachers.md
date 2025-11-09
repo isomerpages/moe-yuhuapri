@@ -6,7 +6,7 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>2025 Form Teachers</h3>
-<h4><strong>Primary 1 </strong></h4>
+<h4><strong>Primary 1</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -680,17 +680,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wu_chiou_pyng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS TAN LAY HWA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
