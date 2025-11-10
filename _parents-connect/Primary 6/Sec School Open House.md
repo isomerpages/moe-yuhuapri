@@ -233,7 +233,7 @@ third_nav_title: Primary 6
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday, 9 Nov 2025</p>
+<p>Saturday, 15 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9:00am - 2:30pm</p>
@@ -273,6 +273,66 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Commonwealth Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 15 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am - 1:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>698 West Coast Road, 608784</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.facebook.com/hashtag/cwssopenhouse2025" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/hashtag/cwssopenhouse2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bukit View Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 15 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am - 12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>16 Bukit Batok Street 21, Singapore 659633</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.bukitviewsec.moe.edu.sg/admissions/aboutbvss/" rel="noopener noreferrer nofollow" target="_blank">https://www.bukitviewsec.moe.edu.sg/admissions/aboutbvss/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bukit Batok Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 15 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am - 3:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>50 Bukit Batok West Ave 8, Singapore 658962</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.bukitbatoksec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.bukitbatoksec.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Hua Yi Secondary School</strong>
 </p>
 </td>
@@ -288,6 +348,106 @@ third_nav_title: Primary 6
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://huayisec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://huayisec.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hillgrove Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 22 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am - 12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>10 Bukit Batok Street 52, Singapore 659250</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/hgv-openhouse" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/hgv-openhouse</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fuhua Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 22 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am - 12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>5 Jurong West St 41, Singapore 649410</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.fuhuasec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.fuhuasec.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Yuhua Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 29 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:00am - 1:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>35 Jurong West Street 41, Singapore 649406</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/yhss-e-openhouse?usp=sharing</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Boon Lay Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 29 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 12:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>11, Jurong West Street 65, Singapore 648354</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.boonlaysec.moe.edu.sg/prospective-students/" rel="noopener noreferrer nofollow" target="_blank">https://www.boonlaysec.moe.edu.sg/prospective-students/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Jurongville Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 29 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am - 12:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>202 Jurong East Avenue 1, Singapore 609790</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.jurongvillesec.moe.edu.sg/our-experience/open-house/open-house/" rel="noopener noreferrer nofollow" target="_blank">https://www.jurongvillesec.moe.edu.sg/our-experience/open-house/open-house/</a>
 </p>
 </td>
 </tr>
