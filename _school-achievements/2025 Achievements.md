@@ -336,7 +336,25 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>CHEN JINGYUN (5 DIL) - Gold</p>
+</li>
+<li>
+<p>LIM JUN YIE (5 DIL) - Gold</p>
+</li>
+<li>
+<p>UTTARA AJAY KUMAR (5 DIL) - Bronze</p>
+</li>
+<li>
+<p>CHENG ZHUOQIN (5 DIL) - Bronze</p>
+</li>
+<li>
+<p>MURALIDHARAN SREEVAIBAV (5 DIL) - Bronze</p>
+</li>
+<li>
+<p>TAN YAN BO (5 DIL) - Bronze</p>
+</li>
+<li>
+<p>WANG YUSHEN (5 DIL) - Bronze</p>
 </li>
 </ul>
 </td>
@@ -355,7 +373,52 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>CHEN JINGYUN (5 DIL) - Highest Distinction</p>
+</li>
+<li>
+<p>LIM JUN YIE (5 DIL) - Highest Distinction</p>
+</li>
+<li>
+<p>LEE YU HENG (4 COU) - Distinction</p>
+</li>
+<li>
+<p>JAYME OW ZE XUAN (5 DIL) - Distinction</p>
+</li>
+<li>
+<p>MITHRA MANIVANNAN (5 DIL) - Distinction</p>
+</li>
+<li>
+<p>HEIN LIN SOE (5 DIL) - Distinction</p>
+</li>
+<li>
+<p>SU YOURAN (5 DIL) - Distinction</p>
+</li>
+<li>
+<p>WANG YUSHEN (5 DIL) - Distinction</p>
+</li>
+<li>
+<p>SONG RUXUAN (6 COU) - Distinction</p>
+</li>
+<li>
+<p>HU QINGHAI (6 COU) - Distinction</p>
+</li>
+<li>
+<p>LI MUYANG (6 COU) - Distinction</p>
+</li>
+<li>
+<p>PHAN MANH TAN (6 COU) - Distinction</p>
+</li>
+<li>
+<p>JING YI (6 COU) -Merit</p>
+</li>
+<li>
+<p>YU PEICHEN (6 COU) -Merit</p>
+</li>
+<li>
+<p>SUN LECHEN (6 COU) -Merit</p>
+</li>
+<li>
+<p>VOO MIN HAO KYLE (6 COU) -Merit</p>
 </li>
 </ul>
 </td>
@@ -370,7 +433,22 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>BELLA NG (4 COU)</p>
+</li>
+<li>
+<p>KASHYAP HARISH (4 JOY)</p>
+</li>
+<li>
+<p>NGUYEN NHAT THANH (4 KIN)</p>
+</li>
+<li>
+<p>KEE RUI QEE (5 DIL)</p>
+</li>
+<li>
+<p>UTTARA AJAY KUMAR (5 DIL)</p>
+</li>
+<li>
+<p>SIVAGURUNATHAN THARUN (5 DIL)</p>
 </li>
 </ul>
 </td>
@@ -385,7 +463,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>HEIN LIN SOE (5 DIL)</p>
 </li>
 </ul>
 </td>
@@ -404,7 +482,31 @@ description: ""
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>CHENG ZHUOQIN (5 DIL) - Gold</p>
+</li>
+<li>
+<p>MITHRA MANIVANNAN (5 DIL) - Bronze</p>
+</li>
+<li>
+<p>SU YOURAN (5 DIL) - Bronze</p>
+</li>
+<li>
+<p>KIM RIYOUNG (5 DIL) - Merit</p>
+</li>
+<li>
+<p>SHINDE GAYATRI YOGENDRA (5 DIL) - Merit</p>
+</li>
+<li>
+<p>HEIN LIN SOE (5 DIL) - Merit</p>
+</li>
+<li>
+<p>HEIN THANT NYI (5 DIL) - Merit</p>
+</li>
+<li>
+<p>SIVAGURUNATHAN THARUN (5 DIL) - Merit</p>
+</li>
+<li>
+<p>TAN YAN BO (5 DIL) - Merit</p>
 </li>
 </ul>
 </td>
