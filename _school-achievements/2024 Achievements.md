@@ -20,6 +20,8 @@ description: ""
 <p>Einstein Excellence Award</p>
 <p></p>
 <p>Einstein Green Award</p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -98,27 +100,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asia-Pacific Mathematical Olympiad(APMOPS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Team Honourable Mention</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>SONG RUXUAN (5 COU)</p>
-</li>
-<li>
-<p>LIU JINGHENG (6 JOY)</p>
-</li>
-<li>
-<p>LU RENZHI (6 JOY)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>International CL Creative Writing Competition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,114 +109,6 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>SUN WEICHEN (6 JOY) - Bronze</p>
-</li>
-<li>
-<p>ZHANG HENG (3 COU) - Participation</p>
-</li>
-<li>
-<p>CHEN XIMING (3 COU) - Participation</p>
-</li>
-<li>
-<p>LOW ZHE MING (3 GRA) - Participation</p>
-</li>
-<li>
-<p>KEE RUI QEE (4 COU) - Participation</p>
-</li>
-<li>
-<p>YANG XINMIAO (4 GRA) - Participation</p>
-</li>
-<li>
-<p>CHEN JINGYUN (4 KIN) - Participation</p>
-</li>
-<li>
-<p>CHEN XIN (5 COU) - Participation</p>
-</li>
-<li>
-<p>HENG SI XUAN CLOVELLE (5 COU) - Participation</p>
-</li>
-<li>
-<p>JING YI (5 COU) - Participation</p>
-</li>
-<li>
-<p>LIU YANTING (5 COU) - Participation</p>
-</li>
-<li>
-<p>LIYU ZI QING (5 COU) - Participation</p>
-</li>
-<li>
-<p>SONG RUXUAN (5 COU) - Participation</p>
-</li>
-<li>
-<p>YU PEICHEN (5 COU) - Participation</p>
-</li>
-<li>
-<p>ZOE VUONG (5 COU) - Participation</p>
-</li>
-<li>
-<p>LI MUYANG (5 COU) - Participation</p>
-</li>
-<li>
-<p>SUN LECHEN (5 COU) - Participation</p>
-</li>
-<li>
-<p>SUN RUIHONG (5 COU) - Participation</p>
-</li>
-<li>
-<p>HE WEIYI (5 UNI) - Participation</p>
-</li>
-<li>
-<p>WU XIGUI (5 UNI) - Participation</p>
-</li>
-<li>
-<p>LI JIAEN (6 JOY) - Participation</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Oratorical Competition (Telok Blangah CC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>KARTHIK HARISH PRANAV (5 GRA)</p>
-</li>
-<li>
-<p>SUBRAMANIAN RAKSHITHA (6 JOY)</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Poem Recitation Competition (UPTLC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>KANNAN PREM KUMAR (5 COU) - 4th Position</p>
-</li>
-<li>
-<p>KARTIGA SIVARAJ (5 COU) - Participation</p>
-</li>
-<li>
-<p>KARTHIK HARISH PRANAV (5 GRA) -</p>
-</li>
-<li>
-<p>JAYAKUMAR VISHALINI (5 JOY) - Participation</p>
-</li>
-<li>
-<p>ERUTHARAJA THANISH (5 JOY) - Participation</p>
-</li>
-<li>
-<p>KADHIRAVAN SAI CHANDRESH (5 UNI) - Participation</p>
 </li>
 </ul>
 </td>
@@ -276,30 +149,12 @@ description: ""
 <p>Story Telling Competition (Leng Kee CC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3rd Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>KANTHASAMI MALINI BHARATHY (3 KIN) - 3rd Prize</p>
-</li>
-<li>
-<p>MAYURIKA MOHAN (3 GRA) - Participation</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Story Telling Competition (Telok Blangah CC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>BAHURUDHEEN ALI AHAMED AFRAAH (3 JOY) - Participation</p>
+<p>KANTHASAMI MALINI BHARATHY (3 KIN)</p>
 </li>
 </ul>
 </td>
@@ -309,15 +164,12 @@ description: ""
 <p>Thirukural Recital Competition (Yuhua CC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3rd Prize</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>PUKAZHENTHI ARTHI ENIYA (4 UNI) - 3rd Prize</p>
-</li>
-<li>
-<p>MURUGESAN HASINI (4 UNI) - Participation</p>
+<p>PUKAZHENTHI ARTHI ENIYA (4 UNI)</p>
 </li>
 </ul>
 </td>
@@ -342,79 +194,257 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Essay Writing Competition (Yuhua CC)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>1st Prize</p>
 <p></p>
+<p>2nd Prize</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>VIJAYAKUMAR JOSIKA (6 GRA) - 1st Prize</p>
+</li>
+<li>
+<p>PRAKASH VEDHITHA (6 UNI) - 2nd Prize</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Mathematical Olympiad of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Gold</p>
 <p></p>
+<p>Silver</p>
+<p></p>
+<p>Bronze</p>
+<p></p>
+<p>Top 30 Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SONG RUXUAN (5 COU) - Gold &amp; Top 30 Girls</p>
+</li>
+<li>
+<p>HU QINGHAI (5 COU) - Gold</p>
+</li>
+<li>
+<p>JING YI (5 COU) - Silver</p>
+</li>
+<li>
+<p>MAGESH KUMAR THAVANESH (5 COU) - Bronze</p>
+</li>
+<li>
+<p>PHAN MANH TAN (5 COU) - Bronze</p>
+</li>
+<li>
+<p>SUN LECHEN (5 COU) - Bronze</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Raffles Mathematical Olympiad</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Distinction</p>
 <p></p>
+<p>Merit</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>SONG RUXUAN (5 COU) - Distinction</p>
+</li>
+<li>
+<p>LIU JINGHENG (6 JOY) - Distinction</p>
+</li>
+<li>
+<p>LU RENZHI (6 JOY) - Distinction</p>
+</li>
+<li>
+<p>HEIN LIN SOE (4 COU) - Merit</p>
+</li>
+<li>
+<p>JING YI (5 COU) - Merit</p>
+</li>
+<li>
+<p>HU QINGHAI (5 COU) - Merit</p>
+</li>
+<li>
+<p>PRAJAAY ADITYA ASHOK (6 GRA) - Merit</p>
+</li>
+<li>
+<p>MORRISON AOIFE MARIE BACERO (6 JOY) - Merit</p>
+</li>
+<li>
+<p>JAVIER TAN ZHI CHUAN (6 JOY) - Merit</p>
+</li>
+<li>
+<p>KANG WEI LUN (6 JOY) - Merit</p>
+</li>
+<li>
+<p>SUN WEICHEN (6 JOY) - Merit</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Picture Book Creation Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>KEE RUI QEE (4 COU)</p>
+</li>
+<li>
+<p>JAYME OW ZE XUAN (4 JOY)</p>
+</li>
+<li>
+<p>OLIVIA TAN YI NING (4 KIN)</p>
+</li>
+<li>
+<p>CHEN JINGYUN (4 KIN)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>DOROTHY LIM RUI CI (3 COU)</p>
+</li>
+<li>
+<p>PANG YU QIAN (3 KIN)</p>
+</li>
+<li>
+<p>ZHANG ZILIN (3 KIN)</p>
+</li>
+<li>
+<p>YANG XINMIAO (4 GRA)</p>
+</li>
+<li>
+<p>JOANNE XUAN EN WEE (4 JOY)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Saya Boleh Mengarang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold with Honours (First Place)</p>
 <p></p>
+<p>Gold with Honours</p>
+<p></p>
+<p>Gold</p>
+<p></p>
+<p>Silver</p>
+<p></p>
+<p>Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>ILYAS NAUFAL BIN MOHD YUSRI (2 KIN) - Gold with Honours [First Place]</p>
+</li>
+<li>
+<p>AURA NURSYAZIA BINTE MOHAMED RIZZAL (3 COU) - Gold with Honours</p>
+</li>
+<li>
+<p>MUHAMMAD MATIN MIRZA BIN MOHAMED FAIZAL (3 COU) - Gold</p>
+</li>
+<li>
+<p>NAURA BADRINA BINTE BADLISHAH (4 COU) - Gold</p>
+</li>
+<li>
+<p>MUHAMMAD ANIS BIN MOHAMMAD FAIROZI (4 COU) - Gold</p>
+</li>
+<li>
+<p>NURIN AYEESHA BINTE MOHAMAD ZHAHIRUDDIN (5 COU) - Silver</p>
+</li>
+<li>
+<p>ADIKA REZKY SAZALI (6 GRA) - Silver</p>
+</li>
+<li>
+<p>NOOR UL HUDA BINTE FEROZ KHAN (4 KIN) - Bronze</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Raffles Science Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>HU QINGHAI (5 COU)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Primary Science Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+<p></p>
+<p>Silver</p>
+<p></p>
+<p>Bronze</p>
+<p></p>
+<p>Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>ZHU DIWEN (5 COU) - Gold</p>
+</li>
+<li>
+<p>HU QINGHAI (5 COU) - Silver</p>
+</li>
+<li>
+<p>JING YI (5 COU) - Bronze</p>
+</li>
+<li>
+<p>SUN LECHEN (5 COU) - Bronze</p>
+</li>
+<li>
+<p>SARVA SRILAL RUJOOLA (5 COU) - Merit</p>
+</li>
+<li>
+<p>YU PEICHEN (5 COU) - Merit</p>
+</li>
+<li>
+<p>CORTES NEON VARGAS (5 COU) - Merit</p>
+</li>
+<li>
+<p>PHAN MANH TAN (5 COU) - Merit</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
