@@ -6,6 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h3>Cub Scouts</h3>
+<div class="iframe-wrapper">
+<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ-4rQkAMJnm7Gd55QpWqEbE76s0S4MiGjdHkmDglOCSjkKw8YwbPOt-6AkVVDYGrpzP1gqI86n0pBN/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+</div>
 <p><strong>Overview</strong>
 </p>
 <p>The Yuhua Cub Scouts programme seeks to inculcate in cub scouts, a value
@@ -83,7 +86,3 @@ and activities organised the Scout Headquarters.</p>
 <p><strong>Schedule</strong>
 </p>
 <p>Tuesdays, 7.45am – 9am, CCA Room 3</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca7.png">
-</div>
-<p></p>

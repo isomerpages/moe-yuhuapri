@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: School's Achievements
           description: ""
-          url: /school-achievements/2021
-        - title: E-Open House 2025
+          url: /2025-achievements/
+        - title: For P1 Parents (2026)
           description: ""
-          url: /eopenhouse2025/
+          url: /parents-of-p1-2026/
         - title: Spotlight
           description: ""
           url: /2024-intouch-magazine/
