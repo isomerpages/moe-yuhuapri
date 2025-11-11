@@ -191,17 +191,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head/ Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lee – Guan Meixia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>guan_meixia@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Level Head / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
