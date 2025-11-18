@@ -43,6 +43,14 @@ situations.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -50,20 +58,30 @@ situations.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>Primary 2 students using a self-created 1-m string to find out distances
-between 2 points around the school.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Primary 3 students created 1-m square by reusing papers to estimate the
-area of a badminton court.</p>
-</td>
-<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math6.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 2 students using a self-created 1-m string to find out distances
+between 2 points around the school.</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 3 students created 1-m square by reusing papers to estimate the area of a badminton court.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -79,6 +97,14 @@ concepts learnt to collaboratively problem-solve a given scenario.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
