@@ -144,6 +144,7 @@ Math in a fun and engaging way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fame1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fame2.jpg">
 </div>
@@ -215,9 +216,26 @@ understanding through an inquiry approach.</p>
 various Mathematics Olympiad competitions.
 <br>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Results of Mathematics Olympiad Competition (2023, 2024, 2025)</strong>
 </p>
-<p><strong>2025</strong>
+<p><strong><u>2025</u></strong>
 </p>
 <p><strong>Raffles Mathematical Olympiad (RMO)</strong>
 </p>
@@ -481,11 +499,20 @@ various Mathematics Olympiad competitions.
 <p>Merit</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</strong>
+<p><strong>&nbsp;Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -615,13 +642,20 @@ various Mathematics Olympiad competitions.
 <p>Bronze</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>2024</strong>
+<p><strong>&nbsp;<u>2024</u></strong>
 </p>
 <p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong>
 </p>
@@ -707,6 +741,17 @@ various Mathematics Olympiad competitions.
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -864,6 +909,17 @@ various Mathematics Olympiad competitions.
 <p>Merit</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -964,11 +1020,20 @@ various Mathematics Olympiad competitions.
 <p>Bronze</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>2023</strong>
+<p><strong>&nbsp;<u>2023</u></strong>
 </p>
 <p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong>
 </p>
@@ -1054,6 +1119,17 @@ various Mathematics Olympiad competitions.
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1209,6 +1285,17 @@ various Mathematics Olympiad competitions.
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
