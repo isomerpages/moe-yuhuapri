@@ -36,57 +36,27 @@ situations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary1.jpg">
 </div>
-<table style="minWidth: 50px">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_2.png">
+</div>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math5.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math6.jpg">
-</div>
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Primary 2 students using a self-created 1-m string to find out distances
-between 2 points around the school.</p>
-</th>
-<td rowspan="1" colspan="1">
-<p><strong>Primary 3 students created 1-m square by reusing papers to estimate the area of a badminton court.</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>As Yuhualites move up to the upper primary, they will be involved in group
 projects that allow them to use design thinking process and apply mathematical
 concepts learnt to collaboratively problem-solve a given scenario.</p>
