@@ -61,6 +61,7 @@ situations.</p>
 projects that allow them to use design thinking process and apply mathematical
 concepts learnt to collaboratively problem-solve a given scenario.</p>
 <p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
