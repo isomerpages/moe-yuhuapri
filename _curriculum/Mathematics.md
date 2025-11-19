@@ -60,8 +60,14 @@ situations.</p>
 <p>As Yuhualites move up to the upper primary, they will be involved in group
 projects that allow them to use design thinking process and apply mathematical
 concepts learnt to collaboratively problem-solve a given scenario.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_3.png">
+</div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_4.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
