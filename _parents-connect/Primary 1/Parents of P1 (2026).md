@@ -164,6 +164,20 @@ P1 administrative matters.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Canteen Food List</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.yuhuapri.moe.edu.sg/general-information/canteen-food-list/" rel="noopener nofollow" target="_blank">Canteen Food List</a></strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

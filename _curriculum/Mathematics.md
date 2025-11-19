@@ -18,7 +18,7 @@ develop Yuhualites to be resilient and collaborative problem solvers.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Fostering a Joy of Learning in Mathematics</strong>
+<p><strong><em>Fostering a Joy of Learning in Mathematics</em></strong>
 </p>
 </li>
 </ul>
@@ -36,70 +36,50 @@ situations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Primary1.jpg">
 </div>
-<table style="minWidth: 50px">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_2.png">
+</div>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math5.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p>Primary 2 students using a self-created 1-m string to find out distances
-between 2 points around the school.</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 students created 1-m square by reusing papers to estimate the
-area of a badminton court.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math6.jpg">
-</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>As Yuhualites move up to the upper primary, they will be involved in group
 projects that allow them to use design thinking process and apply mathematical
 concepts learnt to collaboratively problem-solve a given scenario.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_3.png">
+</div>
 <p></p>
-<table style="minWidth: 50px">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_4.png">
+</div>
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math7.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p>Primary 5 students working in groups to design a Maths game to help their
-peers to learn Mathematics.</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 5 students sharing their Maths games with other levels during
-recess.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math8.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -111,37 +91,32 @@ this corner provides logic games for playing during recess time. New games
 are introduced monthly. During the post-exam period, competitions like
 Blooket, Rubik’s cubes and Sudoku are available for Yuhualites to experience
 Math in a fun and engaging way.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/math1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_5.png">
 </div>
-<p>Our FAME Corner</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fame1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_6.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fame2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_7.png">
 </div>
-<p>FAME Corner Competition using Blooket Quiz conducted with the help of
-parent volunteers.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Addition game during one of the monthly FAME Corner activities." src="/images/Fame3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_8.png">
 </div>
-<p>Addition game during one of the monthly FAME Corner activities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fame4.jpg">
-</div>
-<p>Active Floor Maths games are used during one of the monthly FAME corner
-activities.</p>
 <p>Besides the FAME corner, the Mathematics Department also gamified the
 P3 to P6 WeCan Quizzes to make the learning of basic Mathematics facts
 more engaging.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WECan1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_9.png">
 </div>
-<p>Sample of the gamification features in the WeCan Quizzes.</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Encouraging Self-Reflection and Embracing a Growth Mindset</strong>
+<p><strong><em>Encouraging Self-Reflection and Embracing a Growth Mindset</em></strong>
 </p>
 </li>
 </ul>
@@ -153,9 +128,8 @@ By actively assessing their own work, Yuhualites will gain a better understandin
 of their strengths and weaknesses, identify areas for improvement, and
 develop critical thinking and self-directed learning skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Reflection1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_10.png">
 </div>
-<p>Sample of self-assessment component in Topical Review.</p>
 <p>The Mathematics Department also initiated the Maths Buddy Programme to
 build a strong support network of peers to provide a safe, collaborative,
 and inclusive Mathematics learning culture, where students are encouraged
@@ -168,14 +142,29 @@ are part of the learning process and that everyone learns at their own
 pace. These meaningful interactions instill a sense of purpose and belonging
 in both the helper and the helped.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathBuddy1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_11.png">
 </div>
-<p>Our Primary 4 to 6 students strengthening their peer support and communication
-skills during a Maths Buddy training session.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MathBuddy2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_edited_12.png">
 </div>
-<p>Maths Buddy actively guiding&nbsp; classmates during Mathematics lessons.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Programmes to Enrich Learning of Mathematics</strong>
 </p>
 <p>Yuhualites who have demonstrated strong potential and aptitude in Mathematics
@@ -189,9 +178,26 @@ understanding through an inquiry approach.</p>
 various Mathematics Olympiad competitions.
 <br>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Results of Mathematics Olympiad Competition (2023, 2024, 2025)</strong>
 </p>
-<p><strong>2025</strong>
+<p><strong><u>2025</u></strong>
 </p>
 <p><strong>Raffles Mathematical Olympiad (RMO)</strong>
 </p>
@@ -455,11 +461,20 @@ various Mathematics Olympiad competitions.
 <p>Merit</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</strong>
+<p><strong>&nbsp;Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -589,13 +604,20 @@ various Mathematics Olympiad competitions.
 <p>Bronze</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>2024</strong>
+<p><strong>&nbsp;<u>2024</u></strong>
 </p>
 <p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong>
 </p>
@@ -681,6 +703,17 @@ various Mathematics Olympiad competitions.
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -838,6 +871,17 @@ various Mathematics Olympiad competitions.
 <p>Merit</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -938,11 +982,20 @@ various Mathematics Olympiad competitions.
 <p>Bronze</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>2023</strong>
+<p><strong>&nbsp;<u>2023</u></strong>
 </p>
 <p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong>
 </p>
@@ -1028,6 +1081,17 @@ various Mathematics Olympiad competitions.
 </td>
 <td rowspan="1" colspan="1">
 <p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1183,6 +1247,17 @@ various Mathematics Olympiad competitions.
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -33,6 +33,6 @@ learning.</p>
 </ul>
 <p>If you are interested to be a part of our Parents’ Support Group, click
 on the link below to fill up the online form.</p>
-<p><a href="https://form.gov.sg/672b66a7437f8eda5e0d6e00" rel="noopener nofollow" target="_blank">Yuhua PSG Recruitment Form</a>
+<p><strong><a href="https://go.gov.sg/yhps-psg-recruitment-form" rel="noopener nofollow" target="_blank">Yuhua PSG Recruitment Form</a></strong>
 </p>
 <p>Thank you!</p>
