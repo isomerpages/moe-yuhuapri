@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h3>2026 Form Teachers</h3>
+<h3><strong>2026 Form Teachers</strong></h3>
 <h4><strong>Primary 1</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
