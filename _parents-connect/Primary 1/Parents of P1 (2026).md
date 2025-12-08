@@ -178,6 +178,19 @@ P1 administrative matters.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>2026 Year Head Briefing Abridged</strong>
+</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
