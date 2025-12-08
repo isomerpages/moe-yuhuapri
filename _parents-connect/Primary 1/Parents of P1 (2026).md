@@ -188,7 +188,7 @@ P1 administrative matters.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="2026_Year_Head_Briefing_Abridged_Version" rel="noopener nofollow" target="_blank">2026 Year Head Briefing Abridged</a>
+<p><strong><a href="2026_Year_Head_Briefing_Abridged_Version" rel="noopener nofollow" target="_blank">2026 Year Head Briefing Abridged</a></strong>
 </p>
 </td>
 </tr>
