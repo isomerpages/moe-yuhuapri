@@ -2,7 +2,6 @@ collections:
   parents-connect:
     output: true
     order:
-      - Primary 1/2026 Year Head Briefing Abridged.md
       - Primary 1/Parents of P1 (2026).md
       - Primary 1/.keep
       - Primary 1/P1 Parents Engagement.md
