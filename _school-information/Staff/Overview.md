@@ -6,7 +6,7 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>School Staff</h3>
-<p>Link to <a href="/under-maintenance/" rel="noopener noreferrer nofollow" target="_blank">2025 Form Teachers</a>
+<p>Link to <a href="/under-maintenance/" rel="noopener noreferrer nofollow" target="_blank">2026 Form Teachers</a>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -248,14 +248,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kee Siew Yuen (MDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kee_siew_yuen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Kirandeep Kour Sandu (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -384,7 +376,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Zuo Er Joey (MS)</p>
+<p>Lim Zuo Er Joey (MRS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_zuo_er_joey@moe.edu.sg</p>
@@ -456,7 +448,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maria Norashiken Bte Hayak (MS)</p>
+<p>Maria Norashiken Bte Hayak (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>maria_norashiken_hayak@moe.edu.sg</p>
@@ -484,14 +476,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>md_noor_faisal_abdul@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muhammad Aminurashid Bin Supahak (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_aminurashid_bin_supahak@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -552,14 +536,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Hui Min Selina (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_hui_min_selina@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Norparissah Bte Hamid (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -568,7 +544,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Aini Binte Rosli (MS)</p>
+<p>Nur Aini Binte Rosli (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_aini_rosli@moe.edu.sg</p>
@@ -596,14 +572,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>puroshothaman_padmini@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rafida Binte Yusoff (MDM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rafida_binte_yusoff@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -640,18 +608,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shum Wai Hoh (MR)</p>
+<p>Sherman Lim Jun Yan (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shum_wai_hoh@moe.edu.sg</p>
+<p>sherman_lim_jun_yan@moe.du.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siti Aisah Bte Badul Karim</p>
+<p>Shum Wai Hoh (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_aisah_bte_badul_karim@moe.edu.sg</p>
+<p>shum_wai_hoh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -684,14 +652,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_kamirah_mohamed_nor@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Siti Nur Syahirah Yusman (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_nur_syahirah_yusman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -736,14 +696,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Siew Keng Patricia (MRS SEOW)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_siew_keng_patricia@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Tan Sok Lan Corrine (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -752,7 +704,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Suan Kheng (MDM)</p>
+<p>Tan Suan Kheng (MRS KAREN LEONG)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_suan_kheng@moe.edu.sg</p>
@@ -776,7 +728,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Yuling (MISS)</p>
+<p>Tay Yuling (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_yuling@moe.edu.sg</p>
@@ -808,7 +760,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venkatachalam Alamu (MS)</p>
+<p>Venkatachalam Alamu (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>venkatachalam_alamu@moe.edu.sg</p>
@@ -816,7 +768,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Jing Jing (MS)</p>
+<p>Wong Jing Jing (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_jing_jing@moe.edu.sg</p>

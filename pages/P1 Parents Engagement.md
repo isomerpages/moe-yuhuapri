@@ -3,7 +3,6 @@ title: P1 Parents Engagement
 permalink: /parents-engagement-information/p1/
 variant: tiptap
 description: ""
-third_nav_title: Primary 1
 ---
 <p>Dear P1 Parents,</p>
 <p>These are the slides that were shared during the orientation earlier.

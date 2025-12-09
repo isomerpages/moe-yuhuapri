@@ -37,10 +37,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Admin)</p>
+<p>Vice-Principal (ACAD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Ai Ling</p>
+<p>Mrs Zoey So</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yuhua_ps@moe.edu.sg</p>
@@ -48,10 +48,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal (ACAD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Zoey So</p>
+<p>Mdm Cynthia Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yuhua_ps@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yuhua_ps@moe.edu.sg</p>
