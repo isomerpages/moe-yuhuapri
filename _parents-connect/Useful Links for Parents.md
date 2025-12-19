@@ -20,10 +20,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/parent-guide" rel="noopener noreferrer nofollow" target="_blank">Education &amp; Career Guidance Tips for Parents</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/my-fsbb-path" rel="noopener noreferrer nofollow" target="_blank">Explore your FSBB Path</a>
 </p>
 </li>
