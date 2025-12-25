@@ -293,7 +293,7 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yu Huiyi Corinne</p>
+<p>Ms Yu Huiyi Corinne - Mrs Huang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yu_huiyi_corinne@moe.edu.sg</p>
@@ -359,7 +359,7 @@ variant: tiptap
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guan Meixia (MRS LEE)</p>
+<p>Mrs Lee-Guan Meixia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>guan_meixia@moe.edu.sg</p>
@@ -370,7 +370,7 @@ variant: tiptap
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohammad Nasir Bin Md Rasid (MR)</p>
+<p>Mr Mohammad Nasir Bin Md Rasid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_nasir_md_rasid@moe.edu.sg</p>
@@ -381,7 +381,7 @@ variant: tiptap
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Yuling (MISS)</p>
+<p>Ms Tay Yuling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tay_yuling@moe.edu.sg</p>
@@ -392,7 +392,7 @@ variant: tiptap
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venkatachalam Alamu (MS)</p>
+<p>Mdm Venkatachalam Alamu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ventakachalam_alamu@moe.edu.sg</p>
