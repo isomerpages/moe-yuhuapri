@@ -224,6 +224,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head/ Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noraida Bte Daud</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noraida_daud@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head/ Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
