@@ -458,7 +458,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SALLY TAN (SEM 2)</p>
+<p>MS SALLY TAN</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_yi_bei_sally@moe.edu.sg</p>
@@ -688,7 +688,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS YEONG – TAN CHUAN LIM (SEM 2)</p>
+<p>MRS YEONG – TAN CHUAN LIM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chuan_lim@moe.edu.sg</p>
@@ -721,7 +721,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM FONG LI YING</p>
+<p>MDM FONG LI YING (TERM 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>fong_li_ying@moe.edu.sg</p>
