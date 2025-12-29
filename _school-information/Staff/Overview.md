@@ -6,7 +6,7 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>School Staff</h3>
-<p>Link to <a href="/under-maintenance/" rel="noopener noreferrer nofollow" target="_blank">2026 Form Teachers</a>
+<p>Link to <a href="/form-teachers/" rel="noopener noreferrer nofollow" target="_blank">2026 Form Teachers</a>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
