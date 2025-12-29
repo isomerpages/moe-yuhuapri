@@ -139,10 +139,10 @@ variant: tiptap
 <p>HOD / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Musa B Abdul Kadir</p>
+<p>Mrs Denise Kee-Yeo Sulyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>musa_b_abdul_kadir@moe.edu.sg</p>
+<p>yeo_sulyn_denise@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -183,10 +183,10 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Denise Kee-Yeo Sulyn</p>
+<p>Mr Mohd Noor Faisal Bin Abdul Karim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_sulyn_denise@moe.edu.sg</p>
+<p>md_noor_faisal_abdul@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -293,10 +293,10 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Noor Faisal Bin Abdul Karim</p>
+<p>Ms Yu Huiyi Corinne - Mrs Huang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>md_noor_faisal_abdul@moe.edu.sg</p>
+<p>yu_huiyi_corinne@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -304,10 +304,10 @@ variant: tiptap
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yu Huiyi Corinne - Mrs Huang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yu_huiyi_corinne@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
