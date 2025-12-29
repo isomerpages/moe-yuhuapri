@@ -513,10 +513,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR SHERMAN LIM JUN YUAN</p>
+<p>MR SHERMAN LIM JUN YAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>sherman_lim_jun_yan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
