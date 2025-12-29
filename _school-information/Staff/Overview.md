@@ -128,6 +128,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Fong Li Ying (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fong_li_ying@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>G Rishiikeasan (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,6 +204,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>hannie_hidayah_rauzan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>He Yuting (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -284,6 +300,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_li_ping@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Wei Jian (Sowon) (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_wei_jian_b@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -780,6 +804,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wu_chiou_pyng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yap Chin Hwee (Sherine) (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yap_chin_hwee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
