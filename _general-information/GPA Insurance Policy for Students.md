@@ -70,7 +70,7 @@ Insurance Ltd (Income).</p>
 <p><a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">Online Claim Form</a>
 </p>
 <p>You may also visit the Income&nbsp;GPA website for claims, FAQs and other
-details at <a href="" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
+details at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 <p><strong>Frequently Asked Questions</strong>
 </p>
