@@ -51,7 +51,7 @@ variant: tiptap
 <p>Vice-Principal (ACAD)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cynthia Tan</p>
+<p>Mrs Cynthia Chen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>yuhua_ps@moe.edu.sg</p>
@@ -297,17 +297,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yu_huiyi_corinne@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
