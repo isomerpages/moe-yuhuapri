@@ -67,7 +67,7 @@ benefit/sum assured and other details.</p>
 The electronic submission allows parents/students to check the claims status
 through the online portal and also expedites the claims processing by Income
 Insurance Ltd (Income).</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Online Claim Form</a>
+<p><a href="https://studentgpa.incomegroupins.com.sg" rel="noopener noreferrer nofollow" target="_blank">Online Claim Form</a>
 </p>
 <p>You may also visit the Income&nbsp;GPA website for claims, FAQs and other
 details at <a href="" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
