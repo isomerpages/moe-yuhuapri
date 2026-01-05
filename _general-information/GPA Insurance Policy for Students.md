@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>GPA Insurance Policy for Students</h3>
-<h3><br><strong>Insurance Plan for Students 2025</strong></h3>
+<h3><br><strong>Insurance Plan for Students 2026</strong></h3>
 <p><strong>Introduction</strong> 
 <br>A Master Contract for GPA has been established by MOE HQ since 2018. The
 purpose is to reduce admin workload for schools and leverage on economies
@@ -59,30 +59,30 @@ etc.)</p>
 </p>
 <p>The factsheet below gives information on the contract period, coverage,
 benefit/sum assured and other details.</p>
-<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet 2025</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet 2026</a>
 </p>
 <p><strong>Online Claims Submissions &amp; Verifications</strong>
 </p>
-<p>With effect from 2022, all student accident insurance claims submission
-are to be&nbsp;<strong>submitted electronically via the weblink shown below</strong>.
-Parents/students are to submit their claims online and check the claims
-status through the online portal.</p>
-<p><a href="https://studentgpa.incomegroupins.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Online Claim Form</a>
+<p>From 2025, it is mandatory to submit MOE GPA insurance claims <strong>online via the weblink shown below</strong>.
+The electronic submission allows parents/students to check the claims status
+through the online portal and also expedites the claims processing by Income
+Insurance Ltd (Income).</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Online Claim Form</a>
 </p>
 <p>You may also visit the Income&nbsp;GPA website for claims, FAQs and other
 details at <a href="" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
 </p>
 <p><strong>Frequently Asked Questions</strong>
 </p>
-<p>A list of FAQs can be found&nbsp;here</p>
-<p><a href="/files/MOE_GPA_Insurance_FAQs__31_Dec_2024_.pdf" rel="noopener nofollow" target="_blank">FAQ File</a>
+<p>A list of FAQs can be found&nbsp;here:</p>
+<p><a href="/files/MOE_GPA_Insurance_FAQs__31_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">FAQs File</a>
 </p>
 <p>For other enquiries, please write to <a href="mailto:MOE_Insurance@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">MOE_Insurance@moe.gov.sg</a>&nbsp;</p>
 <p><strong>Contact Details</strong> 
 <br>Click on&nbsp;<a href="http://www.income.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.income.com.sg</a>
 </p>
-<p><strong>CALL</strong>&nbsp;our hotline at&nbsp;<strong>6788 1777</strong>
+<p><strong>CALL</strong>&nbsp;the hotline at&nbsp;<strong>6788 1777</strong>
 </p>
-<p>Mon-Fri (8.30am to 8.30pm)</p>
-<p>Sat &amp; Sun (Closed)</p>
+<p>Mon-Fri: 9.00am to 6.00pm</p>
+<p>Sat, Sun, &amp; Public Holidays: Closed</p>
 <p></p>
