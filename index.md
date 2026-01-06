@@ -22,7 +22,7 @@ sections:
           description: ""
           url: /yh95/
   - resources:
-      subtitle: Announcements & News
+      subtitle: Announcements
       button: Click for more
   - infopic:
       title: Our Social Media Platforms
