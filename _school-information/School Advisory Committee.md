@@ -71,7 +71,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Zoey So-Lim Ching Sia – Vice-Principal</strong>
+<p><strong>Mrs Zoey So-Lim Ching Sia – Vice-Principal 1 (Acad)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Cynthia Chen-Tan Pei Juan - Vice Principal 2 (Acad)</strong>
 </p>
 </td>
 </tr>
