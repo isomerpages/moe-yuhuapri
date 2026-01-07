@@ -71,7 +71,8 @@ third_nav_title: Primary 1
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Chinese_Language_Briefing.pdf" rel="noopener nofollow" target="_blank">Chinese Language Briefing</a>
+</p>
 </td>
 </tr>
 <tr>
