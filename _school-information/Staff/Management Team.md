@@ -37,7 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (ACAD)</p>
+<p>Vice-Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Zoey So</p>
@@ -48,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (ACAD)</p>
+<p>Vice-Principal (Acad)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cynthia Chen</p>
