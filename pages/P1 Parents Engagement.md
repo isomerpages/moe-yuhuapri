@@ -89,16 +89,18 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Tamil_Language_Briefing.pdf" rel="noopener nofollow" target="_blank">Tamil Language Briefing</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PE PAL Art Music Briefing</strong>
+<p><strong>PE, PAL, Art, Music Briefing</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/PE_PAL_Art_Music_Briefing.pdf" rel="noopener nofollow" target="_blank">PE, PAL, Art, Music Briefing</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +109,8 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/ICT_Briefing.pdf" rel="noopener nofollow" target="_blank">ICT Briefing</a>
+</p>
 </td>
 </tr>
 <tr>
