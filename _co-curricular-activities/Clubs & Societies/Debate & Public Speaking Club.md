@@ -39,14 +39,6 @@ on and off stage.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Lin Renfang (MS) / Teacher IC</p>
 </td>
