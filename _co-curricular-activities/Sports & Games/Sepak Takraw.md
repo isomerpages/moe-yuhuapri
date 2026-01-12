@@ -47,18 +47,18 @@ other school teams and the Inter Primary Schools Sepak Takraw Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Wei Jian (Sowon) (MR)</p>
+<p>Sherman Lim Jun Yan (MR) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_wei_jian_b@moe.edu.sg</p>
+<p>sherman_lim_jun_yan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sherman Lim Jun Yan (MR)</p>
+<p>Lee Wei Jian (Sowon) (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sherman_lim_jun_yan@moe.edu.sg</p>
+<p>lee_wei_jian_b@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
