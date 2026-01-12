@@ -51,15 +51,7 @@ and activities organised the Scout Headquarters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Irfan Silalahi (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>irfan_silalahi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Lily (MDM)</p>
+<p>Lim Lily (MDM) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_lily@moe.edu.sg</p>
@@ -75,10 +67,10 @@ and activities organised the Scout Headquarters.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Suan Kheng Karen (MRS LEONG)</p>
+<p>Tan Ping Siew (Mdm)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_suan_kheng@moe.edu.sg</p>
+<p>tan_ping_siew@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

@@ -47,7 +47,7 @@ and encourage members to become artists that are self-directed in learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nadira Bte Omar (MDM)</p>
+<p>Nadira Bte Omar (MDM) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nadira_omar@moe.edu.sg</p>

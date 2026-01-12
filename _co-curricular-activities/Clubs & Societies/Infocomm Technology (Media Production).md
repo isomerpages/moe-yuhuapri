@@ -42,7 +42,7 @@ in competition to showcase their skills and talents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ivorie Kang (MS)</p>
+<p>Ivorie Kang (MS) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kang_han_ying@moe.edu.sg</p>
@@ -58,18 +58,18 @@ in competition to showcase their skills and talents.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Yi Bei Sally (MS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yi_bei_sally@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lim Zuo Er Joey (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_zuo_er_joey@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Fang Ni (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_fang_ni@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

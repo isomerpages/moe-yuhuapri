@@ -560,6 +560,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Noraida Bte Daud (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noraida_daud@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Norparissah Bte Hamid (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -716,6 +724,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_heng_kwee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Ping Siew (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ping_siew@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

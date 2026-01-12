@@ -47,6 +47,14 @@ Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tseng Chao-Cheng (MR) / Teacher IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tseng_chao-cheng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Kelvin Lim (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,10 +63,10 @@ Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Azman B Yahya (MR)</p>
+<p>Fong Li Ying (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>azman_yahya@moe.edu.sg</p>
+<p>fong_li_ying@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

@@ -49,7 +49,7 @@ Track and Field Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Shiau Chen Samantha (Mdm)</p>
+<p>Lim Shiau Chen Samantha (Mdm) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_shiau_chen@moe.edu.sg</p>

@@ -49,10 +49,10 @@ contributing to the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Guan Meixia (MRS LEE)</p>
+<p>Yu Huiyi Corinne (MS) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>guan_meixia@moe.edu.sg</p>
+<p>yu_huiyi_corinne@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

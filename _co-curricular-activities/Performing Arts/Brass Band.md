@@ -42,7 +42,7 @@ them.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liew Zhi Jun (MS)</p>
+<p>Liew Zhi Jun (MS) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liew_zhi_jun@moe.edu.sg</p>

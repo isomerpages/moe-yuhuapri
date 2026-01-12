@@ -44,7 +44,7 @@ during community events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hannie Hidayah Rauzan (MS)</p>
+<p>Hannie Hidayah Rauzan (MS) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hannie_hidayah_rauzan@moe.edu.sg</p>
@@ -52,10 +52,10 @@ during community events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siti Nur Syahirah Yusman (MS)</p>
+<p>Noraida Bte Daud (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nur_syahirah_yusman@moe.edu.sg</p>
+<p>noraida_daud@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>

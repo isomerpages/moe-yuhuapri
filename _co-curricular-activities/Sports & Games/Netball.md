@@ -62,7 +62,7 @@ and Inter-Primary Schools&nbsp;Netball&nbsp;Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kavitha D/O Shanmugananthan (MS)</p>
+<p>Kavitha D/O Shanmugananthan (MS) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kavitha_shanmugananthan@moe.edu.sg</p>

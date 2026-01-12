@@ -47,15 +47,7 @@ contributing to the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Yeong -Tan Chuan Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_chuan_lim@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mumtaj Bivi Binte Abdul Kader (MDM)</p>
+<p>Mumtaj Bivi Binte Abdul Kader (MDM) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mumtaj_bivi@moe.edu.sg</p>

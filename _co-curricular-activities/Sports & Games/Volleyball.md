@@ -46,18 +46,10 @@ Schools Volleyball Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liew Mun Yee (MISS)</p>
+<p>Liew Mun Yee (MISS) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liew_mun_yee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Abdul Haqim Bin Mohd Nasruddin (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>abdul_haqim_mohd_nasruddin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
