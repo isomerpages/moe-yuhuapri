@@ -47,10 +47,10 @@ during community events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kirandeep Kour Sandu (MS)</p>
+<p>Shammini D/O Padmanaban (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kirandeep_kour_sandu@moe.edu.sg</p>
+<p>shammini_padmanaban@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
