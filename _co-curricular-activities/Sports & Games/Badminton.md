@@ -47,18 +47,18 @@ Championships.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kelvin Lim (MR)</p>
+<p>Tseng Chao-Cheng (MR) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_xiang_wei_kelvin@moe.edu.sg</p>
+<p>tseng_chao-cheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tseng Chao-Cheng (MR)</p>
+<p>Kelvin Lim (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tseng_chao-cheng@moe.edu.sg</p>
+<p>lim_xiang_wei_kelvin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
