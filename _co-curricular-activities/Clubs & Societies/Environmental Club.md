@@ -49,10 +49,18 @@ are actively contributing to a greener tomorrow.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Maria Norashiken (MDM)</p>
+<p>Maria Norashiken (MDM) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>maria_norashiken_hayak@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Chiow Chien (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loh_chiow_chien@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
