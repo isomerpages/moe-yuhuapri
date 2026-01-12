@@ -44,18 +44,18 @@ value of commitment, punctuality, and respect for coaches and teammates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Md Noor Faisal Bin Abdul Karim (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>md_noor_faisal_abdul@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mohamed Nazra Bin Mohamed Said (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamed_nazra_mohamed_said@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abdul Haqim Bin Mohd Nasruddin (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>abdul_haqim_mohd_nasruddin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
