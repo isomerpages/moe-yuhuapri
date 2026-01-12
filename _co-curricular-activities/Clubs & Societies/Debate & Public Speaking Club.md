@@ -56,10 +56,10 @@ on and off stage.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rishiikeasan (MR)</p>
+<p>Tan Suan Kheng (MRS KAREN LEONG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>g_rishiikeasan@moe.edu.sg</p>
+<p>tan_suan_kheng@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
