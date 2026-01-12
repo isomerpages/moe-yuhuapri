@@ -64,10 +64,10 @@ at the national level, i.e. National School Games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Jie Lin (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lim_jie_lin@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
