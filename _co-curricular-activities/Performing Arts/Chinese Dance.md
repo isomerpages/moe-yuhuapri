@@ -25,27 +25,19 @@ contributing to the community.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Caroline Tan (MDM) / Teacher IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_chien_yun@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teoh Chong Yoog (MDM)</p>
+<p>Teoh Chong Yoog (MDM) / Teacher IC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>teoh_chong_yoog@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Bee Ker (MDM) / Teacher IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_bee_ker@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
