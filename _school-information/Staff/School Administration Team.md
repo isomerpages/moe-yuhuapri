@@ -54,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Muhammad Shahrul Khair Hairi</strong>
+<p><strong>Mr Muhammad Shahrul Khair Hairi</strong>
 <br>ICT Associate</p>
 <p></p>
 </td>
