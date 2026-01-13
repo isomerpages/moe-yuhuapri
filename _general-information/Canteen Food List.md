@@ -396,7 +396,7 @@ variant: tiptap
 <p>SET A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Macaronic Soup</p>
+<p>Noodles Chicken Soup</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -628,7 +628,8 @@ variant: tiptap
 <p>Sandwich</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 cents</p>
+<p>60 cents (for 1)</p>
+<p>50 cents (for 2 &amp; above)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -702,17 +703,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Steam Corn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>80 cents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sausage roll</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -725,6 +715,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Egg tart</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mini Burger</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$1.00</p>
