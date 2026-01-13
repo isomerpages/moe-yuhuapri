@@ -1033,7 +1033,8 @@ Macaroni)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Price</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1044,7 +1045,7 @@ Macaroni)</p>
 <p>Fried Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1055,7 +1056,7 @@ Macaroni)</p>
 <p>Noodle Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1077,7 +1078,7 @@ Macaroni)</p>
 <p>Fried Bee Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1088,7 +1089,7 @@ Macaroni)</p>
 <p>Noodle Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
