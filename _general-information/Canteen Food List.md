@@ -17,7 +17,8 @@ variant: tiptap
 <p>Type of Food/Drinks</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Prices</p>
+<p><em>Price</em>
+</p>
 </th>
 </tr>
 <tr>
