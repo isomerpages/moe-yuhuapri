@@ -153,7 +153,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Price</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +165,7 @@ variant: tiptap
 <p>Curry Chicken Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +176,7 @@ variant: tiptap
 <p>Maggie Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -195,10 +196,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chicken Rice</p>
-<p>Mee Rubus</p>
+<p>Mee Rebus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +213,9 @@ variant: tiptap
 <p>Tom Yam Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
+<p>$2.50</p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +237,7 @@ variant: tiptap
 <p>Dark Sauce Chicken Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +248,7 @@ variant: tiptap
 <p>Maggie Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1501,15 +1505,15 @@ Macaroni)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mineral water (bottled)</p>
+<p>Drinking Water</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70 cents</p>
+<p>80 cents</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chrysanthemum Tea (pkt)</p>
+<p>Pokka Lemon Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>90 cents</p>
@@ -1517,7 +1521,7 @@ Macaroni)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lychee Drink</p>
+<p>Pokka Green Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>90 cents</p>
@@ -1525,7 +1529,7 @@ Macaroni)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oolong Tea (pkt)</p>
+<p>Pokka Oolong Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>90 cents</p>
@@ -1533,15 +1537,7 @@ Macaroni)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Green Tea (pkt)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>90 cents</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>H2O</p>
+<p>Yeo's H2O</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>90 cents</p>
@@ -1552,7 +1548,7 @@ Macaroni)</p>
 <p>Vitasoy (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>90 cents</p>
+<p>$1.00</p>
 </td>
 </tr>
 <tr>
@@ -1568,7 +1564,7 @@ Macaroni)</p>
 <p>Milo (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.00</p>
+<p>$1.10</p>
 </td>
 </tr>
 <tr>
@@ -1577,6 +1573,22 @@ Macaroni)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>$1.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coconut Drink</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jelly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
 </td>
 </tr>
 </tbody>
