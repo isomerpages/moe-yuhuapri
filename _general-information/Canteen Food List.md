@@ -1194,7 +1194,8 @@ Macaroni)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Price</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1205,7 +1206,7 @@ Macaroni)</p>
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1216,7 +1217,7 @@ Macaroni)</p>
 <p>Fried Kuey Teow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1238,7 +1239,7 @@ Macaroni)</p>
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1249,7 +1250,7 @@ Macaroni)</p>
 <p>Fried Mee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1271,7 +1272,7 @@ Macaroni)</p>
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1282,7 +1283,7 @@ Macaroni)</p>
 <p>Spaghetti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1304,7 +1305,7 @@ Macaroni)</p>
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1315,7 +1316,7 @@ Macaroni)</p>
 <p>Fried Mee Maggie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1337,7 +1338,7 @@ Macaroni)</p>
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1348,7 +1349,7 @@ Macaroni)</p>
 <p>Fried Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1398,7 +1399,7 @@ Macaroni)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nuggets(Mon &amp; Thur)</p>
+<p>Nuggets(Mon &amp; Thurs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50 cents</p>
@@ -1443,6 +1444,28 @@ Macaroni)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Satay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BBQ Boneless Chicken</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hotdog</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>80 cents</p>
