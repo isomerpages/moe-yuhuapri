@@ -735,6 +735,272 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4>Stall No. 5 (Western)</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>ALL SET MEAL $2.50</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Monday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Price</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Roasted Chicken Cutlet, Salad &amp; Butter Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fish Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grilled Fish, Salad &amp; Butter Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Tuesday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasta Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chicken Bolognese, Broccoli &amp; Cauliflower (Spaghetti or Macaroni)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Wednesday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grilled Chicken Cutlet, Salad &amp; Mashed Potatoes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fish Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grilled Fish, Salad &amp; Mashed Potatoes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Thursday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasta Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chicken Mushroom Cream Sauce, Broccoli &amp; Cauliflower (Spaghetti or
+Macaroni)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Friday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Baked Chicken Cutlet, Garden Salad &amp; Fried Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fish Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grilled Fish, Garden Salad &amp; Fried Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Sides Dishes</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Price</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soup of the Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Baked Chicken Cutlet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nuggets (Mon &amp; Thurs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mashed Potatoes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Drumlet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Satay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sauté Vegetables</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Garlic Bread</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Stall No. 6 (Noodles House)</h4>
 <table style="minWidth: 75px">
 <colgroup>
