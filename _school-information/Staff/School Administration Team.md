@@ -54,6 +54,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Muhammad Shahrul Khair Hairi</strong>
+<br>ICT Associate</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Mdm Loke Shiong Wah</strong>
 <br>Corporate Support Officer</p>
 </td>
@@ -61,12 +66,12 @@ variant: tiptap
 <p><strong>Mdm Irene Lee </strong>
 <br>Corporate Support Officer</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Munisah Bte Mohmad Yunkin</strong>
 <br>Corporate Support Officer</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Ang Lay Hoon (Linda)</strong>
 <br>Operations Support Officer</p>
@@ -75,12 +80,12 @@ variant: tiptap
 <p><strong>Mr Hamdan Bin Omar</strong>
 <br>Operations Support Officer</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Ah Chu (Helen)</strong>
 <br>Operations Support Officer</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Lim Ah Geok</strong>
 <br>Operations Support Officer</p>
@@ -89,18 +94,15 @@ variant: tiptap
 <p><strong>Mr Loh Kah Yin (Benny)</strong>
 <br>Operations Support Officer</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Ng Siew Ling</strong>
 <br>Operations Support Officer</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Mandy Ong</strong>
 <br>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

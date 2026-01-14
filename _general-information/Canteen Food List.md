@@ -17,7 +17,8 @@ variant: tiptap
 <p>Type of Food/Drinks</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Prices</p>
+<p><em>Price</em>
+</p>
 </th>
 </tr>
 <tr>
@@ -153,7 +154,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Price</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +166,7 @@ variant: tiptap
 <p>Curry Chicken Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +177,7 @@ variant: tiptap
 <p>Maggie Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -195,10 +197,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chicken Rice</p>
-<p>Mee Rubus</p>
+<p>Mee Rebus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +214,9 @@ variant: tiptap
 <p>Tom Yam Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
+<p>$2.50</p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +238,7 @@ variant: tiptap
 <p>Dark Sauce Chicken Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +249,7 @@ variant: tiptap
 <p>Maggie Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -396,7 +401,7 @@ variant: tiptap
 <p>SET A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Macaronic Soup</p>
+<p>Noodles Chicken Soup</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -628,7 +633,8 @@ variant: tiptap
 <p>Sandwich</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 cents</p>
+<p>60 cents (for 1)</p>
+<p>50 cents (for 2 &amp; above)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -702,17 +708,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Steam Corn</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>80 cents</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sausage roll</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -728,6 +723,283 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>$1.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mini Burger</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Stall No. 5 (Western)</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>ALL SET MEAL $2.50</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Monday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Price</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Roasted Chicken Cutlet, Salad &amp; Butter Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fish Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grilled Fish, Salad &amp; Butter Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Tuesday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasta Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chicken Bolognese, Broccoli &amp; Cauliflower (Spaghetti or Macaroni)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Wednesday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grilled Chicken Cutlet, Salad &amp; Mashed Potatoes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fish Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grilled Fish, Salad &amp; Mashed Potatoes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Thursday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasta Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chicken Mushroom Cream Sauce, Broccoli &amp; Cauliflower (Spaghetti or
+Macaroni)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Friday</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Baked Chicken Cutlet, Garden Salad &amp; Fried Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fish Set</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grilled Fish, Garden Salad &amp; Fried Rice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$2.50</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>---<strong><em>Sides Dishes</em></strong>---</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Price</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soup of the Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Baked Chicken Cutlet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nuggets (Mon &amp; Thurs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mashed Potatoes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chicken Drumlet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Satay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sauté Vegetables</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Garlic Bread</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 cents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -762,7 +1034,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Price</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -773,7 +1046,7 @@ variant: tiptap
 <p>Fried Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -784,7 +1057,7 @@ variant: tiptap
 <p>Noodle Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -806,7 +1079,7 @@ variant: tiptap
 <p>Fried Bee Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -817,7 +1090,7 @@ variant: tiptap
 <p>Noodle Soup</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -927,7 +1200,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><em>Price</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -938,7 +1212,7 @@ variant: tiptap
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -949,7 +1223,7 @@ variant: tiptap
 <p>Fried Kuey Teow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -971,7 +1245,7 @@ variant: tiptap
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -982,7 +1256,7 @@ variant: tiptap
 <p>Fried Mee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1004,7 +1278,7 @@ variant: tiptap
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1015,7 +1289,7 @@ variant: tiptap
 <p>Spaghetti</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1037,7 +1311,7 @@ variant: tiptap
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1048,7 +1322,7 @@ variant: tiptap
 <p>Fried Mee Maggie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1070,7 +1344,7 @@ variant: tiptap
 <p>Brown Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1081,7 +1355,7 @@ variant: tiptap
 <p>Fried Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>$2.50</p>
 </td>
 </tr>
 <tr>
@@ -1131,7 +1405,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nuggets(Mon &amp; Thur)</p>
+<p>Nuggets(Mon &amp; Thurs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>50 cents</p>
@@ -1184,6 +1458,28 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BBQ Boneless Chicken</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hotdog</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Stall No. 8 (Cold Drinks &amp; Fruits Stall)</h4>
@@ -1211,15 +1507,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mineral water (bottled)</p>
+<p>Drinking Water</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70 cents</p>
+<p>80 cents</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chrysanthemum Tea (pkt)</p>
+<p>Pokka Lemon Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>90 cents</p>
@@ -1227,7 +1523,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lychee Drink</p>
+<p>Pokka Green Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>90 cents</p>
@@ -1235,7 +1531,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oolong Tea (pkt)</p>
+<p>Pokka Oolong Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>90 cents</p>
@@ -1243,15 +1539,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Green Tea (pkt)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>90 cents</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>H2O</p>
+<p>Yeo's H2O</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>90 cents</p>
@@ -1262,7 +1550,7 @@ variant: tiptap
 <p>Vitasoy (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>90 cents</p>
+<p>$1.00</p>
 </td>
 </tr>
 <tr>
@@ -1278,7 +1566,7 @@ variant: tiptap
 <p>Milo (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$1.00</p>
+<p>$1.10</p>
 </td>
 </tr>
 <tr>
@@ -1287,6 +1575,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>$1.10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coconut Drink</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$1.20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jelly</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>80 cents</p>
 </td>
 </tr>
 </tbody>
