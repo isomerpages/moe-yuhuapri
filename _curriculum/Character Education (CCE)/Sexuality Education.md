@@ -78,8 +78,17 @@ decisions to keep themselves safe from sexuality-related risks.</p>
 <p><strong>At Yuhua Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_3.png">
+</div>
 <p></p>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
