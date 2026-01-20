@@ -75,19 +75,19 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>At Yuhua Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Yuhua Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SED_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SEd_3.png">
 </div>
 <p></p>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
@@ -97,8 +97,8 @@ programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
 form. This form will be communicated to parents at the start of the year
-and is also downloadable <a href="/files/Annex_A__SEd_Opt_Out_Form_2025.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 31/01/2025.</p>
+and is also available <a href="/files/2026_SEd_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 03/02/2026.</p>
 <p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <strong><a href="mailto:yuhua_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yuhua_ps@moe.edu.sg</a></strong> or <strong>6560 5062</strong> for
 discussion or to seek clarification about the school’s Sexuality Education
