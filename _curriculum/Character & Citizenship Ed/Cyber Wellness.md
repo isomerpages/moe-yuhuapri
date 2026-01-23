@@ -1,8 +1,8 @@
 ---
 title: Cyber Wellness
-permalink: /curriculum/character-education/cyber-wellness/
+permalink: /curriculum/character-and-citizenship-ed/cyber-wellness/
 description: ""
-third_nav_title: Character Education (CCE)
+third_nav_title: Character & Citizenship Ed
 variant: tiptap
 ---
 <h3>Cyber Wellness</h3>

@@ -1,8 +1,8 @@
 ---
 title: Overview
-permalink: /curriculum/character-education/overview/
+permalink: /curriculum/character-and-citizenship-ed/overview/
 description: ""
-third_nav_title: Character Education (CCE)
+third_nav_title: Character & Citizenship Ed
 variant: markdown
 ---
 ### Character &amp; Citizenship Education

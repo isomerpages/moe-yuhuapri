@@ -1,8 +1,8 @@
 ---
 title: Sexuality Education
-permalink: /curriculum/character-education/sexuality/
+permalink: /curriculum/character-and-citizenship-ed/sexuality/
 description: ""
-third_nav_title: Character Education (CCE)
+third_nav_title: Character & Citizenship Ed
 variant: tiptap
 ---
 <h3>Sexuality Education</h3>
