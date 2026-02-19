@@ -11,26 +11,26 @@ variant: tiptap
 </p>
 <h4><strong>P2 Parents Engagement 2025 – English</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lg3ssW99QZM?si=na94KJiCZQAtC6jO"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Kn9diqSmoCg?si=Bpv8stSEujJHCu9e"></iframe>
 </div>
-<p><a href="/files/2025_P2_Parents_Engagement_Handouts_EL.pdf" rel="noopener nofollow" target="_blank">2025_P2_Parents_Engagement_Handouts_EL.pdf</a>
+<p><a href="/files/2026_P2_Parent_Engagement_slides_EL_Handouts.pdf" rel="noopener nofollow" target="_blank">2026 P2 Parent Engagement Slides - EL</a>
 </p>
 <h4><strong>P2 Parents Engagement 2025 – Mathematics</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2gQjlHi8Wrs?si=ff9HQ_Y_DOBnrcd7"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2gQjlHi8Wrs?si=ff9HQ_Y_DOBnrcd7"></iframe>
 </div>
 <p><a href="/files/2025_P2_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2025_P2_Parent_Engagement_MA.pdf</a>
 </p>
 <h4><strong>P2 Parents Engagement 2025 – Mother Tongue (CL)</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eWiyjAGISo8?si=YOh5w6fatHeXVApE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eWiyjAGISo8?si=YOh5w6fatHeXVApE"></iframe>
 </div>
 <h4><strong>P2 Parents Engagement 2025 – Mother Tongue (ML)</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H4hWDDXv9IM?si=1JGq1JUJPonnruh3"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H4hWDDXv9IM?si=1JGq1JUJPonnruh3"></iframe>
 </div>
 <h4><strong>P2 Parents Engagement 2025 – Mother Tongue (TL)</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ieiFm7wvooo?si=8tcURLytAziKNn38"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ieiFm7wvooo?si=8tcURLytAziKNn38"></iframe>
 </div>
 <p></p>
