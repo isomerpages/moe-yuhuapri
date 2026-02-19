@@ -19,16 +19,15 @@ variant: tiptap
 <p><a href="/files/2026_P4_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parent Engagement Slides - Mathematics</a>
 </p>
 <h4><strong>P4 Parents Engagement 2026 – Science</strong></h4>
-<p><a href="/files/2025_Parent_engagement_P4_SC.pdf" rel="noopener nofollow" target="_blank">2025 Parent Engagement Slides - Science</a>
+<p><a href="/files/2026_P4_Parent_Engagement_SC.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parent Engagement Slides - Science</a>
 </p>
 <h4><strong>P4 Parents Engagement 2026 – Mother Tongue (CL)</strong></h4>
-<p><a href="/files/2025_P4_Parent_Engagement_CL.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - CL</a>
-</p>
+<p></p>
 <h4><strong>P4 Parents Engagement 2026 – Mother Tongue (ML)</strong></h4>
-<p><a href="/files/2025_P4_Parent_Engagement_ML_New.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - ML</a>
+<p><a href="/files/Primary_4_Parent_ML_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parent Engagement Slides - ML</a>
 </p>
 <h4><strong>P4 Parents Engagement 2026 – Mother Tongue (TL)</strong></h4>
-<p><a href="/files/2025_P4_Parent_Engagement_TL_New.pdf" rel="noopener nofollow" target="_blank">2025 P4 Parent Engagement Slides - TL</a>
+<p><a href="/files/2026_P4_Parent_Engagement_TL.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parent Engagement Slides - TL</a>
 </p>
 <h4></h4>
 <p></p>
