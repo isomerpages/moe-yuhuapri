@@ -22,7 +22,10 @@ variant: tiptap
 <p><a href="/files/2026_P4_Parent_Engagement_SC.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parent Engagement Slides - Science</a>
 </p>
 <h4><strong>P4 Parents Engagement 2026 – Mother Tongue (CL)</strong></h4>
-<p></p>
+<p><a href="/files/2026_P4_Parent_Engagement_CL__Part_1_.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parent Engagement Slides - CL [Part 1]</a>
+</p>
+<p><a href="/files/2026_P4_Parent_Engagement_CL__Part_2_.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parent Engagement Slides - CL [Part 2]</a>
+</p>
 <h4><strong>P4 Parents Engagement 2026 – Mother Tongue (ML)</strong></h4>
 <p><a href="/files/Primary_4_Parent_ML_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parent Engagement Slides - ML</a>
 </p>
