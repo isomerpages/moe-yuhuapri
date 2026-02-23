@@ -23,9 +23,9 @@ variant: tiptap
 </p>
 <h4><strong>P3 Parents Engagement 2026 – Science</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7J-7rwMp0YU?si=jsM5QVAV0fFwreRf"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C18wdl6OYpU?si=5SryhFmlmQhr7Fsa"></iframe>
 </div>
-<p><a href="/files/2025_P3_Parent_engagement_SC.pdf" rel="noopener nofollow" target="_blank">2025_P3_Parent_Engagement_SC.pdf</a>
+<p><a href="/files/2026_P3_Parent_Engagement_SC.pdf" rel="noopener nofollow" target="_blank">2026 P3 Parent Engagement Slides - Science</a>
 </p>
 <h4><strong>P3 Parents Engagement 2026 – Mother Tongue (CL)</strong></h4>
 <div class="iframe-wrapper">
