@@ -22,7 +22,10 @@ variant: tiptap
 <p><a href="/files/2026_P5_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2026 P5 Parent Engagement Slides - Math</a>
 </p>
 <h4><strong>P5 Parents Engagement 2026 – Science</strong></h4>
-<p><a href="/files/2025_P5_Parent_engagement_SC.pdf" rel="noopener nofollow" target="_blank">2025 P5 Parent Engagement - Science</a>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-J6Pk9XiGtA?si=Cpt6fdApBdXv1_Uf"></iframe>
+</div>
+<p><a href="/files/2026_P5_Parent_Engagement_SC.pdf" rel="noopener nofollow" target="_blank">2026 P5 Parent Engagement Slides - Science</a>
 </p>
 <h4><strong>P5 Parents Engagement 2026 – CL</strong></h4>
 <div class="iframe-wrapper">
