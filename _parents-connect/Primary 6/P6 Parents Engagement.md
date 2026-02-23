@@ -16,7 +16,8 @@ variant: tiptap
 <p><a href="/files/2026_P6_Parent_Engagement_EL_Handouts.pdf" rel="noopener nofollow" target="_blank">2026 P6 Parent Engagement Slides - EL</a>
 </p>
 <h4><strong>P6 Parents Engagement 2026 - Math</strong></h4>
-<p></p>
+<p><a href="/files/2026_P6_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2026 P6 Parent Engagement Slides - Math</a>
+</p>
 <h4><strong>P6 Parents Engagement 2026 - Science</strong></h4>
 <p><a href="/files/2026_P6_Parent_Engagement_SC.pdf" rel="noopener nofollow" target="_blank">2026 P6 Parent Engagement Slides - Science</a>
 </p>
