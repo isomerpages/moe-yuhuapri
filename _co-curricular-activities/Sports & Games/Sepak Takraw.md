@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Sepak Takraw</h3>
 <div class="iframe-wrapper">
-<iframe height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRd98XdFVXx8wS-31wxrt0X4zU0fSZZF9kAYAfOa1Z1HgJ83tFAeLQkUeGfN0Vh7ogd5uhlEOy90Bgq/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="350" width="550" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRd98XdFVXx8wS-31wxrt0X4zU0fSZZF9kAYAfOa1Z1HgJ83tFAeLQkUeGfN0Vh7ogd5uhlEOy90Bgq/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p>The Sepak Takraw CCA programme seeks to equip students with basic game
 skills and concepts such as supporting team play and making use of space.

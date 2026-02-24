@@ -643,7 +643,7 @@ variant: tiptap
 <p>Sherman Lim Jun Yan (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sherman_lim_jun_yan@moe.du.sg</p>
+<p>sherman_lim_jun_yan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
