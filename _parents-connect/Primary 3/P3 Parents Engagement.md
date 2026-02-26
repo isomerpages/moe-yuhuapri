@@ -13,7 +13,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oUf166Gi1R0?si=7RXs6zzAFiNaG6gR"></iframe>
 </div>
-<p><a href="/files/2026_P3_Parent_Engagement_EL_Handouts.pdf" rel="noopener nofollow" target="_blank">2026 P3 Parent Engagement Slides - EL</a>
+<p><a href="/files/2026_P3_Parent_Engagement_EL_Handouts.pdf" rel="noopener nofollow" target="_blank">2026 P3 Parents Engagement Slides - EL</a>
 </p>
 <h4><strong>P3 Parents Engagement 2026 – Mathematics</strong></h4>
 <div class="iframe-wrapper">
@@ -25,7 +25,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/C18wdl6OYpU?si=5SryhFmlmQhr7Fsa"></iframe>
 </div>
-<p><a href="/files/2026_P3_Parent_Engagement_SC.pdf" rel="noopener nofollow" target="_blank">2026 P3 Parent Engagement Slides - Science</a>
+<p><a href="/files/2026_P3_Parent_Engagement_SC.pdf" rel="noopener nofollow" target="_blank">2026 P3 Parents Engagement Slides - Science</a>
 </p>
 <h4><strong>P3 Parents Engagement 2026 – Mother Tongue (CL)</strong></h4>
 <div class="iframe-wrapper">
