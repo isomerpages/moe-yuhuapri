@@ -17,9 +17,9 @@ variant: tiptap
 </p>
 <h4><strong>P3 Parents Engagement 2026 – Mathematics</strong></h4>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/K4r6SJMuWQw?si=Jn1nqZ6nPYtWgZFq"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dGXNup-ycNw?si=mDf2ZYFO-vrjNsLF"></iframe>
 </div>
-<p><a href="/files/2025_P3_Parent_Engagement_MA_.pdf" rel="noopener nofollow" target="_blank">2025 P3 Parent Engagement Slides - Math</a>
+<p><a href="/files/2026_P3_Parent_Engagement_MA.pdf" rel="noopener nofollow" target="_blank">2026 P3 Parents Engagement Slides - Math</a>
 </p>
 <h4><strong>P3 Parents Engagement 2026 – Science</strong></h4>
 <div class="iframe-wrapper">
