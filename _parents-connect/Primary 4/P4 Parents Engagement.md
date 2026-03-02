@@ -30,6 +30,9 @@ variant: tiptap
 <p><a href="/files/Primary_4_Parent_ML_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parents Engagement Slides - ML</a>
 </p>
 <h4><strong>P4 Parents Engagement 2026 – Mother Tongue (TL)</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/f-hKTT68RsM?si=L5piF5z9-IC6cXDp"></iframe>
+</div>
 <p><a href="/files/2026_P4_Parent_Engagement_TL.pdf" rel="noopener nofollow" target="_blank">2026 P4 Parents Engagement Slides - TL</a>
 </p>
 <p></p>
