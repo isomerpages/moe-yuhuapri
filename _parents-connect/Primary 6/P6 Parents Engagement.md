@@ -25,6 +25,9 @@ variant: tiptap
 <p><a href="/files/2026_P6_Parent_Engagement_CL_revised.pdf" rel="noopener nofollow" target="_blank">2026 P6 Parents Engagement Slides - CL</a>
 </p>
 <h4><strong>P6 Parents Engagement 2026 - ML</strong></h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MZ7SJC1B_eU?si=xePP3FSfJW6h_RmW"></iframe>
+</div>
 <p><a href="/files/Primary_6_Parent_ML_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">2026 P6 Parents Engagement Slides - ML</a>
 </p>
 <h4><strong>P6 Parents Engagement 2026 - TL</strong></h4>
