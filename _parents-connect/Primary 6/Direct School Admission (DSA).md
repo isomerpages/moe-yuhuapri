@@ -36,28 +36,16 @@ for updates on DSA timelines and information:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nan Hua High School</p>
-<p>e-Engagement</p>
+<p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 3 May 2024</p>
-<p>3p.m - 4:30p.m</p>
+<p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Passcode: DSA2024</strong>
-</p>
-<p><em>Kindly register for the event. Please note that the DSA e-Engagement can accommodate 1000 participants, and admission will be on a first-come-first-serve basis. We request that parents who wish to attend do so alongside your child using the same device.</em>
-</p>
+<p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><em>At the point of logging-in, please indicate your name as </em><strong><em>Name (School)</em></strong><em>, e.g. Isabel Lee (West Zone Pri Sch)</em>
-</p>
-</li>
-</ul>
-<p><em>Kindly mute your microphone during the session, and unmute only after being called upon during the Q&amp;A segment.</em>
-</p>
+<p>TBA</p>
 </td>
 </tr>
 <tr>
