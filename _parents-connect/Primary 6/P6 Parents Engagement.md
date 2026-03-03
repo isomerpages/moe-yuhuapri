@@ -9,6 +9,26 @@ variant: tiptap
 <h5>Growing the Hearts and Minds of Yuhualites has always been our focus. Through stronger home-school partnership, we believe our students will flourish and succeed in their journey. As such, our school would like to share the following information with you.</h5>
 <p><em>“At the end of the day, the most over-whelming key to a child’s success is the positive involvement of parents.”&nbsp; &nbsp; &nbsp; – Jane D. Hull</em>
 </p>
+<h4><strong>P6 Parents Engagement 2026 Teams Recording</strong></h4>
+<blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>YH Sharing on Caring for our Children's Well-Being</strong>
+</p>
+</li>
+<li>
+<p><strong>Information on PSLE Scoring &amp; S1 Posting</strong>
+</p>
+</li>
+<li>
+<p><strong>Sharing on English, Mathematics, Science &amp; Chinese</strong>
+</p>
+</li>
+</ul>
+</blockquote>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MYktGM2INF4?si=IZYwW-kj6P-kNP5P"></iframe>
+</div>
 <h4><strong>P6 Parents Engagement 2026 - EL</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D9ZqJyJeOPg?si=-6rAADcA7oYKPTpi"></iframe>
