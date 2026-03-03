@@ -21,12 +21,14 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong>Sharing on English, Mathematics &amp; Science</strong>
+<p><strong>Sharing on English, Mathematics, Science and Chinese</strong>
 </p>
 </li>
 </ul>
 </blockquote>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FjYoSlaJjSU?si=TKfhs2g73XnHOxTZ"></iframe>
+</div>
 <h4><strong>P4 Parents Engagement 2026 – English</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JezX6Y0B8t0?si=CSUpqjTqfzpr295d"></iframe>
