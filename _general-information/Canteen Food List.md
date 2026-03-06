@@ -26,7 +26,7 @@ variant: tiptap
 <p>'Wang Wang' snack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 ¢</p>
+<p>$0.20</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ variant: tiptap
 <p>Small snacks</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Coffee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ variant: tiptap
 <p>Tea</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ variant: tiptap
 <p>Small Pau (all variety)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ variant: tiptap
 <p>Wafers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ variant: tiptap
 <p>Fishball (1 pc)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 ¢</p>
+<p>$0.60</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -272,7 +272,7 @@ variant: tiptap
 <p>Nuggets (Fish / Chicken)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 ¢</p>
+<p>$0.60</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -669,7 +669,7 @@ variant: tiptap
 <p>Sushi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 ¢</p>
+<p>$0.60</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -680,8 +680,8 @@ variant: tiptap
 <p>Sandwich</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 ¢ (for 1)</p>
-<p>50 ¢ (for 2 &amp; above)</p>
+<p>$0.60 (for 1)</p>
+<p>$0.50 (for 2 &amp; above)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -692,7 +692,7 @@ variant: tiptap
 <p>Sausage (Mon, Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -703,7 +703,7 @@ variant: tiptap
 <p>Nugget (Mon, Thur)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -714,7 +714,7 @@ variant: tiptap
 <p>Seaweed Chicken</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -725,7 +725,7 @@ variant: tiptap
 <p>Chicken Ball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -736,7 +736,7 @@ variant: tiptap
 <p>Chicken Breast Meat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 ¢</p>
+<p>$0.60</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -747,7 +747,7 @@ variant: tiptap
 <p>Egg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>60 ¢</p>
+<p>$0.60</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -758,7 +758,7 @@ variant: tiptap
 <p>Roasted Chicken / Drumlet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -769,7 +769,7 @@ variant: tiptap
 <p>Honey Chicken</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -780,7 +780,7 @@ variant: tiptap
 <p>Sausage roll</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1024,7 +1024,7 @@ Macaroni)</p>
 <p>Nuggets (Mon &amp; Thurs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1035,7 +1035,7 @@ Macaroni)</p>
 <p>Mashed Potatoes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1046,7 +1046,7 @@ Macaroni)</p>
 <p>Chicken Drumlet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1057,7 +1057,7 @@ Macaroni)</p>
 <p>Satay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1068,7 +1068,7 @@ Macaroni)</p>
 <p>Sauté Vegetables</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1079,7 +1079,7 @@ Macaroni)</p>
 <p>Garlic Bread</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 ¢</p>
+<p>$0.30</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1289,7 +1289,7 @@ Macaroni)</p>
 <p>Crabstick</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 ¢</p>
+<p>$0.30</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1300,7 +1300,7 @@ Macaroni)</p>
 <p>Fishball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 ¢</p>
+<p>$0.30</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1311,7 +1311,7 @@ Macaroni)</p>
 <p>Scrambled Egg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1322,7 +1322,7 @@ Macaroni)</p>
 <p>Nuggets(Mon &amp; Thurs)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1333,7 +1333,7 @@ Macaroni)</p>
 <p>Vegetables</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1344,7 +1344,7 @@ Macaroni)</p>
 <p>Pancake</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1355,7 +1355,7 @@ Macaroni)</p>
 <p>Chicken Drumlet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70 ¢</p>
+<p>$0.70</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1366,7 +1366,7 @@ Macaroni)</p>
 <p>Red Bean Pau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70 ¢</p>
+<p>$0.70</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1377,7 +1377,7 @@ Macaroni)</p>
 <p>Siew Mai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>70 ¢</p>
+<p>$0.70</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1388,7 +1388,7 @@ Macaroni)</p>
 <p>Satay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1399,7 +1399,7 @@ Macaroni)</p>
 <p>Hotdog</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1410,7 +1410,7 @@ Macaroni)</p>
 <p>Chicken Pau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1421,7 +1421,7 @@ Macaroni)</p>
 <p>BBQ Chicken Pau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1432,7 +1432,7 @@ Macaroni)</p>
 <p>Potato Curry Pau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1471,7 +1471,7 @@ Macaroni)</p>
 <p>Fresh Cut Fruits</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>50 ¢</p>
+<p>$0.50</p>
 </td>
 </tr>
 <tr>
@@ -1479,7 +1479,7 @@ Macaroni)</p>
 <p>Drinking Water</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80 ¢</p>
+<p>$0.80</p>
 </td>
 </tr>
 <tr>
@@ -1487,7 +1487,7 @@ Macaroni)</p>
 <p>Pokka Lemon Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>90 ¢</p>
+<p>$0.90</p>
 </td>
 </tr>
 <tr>
@@ -1495,7 +1495,7 @@ Macaroni)</p>
 <p>Pokka Green Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>90 ¢</p>
+<p>$0.90</p>
 </td>
 </tr>
 <tr>
@@ -1503,7 +1503,7 @@ Macaroni)</p>
 <p>Pokka Oolong Tea (pkt)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>90 ¢</p>
+<p>$0.90</p>
 </td>
 </tr>
 <tr>
@@ -1511,7 +1511,7 @@ Macaroni)</p>
 <p>Yeo's H2O</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>90 ¢</p>
+<p>$0.90</p>
 </td>
 </tr>
 <tr>
