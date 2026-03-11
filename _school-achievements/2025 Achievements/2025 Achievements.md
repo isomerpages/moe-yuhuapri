@@ -3,6 +3,7 @@ title: 2025 Achievements
 permalink: /2025-achievements/
 variant: tiptap
 description: ""
+third_nav_title: 2025 Achievements
 ---
 <h3>2025 Achievements</h3>
 <table style="minWidth: 75px">
