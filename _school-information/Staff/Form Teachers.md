@@ -360,7 +360,7 @@ variant: tiptap
 <p>2UNITY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM HANIS BT RAHMAT</p>
+<p>MDM HANIS BINTE RAHMAT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>hanis_rahmat@moe.edu.sg</p>
