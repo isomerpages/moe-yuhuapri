@@ -87,7 +87,7 @@ variant: tiptap
 <br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Lim Ah Geok</strong>
+<p><strong>Mdm Ng Siew Ling</strong>
 <br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,12 +97,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ng Siew Ling</strong>
+<p><strong>Mdm Mandy Ong</strong>
 <br>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Mandy Ong</strong>
-<br>Operations Support Officer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
