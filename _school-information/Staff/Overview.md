@@ -544,14 +544,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Musa B Abdul Kadir (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>musa_b_abdul_kadir@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Nadira Bte Omar (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
