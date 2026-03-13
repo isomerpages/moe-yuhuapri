@@ -136,14 +136,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>G Rishiikeasan (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>g_rishiikeasan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Gay Bee Hong (MRS YANG)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -540,14 +532,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>mumtaj_bivi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Musa B Abdul Kadir (MR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>musa_b_abdul_kadir@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
