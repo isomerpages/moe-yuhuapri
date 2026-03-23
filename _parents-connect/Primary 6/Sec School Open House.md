@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Primary 6
 ---
-<h3>Secondary School Open House 2025</h3>
+<h3>Secondary School Open House 2026</h3>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -40,22 +40,22 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School of the ARTS (SOTA)</strong>
+<p><strong>Nanyang Girls’ High School</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday, 5 April 2025</p>
+<p>Saturday, 11 April 2026</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9:00am - 3:00pm</p>
+<p>8:00am - 12:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>1 Zubir Said Drive, Administration Office #05-01,<br>Singapore 227968</em>
+<p><em>2 Linden Drive<br>Singapore 288683</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.sota.edu.sg/whats-on/oh2025/</a>
+<p><a href="www.nygh.edu.sg" rel="noopener nofollow" target="_blank">www.nygh.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ third_nav_title: Primary 6
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Saturday, 12 April 2025</p>
+<p>Saturday, 11 April 2026</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,7 @@ third_nav_title: Primary 6
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.acsindep.moe.edu.sg</a>
+<p><a href="https://www.acsindep.moe.edu.sg/events/openhouse/" rel="noopener nofollow" target="_blank">https://www.acsindep.moe.edu.sg/events/openhouse/</a>
 </p>
 </td>
 </tr>
