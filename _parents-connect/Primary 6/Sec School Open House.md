@@ -55,7 +55,7 @@ third_nav_title: Primary 6
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.nygh.edu.sg" rel="noopener nofollow" target="_blank">www.nygh.edu.sg</a>
+<p><a href="https://en.nygh.moe.edu.sg/" rel="noopener nofollow" target="_blank">https://en.nygh.moe.edu.sg/</a>
 </p>
 </td>
 </tr>
