@@ -82,6 +82,26 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>School of the ARTS (SOTA)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 11 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 3:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>1 Zubir Said Drive, Singapore 227968</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sota.edu.sg/oh2026/" rel="noopener nofollow" target="_blank">https://www.sota.edu.sg/oh2026/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
