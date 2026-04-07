@@ -250,17 +250,6 @@ variant: tiptap
 <p>2COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM SITI FARAH DEVA OMAR (TERM 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_farah_deva_omar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>MDM GOH BEE KER</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,7 +261,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM KHAW HUEY LIN JOANNE (TERM 2)</p>
+<p>MDM KHAW HUEY LIN JOANNE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>joanne_khaw@moe.edu.sg</p>
