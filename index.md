@@ -17,7 +17,7 @@ sections:
           url: /parents-of-p1-2026/
         - title: Spotlight
           description: ""
-          url: /highlights-of-2026/
+          url: /highlights-for-2026/
         - title: YH95
           description: ""
           url: /yh95/
