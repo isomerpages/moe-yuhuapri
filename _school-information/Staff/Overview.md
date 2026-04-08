@@ -203,7 +203,7 @@ variant: tiptap
 <p>He Yuting (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>he_yuting@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

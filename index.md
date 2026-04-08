@@ -17,7 +17,7 @@ sections:
           url: /parents-of-p1-2026/
         - title: Spotlight
           description: ""
-          url: /2025-intouch-magazine/
+          url: /highlights-for-2026/
         - title: YH95
           description: ""
           url: /yh95/
