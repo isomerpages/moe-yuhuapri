@@ -4,7 +4,9 @@ permalink: /highlights-for-2026/
 variant: tiptap
 description: ""
 ---
+<blockquote>
 <h3><strong>Term 1</strong></h3>
+</blockquote>
 <h4><u>Volley Ball NSG (Senior Division)</u></h4>
 <p></p>
 <div class="isomer-image-wrapper">
