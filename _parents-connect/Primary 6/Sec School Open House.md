@@ -102,6 +102,47 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Methodist Girls’ School (MGS)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 25 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 1:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>11 Blackmore Drive, Singapore 599986</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mgs.moe.edu.sg/news-and-events/mgsoh/" rel="noopener nofollow" target="_blank">https://www.mgs.moe.edu.sg/news-and-events/mgsoh/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Temasek Junior College</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday, 30 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4:00pm - 5:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Via Google Meet</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Meeting Link:</p>
+<p><a href="https://meet.google.com/jop-nedh-gci" rel="noopener nofollow" target="_blank">https://meet.google.com/jop-nedh-gci</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
