@@ -31,11 +31,11 @@ sections:
       image: /images/YHPS_Socials_2.png
       alt: Image alt text
   - infopic:
-      title: E-Open House 2025
-      subtitle: E-Open House 2025
-      description: Join us at our E-Open House 2025!
+      title: E-Open House 2026
+      subtitle: E-Open House 2026
+      description: Stay tuned for updates!
       button: Click here
-      url: /eopenhouse2025/
+      url: /eopen-house-2026/
       image: /images/Screenshot_2025_06_02_124816.png
       alt: Image alt text
 ---
