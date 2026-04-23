@@ -224,6 +224,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Jayaraj Margrate Bali (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jayaraj_margrate_bali@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Jonnalyn Teo Min Hui (MS)</p>
 </td>
 <td rowspan="1" colspan="1">
