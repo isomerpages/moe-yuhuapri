@@ -326,17 +326,6 @@ variant: tiptap
 <p>Senior Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Bee Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_bee_lian_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Khaw Huey Lin Joanne</p>
 </td>
 <td rowspan="1" colspan="1">
