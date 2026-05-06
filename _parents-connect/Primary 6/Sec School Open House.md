@@ -143,6 +143,140 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Jurong Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 16 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 12:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>31 Yuan Ching Road, Singapore 618652</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><em>DSA Info Session</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p><a href="https://jurongsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://jurongsec.moe.edu.sg/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hwa Chong International School (HCIS)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 16 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:00am - 11:30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Via Zoom</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.hcis.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.hcis.edu.sg/</a>
+</p>
+<p></p>
+<p>Sign Up Link:</p>
+<p><a href="https://forms.gle/HAZ6He2qbNGEhzup6" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/HAZ6He2qbNGEhzup6</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chung Cheng High School (Main)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 23 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am - 11:30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>50 Goodman Road, Singapore 439012</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><em>DSA Open House (Sports)</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p><a href="http://www.chungchenghighmain.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.chungchenghighmain.moe.edu.sg/</a>
+</p>
+<p></p>
+<p>Register Link (by 21 May):</p>
+<p><a href="https://go.gov.sg/cchmsportsdsa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cchmsportsdsa</a>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Raffles Girls’ School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 23 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:30am - 1:30pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>2 Braddell Rise,</em>
+</p>
+<p><em>Singapore 318871</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.rgs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">www.rgs.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Crest Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 23 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 10:30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>561 Jurong East Street 24, Singapore 609561</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><em>DSA (Football)</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p><a href="https://sites.google.com/crestsec.edu.sg/crest-open-house/" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/crestsec.edu.sg/crest-open-house/</a>
+</p>
+<p></p>
+<p>Register Link:</p>
+<p><a href="https://form.gov.sg/69ae11022594d58f090c60a5" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69ae11022594d58f090c60a5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
