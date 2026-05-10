@@ -143,6 +143,33 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Bukit Batok Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday, 7 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6:00pm - 7:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>50 Bukit Batok West Ave 8, Singapore 658962</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><em>DSA Engagement</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p><a href="https://www.bukitbatoksec.moe.edu.sg/direct-school-admission/" rel="noopener noreferrer nofollow" target="_blank">https://www.bukitbatoksec.moe.edu.sg/direct-school-admission/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Jurong Secondary School</strong>
 </p>
 </td>
