@@ -123,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurfadilah Binte Abdul Muttalib</strong>
+<p><strong>Mdm Nurfadilah Binte Abdul Mut'talib</strong>
 <br>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
