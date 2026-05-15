@@ -221,6 +221,33 @@ third_nav_title: Primary 6
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>NUS High School of Math and Science</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 16 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:00am - 11:30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>20 Clementi Avenue 1,<br>Singapore 129957</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p><em>DSA + Open House</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p><a href="https://www.nushigh.edu.sg/admissions/open-house/" rel="noopener noreferrer nofollow" target="_blank">https://www.nushigh.edu.sg/admissions/open-house/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Chung Cheng High School (Main)</strong>
 </p>
 </td>
@@ -267,8 +294,8 @@ third_nav_title: Primary 6
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.rgs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">www.rgs.edu.sg</a>
-</p>
+<p><a href="http://www.rgs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">www.rgs.edu.sg </a>(for
+girls only)</p>
 </td>
 </tr>
 <tr>
@@ -299,6 +326,32 @@ third_nav_title: Primary 6
 <p></p>
 <p>Register Link:</p>
 <p><a href="https://form.gov.sg/69ae11022594d58f090c60a5" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/69ae11022594d58f090c60a5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>St. Joseph's Institution (SJI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 23 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9:00am - 4:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>38 Malcolm Road, Singapore 308274</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sji.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.sji.edu.sg</a> (for
+boys only)</p>
+<p></p>
+<p>Registration is NOT required for the Open House.</p>
+<p></p>
+<p>Register&nbsp;if you are interested to attend the Principal’s Sharing
+and DSA Information Talks via this link: <a href="https://app.sji.edu.sg/op2026/openhouse.php" rel="noopener noreferrer nofollow" target="_blank">https://app.sji.edu.sg/op2026/openhouse.php</a>
 </p>
 </td>
 </tr>
