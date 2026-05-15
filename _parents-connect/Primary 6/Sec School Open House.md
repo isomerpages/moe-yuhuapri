@@ -228,7 +228,7 @@ third_nav_title: Primary 6
 <p>Saturday, 16 May 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10:00am - 11:30am</p>
+<p>9:00am - 3:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>20 Clementi Avenue 1,<br>Singapore 129957</em>
