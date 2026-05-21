@@ -357,6 +357,50 @@ and DSA Information Talks via this link: <a href="https://app.sji.edu.sg/op2026/
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Spectra Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 25 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8:45am - 10:15am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>1 Woodlands Drive 64, Singapore 737758</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.spectra.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.spectra.edu.sg/</a>
+</p>
+<p></p>
+<p>Registration:</p>
+<p><a href="https://form.gov.sg/6960837357cfab0583bea1fa" rel="noopener noreferrer nofollow" target="_blank">2026 Spectra Open House for Primary School Parents | FormSG</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Yuhua Secondary School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSA Publicity videos:</p>
+<p><a href="https://www.youtube.com/playlist?list=PLPcKnMGv5743zYeqaqcYSpsuK9j7508Ui" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/playlist?list=PLPcKnMGv5743zYeqaqcYSpsuK9j7508Ui</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
