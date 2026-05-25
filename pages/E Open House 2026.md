@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eopen_house_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_MOTD_FINAL__3_.jpg">
 </div>
 <h4>Stay tuned for our E-Open House launching on 3 July 2026!</h4>
 <p></p>
