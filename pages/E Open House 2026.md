@@ -101,6 +101,30 @@ are not alone.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>E-Book</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4><strong>E-Book</strong></h4>
+<p></p>
+<p>The Debate and Public Speaking Club proudly presents Rainbow Fish Finds
+Her Place.</p>
+<p></p>
+<p>Starting Primary One can feel exciting yet nerve-racking, especially when
+it comes to making new friends. Through Rainbow Fish’s journey, young readers
+will discover that friendship begins with a small step of courage.</p>
+<p></p>
+<p>Be brave and do not be afraid to say hello. A simple smile or kind word
+can open the door to new friendships — friends who will learn, play, and
+grow alongside you.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HBVwMnF6x40?si=E4dGYq-iEFfMuGMV"></iframe>
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Useful Links</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -164,7 +188,6 @@ are not alone.</p>
 <summary><strong>Contact Us</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Phone Number: +65 6560 5062</p>
 <p>Email: yuhua_ps@moe.edu.sg</p>
 </div>
