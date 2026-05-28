@@ -31,11 +31,11 @@ the picture below to start the virtual tour!</p><a class="isomer-image-wrapper" 
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>A Day in the Life of a Yuhualite</strong>
+<summary><strong>A Day in the Life of a P1 Yuhualite</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>A Day in the Life of a Yuhualite</strong></h4>
+<h4><strong>A Day in the Life of a P1 Yuhualite</strong></h4>
 <p></p>
 <p>Curious about what a typical school day looks like? Hear from our students
 and discover the joy and energy of daily life at Yuhua.</p>
