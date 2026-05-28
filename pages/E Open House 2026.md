@@ -40,9 +40,8 @@ the picture below to start the virtual tour!</p><a class="isomer-image-wrapper" 
 <p>Curious about what a typical school day looks like? Hear from our students
 and discover the joy and energy of daily life at Yuhua.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OO1fvqpXaiI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q0knMYXvfjY?si=z7wqwrdJbQqzGmBD"></iframe>
 </div>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -59,7 +58,7 @@ will experience in Primary 1.</p>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsxj1ink3DZ8lenJJl7SJ14Of0CfDZXak-6PogNKcdN7PjaXj-0j7vmvDinYdJsLLEXI1kiBzgXWa5/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGuXRZpRsFOzL894FgWeyKnOq2jOTnRHSGSDVsn9sHLl_eeYa1nEE3OQmiVlrQsBM6qBwPyl3jgAHP/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <blockquote>
@@ -67,7 +66,7 @@ will experience in Primary 1.</p>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTFo0ijZF45ADcyvIL07u6q-Vi1ojQsTbW38vn312tn0QxSJbWkP6L4DTCcTVuXZJOhLtyeBXGiAOP7/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdP_nmCTxvYYB8-Bay7to6I3FSpEhmC2C7TPpsq85nmp4BVF_UXiLbEwUgjjergggMh2LKkkCsxae6/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <blockquote>
@@ -75,7 +74,7 @@ will experience in Primary 1.</p>
 </p>
 </blockquote>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSMKoU7B-oxqPTS5S6LPYXTGvPyn2ws9PAXKque0E-2v1FVmgKeUEFkE0T4XU0vzM_eVm4dkkQLXlPJ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSr3NIYxHoMu2zFj32jL8CE4ZnzraSsmeyUcHJ1Cc7PnwLvW49sWM_wt0_va4Of4S6zOkv3v43rn8hK/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 </div>
@@ -131,6 +130,32 @@ are not alone.</p>
 <p>Discover tools to support and empower your parenting</p>
 <p><a href="https://www.healthhub.sg/programmes/parent-hub/parentingforwellness" rel="noopener nofollow" target="_blank">https://www.healthhub.sg/programmes/parent-hub/parentingforwellness</a>
 </p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn about subjects and syllabus offered in the primary school curriculum</p>
+<p><a href="https://www.moe.gov.sg/primary/curriculum" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/primary/curriculum</u></a>&nbsp;</p>
+<p></p>
+</li>
+<li>
+<p>Other articles</p>
+<p><a href="https://www.schoolbag.edu.sg/story/the-first-day-of-primary-school-what-parents-hope-for-most" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/the-first-day-of-primary-school-what-parents-hope-for-most</u></a>&nbsp;</p>
+<p></p>
+<p><a href="https://www.schoolbag.edu.sg/story/am-i-prepping-my-preschooler-or-over-prepping/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/am-i-prepping-my-preschooler-or-over-prepping/</u></a>&nbsp;</p>
+<p></p>
+<p><a href="https://www.schoolbag.edu.sg/story/next-stop-primary-school-preparing-the-child-and-the-parent/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/next-stop-primary-school-preparing-the-child-and-the-parent/</u></a>&nbsp;</p>
+<p></p>
+<p><a href="https://www.schoolbag.edu.sg/story/next-stop-primary-school-a-principals-perspective/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/next-stop-primary-school-a-principals-perspective/</u></a>&nbsp;</p>
+<p></p>
+<p><a href="https://www.schoolbag.edu.sg/story/next-stop-primary-school-the-power-of-continued-play/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/next-stop-primary-school-the-power-of-continued-play/</u></a>&nbsp;</p>
+<p></p>
+<p><a href="https://www.schoolbag.edu.sg/story/help-my-child-isn-t-ready-for-primary-1/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/help-my-child-isn-t-ready-for-primary-1/</u></a>&nbsp;</p>
+<p></p>
+<p><a href="https://www.schoolbag.edu.sg/story/10-ways-to-be-an-amazing-parent/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/10-ways-to-be-an-amazing-parent/</u></a>&nbsp;</p>
+<p></p>
+<p><a href="https://www.schoolbag.edu.sg/story/finding-a-school-thats-good-for-your-child/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.schoolbag.edu.sg/story/finding-a-school-thats-good-for-your-child/</u></a>&nbsp;&nbsp;</p>
 </li>
 </ul>
 </div>
