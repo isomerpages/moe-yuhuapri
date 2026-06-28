@@ -107,19 +107,19 @@ are not alone.</p>
 <p></p>
 <h4><strong>E-Book</strong></h4>
 <p></p>
-<p>The Debate and Public Speaking Club proudly presents Rainbow Fish Finds
-Her Place.</p>
+<p></p>
 <p></p>
 <p>Starting Primary One can feel exciting yet nerve-racking, especially when
 it comes to making new friends. Through Rainbow Fish’s journey, young readers
 will discover that friendship begins with a small step of courage.</p>
 <p></p>
-<p>Be brave and do not be afraid to say hello. A simple smile or kind word
-can open the door to new friendships — friends who will learn, play, and
-grow alongside you.</p>
+<p>Our Debating and Public Speaking Club proudly presents Rainbow Fish Finds
+Her Place. Be brave and do not be afraid to say hello. A simple smile or
+kind word can open the door to new friendships — friends who will learn,
+play, and grow alongside you.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HBVwMnF6x40?si=E4dGYq-iEFfMuGMV"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2WswDvZ1h70?si=1UBJrTjfhY5f0mPU"></iframe>
 </div>
 <p></p>
 </div>
