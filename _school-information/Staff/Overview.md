@@ -296,14 +296,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lau-Ng Li Ping (Huang Liping) (MRS)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_li_ping@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lee Wei Jian (Sowon) (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
