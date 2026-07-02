@@ -557,7 +557,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CELESTE CHEN WEI (SEM 2)</p>
+<p>MS CELESTE CHEN WEI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>celeste_chen_wei@moe.edu.sg</p>
@@ -566,17 +566,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>3DILIGENCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR DAVID WEE YONG ZHI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>david_wee_yong_zhi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS ZHUANG XILING</p>
@@ -707,17 +696,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR GOH KOK WAI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_kok_wai@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4KINDNESS</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -776,7 +754,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM FONG LI YING (TERM 2)</p>
+<p>MDM FONG LI YING</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>fong_li_ying@moe.edu.sg</p>
@@ -894,6 +872,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR GOH KOK WAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_kok_wai@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5COURAGE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -996,17 +985,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS LAU – NG LI PING (SEM 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_li_ping@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>MDM PURUSHOTHAMAN PADMINI</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1018,7 +996,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR LUA SHIXIONG (SEM 2)</p>
+<p>MR LUA SHIXIONG</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lua_shixiong@moe.edu.sg</p>
