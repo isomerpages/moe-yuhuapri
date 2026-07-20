@@ -768,6 +768,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Thiam Yun Yi (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>thiam_yun_yi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tseng Chao-Cheng (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
